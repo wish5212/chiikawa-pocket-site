@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ちいかわ速報ボード | 自動集約デモ</title>
+  <style>
+    :root {
+      --bg: #fffaf6;
+      --paper: rgba(255,255,255,0.84);
+      --ink: #302624;
+      --muted: #74655f;
+      --line: rgba(111, 83, 74, 0.14);
+      --pink: #ff7fa5;
+      --pink-deep: #ff5d8b;
+      --mint: #bfeee0;
+      --cream: #fff1d8;
+      --shadow: 0 24px 60px rgba(145, 99, 116, 0.12);
+      --radius-xl: 28px;
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --max: 1180px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: "Hiragino Sans", "Yu Gothic", "Noto Sans JP", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(255, 162, 192, 0.18), transparent 32%),
+        radial-gradient(circle at top right, rgba(191, 238, 224, 0.28), transparent 28%),
+        linear-gradient(180deg, #fff8f2 0%, #fffefc 52%, #fff7fb 100%);
+      min-height: 100vh;
+    }
+    a { color: inherit; }
+    img { max-width: 100%; display: block; }
+    .shell {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 28px 20px 80px;
+    }
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(255,255,255,0.93), rgba(255,247,252,0.88));
+      border: 1px solid rgba(255,255,255,0.9);
+      border-radius: 36px;
+      padding: 34px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+    .hero::before,
+    .hero::after {
+      content: "";
+      position: absolute;
+      border-radius: 999px;
+      pointer-events: none;
+    }
+    .hero::before {
+      width: 260px;
+      height: 260px;
+      background: radial-gradient(circle, rgba(255,127,165,0.22), transparent 68%);
+      top: -60px;
+      right: -50px;
+    }
+    .hero::after {
+      width: 220px;
+      height: 220px;
+      background: radial-gradient(circle, rgba(191,238,224,0.28), transparent 70%);
+      bottom: -90px;
+      left: -40px;
+    }
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 16px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.92);
+      border: 1px solid rgba(255,127,165,0.18);
+      font-size: 13px;
+      color: var(--muted);
+      box-shadow: 0 10px 24px rgba(255,127,165,0.08);
+    }
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: linear-gradient(180deg, var(--pink), var(--pink-deep));
+      box-shadow: 0 0 0 5px rgba(255,127,165,0.15);
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.3fr 0.8fr;
+      gap: 24px;
+      align-items: end;
+    }
+    .headline {
+      max-width: 720px;
+    }
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      letter-spacing: .18em;
+      color: #9d6c7f;
+      margin-bottom: 14px;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(34px, 6vw, 68px);
+      line-height: 0.96;
+      letter-spacing: -0.04em;
+      font-weight: 900;
+    }
+    .headline p {
+      margin: 18px 0 0;
+      max-width: 620px;
+      color: var(--muted);
+      line-height: 1.9;
+      font-size: 16px;
+    }
+    .hero-cards {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0,1fr));
+      gap: 14px;
+    }
+    .metric {
+      padding: 18px;
+      border-radius: 24px;
+      background: rgba(255,255,255,0.9);
+      border: 1px solid var(--line);
+      box-shadow: 0 12px 30px rgba(48,38,36,0.06);
+    }
+    .metric strong {
+      display: block;
+      font-size: 30px;
+      line-height: 1;
+      margin-bottom: 8px;
+      font-weight: 900;
+    }
+    .metric span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    .ribbon {
+      margin-top: 24px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .pill {
+      border-radius: 999px;
+      padding: 10px 14px;
+      background: rgba(255,255,255,0.88);
+      border: 1px solid rgba(116,101,95,0.14);
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .section {
+      margin-top: 28px;
+      display: grid;
+      grid-template-columns: 0.95fr 1.7fr;
+      gap: 22px;
+      align-items: start;
+    }
+    .panel {
+      background: var(--paper);
+      border: 1px solid rgba(255,255,255,0.85);
+      border-radius: var(--radius-xl);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(12px);
+    }
+    .sidebar {
+      padding: 24px;
+      position: sticky;
+      top: 18px;
+    }
+    .sidebar h2,
+    .feed-head h2,
+    .board-head h2 {
+      margin: 0;
+      font-size: 22px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .sidebar p,
+    .mini p,
+    .board-note,
+    .feed-head p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 14px;
+    }
+    .stack { display: grid; gap: 14px; margin-top: 18px; }
+    .mini {
+      padding: 16px;
+      border-radius: var(--radius-md);
+      background: rgba(255,255,255,0.78);
+      border: 1px solid var(--line);
+    }
+    .mini strong {
+      display: block;
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+    .timeline {
+      list-style: none;
+      margin: 18px 0 0;
+      padding: 0;
+      display: grid;
+      gap: 14px;
+    }
+    .timeline li {
+      position: relative;
+      padding-left: 22px;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.7;
+    }
+    .timeline li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 10px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: linear-gradient(180deg, var(--pink), var(--pink-deep));
+      box-shadow: 0 0 0 4px rgba(255,127,165,0.14);
+    }
+    .feed { padding: 24px; }
+    .feed-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: end;
+      flex-wrap: wrap;
+      margin-bottom: 18px;
+    }
+    .controls {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    button.filter {
+      appearance: none;
+      border: 1px solid rgba(116,101,95,0.16);
+      background: rgba(255,255,255,0.86);
+      border-radius: 999px;
+      padding: 10px 14px;
+      cursor: pointer;
+      color: var(--muted);
+      font-weight: 700;
+      transition: .2s ease;
+    }
+    button.filter.active,
+    button.filter:hover,
+    button.filter:focus-visible {
+      background: linear-gradient(180deg, #ff8db0, #ff6f97);
+      color: white;
+      border-color: transparent;
+      outline: none;
+      transform: translateY(-1px);
+    }
+    .board {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0,1fr));
+      gap: 16px;
+    }
+    .card {
+      position: relative;
+      background: rgba(255,255,255,0.92);
+      border: 1px solid rgba(116,101,95,0.12);
+      border-radius: 24px;
+      padding: 18px 18px 20px;
+      box-shadow: 0 14px 30px rgba(69,45,53,0.07);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 245px;
+    }
+    .card::after {
+      content: "";
+      position: absolute;
+      inset: auto 18px 0 18px;
+      height: 5px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, rgba(255,127,165,0.85), rgba(191,238,224,0.95));
+      transform: scaleX(.35);
+      transform-origin: left;
+      transition: .22s ease;
+    }
+    .card:hover::after { transform: scaleX(1); }
+    .badge-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 11px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      background: #fff4f7;
+      color: #b14f72;
+      border: 1px solid rgba(255,127,165,0.16);
+    }
+    .source {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .card h3 {
+      margin: 0;
+      font-size: 19px;
+      line-height: 1.45;
+      letter-spacing: -0.01em;
+    }
+    .summary {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.85;
+      flex: 1;
+    }
+    .links {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-top: auto;
+    }
+    .links a {
+      text-decoration: none;
+      font-weight: 800;
+    }
+    .go {
+      color: #d8517f;
+    }
+    .date {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .footer {
+      margin-top: 24px;
+      padding: 20px 22px;
+      border-radius: 24px;
+      background: rgba(255,255,255,0.76);
+      border: 1px solid rgba(116,101,95,0.12);
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.9;
+    }
+    .footer strong { color: var(--ink); }
+    @media (max-width: 980px) {
+      .hero-grid,
+      .section,
+      .board {
+        grid-template-columns: 1fr;
+      }
+      .sidebar { position: static; }
+    }
+    @media (max-width: 640px) {
+      .shell { padding: 16px 12px 40px; }
+      .hero, .feed, .sidebar { padding: 20px; }
+      .hero-cards { grid-template-columns: 1fr 1fr; }
+      .metric strong { font-size: 24px; }
+      .board { gap: 12px; }
+      .card { min-height: auto; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      * { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <div class="hero-top">
+        <div class="brand"><span class="dot"></span>ちいかわカテゴリー自動集約デモ</div>
+        <div class="pill">低コスト運用向け / 静的配信 + 半日更新</div>
+      </div>
+      <div class="hero-grid">
+        <div class="headline">
+          <span class="eyebrow">Chiikawa Signal Board</span>
+          <h1>かわいい話題を、<br>半日ごとに自動で集める。</h1>
+          <p>『ちいかわ』関連のニュースを定期収集し、カテゴリ判定・要約・タグ付け・重複除去を行って公開する、要約＋リンク型の低コスト実証デモです。運用先は静的ホスティングを前提にし、他社提案用の見栄えと説明しやすさを両立させています。</p>
+        </div>
+        <div class="hero-cards">
+          <div class="metric">
+            <strong id="metric-count">0</strong>
+            <span>掲載件数<br>自動で再生成</span>
+          </div>
+          <div class="metric">
+            <strong>12h</strong>
+            <span>更新間隔<br>半日ごと実行</span>
+          </div>
+          <div class="metric">
+            <strong>¥0〜</strong>
+            <span>配信コスト<br>静的ホスティング想定</span>
+          </div>
+          <div class="metric">
+            <strong id="metric-sources">0</strong>
+            <span>情報源数<br>自動取得対象</span>
+          </div>
+        </div>
+      </div>
+      <div class="ribbon">
+        <div class="pill" id="last-updated-pill">最終更新を読み込み中…</div>
+        <div class="pill">収益化: 広告 / アフィリエイト / タイアップ導線を追加しやすい構成</div>
+        <div class="pill">完全自動デモ: 収集 → 判定 → 要約 → 公開を自動化</div>
+      </div>
+    </section>
+
+    <section class="section">
+      <aside class="sidebar panel">
+        <h2>提案しやすい設計</h2>
+        <p>他社向けに見せるときは、派手な管理画面よりも「どの情報を、どの頻度で、どのコストで、どう公開するか」が一目で伝わる構成が強いです。</p>
+        <div class="stack">
+          <div class="mini">
+            <strong>低コスト運用</strong>
+            <p>静的サイトを自動再生成して配信。常時サーバー不要なので、最小構成なら無料枠でも十分回ります。</p>
+          </div>
+          <div class="mini">
+            <strong>見せやすい実演</strong>
+            <p>半日ごとの更新設定、取得元、最新件数、カテゴリ別件数をトップですぐ説明できます。</p>
+          </div>
+          <div class="mini">
+            <strong>収益化導線</strong>
+            <p>将来的に広告枠、ランキング枠、特集バナー、物販導線を追加しやすいカード設計です。</p>
+          </div>
+        </div>
+        <ul class="timeline">
+          <li>情報源は検索型アールエスエスを起点にして増減しやすく設計</li>
+          <li>タイトルから「コラボ」「グッズ」「アニメ」「イベント」を自動分類</li>
+          <li>同じリンクや近いタイトルをまとめて重複を抑制</li>
+          <li>公開物は要約＋リンクのみで、送客型メディアとして構成</li>
+        </ul>
+      </aside>
+
+      <section class="feed panel">
+        <div class="feed-head">
+          <div>
+            <h2>最新トピック</h2>
+            <p>実データから生成したデモ一覧です。ボタンでカテゴリ別に切り替えられます。</p>
+          </div>
+          <div class="controls" id="controls"></div>
+        </div>
+        <div class="board-note" id="board-note"></div>
+        <div class="board" id="board"></div>
+        <div class="footer">
+          <strong>デモ運用メモ:</strong> このサイトは取得した記事の本文を転載せず、見出し・短い要約・出典リンクを中心に構成しています。実運用では掲載元ごとの利用条件確認、広告配置の最適化、検索流入向けの特集ページ追加を行う前提です。
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script id="embedded-data" type="application/json">{
+  "site_title": "ちいかわ速報ボード",
+  "query": "ちいかわ",
+  "generated_at": "2026-09-13T17:39:17.049680+09:00",
+  "generated_at_jst": "2026-09-13 17:39 JST",
+  "update_interval_hours": 12,
+  "sources": [
+    {
+      "name": "Google ニュース 検索RSS",
+      "url": "https://news.google.com/rss/search?q=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F&hl=ja&gl=JP&ceid=JP:ja"
+    }
+  ],
+  "categories": [
+    {
+      "key": "goods",
+      "label": "グッズ",
+      "count": 5
+    },
+    {
+      "key": "collab",
+      "label": "コラボ",
+      "count": 2
+    },
+    {
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 2
+    },
+    {
+      "key": "other",
+      "label": "その他",
+      "count": 3
+    }
+  ],
+  "items": [
+    {
+      "title": "【ショート動画】くら寿司 ちいかわ横領に回答 - NEWSポストセブン",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqZVduRzNXdUVZQ2M4NWl6TEVxdnc0TDQ5aTIxMHVVWnltXzNGVjZyS2NxbUxtWE1DMWxPQ2REVHZnRnNlejJzdE4tOWtHNGh3TmJFUzFLTDZ2TWlBdVFGb2ZENTNWM3ByRVUxc1Vn?oc=5",
+      "source": "NEWSポストセブン",
+      "snippet": "【ショート動画】くら寿司 ちいかわ横領に回答 NEWSポストセブン",
+      "summary": "【ショート動画】くら寿司 ちいかわ横領に回答 NEWSポストセブン",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-09-13T16:00:00+09:00",
+      "published_display": "2026-09-13 16:00 JST"
+    },
+    {
+      "title": "「ちいかわ・島二郎」を\"立体ラテアート\"で再現した姿が衝撃で5万いいね 「凄すぎ」「手動くんだ」「カワイイ」「天才」 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yLTlkV1pDaHlDR3ZORmlhZ05TcDVJTGpQYUc2UVp4X0w0TTIyZFRJS01CR2FNX0ZiZG9GcXUtNF9wMWhJcW1OaVFfUXEwcmFXV1RpU2VSNFpsaHVLSDhYZmJXSVh2c25pZUk2Q21xbVlQeks2MzJWbUJLQloyLWfSAYQBQVVfeXFMT05TRGZuMm82R2dSNzN3Rnh5TkRTUkY0cHJQOWFyVFdPQzlselczVUo2MjJuaWw3Nm0ydnh6V19oZnhyYVYtMDRuWXBiUEtEcFppRmZkSHpMSXJhbmIzNVNBMFlnNmRnVERJeHhFWlNvYXpRZ0NjMTFKYUd0ZEhxN0Y0ejhj?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「ちいかわ・島二郎」を\"立体ラテアート\"で再現した姿が衝撃で5万いいね 「凄すぎ」「手動くんだ」「カワイイ」「天才」 ｄメニューニュース",
+      "summary": "「ちいかわ・島二郎」を\"立体ラテアート\"で再現した姿が衝撃で5万いいね 「凄すぎ」「手動くんだ」「カワイイ」「天才」 ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "その他",
+      "published_at": "2026-09-13T14:10:00+09:00",
+      "published_display": "2026-09-13 14:10 JST"
+    },
+    {
+      "title": "ちいかわ＆ハチワレ＆うさぎが黒猫に！「ちいかわベーカリー」ハロウィン限定パン発売 10月2日より - cinemacafe.net",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BNUxCR19LT2xtZ0V0WDFQRnFmM0ZFaEhlX29EMmhzRkJvajFZcGhmMFdUTldIb2E1M1BJc0lMSXlNbjl0NnB4MC1QeW92eGJkbThiaVR0U3JHSm92b18wYUFCSjBFRlVr?oc=5",
+      "source": "cinemacafe.net",
+      "snippet": "ちいかわ＆ハチワレ＆うさぎが黒猫に！「ちいかわベーカリー」ハロウィン限定パン発売 10月2日より cinemacafe.net",
+      "summary": "ちいかわ＆ハチワレ＆うさぎが黒猫に！「ちいかわベーカリー」ハロウィン限定パン発売 10月2日より cinemacafe.net",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-13T13:30:03+09:00",
+      "published_display": "2026-09-13 13:30 JST"
+    },
+    {
+      "title": "「映画ちいかわ」が台湾でも大ヒット、今年の興行収入・動員数のトップ10入り - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZmVscHhMM1dveC1BbjJxSFZNdU11eGVsNVR0THI4b0NRTjNKcDNJYzctUUFRdktCSU95Vk1Sc3RTWmpkOUxkX3h4aDFKZnFYUUUxamdqWWVhX0N6ZzQxNkxKVUdBVTdraHFmSkZ2R202RGVCdHFDamwwYXdIMC1XZnFKTmpMc01POWl3T1M0OFR5QzZlQ0djVE9BREVXSXYybXNGb0ozaGlINXhfa0tfSGhPUjlDMTRmWUdLeHFXdmdtT1JFM25zM09RX0NaUFZ4ZzFyOWxPNzQ0XzBfcVpj0gGPAUFVX3lxTE8xSjJSeXZMdXptbHlicUc1dzNBYjZ5djRMMXlRdW4ybDNRU0xWWng3UTlZR1JHN3Z2dTJMMmtCS3hwSDE2SWxDczJvOFFNbm5XbkJXTHZGbS11UzVOSExLRDRQNGY0R191VlJEMzJhRUtSVlk2Q3JLMjZXYm1hU0Y3VU5WUW5xMkVPVjRrX1Nz?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「映画ちいかわ」が台湾でも大ヒット、今年の興行収入・動員数のトップ10入り ｄメニューニュース",
+      "summary": "「映画ちいかわ」が台湾でも大ヒット、今年の興行収入・動員数のトップ10入り ｄメニューニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-13T12:00:00+09:00",
+      "published_display": "2026-09-13 12:00 JST"
+    },
+    {
+      "title": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども（スポニチアネックス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RUmdGeWtoNFVtLURNemxvVEliMnFyN2tUVmJPQWh4VHNrNlR4X0pVREVQa0N5VEpBeGxhZkw4dGJkQnFablVyMzBQcTNodHVjRi1NamJNMjY3Y0ZTRmd6TTdHQjZyRk4tRkdwSTNfYmFPTHRyRW9oOGlTTGJHUVE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども（スポニチアネックス） Yahoo!ニュース",
+      "summary": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども（スポニチアネックス） Yahoo!ニュース",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-09-13T11:25:36+09:00",
+      "published_display": "2026-09-13 11:25 JST"
+    },
+    {
+      "title": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも - アニメ！アニメ！",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NSE94djExOWhGSXlYWVIta18xYWNYZl9VUVJ2cDc3bWQ5dXBDU1FzUF9xTGdCcDBiZ3NBdWhPbmgtb2VGYXJtOEhqQ3g2a3FoVnFmdE9sOXN2cFhHVXFwaENn?oc=5",
+      "source": "アニメ！アニメ！",
+      "snippet": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも アニメ！アニメ！",
+      "summary": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも アニメ！アニメ！",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-13T11:00:03+09:00",
+      "published_display": "2026-09-13 11:00 JST"
+    },
+    {
+      "title": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVg5VU1IaWRzUkhJM1U4bXZTOEJ2RS1WY2VMakphZXlEc1ZxcFczWDhxcGdIRFVTWDdNb3V2RGFoeUtIM3h1WDFXUHBOMVdFakRCSDNfT2R6UkFHV1RrSVVnNUlWRGdWdUJiT3dLdnRDb1FGUjBVRTFCb1lENHdydkdUOThJcUdlOTZvOEhMM3llaFIxbHNWREZKY2hJSWZIZEI0SjAzSkdUVF84a21kMjRnUEdqV2t4aEdCclpsbUlZOWNPdVNVQTlJRXVVQ0JFMkV5NFQxVHJHVGlxb1Q00gGPAUFVX3lxTE9idmtsX0VNem1tXzFSQUdCMlVFeGx1M19LeVp5aS1jc291X05ab3c3Q1dlRC1mejZxNTVaX1JyMi01STNKYmNWTWZaV1VPUFp6UEo1RDR6NkQ4MEdERDdmeWZocVQ0am9qZFd1blJBcVplYXowLVY2U2hlbC1ZeWU1NlFIYVBodU5tdzI1c0RN?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも ｄメニューニュース",
+      "summary": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも ｄメニューニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-13T11:00:00+09:00",
+      "published_display": "2026-09-13 11:00 JST"
+    },
+    {
+      "title": "振るとりんりん♪音が鳴る！「ちいかわ」Babyたちの可愛いおかおマスコットが順次プライズ展開 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdGRRV2lxdnkwVlVXYThCdFVNZHZ1b2lZSWUtZGZxQ3pvZzI3WmZFLUVET2tLWHJDZDdZSVBCR0lhZkkybXpvVXJ6ajJ3T25OTFNHNHU4OUQ4VFV6bG1mbWZzNnp3YjdKZV9yNHZ3?oc=5",
+      "source": "au Webポータル",
+      "snippet": "振るとりんりん♪音が鳴る！「ちいかわ」Babyたちの可愛いおかおマスコットが順次プライズ展開 au Webポータル",
+      "summary": "振るとりんりん♪音が鳴る！「ちいかわ」Babyたちの可愛いおかおマスコットが順次プライズ展開 au Webポータル",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-13T10:20:18+09:00",
+      "published_display": "2026-09-13 10:20 JST"
+    },
+    {
+      "title": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の“文句”に残るもやもや - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW1sX09LdXZjNGxFRG5BNU5NNEtLNVRTcXV1dnRyYmM0Szl0UnQ5cVA1OVhKajAxWkl5OTRxNEJBeUMzX0cxRDVEaFc4RlFqRHhSY3pscTg0VHF0dDk5RGpPT3hrX0xqSjAxcmlyb0w0SklIZDBYTE5HT1dTYmlpNXNkRDU1NVg4bmhmd19n?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の“文句”に残るもやもや Yahoo!ニュース",
+      "summary": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の“文句”に残るもやもや Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "その他",
+      "published_at": "2026-09-13T09:17:25+09:00",
+      "published_display": "2026-09-13 09:17 JST"
+    },
+    {
+      "title": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の\"文句\"に残るもやもや - Hint-Pot | ヒントポット",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ycHZzQnRSUkR1UEY3bURJa3JiRXZsSWM4MHp5YUZ6WUotdGRpdmZtNC03WjBWNE82STd4MExnMlptVnhwM1ZRZkZiRQ?oc=5",
+      "source": "Hint-Pot | ヒントポット",
+      "snippet": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の\"文句\"に残るもやもや Hint-Pot | ヒントポット",
+      "summary": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の\"文句\"に残るもやもや Hint-Pot | ヒントポット",
+      "category_key": "other",
+      "category_label": "その他",
+      "published_at": "2026-09-13T09:17:20+09:00",
+      "published_display": "2026-09-13 09:17 JST"
+    },
+    {
+      "title": "『ちいかわ』にハマった60代の母→映画を再現したら…… マニアックな“場面チョイス”に「なぜその場面」「再現度たけぇｗ」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUM2ckZKT19zeV9GdGxCSlpwNnJ5QXJiSTNLVHFmbTJfUlVSc29ubXp3c1R0U1haMS1rcEhpUUs2NGtqWlU3RmVMaXVTRUp0R2Z0RzZtbEs1SE9oeHhhUmVzbXkxRThoaV95RWFqMGZibnkwWlFkYXMxZU5pVnB5ZDNZb1VfMHl2eDhZbWlB?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『ちいかわ』にハマった60代の母→映画を再現したら…… マニアックな“場面チョイス”に「なぜその場面」「再現度たけぇｗ」 Yahoo!ニュース",
+      "summary": "『ちいかわ』にハマった60代の母→映画を再現したら…… マニアックな“場面チョイス”に「なぜその場面」「再現度たけぇｗ」 Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-13T09:10:22+09:00",
+      "published_display": "2026-09-13 09:10 JST"
+    },
+    {
+      "title": "振るとりんりん♪音が鳴る！「ちいかわ」Babyたちの可愛いおかおマスコットが順次プライズ展開 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMmVRSWg2cmh2bFppcThwQldSODU4cmYzcmVWNm5MSWktMEFRTk1id3VfNXZIUlBKVW1tcXNmRGpWLXl6M3pPMEhHQmdMb0ZGR203X3dsUzdiWFBlR1hYcFFlTURuazNENkE?oc=5",
+      "source": "インサイド",
+      "snippet": "振るとりんりん♪音が鳴る！「ちいかわ」Babyたちの可愛いおかおマスコットが順次プライズ展開 インサイド",
+      "summary": "振るとりんりん♪音が鳴る！「ちいかわ」Babyたちの可愛いおかおマスコットが順次プライズ展開 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-13T09:00:03+09:00",
+      "published_display": "2026-09-13 09:00 JST"
+    }
+  ]
+}</script>
+  <script>
+    const state = { active: 'all', items: [], meta: null };
+
+    function escapeHtml(value) {
+      return String(value)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/\"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function buildSummary(text) {
+      const clean = (text || '').replace(/\s+/g, ' ').trim();
+      return clean.length > 100 ? clean.slice(0, 100) + '…' : clean;
+    }
+
+    async function load() {
+      try {
+        const raw = document.getElementById('embedded-data').textContent;
+        const data = JSON.parse(raw);
+        state.items = data.items || [];
+        state.meta = data;
+        initHeader(data);
+        renderControls(data.categories || []);
+        render();
+      } catch (error) {
+        document.getElementById('board').innerHTML = '<div class="card"><h3>データを読み込めませんでした。</h3><p class="summary">埋め込みデータの形式を確認してください。</p></div>';
+      }
+    }
+
+    function initHeader(data) {
+      const count = state.items.length;
+      const sourceCount = Array.isArray(data.sources) ? data.sources.length : 0;
+      document.getElementById('metric-count').textContent = String(count);
+      document.getElementById('metric-sources').textContent = String(sourceCount);
+      document.getElementById('last-updated-pill').textContent = '最終更新: ' + (data.generated_at_jst || data.generated_at || '不明');
+      document.getElementById('board-note').textContent = '現在 ' + count + ' 件を表示中。更新処理では ' + sourceCount + ' 件の情報源を巡回し、カテゴリ別に自動整理しています。';
+    }
+
+    function renderControls(categories) {
+      const controls = document.getElementById('controls');
+      const all = [{ key: 'all', label: 'すべて' }, ...categories];
+      controls.innerHTML = all.map(cat => {
+        const active = cat.key === state.active ? 'active' : '';
+        return '<button class="filter ' + active + '" data-key="' + escapeHtml(cat.key) + '">' + escapeHtml(cat.label) + '</button>';
+      }).join('');
+      controls.querySelectorAll('button').forEach(btn => {
+        btn.addEventListener('click', () => {
+          state.active = btn.dataset.key;
+          renderControls(categories);
+          render();
+        });
+      });
+    }
+
+    function render() {
+      const board = document.getElementById('board');
+      const items = state.active === 'all'
+        ? state.items
+        : state.items.filter(item => item.category_key === state.active);
+
+      if (!items.length) {
+        board.innerHTML = '<div class="card"><h3>該当する記事がありません。</h3><p class="summary">このカテゴリは次回更新で反映されます。</p></div>';
+        return;
+      }
+
+      board.innerHTML = items.map(item => {
+        return `
+          <article class="card">
+            <div class="badge-row">
+              <span class="badge">${escapeHtml(item.category_label || 'その他')}</span>
+              <span class="source">${escapeHtml(item.source || '出典不明')}</span>
+            </div>
+            <h3>${escapeHtml(item.title || '')}</h3>
+            <p class="summary">${escapeHtml(buildSummary(item.summary || item.snippet || ''))}</p>
+            <div class="links">
+              <a class="go" href="${escapeHtml(item.link || '#')}" target="_blank" rel="noopener noreferrer">元記事を見る</a>
+              <span class="date">${escapeHtml(item.published_display || '')}</span>
+            </div>
+          </article>`;
+      }).join('');
+    }
+
+    load();
+  </script>
+</body>
+</html>
