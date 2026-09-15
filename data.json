@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-14T21:03:05.623249+09:00",
-  "generated_at_jst": "2026-09-14 21:03 JST",
+  "generated_at": "2026-09-15T09:02:55.759937+09:00",
+  "generated_at_jst": "2026-09-15 09:02 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -20,148 +20,148 @@
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 9,
+      "count": 4,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 1,
+      "count": 6,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "映画ちいかわ動員1000万人突破、特典第5弾配布 - スマートニュース",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQkNEQmJpRjNHc18zN2RMWEpFN1pvakY3TEdXV3liUmxLWmJzUVcweVc5NUdUMFp2Z2twVHNhUWRJYVdYV21CWGtOSFZzTy1WVGdXVXVpUk1VVUhmNFlhT2dfczhzLXdkWTFYamF6cWVmTUI2Wm9yeXRTWVh3Z3Y4OFh6UWxEd1VWdkZiVVBsS21PTlR4RGgxcjkxREV0bXRCRzYxUVJGUm54STdDUnotZkhBWnJoWmV2N0R4aExmNkFYeDFKa2U3ejhhMDNEYXlxTXVOVlFoNjFYTXZJZ0ZQVlVtSGJEdDgtVjVHTEtPbzAwRHV4R0tfMG9xWHNCTHFUWE82U19Ta2g2R1FabWMyVnd6bzRBSHAyNE5KeUVaa0wtZEo1OEFUWnZVRlBXU2ZoRmJObVRmdmRZdVdVanJsT09nT0dxaU5yQWJPckVIQkdQcURyc1E?oc=5",
-      "source": "スマートニュース",
-      "snippet": "映画ちいかわ動員1000万人突破、特典第5弾配布 スマートニュース",
-      "summary": "映画ちいかわ動員1000万人突破、特典第5弾配布 スマートニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T20:42:00+09:00",
-      "published_display": "2026-09-14 20:42 JST"
-    },
-    {
-      "title": "渋谷凪咲＞潜入したいのは“ちいかわ”の世界 「当事者になってみないとわからない」（毎日キレイ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vR3RiYU84RXpZTko0WVBkTWFMemhUZVhpVHVMT0k3ZEZmbndqODBXX0NjX1l1OFZmc3lNTDFpbjFSeW1CTDNDMjcyWk9XUnJKeW96NGZCWUVwdGlDUXFOenN5ZHhPNC14RzNBQmZFZnlPcDVIaWZJQ1pjWFQ2OTA?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "渋谷凪咲＞潜入したいのは“ちいかわ”の世界 「当事者になってみないとわからない」（毎日キレイ） Yahoo!ニュース",
-      "summary": "渋谷凪咲＞潜入したいのは“ちいかわ”の世界 「当事者になってみないとわからない」（毎日キレイ） Yahoo!ニュース",
+      "title": "『ちいかわ』新たな特典にネットざわつく「ナガノ先生のファンで良かった」「ズルい」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92dDlRczlqNFp1REFocVEyS2JTOHBQLXczVkFGdTNlNm5WYnQxOF8xOXVBbncwdUFlNjRxQ05mM2ptVXR2aWFqZzZPZkcyVzA?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』新たな特典にネットざわつく「ナガノ先生のファンで良かった」「ズルい」 オリコンニュース",
+      "summary": "『ちいかわ』新たな特典にネットざわつく「ナガノ先生のファンで良かった」「ズルい」 オリコンニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-09-14T20:14:35+09:00",
-      "published_display": "2026-09-14 20:14 JST"
+      "published_at": "2026-09-15T08:35:00+09:00",
+      "published_display": "2026-09-15 08:35 JST"
     },
     {
-      "title": "嘉門タツオ、映画「オデュッセイア」は「『ちいかわ』のメッチャ豪華なやつ」（サンケイスポーツ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkYnE0RVBHaGN2dEV1Q3RKUWwxaENhYmk3ajlMX0hzZmVzRDF6d0RhYVUxODZtMkdrN3lvaThKb1hpd2VrbHF6S242SGtONlBhbFVOeG5LMTlKLXgtTmtycmJnUGROMjdsLTVDZUVwNk5IWDB3cXNKdDI4ZkYzNjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "嘉門タツオ、映画「オデュッセイア」は「『ちいかわ』のメッチャ豪華なやつ」（サンケイスポーツ） Yahoo!ニュース",
-      "summary": "嘉門タツオ、映画「オデュッセイア」は「『ちいかわ』のメッチャ豪華なやつ」（サンケイスポーツ） Yahoo!ニュース",
+      "title": "アニメ『ちいかわ』 第378話「パラレルワールド④」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIZUpOQ1VJWmhZa01NTE9QM09Pdk1kemhPY1JtS284V1AyNlotVDNUZktyZGg0THQxakFWQWRZTmlYMG5pSEJScUxyTFNUUVJiVi1n?oc=5",
+      "source": "めざましmedia",
+      "snippet": "アニメ『ちいかわ』 第378話「パラレルワールド④」 めざましmedia",
+      "summary": "アニメ『ちいかわ』 第378話「パラレルワールド④」 めざましmedia",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T19:48:45+09:00",
-      "published_display": "2026-09-14 19:48 JST"
+      "published_at": "2026-09-15T08:07:09+09:00",
+      "published_display": "2026-09-15 08:07 JST"
     },
     {
-      "title": "ちいかわ、スンスンのクリスマスケーキが可愛い！ セブン‐イレブンで予約スタート♪ ぷっくりシールやアクリルピック付き - アニメ！アニメ！",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QcUhndXNKUHJVQ05rei1JVjl1ZUxscmNLVjVLcFk2ZmV0SUpXLUlhTVFpUmRQNHpqZnlCT2p3V3psaDNaUHJURXAwY3piQllKWk42U3dzYjFMNGg5SGZIQjBR?oc=5",
-      "source": "アニメ！アニメ！",
-      "snippet": "ちいかわ、スンスンのクリスマスケーキが可愛い！ セブン‐イレブンで予約スタート♪ ぷっくりシールやアクリルピック付き アニメ！アニメ！",
-      "summary": "ちいかわ、スンスンのクリスマスケーキが可愛い！ セブン‐イレブンで予約スタート♪ ぷっくりシールやアクリルピック付き アニメ！アニメ！",
+      "title": "ちいかわ 9月15日(火)放送分 第378話 パラレルワールド(4)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12OVlGZDNfdDZ1NmF5ckt0amcxRzctclJ2NExZN3A1Y0xuMVhMOXNxZ3FKRlpvbVhzaXdidEtQdEkxN0g5YnRIc19Rcw?oc=5",
+      "source": "TVer",
+      "snippet": "ちいかわ 9月15日(火)放送分 第378話 パラレルワールド(4)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "summary": "ちいかわ 9月15日(火)放送分 第378話 パラレルワールド(4)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-15T08:03:27+09:00",
+      "published_display": "2026-09-15 08:03 JST"
+    },
+    {
+      "title": "【公式】『ちいかわ』第378話「パラレルワールド④」※1週間限定配信＜9/22 (火)AM7:59まで＞ - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zSkZlZ1pCVE5xNHJfZ041blJxbnhSQUhNYnlNTFkwVTdrNVBvZkhNQ0pnT0FodFU5TmszeHJLU3JGM21mT2Y2MEh6TlM0c2VHRmppeW9MOWFTU3lI?oc=5",
+      "source": "YouTube",
+      "snippet": "【公式】『ちいかわ』第378話「パラレルワールド④」※1週間限定配信＜9/22 (火)AM7:59まで＞ YouTube",
+      "summary": "【公式】『ちいかわ』第378話「パラレルワールド④」※1週間限定配信＜9/22 (火)AM7:59まで＞ YouTube",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-15T08:00:00+09:00",
+      "published_display": "2026-09-15 08:00 JST"
+    },
+    {
+      "title": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」（中日スポーツ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NbHR3V0NXYmk3MElYZFRUZ3lFZjN4ZDNSR2tJYUFnQnYxM1diUUtva1JvQm13ank5b1drZGFtbi1uV2p1bUpSMWppYlB1a1BjNTBzSXBXYVgxZEdmTWVXMUtVcFdUcVg2MEVoRmZmczUxOTE1c2VBOHMwVGRHX2c?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」（中日スポーツ） Yahoo!ニュース",
+      "summary": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」（中日スポーツ） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-15T06:52:11+09:00",
+      "published_display": "2026-09-15 06:52 JST"
+    },
+    {
+      "title": "「ちいかわ」×「CITEN」コラボアイテム発売！ 可愛すぎるコレクションにファン沸騰「即売かも」 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ncy05REEzTnFUbG16QnNRSTJHc19tb2o3QklEcVdyN3ZraXB5NnBfM2hBMElOTzJUWjhvenlkdVg0SV82VjZwNFFGd1U0S2xkWnhOemRoOVdMbHRSdjRVLVliSkt5NENSWnNDLXFB?oc=5",
+      "source": "au Webポータル",
+      "snippet": "「ちいかわ」×「CITEN」コラボアイテム発売！ 可愛すぎるコレクションにファン沸騰「即売かも」 au Webポータル",
+      "summary": "「ちいかわ」×「CITEN」コラボアイテム発売！ 可愛すぎるコレクションにファン沸騰「即売かも」 au Webポータル",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-14T19:45:03+09:00",
-      "published_display": "2026-09-14 19:45 JST"
+      "published_at": "2026-09-15T06:30:18+09:00",
+      "published_display": "2026-09-15 06:30 JST"
     },
     {
-      "title": "【実際の投稿】『ちいかわ』映画の新WEBCM『机さする篇』公開 - 中日新聞Web",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8waVNtbDlHZHR2ZEowUGd6RmRncmZlbzNqeGQyeXpuUl9ZbTFLOTh0eGxEc2RqMGRwU0dsTXJzSjd3TUZFc0dELXhFX0haZUFwV2ZBSQ?oc=5",
-      "source": "中日新聞Web",
-      "snippet": "【実際の投稿】『ちいかわ』映画の新WEBCM『机さする篇』公開 中日新聞Web",
-      "summary": "【実際の投稿】『ちいかわ』映画の新WEBCM『机さする篇』公開 中日新聞Web",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T19:39:07+09:00",
-      "published_display": "2026-09-14 19:39 JST"
-    },
-    {
-      "title": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」 - 中日新聞Web",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yaEpzdW5qdnRCY0tHWllkYXpRM1VFS0xDY2hob0R3NVZxcmVIX1hoamdSV2hWS1dPMkdpWVlhMEhTZWVEQWxsYnBkelA1TE1iaEpHdg?oc=5",
-      "source": "中日新聞Web",
-      "snippet": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」 中日新聞Web",
-      "summary": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」 中日新聞Web",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T19:39:06+09:00",
-      "published_display": "2026-09-14 19:39 JST"
-    },
-    {
-      "title": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYjRfa3FUcFZPaHQxazR5bE1GcHl4eEhBMDVaZUFOQ1lKQm9kNDVTT0MwaXdlN0FvSEVldkpjcFRzbExiMktneElsamdWaHBpTlhkYi1xTGNLeFhuRHFPRGNrZWJNbjVpUmd4cGRkaXVmVldITGlPVkhvS0VSdzE3OdIBhgFBVV95cUxObHlhNGczWk9IY2hqSFU0RnBVdVVCUDJPam95aHJXOFNTQ1NjMWNXYl9mbTA5dGszcFV4NjRQYnNZUjR3WTBjZGJqSDBfRTQ3OHNWVVcwcF9QX3JzQm5qQVFYbkxQanlUd1VGODRvNGU4UkZGVWpQT1pBR3R1N3E1N1VZYW5yQQ?oc=5",
+      "title": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVF2TFhEQmVtNkNNUmdTTmZOclQwR3M0X3dETHFvRWpleWpjTTc4djl1OUZrNnF4enV1QmVMTVdQc2JLSUNLZEt0dWhLcEphaXZodGdwOURJcDk5QzU2aHFvSDQzdGRxeWE3X1U3X0VNSk11ZXBCZ0dGTUxOaVdoRNIBhgFBVV95cUxPcThKaVhiendjOTJaRFlvUmduY3BuTjVjUjE0Wnd0Rkpwa3B5YnQ1aGZ4TkZuaDZIRjF1MkduN1lyWkN0Y1RpaEhnTHZPYVA4Ulh1OFUyaHBKUDNVSWpRRzFVWXU2REhDeUd5TC1WMHUxc28tX2ZWSmhaYW1UbHpsMEVRNFFkdw?oc=5",
       "source": "ｄメニューニュース",
-      "snippet": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」 ｄメニューニュース",
-      "summary": "『映画ちいかわ』新WEBCM『机さする篇』の公開にファン歓喜「実はopよりも好きな歌」「最後のちいちゃんの顔でいつも泣いてしまう…」 ｄメニューニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T19:39:00+09:00",
-      "published_display": "2026-09-14 19:39 JST"
+      "snippet": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」 ｄメニューニュース",
+      "summary": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」 ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-15T06:18:31+09:00",
+      "published_display": "2026-09-15 06:18 JST"
     },
     {
-      "title": "「ちいかわ」コウモリなモモンガ、いちご大福なラッコなど全5種！カラビナつき「ハロウィンがまぐちポーチ」第2弾が順次プライズ展開（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50dERhNzNoNlZKNTRQTXdaOURIdzRtOGFYOFlMck4zRExhWkduSHpxbWg0M0J1c0dyYUQ5d2VwZnVSelIyZzZXZm50N1dIclFjd0xyTURCU2daalN6LVRjNS1ONWZzcVpyWUZ4Xy13UVdSVklsY2tuLVFmM3BlNnc?oc=5",
+      "title": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rLVd2WWlVRUt3TVJXbkczZldrX3ltSjB5WjBDQUdNNFEwa0Nlbld6RjZjRFlRNFBSZDBMU29sWVR2bG1VVVdPWWNjbXNOLVQ0TVF0TUtLTF9feG5uTEppcWdBWVRhYTFYbVNZVmtnUTc2cWRsUmhFNlZvTWVRRms?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」コウモリなモモンガ、いちご大福なラッコなど全5種！カラビナつき「ハロウィンがまぐちポーチ」第2弾が順次プライズ展開（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」コウモリなモモンガ、いちご大福なラッコなど全5種！カラビナつき「ハロウィンがまぐちポーチ」第2弾が順次プライズ展開（インサイド） Yahoo!ニュース",
+      "snippet": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」（オリコン） Yahoo!ニュース",
+      "summary": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」（オリコン） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-15T06:17:04+09:00",
+      "published_display": "2026-09-15 06:17 JST"
+    },
+    {
+      "title": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか!」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XZi1zY1c2MFNDUjVsSUxiUWlpLTRPT0VZT2lDbUYwT0JLOVFqNmFFV0pNUG15SS1reHViX3ZLbml2cmQ2YmZhVzZpOV9vNDA?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか!」 オリコンニュース",
+      "summary": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか!」 オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-15T06:15:00+09:00",
+      "published_display": "2026-09-15 06:15 JST"
+    },
+    {
+      "title": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」 - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4Tk9lQTJmS29QQWp3dWV0TEYyOE9ucXUyMmNtVUJHRFhsV3hTYUNWamJENmgxUlhjTTZuZVBSYlJnUjM1VFJpMk5sLUVJb1hFelcxa3BBYXhrZ0RVVDhj?oc=5",
+      "source": "ライブドアニュース",
+      "snippet": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」 ライブドアニュース",
+      "summary": "毎日『ちいかわ』描く77歳・糸井重里、突然の“新キャラ”が登場「う、、、うまれた」「応用編に入りましたか！」 ライブドアニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-15T06:15:00+09:00",
+      "published_display": "2026-09-15 06:15 JST"
+    },
+    {
+      "title": "「ちいかわ」中国で存在感 映画は本土未上映だが・・・ 上海で大型イベント - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TcUNVY0hKZFE5SEt2NzI5VGdkQlgycnExbHhYYklmazNfMDJGVTJ5THFYdmVDWktHYkd1WFM2T2l0X0FrQnM0SWEwUEFpekgyWmJiZUY1VXlocDBTWVU1SUFXNHNCTTIyTzAtcA?oc=5",
+      "source": "日本経済新聞",
+      "snippet": "「ちいかわ」中国で存在感 映画は本土未上映だが・・・ 上海で大型イベント 日本経済新聞",
+      "summary": "「ちいかわ」中国で存在感 映画は本土未上映だが・・・ 上海で大型イベント 日本経済新聞",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-15T02:00:00+09:00",
+      "published_display": "2026-09-15 02:00 JST"
+    },
+    {
+      "title": "ファミマ限定「ちいかわ わっふれ〜む３」が発売！ワッフルの表面にイラストをプリント、おまけシールはオリジナルデザイン全8種 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1FRalpFNmhNWG1zT1J4MW8tdmhzODVYM2oycnEzRDlFT1ExSWg3SjFOWU50X3otOUpoTU9BaTZENGdzelFNZ19hV2lQdkZhSkhHNXdMZW5hTUJINUoxUWdsd2I0OFZQR1g4SGNZQUpFcnZxdzRRZHpJeEsyc3o3V0xn0gGHAUFVX3lxTE9hYjhIN25iY1hCWnNRMEVNY0V0YjdDcXhFcEJxLVRGMmhJQlEtZkRZUUhBU283SHRoUHhsYkFPTTIyTC1jZkk5SnVFa0I5dElpa2trZ2NSVS1rVDNKYXk5R2ZvWXJaenp6ek91TW1idUx2ZjF2UW0zcVp5b0JHWEV5eGo3c1NZOA?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "ファミマ限定「ちいかわ わっふれ〜む３」が発売！ワッフルの表面にイラストをプリント、おまけシールはオリジナルデザイン全8種 ｄメニューニュース",
+      "summary": "ファミマ限定「ちいかわ わっふれ〜む３」が発売！ワッフルの表面にイラストをプリント、おまけシールはオリジナルデザイン全8種 ｄメニューニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-14T19:30:03+09:00",
-      "published_display": "2026-09-14 19:30 JST"
-    },
-    {
-      "title": "映画「ちいかわ」第5弾特典は52ページの「ひみつ本」→「過去一ほしい」「争奪戦の予感」とSNSでも反響 - LIMO | くらしとお金の経済メディア",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yVXh2b1NzdGtQNkIxUU9UNnBLNnNCRDRmZGlsNWhJdXNVMnRiUE9DRk5vOWp2YWN3NlRpRU9Ickdtc2JUQzJLb0xvN00?oc=5",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "snippet": "映画「ちいかわ」第5弾特典は52ページの「ひみつ本」→「過去一ほしい」「争奪戦の予感」とSNSでも反響 LIMO | くらしとお金の経済メディア",
-      "summary": "映画「ちいかわ」第5弾特典は52ページの「ひみつ本」→「過去一ほしい」「争奪戦の予感」とSNSでも反響 LIMO | くらしとお金の経済メディア",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T19:13:00+09:00",
-      "published_display": "2026-09-14 19:13 JST"
-    },
-    {
-      "title": "「ちいかわ」が動員1位キープ！新作は興収トップの「オデュッセイア」、「ルックバック」など4作ランクイン【国内映画ランキング】 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRWNUWC1qOGZta0ZMdmJJY0RMX2FtRDlmZW5DZnZQb2dYRDJ3VXJtaE16SWpENWQyTk9CVnA0Sm0tQmdVSFhoR2d1VWx5SlN2SzBFVi1KUEwwbldMWDR1WDNSRFBlc3BBNHFZcUdrQnR3eFBNRGdfLVl2ZlZ6NmM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」が動員1位キープ！新作は興収トップの「オデュッセイア」、「ルックバック」など4作ランクイン【国内映画ランキング】 Yahoo!ニュース",
-      "summary": "「ちいかわ」が動員1位キープ！新作は興収トップの「オデュッセイア」、「ルックバック」など4作ランクイン【国内映画ランキング】 Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T18:00:00+09:00",
-      "published_display": "2026-09-14 18:00 JST"
-    },
-    {
-      "title": "「ちいかわ」が動員1位キープ！新作は興収トップの「オデュッセイア」、「ルックバック」など4作ランクイン【国内映画ランキング】 - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EWnN0Ukxod19xanhxS2laelNZMUhJUVNxTjlJc1RaUlM2clFaQzA1bXgtV1hiU0pxU1BrZWttMGhVM0xsX0k2TkhR?oc=5",
-      "source": "映画.com",
-      "snippet": "「ちいかわ」が動員1位キープ！新作は興収トップの「オデュッセイア」、「ルックバック」など4作ランクイン【国内映画ランキング】 映画.com",
-      "summary": "「ちいかわ」が動員1位キープ！新作は興収トップの「オデュッセイア」、「ルックバック」など4作ランクイン【国内映画ランキング】 映画.com",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T18:00:00+09:00",
-      "published_display": "2026-09-14 18:00 JST"
-    },
-    {
-      "title": "『映画ちいかわ』首位キープで興収146億円突破！興収1位の『オデュッセイア』は2位スタート：映画週末興行成績（シネマトゥデイ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jczNHeXowZjBvRzA5SFJBWGwtSnBHc3dBbkRma3lYT0NEUzdGT0F5djBpcmd5b2xnZ1VJRjNuM1c2N0U0eGdjS3BwQ2xtNUgzbHlGRU1LSDlmNEt4MUVHMF9Yam96OWtIbktHWFctZ2dleU9SVG9SSzh1Z2hYTGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『映画ちいかわ』首位キープで興収146億円突破！興収1位の『オデュッセイア』は2位スタート：映画週末興行成績（シネマトゥデイ） Yahoo!ニュース",
-      "summary": "『映画ちいかわ』首位キープで興収146億円突破！興収1位の『オデュッセイア』は2位スタート：映画週末興行成績（シネマトゥデイ） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-14T17:36:02+09:00",
-      "published_display": "2026-09-14 17:36 JST"
+      "published_at": "2026-09-15T01:13:15+09:00",
+      "published_display": "2026-09-15 01:13 JST"
     }
   ]
 }
