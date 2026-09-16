@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-13T20:15:16.832475+09:00",
-  "generated_at_jst": "2026-09-13 20:15 JST",
+  "generated_at": "2026-09-16T09:02:40.405360+09:00",
+  "generated_at_jst": "2026-09-16 09:02 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,7 +14,7 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 3,
+      "count": 6,
       "icon": "🎀"
     },
     {
@@ -24,150 +24,144 @@
       "icon": "🍰"
     },
     {
-      "key": "anime",
-      "label": "アニメ・映画",
-      "count": 2,
-      "icon": "🎬"
-    },
-    {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 3,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「どっぷり」草刈民代が“ちいかわの世界を堪能”する姿に反響「意外」「推しキャラは…」「おカワイイ」 - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05RFFuWkhJb0FSNkFtYlNUUlF2MTUtc0dZQWNDS3gwbUtkdmVFYjVERXMyeURUWHFRSUt5REtyNy1nbXlaczBKVkNiblhBNHBSUFpUc2E1bFMxLTVDOFk0?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "snippet": "「どっぷり」草刈民代が“ちいかわの世界を堪能”する姿に反響「意外」「推しキャラは…」「おカワイイ」 千葉テレビ放送株式会社",
-      "summary": "「どっぷり」草刈民代が“ちいかわの世界を堪能”する姿に反響「意外」「推しキャラは…」「おカワイイ」 千葉テレビ放送株式会社",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-13T19:06:23+09:00",
-      "published_display": "2026-09-13 19:06 JST"
-    },
-    {
-      "title": "「どっぷり」草刈民代が“ちいかわの世界を堪能”する姿に反響「意外」「推しキャラは…」「おカワイイ」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtSnYxZ2VISThkc1ppZl9vUUUtOWl4bFZ6NkpmOHd1a3h3ZldFUmx6MzhNUHR4SXBCVEVCYkhvS3NnMEYtdjl0TmpYdXRHdmYwVXdpbUxzdmVrOFZPR0pPMW5pRFhlX2dEZ0YwbWRnVlk2ak5kXy13SExNS2VnRkU?oc=5",
+      "title": "元ＳＫＥ４８・須田亜香里、帽子×「ちいかわ」×デニムパンツのファッションがお似合い！「カッコ可愛い」「最高」（スポーツ報知） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VdHJLVlZoZ041bzFoSEtLdE51dTM0d3hGNzNHeHFZRFJLejJIQ3o1Qm9tOXJTa0RRNXduQll3dVQzRkx0MjJtLUVJVjQxTDI5UXRoU1Jwdi1JN1Nuc2w5bEVIa0owWTZZRzdVZ1hOMnR1ZldKYUdVR1FCb0xObDA?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「どっぷり」草刈民代が“ちいかわの世界を堪能”する姿に反響「意外」「推しキャラは…」「おカワイイ」 Yahoo!ニュース",
-      "summary": "「どっぷり」草刈民代が“ちいかわの世界を堪能”する姿に反響「意外」「推しキャラは…」「おカワイイ」 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-13T19:05:02+09:00",
-      "published_display": "2026-09-13 19:05 JST"
+      "snippet": "元ＳＫＥ４８・須田亜香里、帽子×「ちいかわ」×デニムパンツのファッションがお似合い！「カッコ可愛い」「最高」（スポーツ報知） Yahoo!ニュース",
+      "summary": "元ＳＫＥ４８・須田亜香里、帽子×「ちいかわ」×デニムパンツのファッションがお似合い！「カッコ可愛い」「最高」（スポーツ報知） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-16T08:42:35+09:00",
+      "published_display": "2026-09-16 08:42 JST"
     },
     {
-      "title": "【今週発売】バンダイ食玩新商品全9種まとめ!「ちいかわ」わっふれ〜む新作や『ガンダム』にふぉるめーしょんなど注目ラインアップ(2026年9月14日発売) - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQci10VzV5LTVhNjR3OFd1eTVUVThCVzlESC1Wd1E1V0NMWU9tV3d6bnhIUllvS2FSR2FDbmVKYnBlYTNaeTFmcUR6MUtSV0lIUEVBRDFwb3J4dzFBZTRDZzJMWWtBZ0hJZENYWkd2T1plYm_SAXhBVV95cUxPWThadXpPd1NONms4Y2N2MzlaQUZRall0UGlkeWJ0QlhXdjdRTHdZTXFGNl9LQnRKNjlKcHZ0THNac0Q4TEJLaGlUZmRlTG95YmQ2bnplQlRYa09UMURHcXd0dDYtRC1pTHhSVkVkOTY2dXFUOG1ma18?oc=5",
+      "title": "元ＳＫＥ４８・須田亜香里、帽子×「ちいかわ」×デニムパンツのファッションがお似合い！「カッコ可愛い」「最高」 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR3JaOXlHdnR6a0lpVDNBN1VpRzF3YWtSWHpBMzE2c2RCVFMwNjJ4blhBU05KS3lJaXRJRlhJNURjZ251NXA1dkdST0pUQnhHbUtkbGRDeVNKWTBDcEthTnV2R1Y2eUQwa0VTdzZESzV0QkxHblVYaDluQ0VLeGRXQTZJUDhOY05ZcUhORU9lcm0xRE1zUVVGT2Z2anFNbXltX1dXTWtuWWNtVUp5X0ZnUkNaX2dNY1NUb3dYWVhFX0w1OXNXWEd2WUJqampaaUFydWE4dk5pa2VWTHlQS0dVQlFUb9IBkwFBVV95cUxQcFhPSEVXRWtmUnFBN2NNT1hTUXBxeU40Y2ZFU2dLOGJuQzJ4VFVBMjFlZGtNcExSajJFR0FrZ3IxdXRNcGVyc2phV2tRcDFSeWxLUE1fNk42NzZ5QXNqYTVPMUh5WUZ3elpCNTRhNEo5dWVackpvWlRuZXFKUHpid1IxSjhLbi02cV82QmpVdTJZX2c?oc=5",
       "source": "ｄメニューニュース",
-      "snippet": "【今週発売】バンダイ食玩新商品全9種まとめ!「ちいかわ」わっふれ〜む新作や『ガンダム』にふぉるめーしょんなど注目ラインアップ(2026年9月14日発売) ｄメニューニュース",
-      "summary": "【今週発売】バンダイ食玩新商品全9種まとめ!「ちいかわ」わっふれ〜む新作や『ガンダム』にふぉるめーしょんなど注目ラインアップ(2026年9月14日発売) ｄメニューニュース",
+      "snippet": "元ＳＫＥ４８・須田亜香里、帽子×「ちいかわ」×デニムパンツのファッションがお似合い！「カッコ可愛い」「最高」 ｄメニューニュース",
+      "summary": "元ＳＫＥ４８・須田亜香里、帽子×「ちいかわ」×デニムパンツのファッションがお似合い！「カッコ可愛い」「最高」 ｄメニューニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-13T18:03:28+09:00",
-      "published_display": "2026-09-13 18:03 JST"
+      "published_at": "2026-09-16T08:42:27+09:00",
+      "published_display": "2026-09-16 08:42 JST"
     },
     {
-      "title": "【ショート動画】くら寿司 ちいかわ横領に回答 - news-postseven.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqZVduRzNXdUVZQ2M4NWl6TEVxdnc0TDQ5aTIxMHVVWnltXzNGVjZyS2NxbUxtWE1DMWxPQ2REVHZnRnNlejJzdE4tOWtHNGh3TmJFUzFLTDZ2TWlBdVFGb2ZENTNWM3ByRVUxc1Vn?oc=5",
-      "source": "news-postseven.com",
-      "snippet": "【ショート動画】くら寿司 ちいかわ横領に回答 news-postseven.com",
-      "summary": "【ショート動画】くら寿司 ちいかわ横領に回答 news-postseven.com",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-09-13T16:00:00+09:00",
-      "published_display": "2026-09-13 16:00 JST"
-    },
-    {
-      "title": "「ちいかわ・島二郎」を\"立体ラテアート\"で再現した姿が衝撃で5万いいね 「凄すぎ」「手動くんだ」「カワイイ」「天才」 (マグミクス) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaVNZVy1MUTA0NXAwdnczZ2lUZnlOUzZJQmc1bXpKczNPbjR0dUg5bG1BWC1OV0NkcjRBdXZmakRCTlI0eDlBTDF6cGhtQl9JVWs3X2ZQMGoxa1JXWDg4UERfX0ZPQUppb1g0RXhUQzdWMG5mQnZJMGNmVUZsS2EwZXdCVUNpdjdrUnRNUWdR?oc=5",
+      "title": "池袋でも買えてうれしい！ 【ちいかわ×東京ばな奈】あの人気エコバッグも買えるポップアップストアが池袋駅に9/17オープン - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bExQOHNlNEVZLXJwNDNsYnpXT2xETnV5eUNKbTRhb2dUOXJnZTRoM0NmSHFFWHJNT3FVMF85OHc4V00wRVg2UEtyQ29kVTBESU90X2JNUEx1T0hGNmZ2VVQ5SjFNclgwaklrc2hubTAwbUxQcjR6TGFveV9kemc?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ・島二郎」を\"立体ラテアート\"で再現した姿が衝撃で5万いいね 「凄すぎ」「手動くんだ」「カワイイ」「天才」 (マグミクス) Yahoo!ニュース",
-      "summary": "「ちいかわ・島二郎」を\"立体ラテアート\"で再現した姿が衝撃で5万いいね 「凄すぎ」「手動くんだ」「カワイイ」「天才」 (マグミクス) Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-13T14:10:00+09:00",
-      "published_display": "2026-09-13 14:10 JST"
-    },
-    {
-      "title": "ちいかわ＆ハチワレ＆うさぎが黒猫に！「ちいかわベーカリー」ハロウィン限定パン発売 10月2日より - cinemacafe.net",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BNUxCR19LT2xtZ0V0WDFQRnFmM0ZFaEhlX29EMmhzRkJvajFZcGhmMFdUTldIb2E1M1BJc0lMSXlNbjl0NnB4MC1QeW92eGJkbThiaVR0U3JHSm92b18wYUFCSjBFRlVr?oc=5",
-      "source": "cinemacafe.net",
-      "snippet": "ちいかわ＆ハチワレ＆うさぎが黒猫に！「ちいかわベーカリー」ハロウィン限定パン発売 10月2日より cinemacafe.net",
-      "summary": "ちいかわ＆ハチワレ＆うさぎが黒猫に！「ちいかわベーカリー」ハロウィン限定パン発売 10月2日より cinemacafe.net",
+      "snippet": "池袋でも買えてうれしい！ 【ちいかわ×東京ばな奈】あの人気エコバッグも買えるポップアップストアが池袋駅に9/17オープン Yahoo!ニュース",
+      "summary": "池袋でも買えてうれしい！ 【ちいかわ×東京ばな奈】あの人気エコバッグも買えるポップアップストアが池袋駅に9/17オープン Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-13T13:30:03+09:00",
-      "published_display": "2026-09-13 13:30 JST"
+      "published_at": "2026-09-16T08:05:55+09:00",
+      "published_display": "2026-09-16 08:05 JST"
     },
     {
-      "title": "「映画ちいかわ」が台湾でも大ヒット、今年の興行収入・動員数のトップ10入り - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZmVscHhMM1dveC1BbjJxSFZNdU11eGVsNVR0THI4b0NRTjNKcDNJYzctUUFRdktCSU95Vk1Sc3RTWmpkOUxkX3h4aDFKZnFYUUUxamdqWWVhX0N6ZzQxNkxKVUdBVTdraHFmSkZ2R202RGVCdHFDamwwYXdIMC1XZnFKTmpMc01POWl3T1M0OFR5QzZlQ0djVE9BREVXSXYybXNGb0ozaGlINXhfa0tfSGhPUjlDMTRmWUdLeHFXdmdtT1JFM25zM09RX0NaUFZ4ZzFyOWxPNzQ0XzBfcVpj0gGPAUFVX3lxTE8xSjJSeXZMdXptbHlicUc1dzNBYjZ5djRMMXlRdW4ybDNRU0xWWng3UTlZR1JHN3Z2dTJMMmtCS3hwSDE2SWxDczJvOFFNbm5XbkJXTHZGbS11UzVOSExLRDRQNGY0R191VlJEMzJhRUtSVlk2Q3JLMjZXYm1hU0Y3VU5WUW5xMkVPVjRrX1Nz?oc=5",
+      "title": "池袋でも買えてうれしい！ 【ちいかわ×東京ばな奈】あの人気エコバッグも買えるポップアップストアが池袋駅に9/17オープン - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJOExJc1VKOERNQkt5eHc2YXFBNi1meHNjSGhsLTVROVpFbmVLaDVjNXNhWXBYVUExSWhwUWFaUVRTdk1zSUx5VmJqVFF1Z1lQZlRIem05SQ?oc=5",
+      "source": "朝日新聞",
+      "snippet": "池袋でも買えてうれしい！ 【ちいかわ×東京ばな奈】あの人気エコバッグも買えるポップアップストアが池袋駅に9/17オープン 朝日新聞",
+      "summary": "池袋でも買えてうれしい！ 【ちいかわ×東京ばな奈】あの人気エコバッグも買えるポップアップストアが池袋駅に9/17オープン 朝日新聞",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-16T08:04:34+09:00",
+      "published_display": "2026-09-16 08:04 JST"
+    },
+    {
+      "title": "東アジアで「ちいかわ」席巻、人気の背景に現代人の不安と過酷な現実―台湾メディア - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEctR2tmcTRWMVlXWDczNmRrd3VJMXJYNXMzWUF6QzJSamVtN29kcXFScE5lTl9SUkd6Vkdpc01RVkE2YUhQd21lZGtVMjl0X0pkSzV3dGZIUXpzMWViVjg3Mjhla1R4cU9BVEVlY0tMbnBGOS1sSzJ4eHRMOUZDRjBJOEcwTTZtT1HSAY8BQVVfeXFMTjRqRVdJWVFwVFRWRFlkckR0bjVtQlZTT2U3TEtDUHNyR1ZuZml4UlM2bkk2LVRjMXRRV3RYV1l4WFVBSGJGMzVhTGN3NzdGcU56bTFLUkR4N3V5TEE2NzhHRzlzUG16ZkxWX0FtckRMU1VuT2doZkRyWjl5c2R0aFp5cm43NVZFZXBVTFNWX0E?oc=5",
       "source": "ｄメニューニュース",
-      "snippet": "「映画ちいかわ」が台湾でも大ヒット、今年の興行収入・動員数のトップ10入り ｄメニューニュース",
-      "summary": "「映画ちいかわ」が台湾でも大ヒット、今年の興行収入・動員数のトップ10入り ｄメニューニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-13T12:00:00+09:00",
-      "published_display": "2026-09-13 12:00 JST"
+      "snippet": "東アジアで「ちいかわ」席巻、人気の背景に現代人の不安と過酷な現実―台湾メディア ｄメニューニュース",
+      "summary": "東アジアで「ちいかわ」席巻、人気の背景に現代人の不安と過酷な現実―台湾メディア ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-16T07:21:54+09:00",
+      "published_display": "2026-09-16 07:21 JST"
     },
     {
-      "title": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども（スポニチアネックス） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RUmdGeWtoNFVtLURNemxvVEliMnFyN2tUVmJPQWh4VHNrNlR4X0pVREVQa0N5VEpBeGxhZkw4dGJkQnFablVyMzBQcTNodHVjRi1NamJNMjY3Y0ZTRmd6TTdHQjZyRk4tRkdwSTNfYmFPTHRyRW9oOGlTTGJHUVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども（スポニチアネックス） Yahoo!ニュース",
-      "summary": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども（スポニチアネックス） Yahoo!ニュース",
+      "title": "上海、ちいかわ展に長蛇の列 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bdi1QX1hEbE4weVRhdWVhcU1uMVBKNlcwRktlYUFKU2hyTExFeld0R1cxQU5zMEpXbm9sSm9DVGVRSjRMV1lPamNkem54TE5Wa0wwamo0ajF3R1l5?oc=5",
+      "source": "朝日新聞",
+      "snippet": "上海、ちいかわ展に長蛇の列 朝日新聞",
+      "summary": "上海、ちいかわ展に長蛇の列 朝日新聞",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-16T05:00:00+09:00",
+      "published_display": "2026-09-16 05:00 JST"
+    },
+    {
+      "title": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03SDZOZWpoM0FEMlRCMXAwc19CVnExUzluenJpXzRXTEplek1tSE9Wc1Y2SXVod21VZElyUElPNVZRYXFzRl9KMEZ4anNlWk9ReUZwWm43cmlxeHc2TXVZeTJXZTlwd1I0b0p6QzAzbW1BNHF5aWxMbQ?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 ぴあエンタメ情報",
+      "summary": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 ぴあエンタメ情報",
       "category_key": "collab",
       "category_label": "コラボ",
-      "published_at": "2026-09-13T11:25:36+09:00",
-      "published_display": "2026-09-13 11:25 JST"
+      "published_at": "2026-09-16T01:24:11+09:00",
+      "published_display": "2026-09-16 01:24 JST"
     },
     {
-      "title": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども (スポニチアネックス) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkdxQ3puSnZieXQ2cmFSMWdhaFFZNzBNMzZFNmF0N3A1bklNNGJxZ1lxWmZybGxoa09ZVXdGNG1BUnJlOGhuakpiMldCb2loVTVjSmRISE9FN1ExSmNHZHRWV210WEQ5eHR0Q183Yldxa0JfczBLZklSLUZ1dUdDRUdXR1JlNERXQVc1cGlB?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども (スポニチアネックス) Yahoo!ニュース",
-      "summary": "【芸能 覆面座談会】くら寿司 ちいかわコラボ中止 人気ゆえの難しさ浮き彫りに 「ラヴ上等」なども (スポニチアネックス) Yahoo!ニュース",
+      "title": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uWWdCbVhPWDRfcmJjWklPSV9CbFRpTkliZ0o2YTVMUW1fWnRfY3o0REk0RzNkOWxnVFhWeXhubXN6N3NZOE53Ym5FMDB5UXN4bWE4Tl9yX0pLWnlYdTQ3eDNfVlRDQ2hMLWVlcnlWTENGQnI0b05zZg?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 ぴあエンタメ情報",
+      "summary": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 ぴあエンタメ情報",
       "category_key": "collab",
       "category_label": "コラボ",
-      "published_at": "2026-09-13T11:25:36+09:00",
-      "published_display": "2026-09-13 11:25 JST"
+      "published_at": "2026-09-16T01:19:28+09:00",
+      "published_display": "2026-09-16 01:19 JST"
     },
     {
-      "title": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも - アニメ！アニメ！",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NSE94djExOWhGSXlYWVIta18xYWNYZl9VUVJ2cDc3bWQ5dXBDU1FzUF9xTGdCcDBiZ3NBdWhPbmgtb2VGYXJtOEhqQ3g2a3FoVnFmdE9sOXN2cFhHVXFwaENn?oc=5",
-      "source": "アニメ！アニメ！",
-      "snippet": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも アニメ！アニメ！",
-      "summary": "「ちいかわ」ヒミツねッ…“パスタライ助”新作アイテムが登場！ヒョウ柄グッズ&パフィーショルダーバッグも アニメ！アニメ！",
+      "title": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FakVicFJYY2tqZmFmbWU2NnBzSG55S2dobHhpa1dVeVdIY2d6MHNvN2RELWd6cFAzOVRKN1MzRE1GYkdoY3NKQ3JhNlRUYnZEVWdTZ1R3SXdYOWVyUElZU3lycHFCQmU2LWV3V3ZOZzBKcldLcVRkVQ?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 ぴあエンタメ情報",
+      "summary": "【ちいかわ×CITEN】限定コラボアイテムが新登場！ 大人かわいい神ラインナップをチェックしよう の画像・写真 ぴあエンタメ情報",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-09-16T01:18:37+09:00",
+      "published_display": "2026-09-16 01:18 JST"
+    },
+    {
+      "title": "「これは…自分じゃないよ」「ちいかわ」 でかつよ・あのこBIGぬいぐるみがプライズ展開！揃えることでワンシーンを再現 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uYVkzT3hIcURDOWFDbHVtU0IyOVhhTUNTVmxiS1NKSUR3cFd6OHNDRTYwWlk4cUFyWXlKZkloZlc1MjB2dkNTRVgtcWwtSDB6azFCNnpKaFBZcW9mTF9BVWlvZlYyTjc3MTg0Q25jZDVmVnp0a1gyQ0VmY2dJcXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「これは…自分じゃないよ」「ちいかわ」 でかつよ・あのこBIGぬいぐるみがプライズ展開！揃えることでワンシーンを再現 Yahoo!ニュース",
+      "summary": "「これは…自分じゃないよ」「ちいかわ」 でかつよ・あのこBIGぬいぐるみがプライズ展開！揃えることでワンシーンを再現 Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-13T11:00:03+09:00",
-      "published_display": "2026-09-13 11:00 JST"
+      "published_at": "2026-09-15T22:30:03+09:00",
+      "published_display": "2026-09-15 22:30 JST"
     },
     {
-      "title": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の“文句”に残るもやもや - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW1sX09LdXZjNGxFRG5BNU5NNEtLNVRTcXV1dnRyYmM0Szl0UnQ5cVA1OVhKajAxWkl5OTRxNEJBeUMzX0cxRDVEaFc4RlFqRHhSY3pscTg0VHF0dDk5RGpPT3hrX0xqSjAxcmlyb0w0SklIZDBYTE5HT1dTYmlpNXNkRDU1NVg4bmhmd19n?oc=5",
+      "title": "『ちいかわ』“シーサーだらけくじ”が10月スタート - dengekionline.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWUWdld01QRG95b1pNQ3hfTjZ4akk1dW9JYnhrSFhJZTZRR2FLM0ZHbk5hUldlci11cGhtS0dnRVZhSThDbURXTHIzYU0wSUdMRlNvWEJJY0Q5UQ?oc=5",
+      "source": "dengekionline.com",
+      "snippet": "『ちいかわ』“シーサーだらけくじ”が10月スタート dengekionline.com",
+      "summary": "『ちいかわ』“シーサーだらけくじ”が10月スタート dengekionline.com",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-15T22:27:00+09:00",
+      "published_display": "2026-09-15 22:27 JST"
+    },
+    {
+      "title": "【一覧】ちいかわのパン屋さんに“ハロウィン”到来！ハチワレたちが「黒猫」になった限定パンがカワイイ（オタク総研） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzRi1rdEVOWG00Q25TMzg0dVVMQTc3dFg1SkxmQzdDZWZNUzUtSEMxcm1lMTAxcDY4S0pjVkZZc0wyb0luV3BYWUNkUUVvbmtsTE1aNUs5aWpQNks0RDFfaWVNbnUwSEg5R3g4ejJzT0gtOUZ4OXBfbkFFNlpNY3M?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の“文句”に残るもやもや Yahoo!ニュース",
-      "summary": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の“文句”に残るもやもや Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-13T09:17:25+09:00",
-      "published_display": "2026-09-13 09:17 JST"
-    },
-    {
-      "title": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の\"文句\"に残るもやもや - Hint-Pot | ヒントポット",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ycHZzQnRSUkR1UEY3bURJa3JiRXZsSWM4MHp5YUZ6WUotdGRpdmZtNC03WjBWNE82STd4MExnMlptVnhwM1ZRZkZiRQ?oc=5",
-      "source": "Hint-Pot | ヒントポット",
-      "snippet": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の\"文句\"に残るもやもや Hint-Pot | ヒントポット",
-      "summary": "「2つあるなら1つ子どもに」 ちいかわ新幹線の特典、見知らぬ親子からのお願いに困惑…去り際の\"文句\"に残るもやもや Hint-Pot | ヒントポット",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-13T09:17:20+09:00",
-      "published_display": "2026-09-13 09:17 JST"
+      "snippet": "【一覧】ちいかわのパン屋さんに“ハロウィン”到来！ハチワレたちが「黒猫」になった限定パンがカワイイ（オタク総研） Yahoo!ニュース",
+      "summary": "【一覧】ちいかわのパン屋さんに“ハロウィン”到来！ハチワレたちが「黒猫」になった限定パンがカワイイ（オタク総研） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-15T21:50:00+09:00",
+      "published_display": "2026-09-15 21:50 JST"
     }
   ]
 }
