@@ -3,14 +3,19 @@ import datetime as dt
 import email.utils
 import html
 import json
+import os
 import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from collections import Counter
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parents[1]
+# --- 設定項目 ---
+# ※セキュリティのため、認証情報はGitHubの「Secrets」から読み込む形にしています。
+WP_URL = os.environ.get('WP_URL')          # 例: https://your-site.com
+WP_USER = os.environ.get('WP_USER')        # WordPressのユーザー名
+WP_PASSWORD = os.environ.get('WP_PASSWORD')  # 先ほど発行したアプリケーションパスワード
+
 QUERY = 'ちいかわ'
 RSS_URL = 'https://news.google.com/rss/search?q=' + urllib.parse.quote(QUERY) + '&hl=ja&gl=JP&ceid=JP:ja'
 USER_AGENT = 'Mozilla/5.0 (compatible; chiikawa-pages-updater/1.0; +https://github.com/)'
@@ -23,18 +28,10 @@ CATEGORY_RULES = [
     ('event', 'イベント', ['イベント', 'フェア', 'まつり', '展示', '夏まつり', '予約', 'ショップ']),
 ]
 
-TARGET_HTMLS = [
-    BASE / 'chiikawa-fansite.html',
-    BASE / 'chiikawa-fansite-edited.html',
-    BASE / 'index.html',
-]
-
-
 def fetch(url: str) -> str:
     req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return resp.read().decode('utf-8', 'ignore')
-
 
 def clean_text(text: str) -> str:
     if not text:
@@ -44,7 +41,6 @@ def clean_text(text: str) -> str:
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
-
 def parse_date(raw: str):
     if not raw:
         return None
@@ -53,28 +49,12 @@ def parse_date(raw: str):
     except Exception:
         return None
 
-
 def classify(title: str, snippet: str):
     joined = f'{title} {snippet}'
     for key, label, keywords in CATEGORY_RULES:
         if any(word in joined for word in keywords):
             return key, label
     return 'other', 'そのほか'
-
-
-def summarize(snippet: str, source: str, category_label: str) -> str:
-    base = clean_text(snippet)
-    if not base:
-        return f'{source}が伝えた{category_label}の話題です。'
-    if len(base) > 96:
-        base = base[:96].rstrip(' 、。') + '…'
-    return base
-
-
-def unique_key(title: str, link: str) -> str:
-    norm_title = re.sub(r'\W+', '', title)
-    return norm_title.lower()[:100] + '|' + link.split('?')[0]
-
 
 def parse_items(xml_text: str):
     root = ET.fromstring(xml_text)
@@ -92,96 +72,94 @@ def parse_items(xml_text: str):
         source = clean_text(source_el.text if source_el is not None and source_el.text else '') or 'Google ニュース'
         if not title or not link:
             continue
-        key = unique_key(title, link)
+        
+        # 重複チェック用の一意のキー
+        norm_title = re.sub(r'\W+', '', title)
+        key = norm_title.lower()[:100] + '|' + link.split('?')[0]
         if key in seen:
             continue
         seen.add(key)
+        
         category_key, category_label = classify(title, description)
         published = parse_date(raw_date)
         if published and published.tzinfo is None:
             published = published.replace(tzinfo=dt.timezone.utc)
+        
         if published:
             jst = published.astimezone(dt.timezone(dt.timedelta(hours=9)))
             published_iso = jst.isoformat()
-            published_display = jst.strftime('%Y-%m-%d %H:%M JST')
         else:
-            published_iso = ''
-            published_display = ''
+            published_iso = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).isoformat()
+
         results.append({
             'title': title,
             'link': link,
             'source': source,
             'snippet': description,
-            'summary': summarize(description, source, category_label),
-            'category_key': category_key,
             'category_label': category_label,
             'published_at': published_iso,
-            'published_display': published_display,
         })
     results.sort(key=lambda x: x['published_at'], reverse=True)
     return results[:MAX_ITEMS]
 
+def post_to_wordpress(item):
+    """WordPressに記事を自動投稿する関数"""
+    if not WP_URL or not WP_USER or not WP_PASSWORD:
+        print("WordPressの連携情報が設定されていないため、投稿をスキップします。")
+        return
 
-def build_payload(items):
-    now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9)))
-    counts = Counter(item['category_key'] for item in items)
-    labels = {key: label for key, label, _ in CATEGORY_RULES}
-    labels['other'] = 'そのほか'
-    categories = [
-        {
-            'key': key,
-            'label': labels[key],
-            'count': counts.get(key, 0),
-            'icon': {'goods': '🎀', 'collab': '🍰', 'anime': '🎬', 'event': '🌟', 'other': '🌱'}[key],
-        }
-        for key in ['goods', 'collab', 'anime', 'event', 'other']
-        if counts.get(key, 0)
-    ]
-    return {
-        'site_title': 'ちいかわぽけっと',
-        'query': QUERY,
-        'generated_at': now.isoformat(),
-        'generated_at_jst': now.strftime('%Y-%m-%d %H:%M JST'),
-        'update_interval_hours': 12,
-        'sources': [
-            {'name': 'Google ニュース 検索RSS', 'url': RSS_URL}
-        ],
-        'categories': categories,
-        'items': items,
+    # 投稿する内容を作成
+    api_url = f"{WP_URL.rstrip('/')}/wp-json/wp/v2/posts"
+    
+    # 記事本文（HTML）を作成
+    content_html = f"""
+    <p>{item['snippet']}</p>
+    <p>情報元: <a href="{item['link']}" target="_blank" rel="noopener">{item['source']}</a></p>
+    <p>カテゴリー: {item['category_label']}</p>
+    """
+
+    payload = {
+        'title': item['title'],
+        'content': content_html,
+        'status': 'publish', # すぐに公開状態にする
     }
-
-
-def inject_payload(html_text: str, payload: dict) -> str:
-    replacement = '<script id="embedded-data" type="application/json">' + json.dumps(payload, ensure_ascii=False, indent=2) + '</script>'
-    updated, count = re.subn(
-        r'<script id="embedded-data" type="application/json">.*?</script>',
-        replacement,
-        html_text,
-        count=1,
-        flags=re.S,
+    
+    # 認証情報の作成（Basic認証）
+    import base64
+    auth_string = f"{WP_USER}:{WP_PASSWORD}"
+    auth_bytes = auth_string.encode('utf-8')
+    auth_base64 = base64.b64encode(auth_bytes).decode('utf-8')
+    
+    req_data = json.dumps(payload).encode('utf-8')
+    req = urllib.request.Request(
+        api_url,
+        data=req_data,
+        headers={
+            'Authorization': f'Basic {auth_base64}',
+            'Content-Type': 'application/json',
+            'User-Agent': USER_AGENT
+        }
     )
-    if count != 1:
-        raise RuntimeError('embedded-data script tag not found')
-    return updated
-
+    
+    try:
+        # 重複投稿を避けるため、同じタイトルの記事がないかチェックするのが理想ですが、
+        # まずはシンプルに新規作成のリクエストを送信します。
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            if resp.status == 201:
+                print(f"成功: 「{item['title']}」をWordPressに投稿しました。")
+    except Exception as e:
+        print(f"エラー: {item['title']} の投稿に失敗しました。理由: {e}")
 
 def main():
+    print("Googleニュースから『ちいかわ』の最新情報を取得中...")
     xml_text = fetch(RSS_URL)
     items = parse_items(xml_text)
-    payload = build_payload(items)
-
-    (BASE / 'data.json').write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
-
-    source_html = TARGET_HTMLS[0].read_text(encoding='utf-8')
-    updated_html = inject_payload(source_html, payload)
-    for path in TARGET_HTMLS:
-        path.write_text(updated_html, encoding='utf-8')
-
-    print(f'updated {len(items)} items')
-    print('targets:')
-    for path in TARGET_HTMLS:
-        print(path.name)
-
+    
+    print(f"最新のニュースを {len(items)} 件取得しました。WordPressへの同期を開始します。")
+    for item in items:
+        post_to_wordpress(item)
+        
+    print("すべての処理が完了しました。")
 
 if __name__ == '__main__':
     main()
