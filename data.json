@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-20T09:03:12.138014+09:00",
-  "generated_at_jst": "2026-09-20 09:03 JST",
+  "generated_at": "2026-09-20T21:02:48.821022+09:00",
+  "generated_at_jst": "2026-09-20 21:02 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,160 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 2,
+      "count": 4,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 2,
-      "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 7,
+      "count": 4,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 1,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "【ちいかわ】飾っているだけでもかわいい！おうちカフェを癒やしの時間にするコースター付きマグカップ - perfectworld.tokyo",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1keWZuOUZVQTQyY2xLWEM0SjNyWHNmZVB0WHZmSWczRzRXeW0wOTgtbTBMWDZKTjRiTUVJZmJSU2VSMlF3NjhjRVBnVl9ad0dDdWZUN3lqUmJpRnM0?oc=5",
-      "source": "perfectworld.tokyo",
-      "snippet": "【ちいかわ】飾っているだけでもかわいい！おうちカフェを癒やしの時間にするコースター付きマグカップ perfectworld.tokyo",
-      "summary": "【ちいかわ】飾っているだけでもかわいい！おうちカフェを癒やしの時間にするコースター付きマグカップ perfectworld.tokyo",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-09-20T08:14:34+09:00",
-      "published_display": "2026-09-20 08:14 JST"
-    },
-    {
-      "title": "ちいかわベーカリーでハロウィン限定の黒猫パンや新作ドリンクが期間限定で登場 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MMEpQSkZxMW9iWjdZeXJMeXlIc2t1VjNCbUo0ZUZZR205QmZnSDdFQ2ZFY2Rjd3g0cHdfRW9aRVNnVVpLTG52enVJNkdrVHpUYk9TaEpJdTBiMGcxaGFoVFVJQ19tN1JwRmtUeXEzZnlDX3FRVDkxbTd5aw?oc=5",
-      "source": "ニコニコニュース",
-      "snippet": "ちいかわベーカリーでハロウィン限定の黒猫パンや新作ドリンクが期間限定で登場 ニコニコニュース",
-      "summary": "ちいかわベーカリーでハロウィン限定の黒猫パンや新作ドリンクが期間限定で登場 ニコニコニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-20T07:03:38+09:00",
-      "published_display": "2026-09-20 07:03 JST"
-    },
-    {
-      "title": "英誌が見た「ちいかわブームの核心」─痛みと不安、友情が伝えるメッセージ - クーリエ・ジャポン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mMG92dDN3S3RETm9xenZDQ3h6dGp4TzJtTHVNb3hYYjhqUGI2bU9HRDNKSHFNcHMzLUlocm5paTl1WE9CNEw4eW94Qm8xZmZPMUI4?oc=5",
-      "source": "クーリエ・ジャポン",
-      "snippet": "英誌が見た「ちいかわブームの核心」─痛みと不安、友情が伝えるメッセージ クーリエ・ジャポン",
-      "summary": "英誌が見た「ちいかわブームの核心」─痛みと不安、友情が伝えるメッセージ クーリエ・ジャポン",
+      "title": "【しまむら×ちいかわ】の「ルームウェア」全3種類どれもかわいい。『うさぎ』デザインはいいね数7500件超えで断トツ人気！ちいかわ、ハチワレもちらり！（LIMO） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZWFMVjc1WkQ0SWN6ZUlwUlI0UW9tNkRTUUZjQWJXR3RSXzllLWNMZ29NYzc3OFZRRzU2ZW9JVjQ3TUs5bzBCTVpaN1RIc2I0TlpEX05LZXgtX2pCQkNPa090d3FoaENtdElZYnpZbTVLc2w4bDJXaVZ4MndhSUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【しまむら×ちいかわ】の「ルームウェア」全3種類どれもかわいい。『うさぎ』デザインはいいね数7500件超えで断トツ人気！ちいかわ、ハチワレもちらり！（LIMO） Yahoo!ニュース",
+      "summary": "【しまむら×ちいかわ】の「ルームウェア」全3種類どれもかわいい。『うさぎ』デザインはいいね数7500件超えで断トツ人気！ちいかわ、ハチワレもちらり！（LIMO） Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-09-20T06:52:50+09:00",
-      "published_display": "2026-09-20 06:52 JST"
+      "published_at": "2026-09-20T19:21:22+09:00",
+      "published_display": "2026-09-20 19:21 JST"
     },
     {
-      "title": "「くら寿司」は「ちいかわ」商品を横流し…人気コンテンツとのコラボで相次ぐ企業の不正、取材で見えた現場の限界 - 日刊ゲンダイDIGITAL",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rODVtYnNUQUdUekhYS3VUdGRNQUdjUWNuQzhQRUQxV3pEcThhellvcnVXV184TWo3c2hMMUtKdTVWbVFOY1d2OUpDUVdOeW1Pc0lHdXN4dEYteTF3SUhuX3pIT3llUUk?oc=5",
-      "source": "日刊ゲンダイDIGITAL",
-      "snippet": "「くら寿司」は「ちいかわ」商品を横流し…人気コンテンツとのコラボで相次ぐ企業の不正、取材で見えた現場の限界 日刊ゲンダイDIGITAL",
-      "summary": "「くら寿司」は「ちいかわ」商品を横流し…人気コンテンツとのコラボで相次ぐ企業の不正、取材で見えた現場の限界 日刊ゲンダイDIGITAL",
+      "title": "ちいかわ #51〜100【無料ビデオ1週間】 - ABEMA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vdlZIbVZmTC1qRTVuSEpUd1RZWElEcmw3Y19JM2hoYU00REpkOGlta0pneHl6R3Z1dGtKY1RSSHRrVDlLWDBMUWtDbkFmUDZEbkFHZG5mRVZDMWJpVllpSG1YTUxjdw?oc=5",
+      "source": "ABEMA",
+      "snippet": "ちいかわ #51〜100【無料ビデオ1週間】 ABEMA",
+      "summary": "ちいかわ #51〜100【無料ビデオ1週間】 ABEMA",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-20T18:45:00+09:00",
+      "published_display": "2026-09-20 18:45 JST"
+    },
+    {
+      "title": "FF風でセイレーン戦 #ちいかわ #映画 #ff #人魚の島のひみつ - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jZWRUX3lLUVc1QTc4WUNqUVNBQVBPNHRuSFBtTnlIQjFiZExaU2tFMkRjT0ZUVG1vN3hVT19qWDJQQzMtVHJzZlA4UmxRNWVJNnU3bmFtdHlHTk53?oc=5",
+      "source": "YouTube",
+      "snippet": "FF風でセイレーン戦 #ちいかわ #映画 #ff #人魚の島のひみつ YouTube",
+      "summary": "FF風でセイレーン戦 #ちいかわ #映画 #ff #人魚の島のひみつ YouTube",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-20T18:00:28+09:00",
+      "published_display": "2026-09-20 18:00 JST"
+    },
+    {
+      "title": "ちいかわをほぼ知らないが、映画館へ行ってみた。｜ #ちもさんぽ - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaTGpaNzNGd1g3bnB4MkxsektFbjVOb1hnUml1LVJqNUx3U2tMaXMxNGxRWVZOZDN3OGVhN1E1OGJ0WE9fZ20zSWYwS1VURVdpQnhjNms4M1VickdO?oc=5",
+      "source": "YouTube",
+      "snippet": "ちいかわをほぼ知らないが、映画館へ行ってみた。｜ #ちもさんぽ YouTube",
+      "summary": "ちいかわをほぼ知らないが、映画館へ行ってみた。｜ #ちもさんぽ YouTube",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-20T18:00:07+09:00",
+      "published_display": "2026-09-20 18:00 JST"
+    },
+    {
+      "title": "ちいかわ #291〜362【無料ビデオ1週間】 - ABEMA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tY2ZVU19YTkstcVAwRGtpcklsSTZ2bnVFeHpZQnVhTUpzQXVyT05VXzFFT1RLVmg5TXFscUVnNkJDSnFTTnhLYXd5OWI5SlMyM05aR0ZPSnJFTTFLTkFDUjgyeWlWZw?oc=5",
+      "source": "ABEMA",
+      "snippet": "ちいかわ #291〜362【無料ビデオ1週間】 ABEMA",
+      "summary": "ちいかわ #291〜362【無料ビデオ1週間】 ABEMA",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-20T14:58:54+09:00",
+      "published_display": "2026-09-20 14:58 JST"
+    },
+    {
+      "title": "ちいかわ #241〜290【無料ビデオ1週間】 - ABEMA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lUy1sbXN1OTFmekVZWUVCWEUyY1RBektQZl9mYXIwVTM0TWxDRnVoYTdjMUhLQWZ0Z3N2ZEk5dG8yS2NQOUZQd1Ryb2dGXzhzaktPVGFzbS1BN0VmeHpwNVNmTmRNQQ?oc=5",
+      "source": "ABEMA",
+      "snippet": "ちいかわ #241〜290【無料ビデオ1週間】 ABEMA",
+      "summary": "ちいかわ #241〜290【無料ビデオ1週間】 ABEMA",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-20T13:53:15+09:00",
+      "published_display": "2026-09-20 13:53 JST"
+    },
+    {
+      "title": "【ちいかわベーカリー】沖縄の「デパートリウボウ」でPOP UP SHOP開催！ (アニメージュプラス) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWktbXByYlo5UmxlU0pUWVNMdm95UkFmWkxSY3EyTHFOUkxpZ0ZxVzFCaW1zSlJQcHJINXVMaWNBck9ETlFaQVNpX18xOE1iaUx2cW5XMHY4OUdzWmc5NUF3OWdJdmdhbFRVbkRKcWpHclRTUEJ5cU1OWDdmcGFQZ0pQX0FybURUN01XRUlB?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわベーカリー】沖縄の「デパートリウボウ」でPOP UP SHOP開催！ (アニメージュプラス) Yahoo!ニュース",
+      "summary": "【ちいかわベーカリー】沖縄の「デパートリウボウ」でPOP UP SHOP開催！ (アニメージュプラス) Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-20T06:00:00+09:00",
-      "published_display": "2026-09-20 06:00 JST"
+      "published_at": "2026-09-20T13:19:12+09:00",
+      "published_display": "2026-09-20 13:19 JST"
     },
     {
-      "title": "「ちいかわコラボ騒動」炎上のくら寿司、なぜ二択を間違え続けたのか - 現代ビジネス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5weWJjb0FYUFgtamRjMWRGc3pIUXZ6YVM3eEpnNFlUQ3NyYkZZT0JzOWtSYUJHX282aUNyaEVTd29saWpMQjRkeTZFVTR4S0E?oc=5",
-      "source": "現代ビジネス",
-      "snippet": "「ちいかわコラボ騒動」炎上のくら寿司、なぜ二択を間違え続けたのか 現代ビジネス",
-      "summary": "「ちいかわコラボ騒動」炎上のくら寿司、なぜ二択を間違え続けたのか 現代ビジネス",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-09-20T05:01:06+09:00",
-      "published_display": "2026-09-20 05:01 JST"
-    },
-    {
-      "title": "『映画ちいかわ』リピート鑑賞者のための小ネタ集 うさぎやモモンガの行動、愛知要素など（リアルサウンド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3UnA1NmVQZF84TGVjZktyaE0yWElrLTNxcTdOVVFvSUdKM1ROSkhkOURLOXgyeU5GZnJvcnJMVGZxNXhHY0N5M3VabXk4SVVLTm13ZEpwXzM3TXlMcmlJSEVVbnNPX1RoTkk0ZktaSGdPZ09tTkZoSmRPVmstX2s?oc=5",
+      "title": "【ちいかわベーカリー】沖縄の「デパートリウボウ」でPOP UP SHOP開催！（アニメージュプラス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yRF82cmJkbzk1QXRxcFZkNjJ2eVpwTjl0TkNtRHJmYzJ2VlRpaGdVVEJ4QkFpTjBvY25EUnJGQ3kxOGJJcWhkQXJNTFlFVXd1NlJaOHc0S0Jod0MtV00xQmFQZUVIRDhEelRYVGpheTB0MXhEdFdRY2h5UlctcU0?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『映画ちいかわ』リピート鑑賞者のための小ネタ集 うさぎやモモンガの行動、愛知要素など（リアルサウンド） Yahoo!ニュース",
-      "summary": "『映画ちいかわ』リピート鑑賞者のための小ネタ集 うさぎやモモンガの行動、愛知要素など（リアルサウンド） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-19T20:30:57+09:00",
-      "published_display": "2026-09-19 20:30 JST"
+      "snippet": "【ちいかわベーカリー】沖縄の「デパートリウボウ」でPOP UP SHOP開催！（アニメージュプラス） Yahoo!ニュース",
+      "summary": "【ちいかわベーカリー】沖縄の「デパートリウボウ」でPOP UP SHOP開催！（アニメージュプラス） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-20T13:00:00+09:00",
+      "published_display": "2026-09-20 13:00 JST"
     },
     {
-      "title": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！（ぴあ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvbzlWb0xtT2pMdzBjMHRTbDZET3Z4djZEVk9IMG5Rc0xESHpEZ1pZeERQcDFxUWpwTUpINjBPcnB1UTZMLWtaTzB1RE83Sng1VV9maDBMRDFEVWRVOE5kUVNLZ0JYQkN1dkdVQTIyR1FIN2pOTXRHcHZNOFpVeVk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！（ぴあ） Yahoo!ニュース",
-      "summary": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！（ぴあ） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-19T20:30:28+09:00",
-      "published_display": "2026-09-19 20:30 JST"
-    },
-    {
-      "title": "『ちいかわ』初ゲームが運営1.5周年、アニメ362話を一挙無料放送！11日間ぶっ続けでおさらいできる（オタク総研） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMeU5uajdYcTNFUUxQdjlCbUllaWFBSnFmYnpNVlloRVliVE04U2djcnVIUWhIR0JMcllWZzloNFVxeENsdmtxak51WFdGR0NQZFZqcFR6d2R0S080Y0dPcWlUQTg1Vnc0NUdVOHZfUVFJcHpnSjZZUnNGdmVOeTA?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』初ゲームが運営1.5周年、アニメ362話を一挙無料放送！11日間ぶっ続けでおさらいできる（オタク総研） Yahoo!ニュース",
-      "summary": "『ちいかわ』初ゲームが運営1.5周年、アニメ362話を一挙無料放送！11日間ぶっ続けでおさらいできる（オタク総研） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-19T17:34:00+09:00",
-      "published_display": "2026-09-19 17:34 JST"
-    },
-    {
-      "title": "『ちいかわ』初ゲームが運営1.5周年、アニメ362話を一挙無料放送！11日間ぶっ続けでおさらいできる - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MMlFlS3BRWHY1cktHajMyT19XT1NqbnVHUmNHZ1NlbmhjaFBLRFVUTjlJZ2UwZFAyYWxhd2VSOXNsWVRJUnlRVE4wZXN0NmVqa19FbUNHZFhvLUV2OV93Sg?oc=5",
+      "title": "ちいかわがピーターパンに！「ちいぽけ」1.5周年でイベント＆キャンペーン盛りだくさん｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mN1FXODZYeFVrOFpUc3hVWS1qSm9vTy0zNkxmOGV3U1lvRnBkQ3hWcU1UVG9vUThJZktCVGRUN3d1VjVXX3R0djJhRjBiSWVJRXdKaV9NTEJkeGFnVTZrUQ?oc=5",
       "source": "Infoseek",
-      "snippet": "『ちいかわ』初ゲームが運営1.5周年、アニメ362話を一挙無料放送！11日間ぶっ続けでおさらいできる Infoseek",
-      "summary": "『ちいかわ』初ゲームが運営1.5周年、アニメ362話を一挙無料放送！11日間ぶっ続けでおさらいできる Infoseek",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-19T17:32:00+09:00",
-      "published_display": "2026-09-19 17:32 JST"
+      "snippet": "ちいかわがピーターパンに！「ちいぽけ」1.5周年でイベント＆キャンペーン盛りだくさん｜Infoseekニュース Infoseek",
+      "summary": "ちいかわがピーターパンに！「ちいぽけ」1.5周年でイベント＆キャンペーン盛りだくさん｜Infoseekニュース Infoseek",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-20T12:26:07+09:00",
+      "published_display": "2026-09-20 12:26 JST"
     },
     {
-      "title": "「これが｢ちいかわ｣」映画ちいかわ 人魚の島のひみつ コシヒカリおにぎりさんの映画レビュー（感想・評価） - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LU1p3NndOSmNEek91VWdKajlGQTNPNTctSGVoX2lOTUQwLVBncWMwVk05QkJibXpCaVRnNlNrNzNiTDk3Sk5NYXBpaWtvN25IUnlaaGZQckhlZw?oc=5",
-      "source": "映画.com",
-      "snippet": "「これが｢ちいかわ｣」映画ちいかわ 人魚の島のひみつ コシヒカリおにぎりさんの映画レビュー（感想・評価） 映画.com",
-      "summary": "「これが｢ちいかわ｣」映画ちいかわ 人魚の島のひみつ コシヒカリおにぎりさんの映画レビュー（感想・評価） 映画.com",
+      "title": "『ちいかわ』特典の中身ページ3枚／『クレしん』異例の回が放送へ【9／19よく読まれたアニメ＆ゲームニュース】 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTdGSE81WEw1eVFFb1hMZkRZOHF6TnUzZDlSRlhoSUxxSENPM3hIMGZQVU5jcXgwam5BWklTS2RfTFhDOUJINWlRQzBsWkNTYU5VeFFwLVFPZFI4TGtDU2J4YTdiZ0ZCQ0xaTnZiUURNdl9kLUlrLUNnaE9ZTXZObUNxOEZfV1pZVXFyeW9na1p4Wnc?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』特典の中身ページ3枚／『クレしん』異例の回が放送へ【9／19よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
+      "summary": "『ちいかわ』特典の中身ページ3枚／『クレしん』異例の回が放送へ【9／19よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-19T15:25:50+09:00",
-      "published_display": "2026-09-19 15:25 JST"
+      "published_at": "2026-09-20T12:00:00+09:00",
+      "published_display": "2026-09-20 12:00 JST"
     },
     {
-      "title": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！ - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWW55VlpOS2xFMGUwRTMzdG9HTVh5eFU5Ti1taEtpcmVncjZyNGRMd2RITU54cXdHYlZjVEF4U0Q3QzNKZkYtUUVHbDJjTVVEaFhhNnNodXNxaFEyUUNZ?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！ ぴあエンタメ情報",
-      "summary": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！ ぴあエンタメ情報",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-19T15:00:00+09:00",
-      "published_display": "2026-09-19 15:00 JST"
+      "title": "ちいかわ × ポンデクルール 11月23日よりコスメ全6種が発売! - コラボカフェ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2VsRVVCNXBXLXdXcFVIemMyVXRrem1ZUzV3cFlVMzAtRGZoM21fQzZLZmtENkJhLWV5bEdldnotaW1RY1dyYmxjOExEYnQ1MFUyb1ZUZmdBUzhlbXpjOTIxRTBRR0l0VG1uMk9EX2t1b1BUTkVMVW5aMjJyc2dYaXlDZEIxaGllSVB6bUd1b2w3UQ?oc=5",
+      "source": "コラボカフェ",
+      "snippet": "ちいかわ × ポンデクルール 11月23日よりコスメ全6種が発売! コラボカフェ",
+      "summary": "ちいかわ × ポンデクルール 11月23日よりコスメ全6種が発売! コラボカフェ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-20T11:18:36+09:00",
+      "published_display": "2026-09-20 11:18 JST"
     },
     {
-      "title": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！ - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UUUNQQlVWQWViN1Bmck5JRHE3bklhcGJSM3ZmMVJpWTVHakJIclI5MmE3X3ZqeTVIQktmQXQ1SlljUFpTOWZUMy0yN0o4VjFCbGhvZ1QxZk5aUm1DcDlhQXpMTG5ZOGtTdFdtU0hkS1l6M2o5bzUyRQ?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！ ぴあエンタメ情報",
-      "summary": "【しまむら×映画ちいかわ】格安なのに超かわいい♪ 新作ステーショナリー5品を購入、イチ押しは“エモすぎファイル”！ ぴあエンタメ情報",
+      "title": "なぜ映画「ちいかわ」で戦争を考えたくなるのか - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GaHl4cWVmck1zN0VCNklwWWpldU02V2tTSm93cXI2a1EyVHdPSjB4X1doNjIwVjIzN2EzZnpzVUR0N2dQQkgxS3hXaGdtUVdCV0xUQXB0UWs0T2c3THI3QUdEUkc0ZG8?oc=5",
+      "source": "朝日新聞",
+      "snippet": "なぜ映画「ちいかわ」で戦争を考えたくなるのか 朝日新聞",
+      "summary": "なぜ映画「ちいかわ」で戦争を考えたくなるのか 朝日新聞",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-19T15:00:00+09:00",
-      "published_display": "2026-09-19 15:00 JST"
+      "published_at": "2026-09-20T09:00:00+09:00",
+      "published_display": "2026-09-20 09:00 JST"
     }
   ]
 }
