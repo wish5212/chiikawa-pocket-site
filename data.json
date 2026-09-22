@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-21T21:03:28.364283+09:00",
-  "generated_at_jst": "2026-09-21 21:03 JST",
+  "generated_at": "2026-09-22T09:03:09.938521+09:00",
+  "generated_at_jst": "2026-09-22 09:03 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -12,9 +12,15 @@
   ],
   "categories": [
     {
+      "key": "goods",
+      "label": "グッズ",
+      "count": 4,
+      "icon": "🎀"
+    },
+    {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 10,
+      "count": 6,
       "icon": "🎬"
     },
     {
@@ -26,136 +32,136 @@
   ],
   "items": [
     {
-      "title": "『映画ちいかわ 人魚の島のひみつ』2026年興行ランキングNo.1 - 映画情報どっとこむ",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKRmVaVGtfX2pyMGJ0ZjJwcUx4d29ndFJWcURRbWxyajJMeWRaajhUSkg5QjYyT2hQblVZOTNhTng2S1dCbmlOcUlSNVQ?oc=5",
-      "source": "映画情報どっとこむ",
-      "snippet": "『映画ちいかわ 人魚の島のひみつ』2026年興行ランキングNo.1 映画情報どっとこむ",
-      "summary": "『映画ちいかわ 人魚の島のひみつ』2026年興行ランキングNo.1 映画情報どっとこむ",
+      "title": "ちいかわ 9月22日(火)放送分 第380話 パラレルワールド(6)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XdW5qLXl4cGtiMmJQZW9PRlowc2Y1SDVreDJtMk5PZEpIYWFZLUM1Tkl3bE8wTHlQajAxNWlvOTEwYkpBY0lpZnNVdw?oc=5",
+      "source": "TVer",
+      "snippet": "ちいかわ 9月22日(火)放送分 第380話 パラレルワールド(6)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "summary": "ちいかわ 9月22日(火)放送分 第380話 パラレルワールド(6)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T20:04:42+09:00",
-      "published_display": "2026-09-21 20:04 JST"
+      "published_at": "2026-09-22T08:17:26+09:00",
+      "published_display": "2026-09-22 08:17 JST"
     },
     {
-      "title": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪ の画像・写真 - lp.p.pia.jp",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CcXVvWnFROUY3RFBnbURSSjdtS29KbVU4aHNzZWxFSWNQbTl0QzNROUQ1Um13SmVsdS1PMlZSVTg0UzhtSm9WdGtLUlh3Vjc2Z2NtT2hvRkpsNlNleUtEcDctOXpQMUQ2Ymc0bnZnZS1HWkRBN2dRMg?oc=5",
-      "source": "lp.p.pia.jp",
-      "snippet": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪ の画像・写真 lp.p.pia.jp",
-      "summary": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪ の画像・写真 lp.p.pia.jp",
+      "title": "Toi Toi Toi 前垣さら、『ちいかわ』モモンガの声真似に反響 「マジでうまくて草」「これ本物の声じゃないの？」（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GRzBtUHdqcmhoU1hLbXlkZ3dJUGkxdlZNbnJ0Z0l6WFlfNHFfcE4zNmVHYlo0emxtS0VFVkxaeEFXYjZybVg0OXowcGhDdTdtSzNEbTN6VlpoR3Q2ZlY0Qm9na2d6Q0ladWpEOFpoenJWR1JQUEhURHN4Q1dyWFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "Toi Toi Toi 前垣さら、『ちいかわ』モモンガの声真似に反響 「マジでうまくて草」「これ本物の声じゃないの？」（リアルサウンド） Yahoo!ニュース",
+      "summary": "Toi Toi Toi 前垣さら、『ちいかわ』モモンガの声真似に反響 「マジでうまくて草」「これ本物の声じゃないの？」（リアルサウンド） Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-09-21T19:49:12+09:00",
-      "published_display": "2026-09-21 19:49 JST"
+      "published_at": "2026-09-22T08:10:49+09:00",
+      "published_display": "2026-09-22 08:10 JST"
     },
     {
-      "title": "「内容が実写超え」 映画ちいかわ 人魚の島のひみつ 空満暮さんの映画レビュー（感想・評価） - eiga.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rYm50aTRqRXk3QWJud2ZJTWJOOEdkUHFJZHNQVWgzcGN3N293RG1fU21UN0RpOFREcUl6M1VWT3E5eGR4Mmp2LWY0WC1OQnZfLThtVVZOSkN3QQ?oc=5",
-      "source": "eiga.com",
-      "snippet": "「内容が実写超え」 映画ちいかわ 人魚の島のひみつ 空満暮さんの映画レビュー（感想・評価） eiga.com",
-      "summary": "「内容が実写超え」 映画ちいかわ 人魚の島のひみつ 空満暮さんの映画レビュー（感想・評価） eiga.com",
+      "title": "全9種類のランダムシール！講談社「ちいかわ なにがでるかな？シールコレクション」 - Dtimes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ITzZIWXF1NHFzZVVmSG13OU9hclZUY1NtVzFLXzBzRUNIb203cEw4YXFGY3NqaloyR3VMajBuU2l1OHpsbWc?oc=5",
+      "source": "Dtimes",
+      "snippet": "全9種類のランダムシール！講談社「ちいかわ なにがでるかな？シールコレクション」 Dtimes",
+      "summary": "全9種類のランダムシール！講談社「ちいかわ なにがでるかな？シールコレクション」 Dtimes",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-22T08:09:07+09:00",
+      "published_display": "2026-09-22 08:09 JST"
+    },
+    {
+      "title": "アニメ『ちいかわ』 第380話「パラレルワールド⑥」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CNm1mOUE2cUdWRHRRcmQ0VDBBMF90Q0dSLUUwVXY3bFlCaDU1SmFlQ2NIc2x2Y2tNYktFTlhwZGR1cXpsSEpFcVM5RGQ1V2FJeWxV?oc=5",
+      "source": "めざましmedia",
+      "snippet": "アニメ『ちいかわ』 第380話「パラレルワールド⑥」 めざましmedia",
+      "summary": "アニメ『ちいかわ』 第380話「パラレルワールド⑥」 めざましmedia",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T19:32:06+09:00",
-      "published_display": "2026-09-21 19:32 JST"
+      "published_at": "2026-09-22T08:00:00+09:00",
+      "published_display": "2026-09-22 08:00 JST"
     },
     {
-      "title": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4bkhWYnFoRGNIajE2ZXlDX3RTZy1IU2FWRWhyM01fRFUzbENxdnR5cGJUb01yXzVxV1FLSG9NRlBza25uS2p0VVdFUFBnaWxlWGFTZTRYemU0em16d0YwOU16SmNlU2dSYVl3ejFhLXU?oc=5",
-      "source": "読売新聞",
-      "snippet": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人 読売新聞",
-      "summary": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人 読売新聞",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T18:39:00+09:00",
-      "published_display": "2026-09-21 18:39 JST"
+      "title": "ちいかわアクリルスタンプが付録に登場する小学生向けムック本キャラぱふぇ特大号が発売 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwMTBrZ0Y1cXNLV1BLb0xUakRrNzNHZzZsQ3VKbHJ5MVR4QUpnbW1Cc2c5QUVmTk8tZElycWt5aEVWR09nNmtPZE1pdTA2bmhxbW8zMXRDUEhVYnpRY3dVX3I0TG83UnlObzk1VkF5SWRUSFVMX0RPLXV5aFPSAYIBQVVfeXFMTlBNN0ViaE1JMnk0Z2NCSzh0OHJ4V2tINXg1QXRBQ0ZkaTkxZGJLWUFZLS05SGVHdHVpNWJ1b2lkQk45M2N0RDRyOGIxMC01TEVPczRZeTRVLWZEa3p5VUI4Zl9XRXVFQXozRjN3ZTByNVlRaWVMTWpZQ2dDblA1SEM1Zw?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "ちいかわアクリルスタンプが付録に登場する小学生向けムック本キャラぱふぇ特大号が発売 ｄメニューニュース",
+      "summary": "ちいかわアクリルスタンプが付録に登場する小学生向けムック本キャラぱふぇ特大号が発売 ｄメニューニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-22T07:07:55+09:00",
+      "published_display": "2026-09-22 07:07 JST"
     },
     {
-      "title": "映画「ちいかわ」 26年公開の興収1位に 59日間で158.4億円突破 - SmartNews",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQWDhna294d0t6TWRiNUxGa0VDYk1fb3ZoMkVocWdCbVBuVXVqTUp6Snl3QmFTTHFnaGw5R1pQTFpIaDBnTGZJNVJsVTdlbDh5Sl9aWlRhUUlBemF4UGx3VkNfUXlGdDgzcTJfZzI3ZkY2czdyZzhFMHh5REtFSEJxcno3Tm8ybXRUTjUwV3JDa200aUMtVE14RGxScGJhLWpZMEZaSGFyeElySHVNRnhkVGFfZEdXZHY2U0lLVGxNTm1lUE9WT0FWa3VWaUdKUjBueEZGVkVZWmhjUHBXR2xQZEMza0hxWEVjN2kzenF4d3E4MUhSVmV2VkI4UTNVemJOWWV6Q1N0eEw0eGpaVU9YWEwzcHY1eVpwWVRweFFUMmZrS0h2RHFVaUc3RS1RN3hId3BOSm9ac1RFRWR4SmswRzFwNzk5dGwySk1saXZ1UERPOHdnVHQxTGVKaHNzM040ODJ3WURTdUVINjBXQ0NKaTl2ald1Nm9sLTUxNGdvOWd4TzlkRUhLVjgxY2Vfb2lIM0Jsdw?oc=5",
-      "source": "SmartNews",
-      "snippet": "映画「ちいかわ」 26年公開の興収1位に 59日間で158.4億円突破 SmartNews",
-      "summary": "映画「ちいかわ」 26年公開の興収1位に 59日間で158.4億円突破 SmartNews",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T18:36:00+09:00",
-      "published_display": "2026-09-21 18:36 JST"
-    },
-    {
-      "title": "(c)ナガノ / 2026「映画ちいかわ」製作委員会 - スポニチ Sponichi Annex",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUNOR1UyUWVfdnpjUGlUTDJTN3dKbl8wMGwwTW1FUDZuNF9jV1NuUHFZSmpkNjRSdmRZekhnVU10V3RTUFlpNnZJUG5xMzJBSmlHYk9CRGJVeG1nWW83bkNoZjh2WEhoc0gwcFNVeENPLU14ZUhMa2NRcm5WM095LVZQSFRXOEZHalFjVUJabGRjX2c3ZEE?oc=5",
-      "source": "スポニチ Sponichi Annex",
-      "snippet": "(c)ナガノ / 2026「映画ちいかわ」製作委員会 スポニチ Sponichi Annex",
-      "summary": "(c)ナガノ / 2026「映画ちいかわ」製作委員会 スポニチ Sponichi Annex",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T18:07:34+09:00",
-      "published_display": "2026-09-21 18:07 JST"
-    },
-    {
-      "title": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人（スポーツ報知） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1falp5MjFXQldvYi1OaWdsQmliNjkwNXQxNlpHcC1ScFlFN1Q5c2lfYjZhNWpCbUZqN2VOb2FycUM1enlTWGdUMDhjQ3pMX3o0N2NaNnJMbGRwZHVkdjNlTmFnX0hvZmxWOGJYN0lJV2puNDZDZFZoaHdRUl9fR3M?oc=5",
+      "title": "5時間半かけて作った“ちいかわパン”→切ったら…… 「映画より衝撃でした」目を疑う断面に「腹痛い」「どうしてこうなった」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1manNyRzg0R3MzbmJxTUpPejAzTzIwUmJudVNSdGNHdDU5a3R2OWxjT3RhRjZwdDMxVzNDS0tZRWJxbHluSGtScWpvR3VhekE2U1R3OHZ6QXFuMGcxaUk4Q09uUG1tOThicVJpNk9raXUtUUpaZFhaLVk5bmdQVTQ?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人（スポーツ報知） Yahoo!ニュース",
-      "summary": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人（スポーツ報知） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T18:04:47+09:00",
-      "published_display": "2026-09-21 18:04 JST"
+      "snippet": "5時間半かけて作った“ちいかわパン”→切ったら…… 「映画より衝撃でした」目を疑う断面に「腹痛い」「どうしてこうなった」 Yahoo!ニュース",
+      "summary": "5時間半かけて作った“ちいかわパン”→切ったら…… 「映画より衝撃でした」目を疑う断面に「腹痛い」「どうしてこうなった」 Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-22T07:05:43+09:00",
+      "published_display": "2026-09-22 07:05 JST"
     },
     {
-      "title": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪ の画像・写真 - lp.p.pia.jp",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yak5JUm50OWdVX0ZBc1VCTFVjanM2M3FxdEdhcjgzVEUxT2hHNUJXaUE5ekJXWmFZdTg1T1U3bkZZaTFHQ1E2XzNLSGxZWlZMeHR3bnRRSjBDVGkwaXIyVjN3LVZ5cUJHMV9VOWxyZUNzZDJjNGlPeQ?oc=5",
-      "source": "lp.p.pia.jp",
-      "snippet": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪ の画像・写真 lp.p.pia.jp",
-      "summary": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪ の画像・写真 lp.p.pia.jp",
+      "title": "「映画ちいかわ 人魚の島のひみつ」興収158億4000万円で今年公開の興行ランク首位浮上 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSW8wdW9WZmFPM0VvVDlKckhneEhzRDJscURodWNESGNFakRua0tVVVJiTXVsRHFXcEN6T2M0MngxZUhqWnpqWFgxRzJRVXA2eEZDVFdaR3NBRVFZVUE1VG51MnRwQXJmeENrTlQwZEp1b2FmY3l0QTUyUHBzT0tGUzR0Q0tQNDlXNVBjckdsbmlWVFpNdm5CY0QwNTJhemvSAaQBQVVfeXFMTlprNWJTdzBKd0JhcmM5UjNHd2w2bzI4bFhYSHYzaHVkV3lZOE1LaC1MU1dKSmtpbHIxcENaN3ZWTWZsQ19QbE5kVUt3V1NBdjJHOTdiRGNKRW1iZkRTbUxzblFxcnJPOFFnZ0NjdjVSQjZGb2Z2ZzgxRjYwWTdsNjluY3lOZTRuUWZIQjZaWW5COF9WWlRWUGxzNW1oWkNSenhJMmw?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「映画ちいかわ 人魚の島のひみつ」興収158億4000万円で今年公開の興行ランク首位浮上 ｄメニューニュース",
+      "summary": "「映画ちいかわ 人魚の島のひみつ」興収158億4000万円で今年公開の興行ランク首位浮上 ｄメニューニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-22T07:00:03+09:00",
+      "published_display": "2026-09-22 07:00 JST"
+    },
+    {
+      "title": "ちいかわ #1〜50【無料ビデオ1週間】 - ABEMA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12ZzVfMEVOd0NSc0JsOXpRXy15dGNOMmZFbG5wamhMVXdNdU42WUwwUFZEVW40bDlYMnhXNnZ0MVBiek9JdkFvVjMzTkNOY2lZNkhvRmZOeVdoWDMzZDhHcm44anhGUQ?oc=5",
+      "source": "ABEMA",
+      "snippet": "ちいかわ #1〜50【無料ビデオ1週間】 ABEMA",
+      "summary": "ちいかわ #1〜50【無料ビデオ1週間】 ABEMA",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-09-21T18:04:11+09:00",
-      "published_display": "2026-09-21 18:04 JST"
+      "published_at": "2026-09-22T02:52:18+09:00",
+      "published_display": "2026-09-22 02:52 JST"
     },
     {
-      "title": "映画『ちいかわ』が2026年の興行収入1位に 「名探偵コナン」「トイ・ストーリー」最新作を抜き（KAI-YOU） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ekEtRTJhOHJSZTAzNUJNOWo1WVlYV0cya2Q5TGZNcUs5LTZsSENHOGs0RzBWbFBGUVNaaVRKSC1Fc0d3dlIyME1fSW1VMGI1NXRodk5SSHV2OXIteWdNNHk2TTBJcXVpOXpGYkVqdnV4R2hiVmkza2FCWXhsVW8?oc=5",
+      "title": "「ちいかわという存在だけ知っている状態から見た評価」映画ちいかわ 人魚の島のひみつ Jesiさんの映画レビュー（感想・評価） - 映画.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qOVc1TUxMSG9CeXZCZnFDc3lHRFVqV3BTcXF1U09OVlozWlVZc19tbE9UcWhKdDhNWWJJN0pWUVhsbU8yRXFaaGRESUUwYTVKOEdwVkJ2aE5zdw?oc=5",
+      "source": "映画.com",
+      "snippet": "「ちいかわという存在だけ知っている状態から見た評価」映画ちいかわ 人魚の島のひみつ Jesiさんの映画レビュー（感想・評価） 映画.com",
+      "summary": "「ちいかわという存在だけ知っている状態から見た評価」映画ちいかわ 人魚の島のひみつ Jesiさんの映画レビュー（感想・評価） 映画.com",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-22T02:37:51+09:00",
+      "published_display": "2026-09-22 02:37 JST"
+    },
+    {
+      "title": "「ちいかわ くりまんじゅうだらけくじ」ラインナップまとめ！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaU2s3N3pnR01rMlN1WTBiYU9aQUx4cmE3WTlXUzNnN1o5NVRmSGt1MWd6X2xZdEhQNjZ6bWFNSER0Y0oxbTlpZHMwSkpDZV8zTEVrVXRmUWl5RDN5WHZvNVRjMmhpSGZYSHV3X1RJbHZHUmVXX25oTURtcUZZcVU?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "映画『ちいかわ』が2026年の興行収入1位に 「名探偵コナン」「トイ・ストーリー」最新作を抜き（KAI-YOU） Yahoo!ニュース",
-      "summary": "映画『ちいかわ』が2026年の興行収入1位に 「名探偵コナン」「トイ・ストーリー」最新作を抜き（KAI-YOU） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T17:50:00+09:00",
-      "published_display": "2026-09-21 17:50 JST"
+      "snippet": "「ちいかわ くりまんじゅうだらけくじ」ラインナップまとめ！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも Yahoo!ニュース",
+      "summary": "「ちいかわ くりまんじゅうだらけくじ」ラインナップまとめ！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-22T00:16:20+09:00",
+      "published_display": "2026-09-22 00:16 JST"
     },
     {
-      "title": "映画『ちいかわ』興収158.4億円突破 2026年興行ランキングNo.1 - シネマトゥデイ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTlRxelFDWGxneTBUOGxhZlYtZXVYOFR5OHJUQlV5dTg4ckZQa3doMWxIdE9oMHJiNmxMS1FHUGxtUHBad09pZUd1THZIeVNHWXc?oc=5",
-      "source": "シネマトゥデイ",
-      "snippet": "映画『ちいかわ』興収158.4億円突破 2026年興行ランキングNo.1 シネマトゥデイ",
-      "summary": "映画『ちいかわ』興収158.4億円突破 2026年興行ランキングNo.1 シネマトゥデイ",
+      "title": "158億円突破の映画「ちいかわ」には何があるのか｜堀江貴文(ホリエモン) - note",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sWl9oeDFlREtHODNsU2t4TEhxd2hVem5CR2p3aVFCbm13bWc2U3d5aEVoVmtld2VyVXpuYWx2dUpyU2JPeE1XZFdiN19rbld3VGc?oc=5",
+      "source": "note",
+      "snippet": "158億円突破の映画「ちいかわ」には何があるのか｜堀江貴文(ホリエモン) note",
+      "summary": "158億円突破の映画「ちいかわ」には何があるのか｜堀江貴文(ホリエモン) note",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T17:35:14+09:00",
-      "published_display": "2026-09-21 17:35 JST"
+      "published_at": "2026-09-21T21:33:43+09:00",
+      "published_display": "2026-09-21 21:33 JST"
     },
     {
-      "title": "映画『ちいかわ』2026年公開作の興収ランキング1位に 『名探偵コナン』『トイ・ストーリー5』を超える - kai-you.net",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00TU9rdmcxOEE4bkNKWEcya1l3VmV0TGVWTXBpUC1IYnhaMlVRNDlxaWdtcEpKdkpDbjlNOXBzdFF4b21CeTR3Nw?oc=5",
-      "source": "kai-you.net",
-      "snippet": "映画『ちいかわ』2026年公開作の興収ランキング1位に 『名探偵コナン』『トイ・ストーリー5』を超える kai-you.net",
-      "summary": "映画『ちいかわ』2026年公開作の興収ランキング1位に 『名探偵コナン』『トイ・ストーリー5』を超える kai-you.net",
+      "title": "ちいかわ脱出ゲーム、クリア1万人突破でサイピク描き下ろし公開 - Koubo",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IVFBhdExPQloxUF9reVF6Q2gwWm1GSlpYdlZrNXByZjNORFV2X3lBSThpQ3djbG5odzZFWnc5ZmpRTWZybFE?oc=5",
+      "source": "Koubo",
+      "snippet": "ちいかわ脱出ゲーム、クリア1万人突破でサイピク描き下ろし公開 Koubo",
+      "summary": "ちいかわ脱出ゲーム、クリア1万人突破でサイピク描き下ろし公開 Koubo",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T17:33:00+09:00",
-      "published_display": "2026-09-21 17:33 JST"
-    },
-    {
-      "title": "ちいかわとトイ・ストーリー ポップアップストア 鳥取県米子市（BSS山陰放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ySml2TGxKN3BrSl9PMC1MTElRQUVyZzlSaHROa3JoUzVNOEQwRTA0aHBGX1p1bWpxVnNueGpTRmJyaVFJbHZCWmhLV2k3M2RhcTExVExKeGx4SjVtSGNvUzBiV0VSdDBhZUwwZkVqbllWSG9KX19IdmVfVWZWcDA?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわとトイ・ストーリー ポップアップストア 鳥取県米子市（BSS山陰放送） Yahoo!ニュース",
-      "summary": "ちいかわとトイ・ストーリー ポップアップストア 鳥取県米子市（BSS山陰放送） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-21T17:30:34+09:00",
-      "published_display": "2026-09-21 17:30 JST"
+      "published_at": "2026-09-21T21:32:41+09:00",
+      "published_display": "2026-09-21 21:32 JST"
     }
   ]
 }
