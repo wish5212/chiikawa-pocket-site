@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-22T21:02:27.569977+09:00",
-  "generated_at_jst": "2026-09-22 21:02 JST",
+  "generated_at": "2026-09-23T09:03:10.766762+09:00",
+  "generated_at_jst": "2026-09-23 09:03 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -12,45 +12,105 @@
   ],
   "categories": [
     {
-      "key": "goods",
-      "label": "グッズ",
-      "count": 5,
-      "icon": "🎀"
-    },
-    {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 2,
+      "count": 3,
       "icon": "🎬"
     },
     {
       "key": "event",
       "label": "イベント",
-      "count": 2,
+      "count": 3,
       "icon": "🌟"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 3,
+      "count": 6,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「ぼくらの島二郎が150億の男になった！」『映画ちいかわ 人魚の島のひみつ』が興収158.4億突破で2026年のNo.1に - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nOXFXX0lPZWx3UUpQT1ZVWWluZTd1OERzSThYMlNiOHpUSGVaX2ZZMC1NVThUSEZHblM0WjJRMFltWFVXamhXaUZvSmdLQlZPeUFEcQ?oc=5",
-      "source": "ABEMA TIMES",
-      "snippet": "「ぼくらの島二郎が150億の男になった！」『映画ちいかわ 人魚の島のひみつ』が興収158.4億突破で2026年のNo.1に ABEMA TIMES",
-      "summary": "「ぼくらの島二郎が150億の男になった！」『映画ちいかわ 人魚の島のひみつ』が興収158.4億突破で2026年のNo.1に ABEMA TIMES",
+      "title": "「ちいかわ」×コスメブランド「minum」平成文具みたいなアイライナーが登場！ - キャラクター情報サイト",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5iTzhfVWh0S3ZVTWN5X3RsZ1JYZ0QzVm9mM25uaTc3bFJ6aVJiOE8yUmJQRGlQS3V2R3hfTm1FNGd2Zw?oc=5",
+      "source": "キャラクター情報サイト",
+      "snippet": "「ちいかわ」×コスメブランド「minum」平成文具みたいなアイライナーが登場！ キャラクター情報サイト",
+      "summary": "「ちいかわ」×コスメブランド「minum」平成文具みたいなアイライナーが登場！ キャラクター情報サイト",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-23T08:00:33+09:00",
+      "published_display": "2026-09-23 08:00 JST"
+    },
+    {
+      "title": "「ちいかわ」2026ハロウィンデザインが「Talking ODM」に期間限定で追加！えだまめくりまんじゅうなど全6種（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fZjFoV2FLMTgtOG9XdnhQVkgyaUlOZEN6bldxTjg5WWR0SE9mcjJ5T1dZLV9VcmdycVpSVkRnNkh0YjVoNHcxaFZJUVY0eFk3RG9LTk9YZ21UVHZXMGtEZ09nbmQxVGJ4Y2tZQTViWHo4bTdrb2g5bl9SWDZDMUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」2026ハロウィンデザインが「Talking ODM」に期間限定で追加！えだまめくりまんじゅうなど全6種（インサイド） Yahoo!ニュース",
+      "summary": "「ちいかわ」2026ハロウィンデザインが「Talking ODM」に期間限定で追加！えだまめくりまんじゅうなど全6種（インサイド） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-23T07:25:04+09:00",
+      "published_display": "2026-09-23 07:25 JST"
+    },
+    {
+      "title": "興収146億円超「ちいかわ」の世界は かわいいけど世知辛い - 東京新聞",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxNldGSjYxdTdka0llb1BCN1VFN09TZlhlMzNsUU5OMHAzcUtLdEhldUNvUXBxNDNEbFpUM01UQWNBVWVOUGpxaEtJWVpMdE5fTUdRTS1aSnQ4WEZCbHBuNUtNTQ?oc=5",
+      "source": "東京新聞",
+      "snippet": "興収146億円超「ちいかわ」の世界は かわいいけど世知辛い 東京新聞",
+      "summary": "興収146億円超「ちいかわ」の世界は かわいいけど世知辛い 東京新聞",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-23T07:12:17+09:00",
+      "published_display": "2026-09-23 07:12 JST"
+    },
+    {
+      "title": "グミは“人魚の形”…！「映画ちいかわ ダイカットステッカー付きグミ」に、島二郎や捕まったラッコたちなど全16種が収録 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13XzhKYzNxQTVHdEoxN2laYkg3MTRQdDY5RDBfMngxaHpmek96dUlOOHNNeFQxczlfVFNteWt3QTFta2kySnk4bERMYm1DY0lRWDRjSXpub1gyLUs2Wk5B?oc=5",
+      "source": "Infoseek",
+      "snippet": "グミは“人魚の形”…！「映画ちいかわ ダイカットステッカー付きグミ」に、島二郎や捕まったラッコたちなど全16種が収録 Infoseek",
+      "summary": "グミは“人魚の形”…！「映画ちいかわ ダイカットステッカー付きグミ」に、島二郎や捕まったラッコたちなど全16種が収録 Infoseek",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-22T20:49:00+09:00",
-      "published_display": "2026-09-22 20:49 JST"
+      "published_at": "2026-09-23T00:10:03+09:00",
+      "published_display": "2026-09-23 00:10 JST"
+    },
+    {
+      "title": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「簡単ッッッ!!簡単ッッ!!!」に視聴者脱帽!? アニメ『ちいかわ』第380話「パラレルワールド⑥」はキャストクレジットに並ぶハチワレの名前にも注目 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLc2FRNlByREFZdDE2TGd6WXZFSWE2djJGVXl3T2VQNTR0N1FUc2t2d2NNak5MLXhmVV9qMVQ3WGdMX3I1enZYRjVMVXRIdw?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「簡単ッッッ!!簡単ッッ!!!」に視聴者脱帽!? アニメ『ちいかわ』第380話「パラレルワールド⑥」はキャストクレジットに並ぶハチワレの名前にも注目 PASH! PLUS",
+      "summary": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「簡単ッッッ!!簡単ッッ!!!」に視聴者脱帽!? アニメ『ちいかわ』第380話「パラレルワールド⑥」はキャストクレジットに並ぶハチワレの名前に…",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-22T22:31:15+09:00",
+      "published_display": "2026-09-22 22:31 JST"
+    },
+    {
+      "title": "生牡蠣に挑戦したちいかわが涙目に！くりまんじゅうの気前のよさに注目の『ちいかわ』180話 (ABEMA TIMES) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEVxaHNUNWMzZmlUZ0FRR1pfMkJlOFRnUzRkSEVJQzlLaFRVeVJxbGpmZVU3cHpnREtkTWtSVGxobkFxRFJNeUhDcms5ZDBNbjc3N3RCVV9LNW94U21yYWVzTkpEODl6TFc1N1E3SVpDUnh1T2swQW5iT2ZReG5LSVAwU2ZqVjhwRllwcXZ3?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "生牡蠣に挑戦したちいかわが涙目に！くりまんじゅうの気前のよさに注目の『ちいかわ』180話 (ABEMA TIMES) Yahoo!ニュース",
+      "summary": "生牡蠣に挑戦したちいかわが涙目に！くりまんじゅうの気前のよさに注目の『ちいかわ』180話 (ABEMA TIMES) Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-22T21:06:17+09:00",
+      "published_display": "2026-09-22 21:06 JST"
+    },
+    {
+      "title": "生牡蠣に挑戦したちいかわが涙目に！くりまんじゅうの気前のよさに注目の『ちいかわ』180話 | アニメニュース | アニメフリークス - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QNks1SW5UeDgzSnZ4R3lDN0dyUU42ZWFlcXNXVmV4X1ZuZGFvaHpFRTY4T0tZWTlvOHlGTDh4ei1YTFlaQWkwQ1RXMjhqTEhqekJDZA?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "生牡蠣に挑戦したちいかわが涙目に！くりまんじゅうの気前のよさに注目の『ちいかわ』180話 | アニメニュース | アニメフリークス ABEMA TIMES",
+      "summary": "生牡蠣に挑戦したちいかわが涙目に！くりまんじゅうの気前のよさに注目の『ちいかわ』180話 | アニメニュース | アニメフリークス ABEMA TIMES",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-22T21:03:00+09:00",
+      "published_display": "2026-09-22 21:03 JST"
     },
     {
       "title": "休井美郷 ちいかわのお皿使った料理披露!“イタリア最古”のチーズ使った夫のオシャレ手料理も「美味しそう」「作りたい!」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BSDFTNnVXVjVJV2U1dUtEd3BiYmVJOElyeFJQdWFkVEJfMjRXNjhKT0NTSS1iT0c2eHRmelUyNnhLY0VGd2RjWU94bUIwQlp1a0ZRY1hERHNUdTdwM2JPQ0ppRkZyd3FGcjh6YjBFbTUtUE1KOWxiOXU5ZE9NdFU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkpJaW1zZDBGXzhaa0VzM0dwQ3VTelNDSWdCX3hhYy0zbngxRzBTdUU1cThJbkFnRU9LYUxnTDlkQzd4Y0NUNXBIVVhrdzF4bGU2ZjJLOEIzQy0wSVpzSkw1dHA0S04xLVNUOW8yRkxPQ1JGc2o0c0kyU1JwTGVSZENtVlRJMEtBVTlCckt3?oc=5",
       "source": "Yahoo!ニュース",
       "snippet": "休井美郷 ちいかわのお皿使った料理披露!“イタリア最古”のチーズ使った夫のオシャレ手料理も「美味しそう」「作りたい!」 Yahoo!ニュース",
       "summary": "休井美郷 ちいかわのお皿使った料理披露!“イタリア最古”のチーズ使った夫のオシャレ手料理も「美味しそう」「作りたい!」 Yahoo!ニュース",
@@ -60,11 +120,33 @@
       "published_display": "2026-09-22 19:45 JST"
     },
     {
-      "title": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況 - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUbVZOTHdBNkxFeHBINHVLTEllWXpfemJTMVFjWDM1VFNla08yQnRYbGxZSURRdS1SWVhfYW1fN1BmU0htMEFVYUZJTjNWZw?oc=5",
-      "source": "FNNプライムオンライン",
-      "snippet": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況 FNNプライムオンライン",
-      "summary": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況 FNNプライムオンライン",
+      "title": "休井美郷 ちいかわのお皿使った料理披露！“イタリア最古”のチーズ使った夫のオシャレ手料理も「美味しそう」「作りたい！」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DRURDejRrWVVzckdGMnNWYk01Q09PRE5wWU5oVGpxZkFoZlZ0Nm10TG5JQllvQ0NLMXJ6N1RhaW9nSjhEVmJpNFN1YU9JajRQVkU0?oc=5",
+      "source": "めざましmedia",
+      "snippet": "休井美郷 ちいかわのお皿使った料理披露！“イタリア最古”のチーズ使った夫のオシャレ手料理も「美味しそう」「作りたい！」 めざましmedia",
+      "summary": "休井美郷 ちいかわのお皿使った料理披露！“イタリア最古”のチーズ使った夫のオシャレ手料理も「美味しそう」「作りたい！」 めざましmedia",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-22T19:45:00+09:00",
+      "published_display": "2026-09-22 19:45 JST"
+    },
+    {
+      "title": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況（福島テレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMXhhSy1IZ09FZXNsZTRMUEdZbW13Z1hkM3d1SGp1RUFnejNyQk95U29KejFTTExSVWxRTGNYZllhSGRreklCa0VST2pIYTR1SDZCb0hxREdZYk9SREkzXzlLdkRFc09sYy04RXcyYmJUNDVZWUZlb044LWpCaFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況（福島テレビ） Yahoo!ニュース",
+      "summary": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況（福島テレビ） Yahoo!ニュース",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-09-22T19:30:01+09:00",
+      "published_display": "2026-09-22 19:30 JST"
+    },
+    {
+      "title": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況：ニュース - FTV 福島テレビ",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12T21sZHh3aG5fc3BjTjNQSHlWWWIzVTllemMtd3IySzFISUVteDRDa2hRbkdHc0FmVE5TYWxEb1dkVUgzX1VZbWVFR0xvYVZ4NGZhN0JJUTZUeGl2dXdyZ0s4MFVJNXUzTndxVnZ5ZlF4UkIxWG9mSDZB?oc=5",
+      "source": "FTV 福島テレビ",
+      "snippet": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況：ニュース FTV 福島テレビ",
+      "summary": "雨続きのシルバーウィーク 屋内プールの「ハワイアンズ」賑わう ちいかわイベントも大盛況：ニュース FTV 福島テレビ",
       "category_key": "event",
       "category_label": "イベント",
       "published_at": "2026-09-22T19:29:00+09:00",
@@ -80,94 +162,6 @@
       "category_label": "イベント",
       "published_at": "2026-09-22T19:05:00+09:00",
       "published_display": "2026-09-22 19:05 JST"
-    },
-    {
-      "title": "「ちいかわ」ボンボンドロップシール＆ハロウィンマスコットがキュート！マスコットコンプリートセットにはステッカー全8種＆ブランケットが付属（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43akExOURpRi1WLXVFX0IwbC1uc3VuZklUYXRjQWIyeUFDVXVSY3NQeUhyeW1SeUdlTVM2Qmt4TUVqTWJlZGg4Skpfa2xRVjZUZjEwTVhFUno4Uk9FZWRKSnRyZzdLRGV2WTBWYnRWczRWNHl0VWI3RjJDLTAtQVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」ボンボンドロップシール＆ハロウィンマスコットがキュート！マスコットコンプリートセットにはステッカー全8種＆ブランケットが付属（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」ボンボンドロップシール＆ハロウィンマスコットがキュート！マスコットコンプリートセットにはステッカー全8種＆ブランケットが付属（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-22T18:15:02+09:00",
-      "published_display": "2026-09-22 18:15 JST"
-    },
-    {
-      "title": "「ちいかわ」ボンボンドロップシール＆ハロウィンマスコットがキュート！マスコットコンプリートセットにはステッカー全8種＆ブランケットが付属 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN19NeWk4YzlzZlhMTS1ydW1KOGl3OWxsTXBrN0FyXzR4QURFd2h2bjlqcHpjTERLMFdSa1hOXzA3QnItNThBUHVKQ2NRUHlJV2dlWHYxLXI1WWVBNHIzbXNudS1SU1NkelFnZmhEUzc2T1RRY2RfdUQzckI2ZkNjRXBrMkVLSngxdW5RcFVNai1Oc1FVcDJhOXJYZXU2dmcwQ2wyeTRXR0RTWE9OdnBhTlNvQzhTR2NKQUlSRmd6Qy1GV0FoN3dQTHhQUVcxZTF5MnRScTVEb9IBhwFBVV95cUxPU3NqcTNySXV0SFk0ZDhqLWRpNWhKQ3dUMm9Eb3lYNG5VMURQcHlFZlZLb2pmdER0WW1lV3B1ZzltbzVNcUhKM3ltRGEyQnBwNUVIMmdEcXNVYmJobjROeHl2VTFxY19TdFI5OE1sVlNKYnlhYjJUS3RUaVpvZk9LSVNxR0REVzg?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「ちいかわ」ボンボンドロップシール＆ハロウィンマスコットがキュート！マスコットコンプリートセットにはステッカー全8種＆ブランケットが付属 ｄメニューニュース",
-      "summary": "「ちいかわ」ボンボンドロップシール＆ハロウィンマスコットがキュート！マスコットコンプリートセットにはステッカー全8種＆ブランケットが付属 ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-22T18:15:00+09:00",
-      "published_display": "2026-09-22 18:15 JST"
-    },
-    {
-      "title": "ちいかわベーカリーが沖縄に登場 限定ちいかわ黒糖食パンも発売 - 千葉テレビ放送",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNl9RNHN4LXdJN1piYUVMOHZWdDhYU3FBcWpKTTV3aW9IRFAzcjZWYWhpWm1xWXplS1huSGR2VVZBazE1OWF1Q1M1RGVOSG9TN1IzT3NzWC14Rnhzc3p3?oc=5",
-      "source": "千葉テレビ放送",
-      "snippet": "ちいかわベーカリーが沖縄に登場 限定ちいかわ黒糖食パンも発売 千葉テレビ放送",
-      "summary": "ちいかわベーカリーが沖縄に登場 限定ちいかわ黒糖食パンも発売 千葉テレビ放送",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-22T18:03:26+09:00",
-      "published_display": "2026-09-22 18:03 JST"
-    },
-    {
-      "title": "似てるのは『ちいかわ』だけじゃない！映画『オデュッセイア』と同じ背景の映画・ドラマ・アニメを一挙紹介 - 千葉テレビ放送",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xMHZ4Si1JbnlLZFVqYmdHTTM4R1ZMNmJ6bllsTlVJTl91QWxmclZucnBvcUh3S3ZZZ2o1MVkyOEVxVWR3dGdUc1BrM2pramN4MVoyTnVoZm8yR0NUS0c0?oc=5",
-      "source": "千葉テレビ放送",
-      "snippet": "似てるのは『ちいかわ』だけじゃない！映画『オデュッセイア』と同じ背景の映画・ドラマ・アニメを一挙紹介 千葉テレビ放送",
-      "summary": "似てるのは『ちいかわ』だけじゃない！映画『オデュッセイア』と同じ背景の映画・ドラマ・アニメを一挙紹介 千葉テレビ放送",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-22T18:02:46+09:00",
-      "published_display": "2026-09-22 18:02 JST"
-    },
-    {
-      "title": "【ちいかわ】食玩『チョコサプ ちいかわ2』が11月発売！ シークレット1種を含む全14種のフィギュアラインナップ一覧 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YSVYydDViX0wxUFZvZ0JDLVRrLTFyU25fUFY5MXZyZmxIblVIU1FnTVNiVnNNSmY3Ql9yeFVUb2E3ekFFLWsxa1NBRmhRRTZLcWFkUnJ0MA?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわ】食玩『チョコサプ ちいかわ2』が11月発売！ シークレット1種を含む全14種のフィギュアラインナップ一覧 電撃オンライン",
-      "summary": "【ちいかわ】食玩『チョコサプ ちいかわ2』が11月発売！ シークレット1種を含む全14種のフィギュアラインナップ一覧 電撃オンライン",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-22T17:57:00+09:00",
-      "published_display": "2026-09-22 17:57 JST"
-    },
-    {
-      "title": "【ちいかわ】食玩『チョコサプ ちいかわ2』が11月発売！ シークレット1種を含む全14種のフィギュアラインナップ一覧 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82ZW04TEpZWm1XTXJNZGpzMlM5SndqaGhVeFBxZEE0bE04clFIMDFGbnZYeS1GWXI4Vnk4b29pNmRiNXhjZ2tWNHJtbDFTTFQ2YkpYRFhSNzRNUQ?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわ】食玩『チョコサプ ちいかわ2』が11月発売！ シークレット1種を含む全14種のフィギュアラインナップ一覧 電撃オンライン",
-      "summary": "【ちいかわ】食玩『チョコサプ ちいかわ2』が11月発売！ シークレット1種を含む全14種のフィギュアラインナップ一覧 電撃オンライン",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-22T17:57:00+09:00",
-      "published_display": "2026-09-22 17:57 JST"
-    },
-    {
-      "title": "【ミリしら】ちいかわを1ミリも知らない友達に考察させてみたwwww - youtu.be",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wQXNYNzdOQ0g1bW9MdXBIaF9QMEZTWnhKNGpVTC0tS3o5OTE5YzB6c2Nid0NlWWJ3clN3ZmdNemFCUQ?oc=5",
-      "source": "youtu.be",
-      "snippet": "【ミリしら】ちいかわを1ミリも知らない友達に考察させてみたwwww youtu.be",
-      "summary": "【ミリしら】ちいかわを1ミリも知らない友達に考察させてみたwwww youtu.be",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-22T17:30:07+09:00",
-      "published_display": "2026-09-22 17:30 JST"
-    },
-    {
-      "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじ登場 9月24日から販売開始 - eiga.com",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFA5a0xxZ00xSUlGaENmcno2TGNnVDFGSW9oVnFIQjNGOVdScEdESVFHZDJzSUhvSU9pNkFMTA?oc=5",
-      "source": "eiga.com",
-      "snippet": "「ちいかわ」くりまんじゅうだらけのオンラインくじ登場 9月24日から販売開始 eiga.com",
-      "summary": "「ちいかわ」くりまんじゅうだらけのオンラインくじ登場 9月24日から販売開始 eiga.com",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-22T17:00:00+09:00",
-      "published_display": "2026-09-22 17:00 JST"
     }
   ]
 }
