@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-24T09:02:43.074160+09:00",
-  "generated_at_jst": "2026-09-24 09:02 JST",
+  "generated_at": "2026-09-24T21:03:07.046788+09:00",
+  "generated_at_jst": "2026-09-24 21:03 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,20 +14,20 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 6,
+      "count": 3,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 3,
+      "count": 6,
       "icon": "🎬"
+    },
+    {
+      "key": "event",
+      "label": "イベント",
+      "count": 1,
+      "icon": "🌟"
     },
     {
       "key": "other",
@@ -38,136 +38,136 @@
   ],
   "items": [
     {
-      "title": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信 - 電ファミニコゲーマー",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jZWE5Z0ZDSndLNERUOTdLa25YMkt4d3oyMjVnZmJXcVliaDRXSU0wdUNlcm9TZlVNNmdWMkRRYW53UG0wQnhwdmFEN3JVR2R4OTNucXdqUUc?oc=5",
-      "source": "電ファミニコゲーマー",
-      "snippet": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信 電ファミニコゲーマー",
-      "summary": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信 電ファミニコゲーマー",
+      "title": "アニメ『ちいかわ』ついに“あの台詞”の回が来る。“力”に溺れるハチワレがちいかわに武器を向けられ、言い放ったこと - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvWWVvRE1DenZ0QXE0YjFQV1lqakl2c1RTTGw1NWF3b053UDlVeFlOVnYyOEF2WVgyYTdNQ1FzVVZnV3o2UUxkVVlFSHNYbnJFSUEwRlNDZnY2QQ?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "アニメ『ちいかわ』ついに“あの台詞”の回が来る。“力”に溺れるハチワレがちいかわに武器を向けられ、言い放ったこと 電撃オンライン",
+      "summary": "アニメ『ちいかわ』ついに“あの台詞”の回が来る。“力”に溺れるハチワレがちいかわに武器を向けられ、言い放ったこと 電撃オンライン",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-24T08:54:00+09:00",
-      "published_display": "2026-09-24 08:54 JST"
+      "published_at": "2026-09-24T19:59:00+09:00",
+      "published_display": "2026-09-24 19:59 JST"
     },
     {
-      "title": "仮装した姿に出会える！ 【ちいかわパーク】「ハロウィーン限定企画」が9/25より開催。おばけモチーフのグッズなど数量限定オリジナル商品も展開 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iVGFEbTk1WWN6dmtlZDZHZGlYem44a2hkX3lucXM4a3JYQ1NETVBIWm9RdVR1Y09wYktqN3l3XzdvRUhZcHhMVzZwUUNPWUJ1MFRQM3h5OA?oc=5",
-      "source": "朝日新聞",
-      "snippet": "仮装した姿に出会える！ 【ちいかわパーク】「ハロウィーン限定企画」が9/25より開催。おばけモチーフのグッズなど数量限定オリジナル商品も展開 朝日新聞",
-      "summary": "仮装した姿に出会える！ 【ちいかわパーク】「ハロウィーン限定企画」が9/25より開催。おばけモチーフのグッズなど数量限定オリジナル商品も展開 朝日新聞",
+      "title": "【明日から】ちいかわ「ボンボンドロップシール」全3種！おすしモチーフなど、ぷっくりかわいい - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8weFhLWXhDYjBjazlndkdYTVpfcHkzWm41b0xQenpLNFp5c1kwTXh1QUEybDB0WVdkX01tbTVWWTNhbS03WFVjSWVfdEcyT1lqOWVxTVRBcXNRMWc4TzRqVmxteGVnX1ZmZm8xUlJPQVMtX3Zu0gF6QVVfeXFMTTVPUGVXUXZtWnViOWMzZEVENGFMejlnZ0diNjdELW5wUUNaQVNTSGNWZHNiQkk1ZGxfVnhJbldMbkwwUjRsRm9YaF9PNERCZlRVTU92SEM5bUZJb3ZVeFcybEJjcGltT3RXOTZYb3dwWk5PRFNnYUN5ZkE?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "【明日から】ちいかわ「ボンボンドロップシール」全3種！おすしモチーフなど、ぷっくりかわいい ｄメニューニュース",
+      "summary": "【明日から】ちいかわ「ボンボンドロップシール」全3種！おすしモチーフなど、ぷっくりかわいい ｄメニューニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-24T08:37:47+09:00",
-      "published_display": "2026-09-24 08:37 JST"
+      "published_at": "2026-09-24T19:45:00+09:00",
+      "published_display": "2026-09-24 19:45 JST"
     },
     {
-      "title": "くら寿司×ちいかわコラボ中止で“幻の存在”になった『オリジナル寿司皿』、企業が明かした枚数と“行方” - 週刊女性PRIME",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEUGlzcWg5aUF1dVZIOTk4b1kzZjVGTHl5b1VDTnFKZ05qeVlsWmdsWnQ3MkE4My1ySlYwYnBQV05pRzliYm5IZWh2RDBUWnM?oc=5",
-      "source": "週刊女性PRIME",
-      "snippet": "くら寿司×ちいかわコラボ中止で“幻の存在”になった『オリジナル寿司皿』、企業が明かした枚数と“行方” 週刊女性PRIME",
-      "summary": "くら寿司×ちいかわコラボ中止で“幻の存在”になった『オリジナル寿司皿』、企業が明かした枚数と“行方” 週刊女性PRIME",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-09-24T08:00:00+09:00",
-      "published_display": "2026-09-24 08:00 JST"
-    },
-    {
-      "title": "《くら寿司が回答》ちいかわコラボ中止で消えた「幻のグッズ」企業が明かした枚数と“行方” - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OYlVIRlZBTDdGZHJGLXRLQ3VOaXktYVlySHQ5QkVtTk5HYWU4MktPblU2NHVMam1TNXl0bnplNTRRLXJQbkJZWXBraDNQMGZrMGpHRzVoNURHR2VZX1E?oc=5",
-      "source": "Infoseek",
-      "snippet": "《くら寿司が回答》ちいかわコラボ中止で消えた「幻のグッズ」企業が明かした枚数と“行方” Infoseek",
-      "summary": "《くら寿司が回答》ちいかわコラボ中止で消えた「幻のグッズ」企業が明かした枚数と“行方” Infoseek",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-24T08:00:00+09:00",
-      "published_display": "2026-09-24 08:00 JST"
-    },
-    {
-      "title": "「ちいかわパーク」が丸ごとハロウィンに 来場動機を作り出す特別企画 - predge.jp",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE44ZzJvdk9oTWNiMF9KZmZiVVNkQjQ0NmRqajNKTmVOcmh5N3djVjFIbDduN1hBdVdhUkk3T0d3?oc=5",
-      "source": "predge.jp",
-      "snippet": "「ちいかわパーク」が丸ごとハロウィンに 来場動機を作り出す特別企画 predge.jp",
-      "summary": "「ちいかわパーク」が丸ごとハロウィンに 来場動機を作り出す特別企画 predge.jp",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-24T07:00:39+09:00",
-      "published_display": "2026-09-24 07:00 JST"
-    },
-    {
-      "title": "「ちいかわ くりまんじゅうだらけくじ」発売！「ハズレなし」の内容に「ラインナップが神」の声続出 - 千葉テレビ放送",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IR3JWVVdqaFgxX0xaVWhkV2F2OVNHRW5xMFJEWUsxc182eFQ1Wi1NQVBNeTlReEhsNW9vR1lxY2FtYXZxZ0tFYktjMGhGZHR4Wm56b0QzdXhSZk5IOEU0?oc=5",
-      "source": "千葉テレビ放送",
-      "snippet": "「ちいかわ くりまんじゅうだらけくじ」発売！「ハズレなし」の内容に「ラインナップが神」の声続出 千葉テレビ放送",
-      "summary": "「ちいかわ くりまんじゅうだらけくじ」発売！「ハズレなし」の内容に「ラインナップが神」の声続出 千葉テレビ放送",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-24T06:33:22+09:00",
-      "published_display": "2026-09-24 06:33 JST"
-    },
-    {
-      "title": "「ちいかわ くりまんじゅうだらけくじ」発売!「ハズレなし」の内容に「ラインナップが神」の声続出（ふたまん＋） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6VVBRY1FiY1JZbGs3ZmtIWUFGbUJNRnJCZXVUbDBkdVdvQVBKNGJDMnpVYUptV3hVeWt1X3hVaXczWi03OWVLOTdoaFFuVnpDWTdaNW12MDRyaHhiVU1mUHNOaW1sNUhBMnd6VWFUUzNsSV9YcTZ0cUQyZC12WnM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ くりまんじゅうだらけくじ」発売!「ハズレなし」の内容に「ラインナップが神」の声続出（ふたまん＋） Yahoo!ニュース",
-      "summary": "「ちいかわ くりまんじゅうだらけくじ」発売!「ハズレなし」の内容に「ラインナップが神」の声続出（ふたまん＋） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-24T06:30:35+09:00",
-      "published_display": "2026-09-24 06:30 JST"
-    },
-    {
-      "title": "「映画ちいかわ」4DX上映、ペンライト付き応援上映が決定！ 9月のお見送り上映も - 推し楽",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvOTRUUzVWaWhIWVEwalhDSGppOFE3U0VHOFFLTlZPSGs5QmJvQVlOOGpjWHBjVkVPNE9aUkV2ajc5OGhiX2gwc1RQX3E0ODQ2cUE3SnFXRzlMZXdzbUQxMU1RblZNU29ucXNtdUlSNTZZczg?oc=5",
-      "source": "推し楽",
-      "snippet": "「映画ちいかわ」4DX上映、ペンライト付き応援上映が決定！ 9月のお見送り上映も 推し楽",
-      "summary": "「映画ちいかわ」4DX上映、ペンライト付き応援上映が決定！ 9月のお見送り上映も 推し楽",
+      "title": "【自動演奏】映画ちいかわ「机さする」 - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82amQ3M2N2NmE1c1U3QVRpVHlYeGJtbGc3WXJ5M3JDRHNaeHItT2ljeXJ6VHFoY3VJVDNiS1B4Y1JZNFYtMHRoV2o2TnJZLWFHREdDM0xPQTNwUjdL?oc=5",
+      "source": "YouTube",
+      "snippet": "【自動演奏】映画ちいかわ「机さする」 YouTube",
+      "summary": "【自動演奏】映画ちいかわ「机さする」 YouTube",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-24T02:29:54+09:00",
-      "published_display": "2026-09-24 02:29 JST"
+      "published_at": "2026-09-24T19:33:06+09:00",
+      "published_display": "2026-09-24 19:33 JST"
     },
     {
-      "title": "ちいかわ #156〜201【無料ビデオ1週間】 - ABEMA",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LYmpJRE5EWVREQUdlYlc1cW9IU0lZMUVwVW9XSGtJbUdIRGJZS1p2Y0g3TmFqbDFqRjgxLTU4emVXT0dDaU9kQS1qWGdtZDUxbnQ2djR2cXpPRXZ2MC1BdUpCZ0JJZw?oc=5",
-      "source": "ABEMA",
-      "snippet": "ちいかわ #156〜201【無料ビデオ1週間】 ABEMA",
-      "summary": "ちいかわ #156〜201【無料ビデオ1週間】 ABEMA",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-24T01:07:06+09:00",
-      "published_display": "2026-09-24 01:07 JST"
-    },
-    {
-      "title": "「難しい」 映画ちいかわ 人魚の島のひみつ おぎーぬさんの映画レビュー（感想・評価） - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qWjBCVUZYUWtsZXJZeExSdEVNLTd0cFRtbWhtUVUzR2V2OFNic3ZxTkl3VkdzYzh0OGVDQWFaZWktYkpMU3V0enZ4R1lXcU4yQmRJQzdIQkZVdw?oc=5",
+      "title": "「ちいかわ」が1位キープ！新作は2位「踊る大捜査線」、3位「プリキュア」、5位「八つ墓村」【国内映画ランキング】 : 映画ニュース - 映画.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2STg0ckpxdFYzbWFQY2NIeTU5LWdURFgzUDRiZzFPa1A0MTExVWI1UENjVlZ1ZlFxdHZpVEk1Y0tNTnUwTzRWcWV3?oc=5",
       "source": "映画.com",
-      "snippet": "「難しい」 映画ちいかわ 人魚の島のひみつ おぎーぬさんの映画レビュー（感想・評価） 映画.com",
-      "summary": "「難しい」 映画ちいかわ 人魚の島のひみつ おぎーぬさんの映画レビュー（感想・評価） 映画.com",
+      "snippet": "「ちいかわ」が1位キープ！新作は2位「踊る大捜査線」、3位「プリキュア」、5位「八つ墓村」【国内映画ランキング】 : 映画ニュース 映画.com",
+      "summary": "「ちいかわ」が1位キープ！新作は2位「踊る大捜査線」、3位「プリキュア」、5位「八つ墓村」【国内映画ランキング】 : 映画ニュース 映画.com",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-23T21:56:16+09:00",
-      "published_display": "2026-09-23 21:56 JST"
+      "published_at": "2026-09-24T19:00:00+09:00",
+      "published_display": "2026-09-24 19:00 JST"
     },
     {
-      "title": "「チョコサプ ちいかわ2」が11月に発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 1枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9feEs2eFBSV2I2c0MtN09nZk9mVE9HMFMwdTRRX3ZUaFRvbXBHMzl3ak5KVTRYSU1nRGNNRklzWEg0QUF1eDUya2w4cDRtTWd3eWY1TlU2aVpTbDRhSlcyVHZRSGc4SHRURkFMSEUwTGFFS2ZLa0lMekl3?oc=5",
-      "source": "インサイド",
-      "snippet": "「チョコサプ ちいかわ2」が11月に発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 1枚目の写真・画像 インサイド",
-      "summary": "「チョコサプ ちいかわ2」が11月に発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 1枚目の写真・画像 インサイド",
+      "title": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』圧倒的な強さで首位キープ！『踊る大捜査線』最新作は2位発進！ - クランクイン！",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xY3EwbHVwWm1MM016dHhqVjBpVUdrTUxWWVJ2ZkpuQl9NNXNfdjRNa1UtbndkYVJvNEppX01kelpJcEdMb0s3cGJXQWtkaEE?oc=5",
+      "source": "クランクイン！",
+      "snippet": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』圧倒的な強さで首位キープ！『踊る大捜査線』最新作は2位発進！ クランクイン！",
+      "summary": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』圧倒的な強さで首位キープ！『踊る大捜査線』最新作は2位発進！ クランクイン！",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-24T19:00:00+09:00",
+      "published_display": "2026-09-24 19:00 JST"
+    },
+    {
+      "title": "ココリコ遠藤の妻、『映画ちいかわ』鑑賞後の感想を告白「ストーリーが深すぎる…」 - chiba-tv.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xa0lwRjE5VzJVbEZndXFhQ0ZIT0xibjFYOUZnM2Qxbm5oTGZYem1uMkt2aDV3dWNyQlJLbmNmcVNzeXJqQ0NGZGxYeEk3a1k1cXhwNy0xM1NSZnJZejYw?oc=5",
+      "source": "chiba-tv.com",
+      "snippet": "ココリコ遠藤の妻、『映画ちいかわ』鑑賞後の感想を告白「ストーリーが深すぎる…」 chiba-tv.com",
+      "summary": "ココリコ遠藤の妻、『映画ちいかわ』鑑賞後の感想を告白「ストーリーが深すぎる…」 chiba-tv.com",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-24T18:52:48+09:00",
+      "published_display": "2026-09-24 18:52 JST"
+    },
+    {
+      "title": "ちいかわ ふわふわフロッキードール カプセルトイ 10月より発売! - collabo-cafe.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3R4aW5FSC0xZkVkeVJOMy1LU0VGMFlTMklDQ3ZKSnh2TG9qNWFTdEg2dW1udllkQzJSZ1NXLXBvUlhOMG1YbFA3UExmaUpUbmR4aDVscExLVXF4cXJnVjFBX3RMc3BuOVc1bEVQZjF2WHdvMzY2QjNycy1mV3V6LVRRb2pJQVpnMWVBb2ZhaHk?oc=5",
+      "source": "collabo-cafe.com",
+      "snippet": "ちいかわ ふわふわフロッキードール カプセルトイ 10月より発売! collabo-cafe.com",
+      "summary": "ちいかわ ふわふわフロッキードール カプセルトイ 10月より発売! collabo-cafe.com",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-23T21:00:03+09:00",
-      "published_display": "2026-09-23 21:00 JST"
+      "published_at": "2026-09-24T18:46:35+09:00",
+      "published_display": "2026-09-24 18:46 JST"
     },
     {
-      "title": "「チョコサプ ちいかわ2」が11月に発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WmMyTm1FWl9BVkw4d0lmTWN3SXN5RDVIS01fN2hXX1FOX2N2ay1ObHhvUk5zT1QwQVItaEdMOHI1aWhfRkEyckdMbG5PZHlJamFzak1TMHJHTnZrVkhYdW9jSGFlcmRPMlR4Vi0wWGJNU1pVaWNzYklkX1JQZW8?oc=5",
+      "title": "『ちいぽけ』1.5周年記念でピーターパンイベント開催！ちいかわと交流できる「ふれあい」機能も実装 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6dTRpdmF6LWQyQW43d3VFc0tmaThySFRJMW80MUZQUERyd185TW5hMWZTNldKcVNubjdsQ2FtVklpcVg5MGEwbmRNNTFUSlItZXpLeA?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "『ちいぽけ』1.5周年記念でピーターパンイベント開催！ちいかわと交流できる「ふれあい」機能も実装 ABEMA TIMES",
+      "summary": "『ちいぽけ』1.5周年記念でピーターパンイベント開催！ちいかわと交流できる「ふれあい」機能も実装 ABEMA TIMES",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-24T18:40:00+09:00",
+      "published_display": "2026-09-24 18:40 JST"
+    },
+    {
+      "title": "映画ランキング:1位『映画ちいかわ』、2位『踊る大捜査線 N.E.W. ～』、3位『映画名探偵プリキュア!～』 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IeU9QcTZ5a2QzU29UUTVnMEhSRzVYNkhyM1JTX25LcFZJQWhyRUZ4N0RrVHU0dk1Bd2xxS0ZJZXdBT3NtSGZZU2NHMmRJMDhqUldwdExR?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "映画ランキング:1位『映画ちいかわ』、2位『踊る大捜査線 N.E.W. ～』、3位『映画名探偵プリキュア!～』 オリコンニュース",
+      "summary": "映画ランキング:1位『映画ちいかわ』、2位『踊る大捜査線 N.E.W. ～』、3位『映画名探偵プリキュア!～』 オリコンニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-24T18:39:00+09:00",
+      "published_display": "2026-09-24 18:39 JST"
+    },
+    {
+      "title": "『ちいかわ』にオリオンビールCM曲登場。ナガノさんと沖縄の意外なつながりとは？ - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0RTX0h4UnZ4cHRxZWVmTkktSmJwSkxWcjYwalpJOXExUlRZTXZnUUc4MmZCWGdaTVE1MDR2bENzd1QyOUplTVlSR1UzemlGeWZLT3hJSk1SNm9YLTJCaDM1cVlZN0FjRHMyQno0Yk5UTzhWdU8teTJJclUwR0tfNWRGREZUQjZaV3RQMF9CWk4zVHRreTgzYmZHWHR1Zy15WjN30gGoAUFVX3lxTE1DaUlnVnlRTk1yUnZmY0dIOW9obzNPQmlGdURjN3ZMM0x5d3c4TFZaUFlxdzZkemhRRHd2SlJqZHpFUFNmdmhsU01jSnkzTGwzQkNCejJvSkRScFJEdUxqQmI4S1ZsdmctY3NiWExzQnlLckpiVUhVVl9sNktVTllkeUJCa3l5RmtXdXZtWFBRdEE3RkpfLVNrNW1hRGp3UWsyZi1qVUI5TA?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "『ちいかわ』にオリオンビールCM曲登場。ナガノさんと沖縄の意外なつながりとは？ ｄメニューニュース",
+      "summary": "『ちいかわ』にオリオンビールCM曲登場。ナガノさんと沖縄の意外なつながりとは？ ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-24T18:03:00+09:00",
+      "published_display": "2026-09-24 18:03 JST"
+    },
+    {
+      "title": "貴重品管理や持ち歩きに活躍！ 【ちいかわ】の「旅先で役立つアイテム」3選【2026年9月版】（Fav-Log by ITmedia） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aR19iYTVYRGdCTDJUQTRTa2E2YWdNOEp3dTdMcjNRUDNmbkZaR01HVjM5Zl9Sal8yeWVmdTdzenp0b0VsY0Z2eDdXOF9iUmsyaENQbVZiMm9nM3FuOW9WQnRGR2RERWhveVN2SUFSZ3czQWlMcXFNaDBEQmhZcmM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「チョコサプ ちいかわ2」が11月に発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 Yahoo!ニュース",
-      "summary": "「チョコサプ ちいかわ2」が11月に発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-23T21:00:03+09:00",
-      "published_display": "2026-09-23 21:00 JST"
+      "snippet": "貴重品管理や持ち歩きに活躍！ 【ちいかわ】の「旅先で役立つアイテム」3選【2026年9月版】（Fav-Log by ITmedia） Yahoo!ニュース",
+      "summary": "貴重品管理や持ち歩きに活躍！ 【ちいかわ】の「旅先で役立つアイテム」3選【2026年9月版】（Fav-Log by ITmedia） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-24T17:48:00+09:00",
+      "published_display": "2026-09-24 17:48 JST"
+    },
+    {
+      "title": "残り3日間！！「混雑時入場制限あり」【ちいかわ@羽田空港第1ターミナル】期間限定ショップ「限定アイテムずらり」「売り切れる前に急いで(泣)」 - ヨムーノ",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9fTDl5U253bTBLSk5GRTc4QVdiRFVsUE03YTZ5b3RTd3pVQkMzcUtxZG5FcU92OHo0d3UzVWR5Nm1GMkFv?oc=5",
+      "source": "ヨムーノ",
+      "snippet": "残り3日間！！「混雑時入場制限あり」【ちいかわ@羽田空港第1ターミナル】期間限定ショップ「限定アイテムずらり」「売り切れる前に急いで(泣)」 ヨムーノ",
+      "summary": "残り3日間！！「混雑時入場制限あり」【ちいかわ@羽田空港第1ターミナル】期間限定ショップ「限定アイテムずらり」「売り切れる前に急いで(泣)」 ヨムーノ",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-09-24T17:00:28+09:00",
+      "published_display": "2026-09-24 17:00 JST"
     }
   ]
 }
