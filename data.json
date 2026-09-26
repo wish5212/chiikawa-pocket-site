@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-26T09:02:33.259530+09:00",
-  "generated_at_jst": "2026-09-26 09:02 JST",
+  "generated_at": "2026-09-26T21:02:41.885625+09:00",
+  "generated_at_jst": "2026-09-26 21:02 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,7 +14,7 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 1,
+      "count": 7,
       "icon": "🎀"
     },
     {
@@ -24,150 +24,144 @@
       "icon": "🎬"
     },
     {
-      "key": "event",
-      "label": "イベント",
-      "count": 1,
-      "icon": "🌟"
-    },
-    {
       "key": "other",
       "label": "そのほか",
-      "count": 6,
+      "count": 1,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「ちいかわ くりまんじゅうだらけくじ」が大盛り上がり！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kcWEyWW5QS1pqV0dIREp4ZEZMTVVWb0hkbHc0d3UzTWlRSE14NDJTaTFJQ3MtNFctTWxPVW5YT3V5cVMydmFFQm4xR1l2ZUFNT1RMSFhyQnp1eVZVRVd1WDNOeU14a0VVeThCY0xFX0hxSjFWcVJ4Zkp5c1N4ZWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ くりまんじゅうだらけくじ」が大盛り上がり！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも Yahoo!ニュース",
-      "summary": "「ちいかわ くりまんじゅうだらけくじ」が大盛り上がり！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-26T08:36:38+09:00",
-      "published_display": "2026-09-26 08:36 JST"
-    },
-    {
-      "title": "ちいかわ＆ハチワレ＆うさぎのスペシャルデザインも新たにラインナップ！『ちいかわ』のキャラパキがリニューアル！ - 電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zRGVjRks4WXhIcWhxamgtWEdnb1FoZmU2TjlCLVZMYkZYcmRJOEc0MTQ2TzRXTDExLWJDM3RyM2kwU2ZBZ0RMb045Q013a1Jr?oc=5",
-      "source": "電撃ホビーウェブ",
-      "snippet": "ちいかわ＆ハチワレ＆うさぎのスペシャルデザインも新たにラインナップ！『ちいかわ』のキャラパキがリニューアル！ 電撃ホビーウェブ",
-      "summary": "ちいかわ＆ハチワレ＆うさぎのスペシャルデザインも新たにラインナップ！『ちいかわ』のキャラパキがリニューアル！ 電撃ホビーウェブ",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-26T08:00:00+09:00",
-      "published_display": "2026-09-26 08:00 JST"
-    },
-    {
-      "title": "ちいかわから「ヤダーッ」拒絶されたハチワレの悲痛な一言に涙。ナガノさんの“デカワレ”新イラストに考察続出（ハフポスト日本版） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ieldEa3FyaExVcnVRcmdHQkEwU3ktam82dmp0U3VxNWVNRDdpa1lkQnd3OE55UDFuSEd2OEZKU0VHWHIwb0Y0M0lwVVVGTHh0eTV6OGxJOGdFbzdiTkd0UFI2M3d5Z1R3cVlqNTJTeEtERFdDTnQ3THN1YnNsbjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわから「ヤダーッ」拒絶されたハチワレの悲痛な一言に涙。ナガノさんの“デカワレ”新イラストに考察続出（ハフポスト日本版） Yahoo!ニュース",
-      "summary": "ちいかわから「ヤダーッ」拒絶されたハチワレの悲痛な一言に涙。ナガノさんの“デカワレ”新イラストに考察続出（ハフポスト日本版） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-26T07:54:22+09:00",
-      "published_display": "2026-09-26 07:54 JST"
-    },
-    {
-      "title": "アニメ「ちいかわ」のリバイバル放送 なぜ新作を一時休止 背景は #エキスパートトピ（河村鳴紘） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFZTMktuUHM0b0tZYUNaWEs5YlhmRnh5bHF0LUZiRDZfbkQ0RGZyYjNSb243MmI1V2hBT1BBNGVJUTNPbmFpOEdNR2RYOUtXWG9VWDhXUVFJZ0tpNjVNcHZKS3RUNDk1dFQ4UjVDbUw2RW5mLU93OFd5ZzVUWGZiNzNuUHpLWFVK?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "アニメ「ちいかわ」のリバイバル放送 なぜ新作を一時休止 背景は #エキスパートトピ（河村鳴紘） - エキスパート Yahoo!ニュース",
-      "summary": "アニメ「ちいかわ」のリバイバル放送 なぜ新作を一時休止 背景は #エキスパートトピ（河村鳴紘） - エキスパート Yahoo!ニュース",
+      "title": "【映画 ちいかわ】「ホリエモンはセイレーン側」というコメント｜堀江貴文(ホリエモン) - note",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4WUNTR2ppT19SSkxnbXJMdVFiNW1wUXJvN3dKYmpmLXlwRjV3THFwcXY1Q0FYUVlEc0stU3liZkxwTlRVNXdPaWFJSWdrQ2pXdnc?oc=5",
+      "source": "note",
+      "snippet": "【映画 ちいかわ】「ホリエモンはセイレーン側」というコメント｜堀江貴文(ホリエモン) note",
+      "summary": "【映画 ちいかわ】「ホリエモンはセイレーン側」というコメント｜堀江貴文(ホリエモン) note",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-26T07:31:05+09:00",
-      "published_display": "2026-09-26 07:31 JST"
+      "published_at": "2026-09-26T20:46:08+09:00",
+      "published_display": "2026-09-26 20:46 JST"
+    },
+    {
+      "title": "人気の「ちいかわグッズ」を手軽に買えるのは助かる！ダイソー新作「ちいかわ巾着」がかわいい。人気キャラが集合 - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VS2JZMlktd2NxUnJuUFoyTjM2alljZm1DZWdxaVFwMFQ1b0taUlM3Wk45aHNBaURDWDlaUTVYSEh0UUl0bi1NWHpnYm0?oc=5",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "snippet": "人気の「ちいかわグッズ」を手軽に買えるのは助かる！ダイソー新作「ちいかわ巾着」がかわいい。人気キャラが集合 LIMO | くらしとお金の経済メディア",
+      "summary": "人気の「ちいかわグッズ」を手軽に買えるのは助かる！ダイソー新作「ちいかわ巾着」がかわいい。人気キャラが集合 LIMO | くらしとお金の経済メディア",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-26T20:30:00+09:00",
+      "published_display": "2026-09-26 20:30 JST"
+    },
+    {
+      "title": "アニメ『ちいかわ』英語吹き替え版のトレーラーが公開。「これ見て勉強できそうだよね！英語っ！」といった反応も - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2T3I1a0RWb0hFYnFyQkFGUkhMT2tBXzBvQ05ialFLbm1yam1hOWNJWW9vdW1ZU2dJSkNPU2VhRUMxdG5SNFo3YmdWTEFwOXlnSUpyUi1VY3U?oc=5",
+      "source": "電ファミニコゲーマー",
+      "snippet": "アニメ『ちいかわ』英語吹き替え版のトレーラーが公開。「これ見て勉強できそうだよね！英語っ！」といった反応も 電ファミニコゲーマー",
+      "summary": "アニメ『ちいかわ』英語吹き替え版のトレーラーが公開。「これ見て勉強できそうだよね！英語っ！」といった反応も 電ファミニコゲーマー",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-26T19:36:00+09:00",
+      "published_display": "2026-09-26 19:36 JST"
+    },
+    {
+      "title": "映画『ちいかわ』予告を「バンキシャ！」風に読んだら…「顔にモザイクかかってそう」「八つ墓村な感じ」と話題に - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83RHFoWW1JSWR3ZWV4cjZIa09PUHNVbDN1bllIeGdxa0w2dXE5OWZSdVFwT3g1N0lQYUpLUjBmVkVqOTRkYzVxdVNSZEJpYTNkaFJXOEk1T3ZmSVozY2cybklwM1N1Nlg1a3FIeVJhaHVpU3FpbDZWYmt2dkNuLVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "映画『ちいかわ』予告を「バンキシャ！」風に読んだら…「顔にモザイクかかってそう」「八つ墓村な感じ」と話題に Yahoo!ニュース",
+      "summary": "映画『ちいかわ』予告を「バンキシャ！」風に読んだら…「顔にモザイクかかってそう」「八つ墓村な感じ」と話題に Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-26T19:35:01+09:00",
+      "published_display": "2026-09-26 19:35 JST"
+    },
+    {
+      "title": "「あのこを10個ゲット！」ちいかわパークの「まめまめフィギュア」を詰められるポーチ「お気に入りのキャラを選べる！」（LIMO） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lZS1lZWJQd3RueTRGMEE2ajI3bWZETTNPVlA2Mk9CUmZWTm1XUnFmWXNRMHRWTG05T0gyaVY5ZnBRWWV3R2s2T1czU2I2OGpxXy14Sl9TbVdydEFyQVNoN1Jtb1ZWWHJId09uaTU1Mk1mdEdEMmViTTU0RDM0UDA?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「あのこを10個ゲット！」ちいかわパークの「まめまめフィギュア」を詰められるポーチ「お気に入りのキャラを選べる！」（LIMO） Yahoo!ニュース",
+      "summary": "「あのこを10個ゲット！」ちいかわパークの「まめまめフィギュア」を詰められるポーチ「お気に入りのキャラを選べる！」（LIMO） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-26T18:31:32+09:00",
+      "published_display": "2026-09-26 18:31 JST"
+    },
+    {
+      "title": "沖縄で「ちいかわベーカリー」ポップアップ開催へ！ 黒糖を使った“限定食パン”が登場 (クランクイン！) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTFHQ1l0RE4yREFrSy1peGRqQlByTWhTd0RTYkZMd2puMloyNDNhNDVJSnZPZHRSQm1TMVJtMEotMUJJNjV6cjVESkRDaXl0dVEza0tiTFVfN2xSb25hdVJ1dU5lRzlZd0IxUnp5TWF0cVdMX3pZR0R0bjdZNFA5OUR4QVhnRzBQejducW93?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "沖縄で「ちいかわベーカリー」ポップアップ開催へ！ 黒糖を使った“限定食パン”が登場 (クランクイン！) Yahoo!ニュース",
+      "summary": "沖縄で「ちいかわベーカリー」ポップアップ開催へ！ 黒糖を使った“限定食パン”が登場 (クランクイン！) Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-26T17:38:41+09:00",
+      "published_display": "2026-09-26 17:38 JST"
+    },
+    {
+      "title": "沖縄で「ちいかわベーカリー」ポップアップ開催へ！ 黒糖を使った“限定食パン”が登場（クランクイン！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zLVZLbXZJeHQ5Z0ZYVHJWcGhBc0RUaDRsZVBlRTRSaUNqUC10QnNCMzFnaWp0UVN3aVdBZ2NMMi1RMWIwb0xmYndFOW0zMXhCcU1hRHZVQVVhZzBWdU1UNTRJNEdYaXVpS3BDRUxvcXdoVVo1MDZ4eFo1Q3VZQTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "沖縄で「ちいかわベーカリー」ポップアップ開催へ！ 黒糖を使った“限定食パン”が登場（クランクイン！） Yahoo!ニュース",
+      "summary": "沖縄で「ちいかわベーカリー」ポップアップ開催へ！ 黒糖を使った“限定食パン”が登場（クランクイン！） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-26T17:00:00+09:00",
+      "published_display": "2026-09-26 17:00 JST"
+    },
+    {
+      "title": "「ちいかわ」ハチワレ、うさぎたちと新年を☆お年玉袋や、ブックマーク＆コレクションファイルも♪ 新作グッズ続々 1枚目の写真・画像 - 超！アニメディア",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45bGxzc3RBSEExTmRUMWxvdXVGVUY2R2ZWTmJ2YjU4U3BLSGM3RkFFZXV4ZC1pajlBN1VMcVY0NWVpV3hDb1N0SWNlNHotQmN6dHNmMVdfRWFKY1h0M2xwY2cwcW9zTmk3ZEExSjU2RU8wTU0?oc=5",
+      "source": "超！アニメディア",
+      "snippet": "「ちいかわ」ハチワレ、うさぎたちと新年を☆お年玉袋や、ブックマーク＆コレクションファイルも♪ 新作グッズ続々 1枚目の写真・画像 超！アニメディア",
+      "summary": "「ちいかわ」ハチワレ、うさぎたちと新年を☆お年玉袋や、ブックマーク＆コレクションファイルも♪ 新作グッズ続々 1枚目の写真・画像 超！アニメディア",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-26T14:50:20+09:00",
+      "published_display": "2026-09-26 14:50 JST"
     },
     {
       "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hRDNmOU5fMWQ1VGRrcm0wbXozQTBpNkh5UWNYZzR4aTZfR191NTN0QnBMYUdfWUpfbktIZ2NteEtQTHVHcU1GeW9Sd3VxRUdNZEE2dDB4WTEzdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CS0d6dGU3SWxCQkFKeXplRkI1UFl5Z3RvWmtBUkpVdWlzcHdIQTIxeGRpN1NVNjNvZVRkRy1lNzB5ZGRKQWhjY19Gajh4aUx3QUNYYXpaSTZxUQ?oc=5",
       "source": "オリコンニュース",
       "snippet": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送 オリコンニュース",
       "summary": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送 オリコンニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-26T07:20:26+09:00",
-      "published_display": "2026-09-26 07:20 JST"
+      "published_at": "2026-09-26T13:36:19+09:00",
+      "published_display": "2026-09-26 13:36 JST"
     },
     {
-      "title": "9月26日(土)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TczRZOUZ5bzhSZDdvWkRkbEN6UjJNRjR2TDBGSWxvNnhoYzZpbFBGMVVJZUNXRklsNGpXYTM3VG1MYkNyZ0JBclF6dFN0Qk1pMndn?oc=5",
-      "source": "めざましmedia",
-      "snippet": "9月26日(土)の「ちいかわ占い」 めざましmedia",
-      "summary": "9月26日(土)の「ちいかわ占い」 めざましmedia",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-26T07:00:00+09:00",
-      "published_display": "2026-09-26 07:00 JST"
+      "title": "ちいかわのトラベルシリーズ第2弾が登場♡旅行に便利な新作グッズ全6種 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WOWZzTUFETWN6Nk83LWlHOEZWWjEtYUZSb1BsMW9pUDZnTm5aZ0ZheXJNX2xOQ1lzTUNlOEtZYkhjMHFBNmEwZUUyQjhLUUtUam1FVW9sMkZ5dTJ3c1dEbVZZOC1fYkxQdkZhVDBYN2tJZTRRTFZV0gF8QVVfeXFMUEtlLWtaUlBBVTh3SlIyVHJlNFhZSFFXUUc1cG51MFVfLVNBTGV2TS1aU0h4aWNGRlZYUXlzZzhsLUtkTVFhbXBKLXJKME1RYzJSckFweDR6Y29ZaTJpODBUSEtPZXFsVVVFczFJbzRSX1Ixa25WRS14d3ljbQ?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "ちいかわのトラベルシリーズ第2弾が登場♡旅行に便利な新作グッズ全6種 ｄメニューニュース",
+      "summary": "ちいかわのトラベルシリーズ第2弾が登場♡旅行に便利な新作グッズ全6種 ｄメニューニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-26T13:00:00+09:00",
+      "published_display": "2026-09-26 13:00 JST"
     },
     {
-      "title": "「ジョジョ」第9部9巻が初登場1位 第7部アニメ版2nd & 3rd STAGEも配信 「ちいかわ」映画は動員1130万人を突破［コミックスベストセラー］（Book Bang） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vS0JVXzdXeFBzOXlGYzNXcDBFZWk4RVlKaHhnM0FyTm1tbUJKTk8tM2JiRHczN2luWUgzeWNMMHRlOG9wZ2dVXzVWd29PTzBqVUVvSlFYWFo1ZWVRLVh4d3JSemp1eUhTMENxMUpzY3Eya3BXeWhBS016YUxoWXc?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ジョジョ」第9部9巻が初登場1位 第7部アニメ版2nd & 3rd STAGEも配信 「ちいかわ」映画は動員1130万人を突破［コミックスベストセラー］（Book Bang） Yahoo!ニュース",
-      "summary": "「ジョジョ」第9部9巻が初登場1位 第7部アニメ版2nd & 3rd STAGEも配信 「ちいかわ」映画は動員1130万人を突破［コミックスベストセラー］（Book Bang） Yahoo!ニ…",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-26T06:09:08+09:00",
-      "published_display": "2026-09-26 06:09 JST"
+      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～!」「逆に今までなかったんだッ!!」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PaWdQbENvZWxjUG1ieU15Umh2dnp2d1NuZDZ4MW1EWmZvclNjcjRpdFNmRkl5dGhrT1FHa0VtQ29yMXU0V2NuSVhEZ0tyaW1aT0VjdjJpU0VLUQ?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～!」「逆に今までなかったんだッ!!」 オリコンニュース",
+      "summary": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～!」「逆に今までなかったんだッ!!」 オリコンニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-26T12:48:30+09:00",
+      "published_display": "2026-09-26 12:48 JST"
     },
     {
-      "title": "［大分県］ユニークかかしお出迎え 「りくりゅう」「ちいかわ」など100体 天瀬町本城地区で「まつり」 - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TMTdabXpxUWxOMW5lTDhSbWVBUHJqRjlNSmEzZkllMEs4djdUeWVxNDVjay15S1VfMFNqSmdDd1ZtNFZpTW1pSGdldWhfWUhsa2hYZUx3?oc=5",
-      "source": "西日本新聞me",
-      "snippet": "［大分県］ユニークかかしお出迎え 「りくりゅう」「ちいかわ」など100体 天瀬町本城地区で「まつり」 西日本新聞me",
-      "summary": "［大分県］ユニークかかしお出迎え 「りくりゅう」「ちいかわ」など100体 天瀬町本城地区で「まつり」 西日本新聞me",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-09-26T06:00:00+09:00",
-      "published_display": "2026-09-26 06:00 JST"
-    },
-    {
-      "title": "ちいかわ #202〜240【無料ビデオ1週間】 - ABEMA",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtNkxoZHZJRWZOV3RJbGY2VzNUVE5qY0RScEtKZlRXZWt1YTJFS2lXVHlOS1lWemRST3hpMkZhZXdnRVRseC12T3J2dmdPVm42RnNCdnhSUk1KXzc3U21DdUxyRUlydw?oc=5",
-      "source": "ABEMA",
-      "snippet": "ちいかわ #202〜240【無料ビデオ1週間】 ABEMA",
-      "summary": "ちいかわ #202〜240【無料ビデオ1週間】 ABEMA",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-26T05:10:49+09:00",
-      "published_display": "2026-09-26 05:10 JST"
-    },
-    {
-      "title": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「言わないでしょそんな事ッ 言わないよねェッ」の哀しい声色に胸が締め付けられる…！ アニメ『ちいかわ』第381話「パラレルワールド⑦」が見逃し配信中 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EN0VKR25vUWlRSDJSanl5a2dFRWR4aDBSdW12all2NEtjVmgwUXNBcjVKWU5IbXF3M0lEQ1NSeDFPaTNSZnNkbHYwMkExdw?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「言わないでしょそんな事ッ 言わないよねェッ」の哀しい声色に胸が締め付けられる…！ アニメ『ちいかわ』第381話「パラレルワールド⑦」が見逃し配信中 PASH! PLUS",
-      "summary": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「言わないでしょそんな事ッ 言わないよねェッ」の哀しい声色に胸が締め付けられる…！ アニメ『ちいかわ』第381話「パラレルワールド⑦」が見逃し…",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-26T04:11:45+09:00",
-      "published_display": "2026-09-26 04:11 JST"
-    },
-    {
-      "title": "「ちいかわ」がChannel Oishiiに登場！ “食”にまつわる厳選20話を配信 - lalalausa.com",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SN2hXZnlfMHRJQUc4VUJScTBfaW10blpxdkktVUozdHJ4Q0FfcmRvVlNuNzVieTRoTmhwMV9sVXl5R1MyOXBoWlljaFQ?oc=5",
-      "source": "lalalausa.com",
-      "snippet": "「ちいかわ」がChannel Oishiiに登場！ “食”にまつわる厳選20話を配信 lalalausa.com",
-      "summary": "「ちいかわ」がChannel Oishiiに登場！ “食”にまつわる厳選20話を配信 lalalausa.com",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-26T02:27:14+09:00",
-      "published_display": "2026-09-26 02:27 JST"
-    },
-    {
-      "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！ - AERA DIGITAL",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oemo1VUY4QTdxT3kzUGlmNFRfS0lxZ1lweGUzeTJHUFg1Nk96R2x0U1JJT01sbHh3QWlzWl9ud1Nzb1B3TGRLV1JXQVZEZ1hN?oc=5",
-      "source": "AERA DIGITAL",
-      "snippet": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！ AERA DIGITAL",
-      "summary": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！ AERA DIGITAL",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-26T01:16:04+09:00",
-      "published_display": "2026-09-26 01:16 JST"
+      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～!」「逆に今までなかったんだッ!!」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wRFoxNXVRSlNNby1SVk4xZWh4Wnc3b2xhczRkcUxSaVdrRTB5aE1DN1RhaTJRaV9YZVBoamliYjM2dTg4dkM2dlExbjcyaEVUNG1NTXVDTVJJRXNyM3MtVTZqZ0M?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～!」「逆に今までなかったんだッ!!」 オリコンニュース",
+      "summary": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～!」「逆に今までなかったんだッ!!」 オリコンニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-26T12:45:16+09:00",
+      "published_display": "2026-09-26 12:45 JST"
     }
   ]
 }
