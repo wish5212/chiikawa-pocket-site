@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-29T09:03:19.828066+09:00",
-  "generated_at_jst": "2026-09-29 09:03 JST",
+  "generated_at": "2026-09-29T21:04:21.361355+09:00",
+  "generated_at_jst": "2026-09-29 21:04 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,160 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 3,
+      "count": 4,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 4,
+      "count": 5,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 3,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "第382話 パラレルワールド(8)／クラッキング - TVer",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FYUtwWjA1dUNnaEJzRlhCQ3pGUmUwaFBYalpwczJSNnU4anNkU2dqWXBaRmxoUFpBNmUzV24xMUFXVzFDXy1CZGJfNA?oc=5",
-      "source": "TVer",
-      "snippet": "第382話 パラレルワールド(8)／クラッキング TVer",
-      "summary": "第382話 パラレルワールド(8)／クラッキング TVer",
+      "title": "「うさぎに渡したらそうなるだろ」一瞬でテープを剥がされ涙…視聴者は結末を即察知『ちいかわ』181話（ABEMA TIMES） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2QlZfeW5xRktBUzVwb3FPRnBPcmt1am8zU19tQUtRS3NHc213UTA2a2hoQ1pKNlRiV25fSWdhY25rcjNmQ2Rjd1gzZERTWW12ekVSWDRvcHMwWkNMNGw1RS1rQkU2ZHJPdzgyTUdnMzlZaEZQTl9PalNqUEZGTmc?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「うさぎに渡したらそうなるだろ」一瞬でテープを剥がされ涙…視聴者は結末を即察知『ちいかわ』181話（ABEMA TIMES） Yahoo!ニュース",
+      "summary": "「うさぎに渡したらそうなるだろ」一瞬でテープを剥がされ涙…視聴者は結末を即察知『ちいかわ』181話（ABEMA TIMES） Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-09-29T08:19:17+09:00",
-      "published_display": "2026-09-29 08:19 JST"
+      "published_at": "2026-09-29T20:45:32+09:00",
+      "published_display": "2026-09-29 20:45 JST"
     },
     {
-      "title": "アニメ『ちいかわ』 第382話「パラレルワールド⑧／クラッキング」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CeklzdnN3WWxISzFaV2hfNEhtZW55aUpYSmRqbnRUR0E4dDdXMmlTemVxSG51ZUVkV1MxU1lpNUw2QTVYMlNxaXRJQTBHRV9MbGJr?oc=5",
-      "source": "めざましmedia",
-      "snippet": "アニメ『ちいかわ』 第382話「パラレルワールド⑧／クラッキング」 めざましmedia",
-      "summary": "アニメ『ちいかわ』 第382話「パラレルワールド⑧／クラッキング」 めざましmedia",
+      "title": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開（クランクイン！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVFQ4U21WZ0U0RFlCSGwzT0lWb0NoRTdIbWVnU25EY1cyd0R4X3dvd1hYend3ODV1TXY1T1JVVlNpLTVjenRYVThUbjZQNkRXbEJMVVhVVzRkS3IwZEVCRjE2Zkp6emt5TDFPWl9LZ0lpYUoyc2FfdUpHM3VzX0U?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開（クランクイン！） Yahoo!ニュース",
+      "summary": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開（クランクイン！） Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-29T08:00:00+09:00",
-      "published_display": "2026-09-29 08:00 JST"
+      "published_at": "2026-09-29T20:45:00+09:00",
+      "published_display": "2026-09-29 20:45 JST"
     },
     {
-      "title": "【公式】『ちいかわ』第382話「パラレルワールド⑧／クラッキング」※1週間限定配信＜10/6 (火)AM7:59まで - youtu.be",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MaFNSSDZtZHhZWmNKQlcxeUJndTNGMGNnVHF6RHpjbUpDS2Y5cHpVN2F1Um1Ubk9uYV9xd0JZeE5fVjlwY0JZTC1yTFhRbWZ0bzI3S0pVdEIydHRG?oc=5",
-      "source": "youtu.be",
-      "snippet": "【公式】『ちいかわ』第382話「パラレルワールド⑧／クラッキング」※1週間限定配信＜10/6 (火)AM7:59まで youtu.be",
-      "summary": "【公式】『ちいかわ』第382話「パラレルワールド⑧／クラッキング」※1週間限定配信＜10/6 (火)AM7:59まで youtu.be",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-29T08:00:00+09:00",
-      "published_display": "2026-09-29 08:00 JST"
-    },
-    {
-      "title": "オキシクリーン×『ちいかわ』限定パッケージが登場！ 原作のお助けアイテムがまさかの公式コラボ - toy-people.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsWlI4eXphMUt1eDVGR0ROMWNiSF9oeC1KWUlmb0NtVEhUUFc2UG1sYzk0a1NJdjVFd084RlNVemNpVTlRdzhoZjVmNHRWb2ZY?oc=5",
-      "source": "toy-people.com",
-      "snippet": "オキシクリーン×『ちいかわ』限定パッケージが登場！ 原作のお助けアイテムがまさかの公式コラボ toy-people.com",
-      "summary": "オキシクリーン×『ちいかわ』限定パッケージが登場！ 原作のお助けアイテムがまさかの公式コラボ toy-people.com",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-09-29T07:34:02+09:00",
-      "published_display": "2026-09-29 07:34 JST"
-    },
-    {
-      "title": "【ちいかわベーカリー】2周年を記念して、ちいかわたちがコロネになったマスコット登場！（アニメージュプラス） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMV0Y2TklyQVdQbDlKWWN5QnY1cjd0Q2hsbE52RDVZMEd6VTJWUV9JVHFBejRRM0Y2WlNrNVpqUjJ4X1dzcWM5R0Y3cHUxMWc3Y3dGWXNGalE4Q3VONVlvLTEtVmNJNXh3VnF3czgxZmtuVWpNMGVNTE9rYklOZ28?oc=5",
+      "title": "映画ちいかわ第6弾特典はペアのチャームミニフィギュア！配布時期に注意、興収168.5億円で歴代14位まで浮上（LIMO） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcDZrZndLQ0FSSWVVMUdpSFNuZkNSSTN4el9IYlJPSjY0MjZ1OHRsc09HcGtSYTBQaFUzbUpyalZsZmxpNU53NFBKNS16c0c1ekZUWktNWS1adGtubExiS0ZmaVRzandCVXV5b2ZkdWdrd1FTRW1kSEVUUlNfazg?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【ちいかわベーカリー】2周年を記念して、ちいかわたちがコロネになったマスコット登場！（アニメージュプラス） Yahoo!ニュース",
-      "summary": "【ちいかわベーカリー】2周年を記念して、ちいかわたちがコロネになったマスコット登場！（アニメージュプラス） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-29T07:31:26+09:00",
-      "published_display": "2026-09-29 07:31 JST"
-    },
-    {
-      "title": "酒好きの父に『ちいかわ』グッズをあげたら...⇒「その使い方があったか！」「ベストアンサー」と反響（ハフポスト日本版） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14ckYzZTRNMXV3Y18tUTdLTXUzclA1eVVQZEthaS1QcWdQXzhzWGYwSzRidHNVQzdfdFZmTU9zUi13eU9JQ0pfRmFmM1RFaDdyZjc2RmpaeFVGTGIzWWNBT3JZV3V3clQxdmNVM0J2U3RBbXY5ak5acF94N0lWUEk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "酒好きの父に『ちいかわ』グッズをあげたら...⇒「その使い方があったか！」「ベストアンサー」と反響（ハフポスト日本版） Yahoo!ニュース",
-      "summary": "酒好きの父に『ちいかわ』グッズをあげたら...⇒「その使い方があったか！」「ベストアンサー」と反響（ハフポスト日本版） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-29T07:02:40+09:00",
-      "published_display": "2026-09-29 07:02 JST"
-    },
-    {
-      "title": "9月29日(火)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mc1lkRnlhanQ2am9vV0hCaDNyYWt0OGVpcDBiLTdEN21ocG5aTlBjb2VZeUF2OHpWM0JFRVZIN0FoOVpZMi1ieGF4M3NRVVF6a19B?oc=5",
-      "source": "めざましmedia",
-      "snippet": "9月29日(火)の「ちいかわ占い」 めざましmedia",
-      "summary": "9月29日(火)の「ちいかわ占い」 めざましmedia",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-29T07:00:00+09:00",
-      "published_display": "2026-09-29 07:00 JST"
-    },
-    {
-      "title": "クラシコ×『ちいかわ』の医療用スクラブが登場！ かわいい仲間たちが医療現場に寄り添う - toy-people.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ETGtWR1pycmRORGhZMFlwV01pOVE2YW9mbDd0dXY0T19pQU96LTV4b2NUS0xVWG43a1JYaHdpUDltRmxKZUY2R1JOdFdlNzRz?oc=5",
-      "source": "toy-people.com",
-      "snippet": "クラシコ×『ちいかわ』の医療用スクラブが登場！ かわいい仲間たちが医療現場に寄り添う toy-people.com",
-      "summary": "クラシコ×『ちいかわ』の医療用スクラブが登場！ かわいい仲間たちが医療現場に寄り添う toy-people.com",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-29T06:57:14+09:00",
-      "published_display": "2026-09-29 06:57 JST"
-    },
-    {
-      "title": "アニメ「ちいかわ」10月2日～12月25日は人気シリーズのリバイバル放送に シリーズをまとめた特別動画も配信（映画.com） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PcEVZRWxPbV9aVEhIbG9ZYnZuVEZ5M1lFeXlvLUJLYXdnNFJuWXB2cEJPUDRqdUZHdGtYTjBVa0g5WWMwWTJCMVNfUF9yNXRUNEZKUlVXVnFfZmZKNWFVWERkaTMxLWIzRzBIRmg4Zm5uam9pQ0lrajlMdWhoUWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "アニメ「ちいかわ」10月2日～12月25日は人気シリーズのリバイバル放送に シリーズをまとめた特別動画も配信（映画.com） Yahoo!ニュース",
-      "summary": "アニメ「ちいかわ」10月2日～12月25日は人気シリーズのリバイバル放送に シリーズをまとめた特別動画も配信（映画.com） Yahoo!ニュース",
+      "snippet": "映画ちいかわ第6弾特典はペアのチャームミニフィギュア！配布時期に注意、興収168.5億円で歴代14位まで浮上（LIMO） Yahoo!ニュース",
+      "summary": "映画ちいかわ第6弾特典はペアのチャームミニフィギュア！配布時期に注意、興収168.5億円で歴代14位まで浮上（LIMO） Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-29T06:01:37+09:00",
-      "published_display": "2026-09-29 06:01 JST"
+      "published_at": "2026-09-29T19:35:47+09:00",
+      "published_display": "2026-09-29 19:35 JST"
     },
     {
-      "title": "ちいかわ × オキシクリーン ピンクの限定パッケージ 10月2日発売! - コラボカフェ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaEd4bWRvZHBVN0dNejNIeUlXQ0c1RVhCUTNmYlhlVHBzR0syZ2RVMVdsbHJzMG5KNTNzTFM2N1FvMl9abU1IZnBuWExlNjVpWHBDbTA1TGdVeU95aVpwWjJSQTY2TDA3NlJ4WjJPUlpnNEVRRjVJZ3E3dndOcTJRNGhodw?oc=5",
+      "title": "ちいかわに始まり、ちいかわで終わる９月 - lee.hpplus.jp",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVEM4eDJ5V3R0bFBlaXppQjFFd0x6c1Z2bldoT2RaM2VhT3daQ3pITWg2cThFTUx3OVdkQXNQNWVvdkw4RmtXbTByY1EtNnVnR3c?oc=5",
+      "source": "lee.hpplus.jp",
+      "snippet": "ちいかわに始まり、ちいかわで終わる９月 lee.hpplus.jp",
+      "summary": "ちいかわに始まり、ちいかわで終わる９月 lee.hpplus.jp",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-29T19:33:36+09:00",
+      "published_display": "2026-09-29 19:33 JST"
+    },
+    {
+      "title": "ローソンで発見！『映画ちいかわ』「ステッカー付きグミ」がコレクションしたくなるかわいさ♪【新作食玩レビュー】 - ウレぴあ総研",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TRUVNNGpyU2xNT1NDMS1YSHFLM1ZiNUxnOXczYzIyWkNZUkVfMUVMZzI5VGxlUjk4UldIczJhMzNIT2JtZ2FNX2tvUFVMcUlFZ1E?oc=5",
+      "source": "ウレぴあ総研",
+      "snippet": "ローソンで発見！『映画ちいかわ』「ステッカー付きグミ」がコレクションしたくなるかわいさ♪【新作食玩レビュー】 ウレぴあ総研",
+      "summary": "ローソンで発見！『映画ちいかわ』「ステッカー付きグミ」がコレクションしたくなるかわいさ♪【新作食玩レビュー】 ウレぴあ総研",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-29T19:19:00+09:00",
+      "published_display": "2026-09-29 19:19 JST"
+    },
+    {
+      "title": "『映画ちいかわ』入場特典第6弾はちいかわ＆ハチワレ、うさぎ＆モモンガのチャームミニフィギュア！ 映画でも屈指の名シーンを再現 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kcWQyNVVselhsbjZrVW9RSDR2VTIxcDVRMGlkTzZJMG0wMzdCUG93UktQSHVQYnNkaDl3am1na0lUMXVadGg3akJhMmhDQQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "『映画ちいかわ』入場特典第6弾はちいかわ＆ハチワレ、うさぎ＆モモンガのチャームミニフィギュア！ 映画でも屈指の名シーンを再現 PASH! PLUS",
+      "summary": "『映画ちいかわ』入場特典第6弾はちいかわ＆ハチワレ、うさぎ＆モモンガのチャームミニフィギュア！ 映画でも屈指の名シーンを再現 PASH! PLUS",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-29T19:06:35+09:00",
+      "published_display": "2026-09-29 19:06 JST"
+    },
+    {
+      "title": "ちいかわに惹かれてアイライナーを購入しました - lee.hpplus.jp",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96OTVUMHdCX1dnb0w0WmhxWjFaRUtkakhwNnJKWGVZNzR3bENxbDdSS0NoOE9PcnVJbkZOaXg1cHFQQUR6OXZDd0pCWnFmcXJwMGc?oc=5",
+      "source": "lee.hpplus.jp",
+      "snippet": "ちいかわに惹かれてアイライナーを購入しました lee.hpplus.jp",
+      "summary": "ちいかわに惹かれてアイライナーを購入しました lee.hpplus.jp",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-29T19:03:10+09:00",
+      "published_display": "2026-09-29 19:03 JST"
+    },
+    {
+      "title": "【週末アニメ映画ランキング】2位の「映画ちいかわ」累計興収168億円突破 3位の「映画名探偵プリキュア！」は累計9億円突破 - アニメハック",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lVkl1cTdYemRmRzU5ZmhXTEtaRFlqVjBvYWJteHJUeV9JVXdoUkJUY2dObDQ3a2hMU1VzRGR2VjRzZmFlazd1U2ZkUTBhaWc4enBBcFp1ZjRHckRDWlNESWNHWnF5dw?oc=5",
+      "source": "アニメハック",
+      "snippet": "【週末アニメ映画ランキング】2位の「映画ちいかわ」累計興収168億円突破 3位の「映画名探偵プリキュア！」は累計9億円突破 アニメハック",
+      "summary": "【週末アニメ映画ランキング】2位の「映画ちいかわ」累計興収168億円突破 3位の「映画名探偵プリキュア！」は累計9億円突破 アニメハック",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-29T19:00:00+09:00",
+      "published_display": "2026-09-29 19:00 JST"
+    },
+    {
+      "title": "ちいかわベーカリー 2周年 コロネなマスコット 10月15日より! - コラボカフェ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkZhRzB1bEhiMEdrZ2pnc2JIQld1T25IM3hBdFB5a21VUE5VUmprYzg2QXYtZ2ZCRVJ0b0wxN04yM0M2X3FwQ0hWLUZPa3R5VzlEc0QtRmNhWHRJclJKU3k0ZHFPMkVHNWdMY1pzalg2REtWUzFFQWVkTEsybzNZMXZQTFNudzM1NENZ?oc=5",
       "source": "コラボカフェ",
-      "snippet": "ちいかわ × オキシクリーン ピンクの限定パッケージ 10月2日発売! コラボカフェ",
-      "summary": "ちいかわ × オキシクリーン ピンクの限定パッケージ 10月2日発売! コラボカフェ",
+      "snippet": "ちいかわベーカリー 2周年 コロネなマスコット 10月15日より! コラボカフェ",
+      "summary": "ちいかわベーカリー 2周年 コロネなマスコット 10月15日より! コラボカフェ",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-28T22:12:43+09:00",
-      "published_display": "2026-09-28 22:12 JST"
+      "published_at": "2026-09-29T18:56:01+09:00",
+      "published_display": "2026-09-29 18:56 JST"
     },
     {
-      "title": "【ちいかわ】映画ちいかわのステッカー付き新食玩を開封レポ！映画ならではのステッカー出ました！（jsc） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2dJcmdSRlZ6TG9TTnpLRXZoLTI0cGdHYnFaS1lPXzNJdnVHb0UwVXpNUHVlYklGMGs1ZnhPSnA3TERhTXVuQ0RDREJaM3V4RVMtelFvQnBubkpvZEtXWENUaFl5bGFHeS1ROHFYVHRaOEdIY080T3VCZnFrMkp5emNYcjUwaDI0?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【ちいかわ】映画ちいかわのステッカー付き新食玩を開封レポ！映画ならではのステッカー出ました！（jsc） - エキスパート Yahoo!ニュース",
-      "summary": "【ちいかわ】映画ちいかわのステッカー付き新食玩を開封レポ！映画ならではのステッカー出ました！（jsc） - エキスパート Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-28T20:05:22+09:00",
-      "published_display": "2026-09-28 20:05 JST"
+      "title": "ちいかわたちがコロネになった「ちいかわベーカリー」2周年グッズ発売 - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04aS1JeWdDZUNjeHZOYzdDSVl3NnRFb2NwekxXTFdmNFlMTWNtWWRaNm9BTE9jNGNTb2IzcU1QNDZ3UlBBS1k0NGtIOWtfS3U3OGV0cnluaTg0S3U5aTUw?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "ちいかわたちがコロネになった「ちいかわベーカリー」2周年グッズ発売 千葉テレビ放送株式会社",
+      "summary": "ちいかわたちがコロネになった「ちいかわベーカリー」2周年グッズ発売 千葉テレビ放送株式会社",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-29T18:04:23+09:00",
+      "published_display": "2026-09-29 18:04 JST"
     },
     {
-      "title": "【映画ちいかわ】入場者特典“第6弾”が解禁！「これは平和なランダム」「全2種ありがたい！」「激アツ」景品の内容に歓喜の声集まる（LASISA） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TN1lCRHhhZG9LU3pGT3JDTmlmTUhaM2phd3ZDcjlSRDg2ams4U0IyWXZ6V2RsVURzLWtGc2g3ODJaS3VCWWFXMFJEaF85bnhLZUdOVjZMMWUtZnVlU21xZHFQV3JYdjJVYktCTVBnOU9iNUlsbnZxWWtBd3ROdzg?oc=5",
+      "title": "しまむらパークで「ちいかわ」グッズがオンライン販売！動きに反応する「ハチワレ」「うさぎ」らのボイス付きぬいぐるみ全3種 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GandCNC1pblRzeWtGb2ZnSk56eWx2VUttWE9kWjF5WC1JQUJYbHRrUUxFU2twT2tWaGxQQ1c3VzVfVHJfYVV3d0ZsQ0ppcDNJTzRkWGZrUC1uVExObGRTQzYxSXpGXzNsenZ2aEJFVnVFLV8yalZpcVJrYVFTTDQ?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【映画ちいかわ】入場者特典“第6弾”が解禁！「これは平和なランダム」「全2種ありがたい！」「激アツ」景品の内容に歓喜の声集まる（LASISA） Yahoo!ニュース",
-      "summary": "【映画ちいかわ】入場者特典“第6弾”が解禁！「これは平和なランダム」「全2種ありがたい！」「激アツ」景品の内容に歓喜の声集まる（LASISA） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-28T19:45:00+09:00",
-      "published_display": "2026-09-28 19:45 JST"
+      "snippet": "しまむらパークで「ちいかわ」グッズがオンライン販売！動きに反応する「ハチワレ」「うさぎ」らのボイス付きぬいぐるみ全3種 Yahoo!ニュース",
+      "summary": "しまむらパークで「ちいかわ」グッズがオンライン販売！動きに反応する「ハチワレ」「うさぎ」らのボイス付きぬいぐるみ全3種 Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-29T17:45:02+09:00",
+      "published_display": "2026-09-29 17:45 JST"
+    },
+    {
+      "title": "しまむらパークで「ちいかわ」グッズがオンライン販売！動きに反応する「ハチワレ」「うさぎ」らのボイス付きぬいぐるみ全3種 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abDJtQ1A4aWNGbWZremFoSWZRcHZNRGR1c1VMR2dUWEhTTExadW1VUng1Q2JTeWNVTVYzNzRYVWpUYUdmN2Rjb2o5clE2QkE0TERvai1aRmo3TGpxQ3A1VlBDMFZ6TmxJN1E?oc=5",
+      "source": "インサイド",
+      "snippet": "しまむらパークで「ちいかわ」グッズがオンライン販売！動きに反応する「ハチワレ」「うさぎ」らのボイス付きぬいぐるみ全3種 インサイド",
+      "summary": "しまむらパークで「ちいかわ」グッズがオンライン販売！動きに反応する「ハチワレ」「うさぎ」らのボイス付きぬいぐるみ全3種 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-09-29T17:45:02+09:00",
+      "published_display": "2026-09-29 17:45 JST"
     }
   ]
 }
