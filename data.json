@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-09-30T09:03:13.793374+09:00",
-  "generated_at_jst": "2026-09-30 09:03 JST",
+  "generated_at": "2026-09-30T21:04:07.747577+09:00",
+  "generated_at_jst": "2026-09-30 21:04 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 5,
+      "count": 2,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 2,
+      "count": 3,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 5,
+      "count": 7,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「映画ちいかわ」の特典シール→100均のフォトフレームに飾ったら……「まじ怖い」 驚きの仕上がりに「これが正しい使い方なのかも」（ねとらぼ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OemktTEwxcHRTbTJIS3VLdkN5MjR4MTdBSVFhLTFFenlpZG80UWE2OGNIdVhLb1JyaFg0RzZOeDBqNEdKdHNTS29oY1dtSG91bkFPWWo2Q3pnSjBaaVRDd1d5Z0YtZTlCR2d6ejlCTXczZk5hVUU5M3lTbzk5enc?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「映画ちいかわ」の特典シール→100均のフォトフレームに飾ったら……「まじ怖い」 驚きの仕上がりに「これが正しい使い方なのかも」（ねとらぼ） Yahoo!ニュース",
-      "summary": "「映画ちいかわ」の特典シール→100均のフォトフレームに飾ったら……「まじ怖い」 驚きの仕上がりに「これが正しい使い方なのかも」（ねとらぼ） Yahoo!ニュース",
+      "title": "SKE48相川暖花 “ちいかわネイル”撮影の舞台裏が「衝撃」と話題！しゃくれアゴの必死な姿に「ほんと天才」「またすごい撮り方」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BT2tLbVJ3UXlIeVNEdDlqdnVneFhfV1Nabm15VE1FT3YxMGVOVFdxemMtaDk2dE01SWdPQW4yZDV6a01QY0QxRmppMUItTzg4TUpN?oc=5",
+      "source": "めざましmedia",
+      "snippet": "SKE48相川暖花 “ちいかわネイル”撮影の舞台裏が「衝撃」と話題！しゃくれアゴの必死な姿に「ほんと天才」「またすごい撮り方」 めざましmedia",
+      "summary": "SKE48相川暖花 “ちいかわネイル”撮影の舞台裏が「衝撃」と話題！しゃくれアゴの必死な姿に「ほんと天才」「またすごい撮り方」 めざましmedia",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-30T20:30:00+09:00",
+      "published_display": "2026-09-30 20:30 JST"
+    },
+    {
+      "title": "映画大ヒット中！ ちいかわの”キャラクター型えほん” 新作が発売！ 「ちいかわ」「ハチワレ」「うさぎ」といつでも一緒 ０歳から ＃ちいさくてかわいいえほん - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NTW4xYjlGZVBScjk5ZVlvMzQ1aXFqM3Z6X1VVa0VHMUhIcjE1N1I2eE1rVWNWaHVGdXduZ1MxXy13bjgwaGhUY1B0MzA1dzZibUVicm9oNjZyZXFiUFp5WjlmSWNRN1MzNkI0?oc=5",
+      "source": "時事ドットコム",
+      "snippet": "映画大ヒット中！ ちいかわの”キャラクター型えほん” 新作が発売！ 「ちいかわ」「ハチワレ」「うさぎ」といつでも一緒 ０歳から ＃ちいさくてかわいいえほん 時事ドットコム",
+      "summary": "映画大ヒット中！ ちいかわの”キャラクター型えほん” 新作が発売！ 「ちいかわ」「ハチワレ」「うさぎ」といつでも一緒 ０歳から ＃ちいさくてかわいいえほん 時事ドットコム",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-30T08:07:57+09:00",
-      "published_display": "2026-09-30 08:07 JST"
+      "published_at": "2026-09-30T20:16:00+09:00",
+      "published_display": "2026-09-30 20:16 JST"
     },
     {
-      "title": "ちいかわコラボの「医療用ユニフォーム」発売！ 医療従事者から歓喜の声「モチベーションあがる」（ふたまん＋） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SEpzTXFBaEUwaFdMMFFQQ29WeDJGRmdhZFhZMzFGNS1Ia1owa0tKb0NLREotYmVpdDl1ZjF0Qm9BNFlneXBXNmRtZ0s4bm5iOHdyNG93c3BkRGRyU1NlNjRMcV9lQWVrTTQwQmhLVGxob01tM1gwUDV5SHQtN2c?oc=5",
+      "title": "泣いていたちいかわが一瞬で笑顔に！プチプチを差し出すうさぎに「扱いを完璧にわかってる」『ちいかわ』181話 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12SG1pYjNRVHhRUlZlUFFjWHFHcndOVkp4a0JrRG5FTmpsdFFKbWV3NVE4OGtuUWpMbXFlV0FNdnRBMVVjUVFYUDJsaDFpQkUtRnlLMmRHbUdmNExpcmhOWWlVSUE4NXl0amNvQ195ai1laTNpdTFxaTF2YUYyeUE?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ちいかわコラボの「医療用ユニフォーム」発売！ 医療従事者から歓喜の声「モチベーションあがる」（ふたまん＋） Yahoo!ニュース",
-      "summary": "ちいかわコラボの「医療用ユニフォーム」発売！ 医療従事者から歓喜の声「モチベーションあがる」（ふたまん＋） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-30T07:03:44+09:00",
-      "published_display": "2026-09-30 07:03 JST"
-    },
-    {
-      "title": "『暗殺者（たち）』再び首位、前売りはちいかわ - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHJTMUV6bUxfa3pyVVZmd0prcTZackZBcTd1MmdsTkl5VGVHR1MtX3Vaamh6dkF6YWtFN1JkV3ZUWjJ4OEUweVQ4cUFzR1FIamJTamRJMW1zNUxCOWx3bUNHR1h5MjU1WG94TlBQQW9WTnpvRXp3M1hqRVhQNXRRLUt5UzRTYms?oc=5",
-      "source": "조선일보",
-      "snippet": "『暗殺者（たち）』再び首位、前売りはちいかわ 조선일보",
-      "summary": "『暗殺者（たち）』再び首位、前売りはちいかわ 조선일보",
+      "snippet": "泣いていたちいかわが一瞬で笑顔に！プチプチを差し出すうさぎに「扱いを完璧にわかってる」『ちいかわ』181話 Yahoo!ニュース",
+      "summary": "泣いていたちいかわが一瞬で笑顔に！プチプチを差し出すうさぎに「扱いを完璧にわかってる」『ちいかわ』181話 Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-09-30T07:02:00+09:00",
-      "published_display": "2026-09-30 07:02 JST"
+      "published_at": "2026-09-30T19:18:16+09:00",
+      "published_display": "2026-09-30 19:18 JST"
     },
     {
-      "title": "人気定番ちいかわ うさぎ ゾンビフィギュア ミニがま口 シリコンポーチ まとめ売りその他｜au PAY マーケット - sakhaparliament.ru",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CTkdRU0VENVh6RGdPUGo5aHNvU3lOck11Y3dBcHpzX3cza0NseEwzNUp3RVZlbW1lUF9WaGsycnlTaFQxbzJubjgwakV6Nm5GMUVKTjE3clp2M1E?oc=5",
-      "source": "sakhaparliament.ru",
-      "snippet": "人気定番ちいかわ うさぎ ゾンビフィギュア ミニがま口 シリコンポーチ まとめ売りその他｜au PAY マーケット sakhaparliament.ru",
-      "summary": "人気定番ちいかわ うさぎ ゾンビフィギュア ミニがま口 シリコンポーチ まとめ売りその他｜au PAY マーケット sakhaparliament.ru",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-30T06:54:53+09:00",
-      "published_display": "2026-09-30 06:54 JST"
-    },
-    {
-      "title": "『ちいかわ』吹替に「ハチワレが英語しゃべってて感動」国際版予告に海外ファンも興奮。キャラ紹介にも「感心」のワケは？ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82a2VaTjZmWl9MU0huMzRJamU4Y3hMWFJKRUQ4Q21nc05GdG90ZElINzVPU2ZWZE9MZWEwR0o5RWZQOXhHY0xNYjEwNVVuSVFlNE1fZXk4M0t6QmtZeUhfc29sSXlad05YRU5jN2dkUWdLVHB0alpVS201eXYwUUE?oc=5",
+      "title": "ちいかわが大好きな84歳おばあちゃん、ウキウキで映画館へ→鑑賞後……「そうなりますよね」 まさかの姿に「心配です」「複雑だよ」（ねとらぼ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNTU5WUpjMXdubmx4VFRibE15ZUhkNkF0MGpoYXlVck5kd1hPX1dmcnd4RnR6SW5HVk1kR0pyY1FkTDlIMXZ6Q0h1bkJSWFdYck1OVWdxdUdRSmpRZGtlTFFNZXRkQWc4SkFiVzlZQldQYlJwbS1jc0J3dWt4MlU?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』吹替に「ハチワレが英語しゃべってて感動」国際版予告に海外ファンも興奮。キャラ紹介にも「感心」のワケは？ Yahoo!ニュース",
-      "summary": "『ちいかわ』吹替に「ハチワレが英語しゃべってて感動」国際版予告に海外ファンも興奮。キャラ紹介にも「感心」のワケは？ Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-30T06:54:37+09:00",
-      "published_display": "2026-09-30 06:54 JST"
+      "snippet": "ちいかわが大好きな84歳おばあちゃん、ウキウキで映画館へ→鑑賞後……「そうなりますよね」 まさかの姿に「心配です」「複雑だよ」（ねとらぼ） Yahoo!ニュース",
+      "summary": "ちいかわが大好きな84歳おばあちゃん、ウキウキで映画館へ→鑑賞後……「そうなりますよね」 まさかの姿に「心配です」「複雑だよ」（ねとらぼ） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-30T19:00:00+09:00",
+      "published_display": "2026-09-30 19:00 JST"
     },
     {
-      "title": "【名取市】『ちいかわ むちゃフォトパーティ!!』を、2026年11月7日に開催！ - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81OC0tLTRDcEtQeUV5V0NmVm54Y1ZHTG56eEJVZmVEUjdDQVFuQmtfV0VuZi01ekpXUGpwUjIteWlKVXlWa3BYdU10eEkxM2djNXRxWG1kdUltbElpSDNqTE9B?oc=5",
-      "source": "河北新報オンライン",
-      "snippet": "【名取市】『ちいかわ むちゃフォトパーティ!!』を、2026年11月7日に開催！ 河北新報オンライン",
-      "summary": "【名取市】『ちいかわ むちゃフォトパーティ!!』を、2026年11月7日に開催！ 河北新報オンライン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-30T06:51:19+09:00",
-      "published_display": "2026-09-30 06:51 JST"
+      "title": "『ちいかわ』が韓国映画館を席巻…予約率40％超、20万人が殺到する異例ヒット - SmartNews",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNNXBrTk9CTVZ3cktrV2E0S2xnTHo3ZEFER2x6SE1jVTY3TmMybzM3OVR2WDk3Ml85RjlMZEJCTS1FeVB2MGdBVllaOUdfN01BSXFHYjhfOHhrUGF5VzNWMW01UDFhQzQwZXgwVUxuZmdDRlViNFRWVTBaTldDUTJuQkgxLWlDYUF5Yy1aQVR1RlljdHJOclRYa0x6UG81T1R1Zm5RYWczQkpTc0hEX01RdXVYbW1fd1J1dVdLczFCOVFLZWRfLTZzXzBCQ0dLdkxuOHQ4RE4tUXNRTkZtZGhHX0xCc1pSSlFhYWViZHhrWkEycnBSM2kyOWxLcnRsenEyWXhYZ2pjeG1mSk5QT3lPT2NBMGVkaW9VZGY2QTk5SGxWeXlBRWdGWWdscjJLRG9BcHRkQm4xSlFvcXAydGhQcWw5eER1eExWSlc3VGNJaU41dFdKY3BRdGRHWE1iaEMxS2VOa0RuV1Z0RFo3U1pMV2V2MXBzMmZwOEd5M19hSHlocWxTMUR4OW41ZHE5YWZabVhqaUxpdzBRbXBNUTJycDc0WWJKeG1IYkVyQ3huYm8wbzVTSHZua3VidlI0RGlYVUd2bGp1cy1SRDU3Z1JLTjdUMUFrSEZjM0JWNVdlai1XX2lHR05pdVdCTFR3Ym1YbldHUmZDYXFMdEJOSmxfS2dsZk9hUW91?oc=5",
+      "source": "SmartNews",
+      "snippet": "『ちいかわ』が韓国映画館を席巻…予約率40％超、20万人が殺到する異例ヒット SmartNews",
+      "summary": "『ちいかわ』が韓国映画館を席巻…予約率40％超、20万人が殺到する異例ヒット SmartNews",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-30T18:27:00+09:00",
+      "published_display": "2026-09-30 18:27 JST"
     },
     {
-      "title": "巻き起こる「ちいかわ旋風」 - nna.jp",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GYmxPWWdSdzF6aHhIYV9Wc3Z6QkZGRnhBM2gyUHZUV2V3eFlnMmN1c3o1OE43WnhKXzFSeVgyaVhwM2ZDaUE?oc=5",
-      "source": "nna.jp",
-      "snippet": "巻き起こる「ちいかわ旋風」 nna.jp",
-      "summary": "巻き起こる「ちいかわ旋風」 nna.jp",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-09-30T00:00:00+09:00",
-      "published_display": "2026-09-30 00:00 JST"
+      "title": "「ちいかわ」くりまんじゅう＆シーサーがねんどろいどに！缶ビールやラーメンも付属（アニメ！アニメ！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kREIzanRqaEtJRjBpWkl0SWk0SXBHbldtT3dTSkw2S0NiYy1BMzBZSUtSdUFUTWthLUNsLUhVLXc3NHJvWVBIWEtjaXNRSGFfMzE3VkYzRTVOWmF2cHdZek5iNGxSZlZTc29aMS1xWjF0Yk5RaXVicFd1NDVDdzQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」くりまんじゅう＆シーサーがねんどろいどに！缶ビールやラーメンも付属（アニメ！アニメ！） Yahoo!ニュース",
+      "summary": "「ちいかわ」くりまんじゅう＆シーサーがねんどろいどに！缶ビールやラーメンも付属（アニメ！アニメ！） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-09-30T18:15:03+09:00",
+      "published_display": "2026-09-30 18:15 JST"
     },
     {
-      "title": "「ちいかわベーカリー」の2周年を記念した「2nd Anniversary Celebration」が、10月15日より実施される。 - Real Sound",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iNWFkNzBGNHlfQ0VlMHExMUYwMFlRTkhjMDFjTDZwVFBwRldHQjhuUW1kelkwTXlPZ1k1NUZ1aVltakwwMjZKVUNHSG9OeThlRm16eUJYSXp6UDFyQUtPbw?oc=5",
+      "title": "「激アツ」ちいかわ、海外の音楽番組に出演→まさかの曲披露で「チッケムあるん？？」「エンディングの妖精楽しみすぎwww」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZQ3Zhajh0TkQtVWpjV3NjOXBZbDRPaEhzMmFvaWdzT2Fnc3ZnU01pTVdkVVZCUm5HNUxmbnBDT2xIM2hOQnNwMzBzRlMzbFlKZE45SHhKaHZIbWRsSFdqWENfTEZWdmJrWkhhVnV6YTdjSUhoSnJHdkJqNGFSR1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「激アツ」ちいかわ、海外の音楽番組に出演→まさかの曲披露で「チッケムあるん？？」「エンディングの妖精楽しみすぎwww」 Yahoo!ニュース",
+      "summary": "「激アツ」ちいかわ、海外の音楽番組に出演→まさかの曲披露で「チッケムあるん？？」「エンディングの妖精楽しみすぎwww」 Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-30T18:09:31+09:00",
+      "published_display": "2026-09-30 18:09 JST"
+    },
+    {
+      "title": "【ちいかわ】『はじめの一歩』森川ジョージらベテラン漫画家たちも「ちいかわ星人」に？ レジェンドたちも熱狂中（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JUG1rS3RrNXg1d3ZOaUhUcDhGNzh2TkZmOGIzZ0diS3NfREpvWEFaNTZobVByc2FRaEZqVHl4ZWJJYjdRZEFrTlQ3R1FtUjFSSTFwNVo3MjlLWWxNb1JIVHp2SWhTdDA1eTBzVWVoY3lmRWg2Zm1Hd0d1ZzgzWXc?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわ】『はじめの一歩』森川ジョージらベテラン漫画家たちも「ちいかわ星人」に？ レジェンドたちも熱狂中（リアルサウンド） Yahoo!ニュース",
+      "summary": "【ちいかわ】『はじめの一歩』森川ジョージらベテラン漫画家たちも「ちいかわ星人」に？ レジェンドたちも熱狂中（リアルサウンド） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-30T18:08:40+09:00",
+      "published_display": "2026-09-30 18:08 JST"
+    },
+    {
+      "title": "ちいかわ＞キャラクター形絵本の新作 眠るハチワレ ダンスするちいかわ うさぎが変身！？（MANTANWEB） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNUpiNjBUMjQ3UUt3b253WS1lT0VuNVRzdFltd2lnSzNIcjRBRVFpemFuQnFEYXh3eUVEMmdMU2JFV1RURjhaX0trbDF0ejdCMDRFeHpaeEYzeFBDWXRhTUJBM2F2VnN0Z012TTRWbkpTV25wT2xsMzlJVUJkMHM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわ＞キャラクター形絵本の新作 眠るハチワレ ダンスするちいかわ うさぎが変身！？（MANTANWEB） Yahoo!ニュース",
+      "summary": "ちいかわ＞キャラクター形絵本の新作 眠るハチワレ ダンスするちいかわ うさぎが変身！？（MANTANWEB） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-30T17:58:00+09:00",
+      "published_display": "2026-09-30 17:58 JST"
+    },
+    {
+      "title": "【ちいかわ】『はじめの一歩』森川ジョージらベテラン漫画家たちも「ちいかわ星人」に？ レジェンドたちも熱狂中 - Real Sound",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QSHVXclVvVHZQcUFhNUxaM2RwUFFJOFl1WFRJcnpGRUllZzNMbGlKMTNfb19obElLRFVkbnQ2eWhFcThVaThFSUc4UG8zOWUySDcxdTJKb3RxTEtINXRyWNIBZkFVX3lxTFBoX1hmWmpvV0YzMnJTT011bS1yNXVUcS1wR0d3cndWdm9oWmVtUjFLTmFFM1Qzb1htZlFWNV9UVV90ZjVsTjRLLXlLa0d6R190NUJLQUZCMjFpWU5BVk14NmdwRnZ2UQ?oc=5",
       "source": "Real Sound",
-      "snippet": "「ちいかわベーカリー」の2周年を記念した「2nd Anniversary Celebration」が、10月15日より実施される。 Real Sound",
-      "summary": "「ちいかわベーカリー」の2周年を記念した「2nd Anniversary Celebration」が、10月15日より実施される。 Real Sound",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-09-29T21:32:04+09:00",
-      "published_display": "2026-09-29 21:32 JST"
-    },
-    {
-      "title": "「うさぎに渡したらそうなるだろ」一瞬でテープを剥がされ涙…視聴者は結末を即察知『ちいかわ』181話（ABEMA TIMES） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2QlZfeW5xRktBUzVwb3FPRnBPcmt1am8zU19tQUtRS3NHc213UTA2a2hoQ1pKNlRiV25fSWdhY25rcjNmQ2Rjd1gzZERTWW12ekVSWDRvcHMwWkNMNGw1RS1rQkU2ZHJPdzgyTUdnMzlZaEZQTl9PalNqUEZGTmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「うさぎに渡したらそうなるだろ」一瞬でテープを剥がされ涙…視聴者は結末を即察知『ちいかわ』181話（ABEMA TIMES） Yahoo!ニュース",
-      "summary": "「うさぎに渡したらそうなるだろ」一瞬でテープを剥がされ涙…視聴者は結末を即察知『ちいかわ』181話（ABEMA TIMES） Yahoo!ニュース",
+      "snippet": "【ちいかわ】『はじめの一歩』森川ジョージらベテラン漫画家たちも「ちいかわ星人」に？ レジェンドたちも熱狂中 Real Sound",
+      "summary": "【ちいかわ】『はじめの一歩』森川ジョージらベテラン漫画家たちも「ちいかわ星人」に？ レジェンドたちも熱狂中 Real Sound",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-09-29T20:45:32+09:00",
-      "published_display": "2026-09-29 20:45 JST"
+      "published_at": "2026-09-30T17:32:17+09:00",
+      "published_display": "2026-09-30 17:32 JST"
     },
     {
-      "title": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開（クランクイン！） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVFQ4U21WZ0U0RFlCSGwzT0lWb0NoRTdIbWVnU25EY1cyd0R4X3dvd1hYend3ODV1TXY1T1JVVlNpLTVjenRYVThUbjZQNkRXbEJMVVhVVzRkS3IwZEVCRjE2Zkp6emt5TDFPWl9LZ0lpYUoyc2FfdUpHM3VzX0U?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開（クランクイン！） Yahoo!ニュース",
-      "summary": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開（クランクイン！） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-29T20:45:00+09:00",
-      "published_display": "2026-09-29 20:45 JST"
-    },
-    {
-      "title": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開 (クランクイン！) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzNFSmlfZmNMTXpEUGlST0NmUFR2TlBvdlY2X2JtN3J5ZWthUW54TGd3cWRIbXNnMEtQT3dTTXhMREc1eFM0SC1adURyZ2NZdXBTMDZlNXdmMlBPd0lWVVN2a25wQXV3VUptX3dsWHZfbVBNNTB4QzBNZEozYUhVRTNUdWhEVGZtVXAwNEFn?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開 (クランクイン！) Yahoo!ニュース",
-      "summary": "『映画 ちいかわ』韓国版ポップコーンケースが「羨ましい」と話題！ 30日からいよいよ公開 (クランクイン！) Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-09-29T20:45:00+09:00",
-      "published_display": "2026-09-29 20:45 JST"
-    },
-    {
-      "title": "映画ちいかわ第6弾特典はペアのチャームミニフィギュア！配布時期に注意、興収168.5億円で歴代14位まで浮上（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcDZrZndLQ0FSSWVVMUdpSFNuZkNSSTN4el9IYlJPSjY0MjZ1OHRsc09HcGtSYTBQaFUzbUpyalZsZmxpNU53NFBKNS16c0c1ekZUWktNWS1adGtubExiS0ZmaVRzandCVXV5b2ZkdWdrd1FTRW1kSEVUUlNfazg?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "映画ちいかわ第6弾特典はペアのチャームミニフィギュア！配布時期に注意、興収168.5億円で歴代14位まで浮上（LIMO） Yahoo!ニュース 「映画ちいかわ 人魚の島のひみつ」入場特典第6弾は初のコンビでのチャームミニフィギュア！ちいかわ＆ハチワレ、うさぎ＆モモンガの名シーンを採用 : 映画ニュース 映画.com 【ヤフコメで話題】「ちいかわ映画の上映や限定グッズに注目」「ショー再開や演出充実を望む声」 - 作品人気と体験価値をめぐる反応 Yahoo!ニュース",
-      "summary": "映画ちいかわ第6弾特典はペアのチャームミニフィギュア！配布時期に注意、興収168.5億円で歴代14位まで浮上（LIMO） Yahoo!ニュース 「映画ちいかわ 人魚の島のひみつ」入場特典第6弾…",
+      "title": "映画大ヒット中！ ちいかわの”キャラクター型えほん” 新作が発売！ 「ちいかわ」「ハチワレ」「うさぎ」といつでも一緒 ０歳から ＃ちいさくてかわいいえほん - prtimes.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOeXlNSWdCYXBBOFU0c0UxOEEwRU9VV2NiTGZJNTBXNlA1eEtsdHRpMjBIaF9fVFpIQ3ktQU5WTjEzcG9zMWJSSjFhbS1iaHJXMndOdEtQeDVESFkyd0pwcjhJRGRjeWt2akE?oc=5",
+      "source": "prtimes.jp",
+      "snippet": "映画大ヒット中！ ちいかわの”キャラクター型えほん” 新作が発売！ 「ちいかわ」「ハチワレ」「うさぎ」といつでも一緒 ０歳から ＃ちいさくてかわいいえほん prtimes.jp",
+      "summary": "映画大ヒット中！ ちいかわの”キャラクター型えほん” 新作が発売！ 「ちいかわ」「ハチワレ」「うさぎ」といつでも一緒 ０歳から ＃ちいさくてかわいいえほん prtimes.jp",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-09-29T19:35:47+09:00",
-      "published_display": "2026-09-29 19:35 JST"
+      "published_at": "2026-09-30T17:30:01+09:00",
+      "published_display": "2026-09-30 17:30 JST"
+    },
+    {
+      "title": "「ちいかわ」が医療用スクラブに 背裏に「草むしり検定」を描くクラシコの狙い - AdverTimes.（アドタイ） by 宣伝会議",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xTDBBN3lzR0IwcnZDRzNNUU5WLWVkTkJOVXR6akR2VkdRY19KQ1hJeDVKcUdBNk5qZW94c21DSzljN0RIOWx3ZldPZ0Q0enhTenV0Tld2ZVowbkY1eUkw?oc=5",
+      "source": "AdverTimes.（アドタイ） by 宣伝会議",
+      "snippet": "「ちいかわ」が医療用スクラブに 背裏に「草むしり検定」を描くクラシコの狙い AdverTimes.（アドタイ） by 宣伝会議",
+      "summary": "「ちいかわ」が医療用スクラブに 背裏に「草むしり検定」を描くクラシコの狙い AdverTimes.（アドタイ） by 宣伝会議",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-09-30T17:17:20+09:00",
+      "published_display": "2026-09-30 17:17 JST"
     }
   ]
 }
