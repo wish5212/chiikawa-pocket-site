@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-01T09:03:15.377040+09:00",
-  "generated_at_jst": "2026-10-01 09:03 JST",
+  "generated_at": "2026-10-01T21:05:41.518388+09:00",
+  "generated_at_jst": "2026-10-01 21:05 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -24,144 +24,150 @@
       "icon": "🎬"
     },
     {
+      "key": "event",
+      "label": "イベント",
+      "count": 2,
+      "icon": "🌟"
+    },
+    {
       "key": "other",
       "label": "そのほか",
-      "count": 5,
+      "count": 3,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "ちいかわ＞シーサー、くりまんじゅうがねんどろいどに お酒の本、ラーメン 缶ビール、鮭とばも（MANTANWEB） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZ1hQbGhLNkFta2F0VDkyd21PSzZFRDJRd2FBWjhkb2hQNUxoOTRpV2tmdTd4dXl6ZWl1bTFYcmIwYU1fVlpraWFTd05iZzdOVTB0TVctYlJXZHhxOWdBYmUyZEV0YWRvbEotVHhPNFdsaXNucmN2cG4xZVBsLUE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわ＞シーサー、くりまんじゅうがねんどろいどに お酒の本、ラーメン 缶ビール、鮭とばも（MANTANWEB） Yahoo!ニュース",
-      "summary": "ちいかわ＞シーサー、くりまんじゅうがねんどろいどに お酒の本、ラーメン 缶ビール、鮭とばも（MANTANWEB） Yahoo!ニュース",
+      "title": "「ちいかわ」パッケージの「オキシクリーン」新登場！ - キャラクター情報サイト",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hd3pvelBnU1c1VlFfWExfY1dlQV9kYkoxV0k2TTJHOXM4MjVtM2pLV0pMeVRXVWpRMkNiS2N5ZEV1UQ?oc=5",
+      "source": "キャラクター情報サイト",
+      "snippet": "「ちいかわ」パッケージの「オキシクリーン」新登場！ キャラクター情報サイト",
+      "summary": "「ちいかわ」パッケージの「オキシクリーン」新登場！ キャラクター情報サイト",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-01T08:19:10+09:00",
-      "published_display": "2026-10-01 08:19 JST"
+      "published_at": "2026-10-01T21:04:24+09:00",
+      "published_display": "2026-10-01 21:04 JST"
     },
     {
-      "title": "東京ばな奈×ちいかわコラボ、東京ソラマチにポップアップショップをオープン！初登場の「エコバッグ」などファン必見のラインアップ《10月1日スタート》（東京バーゲンマニア） - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaDhsTXhfbTIyekV6elZVQlEzM0hnT2FWWEdkYUEwUWVGYVBCUlRDbWZlandZOXI2dmQ4NHNJYmxVMGRVamNzMUlyVm5ONGM3VEJTcnBfdUxFYTN0TEIxcHhyd1hwcndmbWRiWVgwdTc5YUUtR0R1TlF0Y3RBZDZma2JFZUJ5cjRxODVqbTNySVlzRWtIX285NDRVQ2ZlcmZwV1cwMXVxMHdzNURfNnZGYjVfM3g2NmpJSWxqZ180aUFVTVExcDh4cGQ3RmU?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "東京ばな奈×ちいかわコラボ、東京ソラマチにポップアップショップをオープン！初登場の「エコバッグ」などファン必見のラインアップ《10月1日スタート》（東京バーゲンマニア） ｄメニューニュース",
-      "summary": "東京ばな奈×ちいかわコラボ、東京ソラマチにポップアップショップをオープン！初登場の「エコバッグ」などファン必見のラインアップ《10月1日スタート》（東京バーゲンマニア） ｄメニューニュース",
+      "title": "「ちいかわ」がクラシコの医療用スクラブに 草むしり検定モチーフなど全4色で10月発売（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HSU9JVEptSlZjVnZueDBYUmNtWVZRU0dlRGZWWU1PbEdmNGNnYmVTY1NQVDFkY3AtMlpGa01HTGJZY1h1bzhIN3NEMDIxV1g1QTgwMDZUbUI2STIwNlpsbW9YVTBCdXRIYnBObWFMYUE4TnZzU29FZTd3NTFHeUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」がクラシコの医療用スクラブに 草むしり検定モチーフなど全4色で10月発売（リアルサウンド） Yahoo!ニュース",
+      "summary": "「ちいかわ」がクラシコの医療用スクラブに 草むしり検定モチーフなど全4色で10月発売（リアルサウンド） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-01T07:45:45+09:00",
-      "published_display": "2026-10-01 07:45 JST"
+      "published_at": "2026-10-01T21:00:49+09:00",
+      "published_display": "2026-10-01 21:00 JST"
     },
     {
-      "title": "東京ばな奈×ちいかわコラボ、東京ソラマチにポップアップショップをオープン！初登場の「エコバッグ」などファン必見のラインアップ《10月1日スタート》 - 東京バーゲンマニア",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzaDN6aHJoN2tGX0VIYWZWTWVqRmhJZWRSam42QkUzc3dMZ2NMVGdPeGhGQ0o5eU4zZVdyYWJrRTJidWU0SWgxNWtRUDN2X1dWU3pN?oc=5",
-      "source": "東京バーゲンマニア",
-      "snippet": "東京ばな奈×ちいかわコラボ、東京ソラマチにポップアップショップをオープン！初登場の「エコバッグ」などファン必見のラインアップ《10月1日スタート》 東京バーゲンマニア",
-      "summary": "東京ばな奈×ちいかわコラボ、東京ソラマチにポップアップショップをオープン！初登場の「エコバッグ」などファン必見のラインアップ《10月1日スタート》 東京バーゲンマニア",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-01T07:34:00+09:00",
-      "published_display": "2026-10-01 07:34 JST"
-    },
-    {
-      "title": "医療現場でも「ちいかわ」！メディカルアパレル・クラシコより、落ち着いた色合いの「スクラブ」4種が登場（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRXl2NjNYMjduQnBUSEVDSWVjY1J6YzE5VnRFcFp6SXkyb3ZPUm1ZZzQtUVBZeVl3bkhpZ3E4OFZuaTVWaWkyY19LTi1GTXlZSU1tb0VWZm8tRUZYMms0RkVaSzlURnhhNndhUzVtakxCVGpmLWwyTlpaYzJIZW8?oc=5",
+      "title": "ちいかわ、韓国で歌って踊った「島のうた」ステージ映像公開 映画は韓国初日1位（映画ナタリー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZZzA5enVaSm1JVUU5eElINVhESU9lQ3UxVXU1WF9iNHpJV2ljd0dFelh2ZWRFSGh0YnN1ZEJBNEMwbmtOa05kcHhQc1BZVFFFYTIxRkVFeDBmZUF0dHNESDR5aGRVWWg1R3BrTDFORFc4VmEzWjM3ZnpuZTI4aGc?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "医療現場でも「ちいかわ」！メディカルアパレル・クラシコより、落ち着いた色合いの「スクラブ」4種が登場（インサイド） Yahoo!ニュース",
-      "summary": "医療現場でも「ちいかわ」！メディカルアパレル・クラシコより、落ち着いた色合いの「スクラブ」4種が登場（インサイド） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-01T07:30:03+09:00",
-      "published_display": "2026-10-01 07:30 JST"
-    },
-    {
-      "title": "とってもラブリーな『ちいかわ』のドームクッション！10月の新作には「くりまんじゅう」と「シーサー」が仲良く登場!! - 電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jYVlmSm1xTHEtbHVXeUJ5MFRxZGtiUGNVWlh4cDlyTG5mTXA5M0NsQXl0dzhiMm16SGpHWXVZWTFNVENoanRYcDA0X2t4WHN4?oc=5",
-      "source": "電撃ホビーウェブ",
-      "snippet": "とってもラブリーな『ちいかわ』のドームクッション！10月の新作には「くりまんじゅう」と「シーサー」が仲良く登場!! 電撃ホビーウェブ",
-      "summary": "とってもラブリーな『ちいかわ』のドームクッション！10月の新作には「くりまんじゅう」と「シーサー」が仲良く登場!! 電撃ホビーウェブ",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-01T07:30:00+09:00",
-      "published_display": "2026-10-01 07:30 JST"
-    },
-    {
-      "title": "日本1000万人アニメ『ちいかわ』首位 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFhnQk81bmNTTHBmYTB6dUJoS09MYzFEaTdQZlpDMm4xbGlaY1hEeG1WOGVXMmJwYWU2aDE2TjREMVJEWXZrM1kwTHprNzRtSkN2TU8wVGFHMDVGdDBsT0JRQmtINnFONHN3c0phN1BkUUlHSFlHTExKSlJoYmJldldCaVd3QkE?oc=5",
-      "source": "조선일보",
-      "snippet": "日本1000万人アニメ『ちいかわ』首位 조선일보",
-      "summary": "日本1000万人アニメ『ちいかわ』首位 조선일보",
+      "snippet": "ちいかわ、韓国で歌って踊った「島のうた」ステージ映像公開 映画は韓国初日1位（映画ナタリー） Yahoo!ニュース",
+      "summary": "ちいかわ、韓国で歌って踊った「島のうた」ステージ映像公開 映画は韓国初日1位（映画ナタリー） Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-01T07:18:00+09:00",
-      "published_display": "2026-10-01 07:18 JST"
+      "published_at": "2026-10-01T20:13:11+09:00",
+      "published_display": "2026-10-01 20:13 JST"
     },
     {
-      "title": "【ちいかわ】たちの毛量増し＆もこもこフード姿のが可愛い！GU×ちいかわコラボ〈プルオーバー〉〈パーカ〉2型で冬支度。刺しゅう＆アップリケデザインにも注目 2026年11月下旬発売予定！第一弾のアイテムを先取りチェック - LIMO | くらしとお金の経済メディア",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5senZPemNGT05lU3NrYlhNbjFQYktJX09PZEtJQWhPU0ZtWVJES2d5Y0p4Wlh2OFBaeW9RN1FET19EQlVSOTlGT2p6a2k?oc=5",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "snippet": "【ちいかわ】たちの毛量増し＆もこもこフード姿のが可愛い！GU×ちいかわコラボ〈プルオーバー〉〈パーカ〉2型で冬支度。刺しゅう＆アップリケデザインにも注目 2026年11月下旬発売予定！第一弾のアイテムを先取りチェック LIMO | くらしとお金の経済メディア",
-      "summary": "【ちいかわ】たちの毛量増し＆もこもこフード姿のが可愛い！GU×ちいかわコラボ〈プルオーバー〉〈パーカ〉2型で冬支度。刺しゅう＆アップリケデザインにも注目 2026年11月下旬発売予定！第一弾の…",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-01T07:10:00+09:00",
-      "published_display": "2026-10-01 07:10 JST"
+      "title": "【ちいかわ】プラモデル『ちいプラ』第1弾が10/3より数量限定で予約開始。ちいかわ／ハチワレ／うさぎと自転車の全3種！ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GM3RYSl9vb2ZZU3ZLb3VZMnlWNDJ3Z2ptaHhBMC0xWnEzYXdTYm82dldjbW80OTJEekRlajVUbk40ME9HMEZSY045TmxVWlhmMldnN2t2RjMtQQ?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "【ちいかわ】プラモデル『ちいプラ』第1弾が10/3より数量限定で予約開始。ちいかわ／ハチワレ／うさぎと自転車の全3種！ 電撃オンライン",
+      "summary": "【ちいかわ】プラモデル『ちいプラ』第1弾が10/3より数量限定で予約開始。ちいかわ／ハチワレ／うさぎと自転車の全3種！ 電撃オンライン",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-10-01T20:06:00+09:00",
+      "published_display": "2026-10-01 20:06 JST"
     },
     {
-      "title": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QMjYtZl9VV1AwUEhYMnZKRkJia3ROdEJxOTkzX3Y3WmhSSk1DN0cxZExSeGo1RjhYWFVaY1Fja21SdW5lS2F6TTRLcG9KemF4cExfd2IwMGpOSEpQS2o5Sw?oc=5",
+      "title": "『ちいかわ』キャラクター型えほん新作3冊が登場 「ちいかわ」「ハチワレ」「うさぎ」の個性を深掘り - Real Sound｜リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EQjVXWkw0ZC10OFBNX0lfX2o5aFZSOXFmWXduZzVGQlZnWGJidFFYUFFEcTBMdmMyOGZTeW1zSlZhdS01VEpPTkExN01rekhCX0JWNFVpVUdRUFdqaE83VNIBZkFVX3lxTE44algwTkwzanRXWUc5M0FKeEI1d1V4bmN1LVpSZVpXd0x5RlEycGpibnZtZnNLdnRDT0t2RmwwOEI0cTU2ZXpEMmhvNHA0Nm1wM09sMnZSUnpDRVpHeG9KN0Z0R1VJQQ?oc=5",
+      "source": "Real Sound｜リアルサウンド",
+      "snippet": "『ちいかわ』キャラクター型えほん新作3冊が登場 「ちいかわ」「ハチワレ」「うさぎ」の個性を深掘り Real Sound｜リアルサウンド",
+      "summary": "『ちいかわ』キャラクター型えほん新作3冊が登場 「ちいかわ」「ハチワレ」「うさぎ」の個性を深掘り Real Sound｜リアルサウンド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-01T20:02:00+09:00",
+      "published_display": "2026-10-01 20:02 JST"
+    },
+    {
+      "title": "『ちいかわ』のプラキット「ちいプラ」をグレイ・パーカー・サービスが初お披露目！会場限定でオリジナルステッカーの配布も実施【第64回全日本模型ホビーショー事前情報】 - hobby.dengeki.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ta3o3SWo4NjBGdWgtemprUnhxai1MWmc2bzBiSGpQOEIzU1ppdUVacVJyNV81bGRjbXhPdXBMZzlTdzRQZHlETnp1MzdVSWY4?oc=5",
+      "source": "hobby.dengeki.com",
+      "snippet": "『ちいかわ』のプラキット「ちいプラ」をグレイ・パーカー・サービスが初お披露目！会場限定でオリジナルステッカーの配布も実施【第64回全日本模型ホビーショー事前情報】 hobby.dengeki.com",
+      "summary": "『ちいかわ』のプラキット「ちいプラ」をグレイ・パーカー・サービスが初お披露目！会場限定でオリジナルステッカーの配布も実施【第64回全日本模型ホビーショー事前情報】 hobby.dengeki.…",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-01T19:50:00+09:00",
+      "published_display": "2026-10-01 19:50 JST"
+    },
+    {
+      "title": "ちいかわ、韓国の音楽番組でパフォーマンス→“チッケム”公開で「本格的」「演出最高」「ほぼちいかわパークw」「ちいかわ 1st WIN」（ねとらぼ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hc2V5czdSZDAyWHBCblBYbFlKVGRaRjFuSjl2R1FsSVVNZURzY2ZBSC1zajAtbEcyWmJiUE1kVk1NVXEwcVFkMXNjSHlFMGkySEo3a01iUGVLU1ByZGtCUWhROHZXQklrVHJPUjRIR0VQdFp0bTdyTW5OdkcycTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわ、韓国の音楽番組でパフォーマンス→“チッケム”公開で「本格的」「演出最高」「ほぼちいかわパークw」「ちいかわ 1st WIN」（ねとらぼ） Yahoo!ニュース",
+      "summary": "ちいかわ、韓国の音楽番組でパフォーマンス→“チッケム”公開で「本格的」「演出最高」「ほぼちいかわパークw」「ちいかわ 1st WIN」（ねとらぼ） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-01T19:46:23+09:00",
+      "published_display": "2026-10-01 19:46 JST"
+    },
+    {
+      "title": "ちいかわのプラキット「ちいプラ」が「全日本模型ホビーショー」に登場♪ 受注予約も - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yampzSDhVV2xoYmpfSDltQjFrTGtZMFhPbzEwaTBkYVRkV2U4ZGIzTkwtWHZjaVdUdk9NaXA5U3Y0cXBOT1FZUlBLZU9qOTBaYmtZeVdTM2VkREhuMm12eA?oc=5",
       "source": "Infoseek",
-      "snippet": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場 Infoseek",
-      "summary": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場 Infoseek",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-01T06:30:38+09:00",
-      "published_display": "2026-10-01 06:30 JST"
+      "snippet": "ちいかわのプラキット「ちいプラ」が「全日本模型ホビーショー」に登場♪ 受注予約も Infoseek",
+      "summary": "ちいかわのプラキット「ちいプラ」が「全日本模型ホビーショー」に登場♪ 受注予約も Infoseek",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-10-01T19:32:41+09:00",
+      "published_display": "2026-10-01 19:32 JST"
     },
     {
-      "title": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場 - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01X1hTTV9UVDdabVB4cDdQckYyWFBjZGJhNzQ2bWZkN0FobmV0ZmctcjF1RTFndjQyb0xtTnp4TjBWTHpIaC0wRHNNM0FvM1B0djJSeUtmNjlyYkV1?oc=5",
-      "source": "マイナビニュース",
-      "snippet": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場 マイナビニュース",
-      "summary": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場 マイナビニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-01T06:30:38+09:00",
-      "published_display": "2026-10-01 06:30 JST"
-    },
-    {
-      "title": "「ちいかわ」×「東京ばな奈」コラボのポップアップショップが東京ソラマチで開催！限定のグッズやスイーツを展開（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DQlpZc3FEdFBIeHBCNElmUVJNY0VQU0VVT0d4aVBRem5LNFBuaUpCVVA3X0djcmRiTVJoWlFFaHJUNXRxcnB1WUprVzJmNW9KLV9qRl9fS1lFWVllNnpfTVhWUDhKUGY4SkRmZE96YUpZd3RITWhJcDVWc3RUQ1k?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」×「東京ばな奈」コラボのポップアップショップが東京ソラマチで開催！限定のグッズやスイーツを展開（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」×「東京ばな奈」コラボのポップアップショップが東京ソラマチで開催！限定のグッズやスイーツを展開（インサイド） Yahoo!ニュース",
+      "title": "「ちいかわベーカリー」にハロウィン仕様パンがやってくる！「パンプキンスープ」や季節限定の「紅茶缶」も用意 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13a3d2MkRZYkRnOExKTWk3YWJyczJFZ2w2aVBzT19HdTRrZnU4eEJIMXQ4aWxWN3JobmNWdVNPLWVmTjd0QXM4ZmJCcjVRZGQ0WmJINlJOdW5aSDRFR2h6V0xsbnM5RWd1dFE?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわベーカリー」にハロウィン仕様パンがやってくる！「パンプキンスープ」や季節限定の「紅茶缶」も用意 インサイド",
+      "summary": "「ちいかわベーカリー」にハロウィン仕様パンがやってくる！「パンプキンスープ」や季節限定の「紅茶缶」も用意 インサイド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-01T06:00:03+09:00",
-      "published_display": "2026-10-01 06:00 JST"
+      "published_at": "2026-10-01T19:30:03+09:00",
+      "published_display": "2026-10-01 19:30 JST"
     },
     {
-      "title": "「映画ちいかわ」、ファンの「熱量」が書き換えたヒットの方程式 - 日経ビジネス電子版",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLTjdqd0VtLTNHd2N6eDU5em13ZWhfaWlDRE1lLWczTVplSV8yZlRHWUpMWnkwZkE4TW5Idi1IYmVWd3ZZUGFrRk02WnJndWViN0Y5YWc0ZU13eURrYlhJazc4MjBQSE0?oc=5",
-      "source": "日経ビジネス電子版",
-      "snippet": "「映画ちいかわ」、ファンの「熱量」が書き換えたヒットの方程式 日経ビジネス電子版",
-      "summary": "「映画ちいかわ」、ファンの「熱量」が書き換えたヒットの方程式 日経ビジネス電子版",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-01T05:00:00+09:00",
-      "published_display": "2026-10-01 05:00 JST"
-    },
-    {
-      "title": "ちいかわは韓国でどれほど人気なのか 「音楽番組出演」「映画前売り1位」「4年続く行列」 #エキスパートトピ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXJmWDdKQldZTkRvZGNCOGxMbmtFVUNlUGlqQ2pHNDZEYlRCVzlkbkNLOThPcUVQTEprcWxyZnEza1puLUJqRTNKVUwzZjd6dHVjU0xWMnVlUjNSaE5SUDAzVzlvbWgyV09QeDdaeWdmeXFWVVRzYzJOZU41Q01fUnAtRzdPMmhI?oc=5",
+      "title": "おばけな「ちいかわ」たちが可愛い！「ちいかわパーク」新商品はマスコットや蓄光アイテムまで要チェック（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cEdtSHFfWk9aUXQtdzJCT192amhqWWNaN3lRZzVLQXR4MjNnc1ZCQ2Z1Q2hUWjJ6MFRSSmpTTGhGUkRqZ1p1S0MtM3c1eExDdnBTdDVYOVd4M0VsUjYyQ3ctQzR3SlY0eWcyMmdnUVdMY202cUlEWmxWZTBkTTQ?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ちいかわは韓国でどれほど人気なのか 「音楽番組出演」「映画前売り1位」「4年続く行列」 #エキスパートトピ Yahoo!ニュース",
-      "summary": "ちいかわは韓国でどれほど人気なのか 「音楽番組出演」「映画前売り1位」「4年続く行列」 #エキスパートトピ Yahoo!ニュース",
+      "snippet": "おばけな「ちいかわ」たちが可愛い！「ちいかわパーク」新商品はマスコットや蓄光アイテムまで要チェック（インサイド） Yahoo!ニュース",
+      "summary": "おばけな「ちいかわ」たちが可愛い！「ちいかわパーク」新商品はマスコットや蓄光アイテムまで要チェック（インサイド） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-01T18:30:03+09:00",
+      "published_display": "2026-10-01 18:30 JST"
+    },
+    {
+      "title": "おばけな「ちいかわ」たちが可愛い！「ちいかわパーク」新商品はマスコットや蓄光アイテムまで要チェック - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeDRNdFZJR3ZKM0ZiTVRGb01fb185dERmTlFRUnJocWlmQVBDU0s3N0J2Szdlcm0ydmVHNnZqcHJlUmZjc20zMVg0MXVRaV9hRVVCMXJtNHBPV3c0WFEyVzhueTdsWEVaNHR4aG9PcXNnZnRCOU5ENThoRmoxR3JJakdR0gGHAUFVX3lxTE9FVEhWN2Q4dnFvM0pXOFcyWUZ6QnJRQTI1clFvMkVfWjNSRUxVOVRCTFZSR3ZIV1VIT0pqY2RoYnVRS0thYUxXVVB5RzV4RllWeGtRZy1UcW9RN1pmaTk1Q2FSYXEyVGVPek9rYlFwM2NXV0k3Ni1MeGxxVlh5ZlVEOEVieU1VZw?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "おばけな「ちいかわ」たちが可愛い！「ちいかわパーク」新商品はマスコットや蓄光アイテムまで要チェック ｄメニューニュース",
+      "summary": "おばけな「ちいかわ」たちが可愛い！「ちいかわパーク」新商品はマスコットや蓄光アイテムまで要チェック ｄメニューニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-01T18:30:00+09:00",
+      "published_display": "2026-10-01 18:30 JST"
+    },
+    {
+      "title": "突然の“眉毛全剃り”！『ちいかわ』公式Xのうさぎの眉毛八変化イラストにファン悶絶「ちいちゃんとハチワレの真似っこしてるんだと思うと」 | アニメニュース | アニメフリークス - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vTkRobTRLTlViVWstd3RCTi1VMkZtR25yZFNueExibllGVXF0OXc4R0hwdUhvN3pBSDV3eTlFQmk2eE1fb0xVRktDUDZHS000NDNYUg?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "突然の“眉毛全剃り”！『ちいかわ』公式Xのうさぎの眉毛八変化イラストにファン悶絶「ちいちゃんとハチワレの真似っこしてるんだと思うと」 | アニメニュース | アニメフリークス ABEMA TIMES",
+      "summary": "突然の“眉毛全剃り”！『ちいかわ』公式Xのうさぎの眉毛八変化イラストにファン悶絶「ちいちゃんとハチワレの真似っこしてるんだと思うと」 | アニメニュース | アニメフリークス ABEMA TI…",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-09-30T22:52:20+09:00",
-      "published_display": "2026-09-30 22:52 JST"
+      "published_at": "2026-10-01T18:29:00+09:00",
+      "published_display": "2026-10-01 18:29 JST"
     }
   ]
 }
