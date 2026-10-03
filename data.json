@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-03T09:03:11.763385+09:00",
-  "generated_at_jst": "2026-10-03 09:03 JST",
+  "generated_at": "2026-10-03T23:50:26.099829+09:00",
+  "generated_at_jst": "2026-10-03 23:50 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -18,156 +18,156 @@
       "icon": "🎀"
     },
     {
-      "key": "anime",
-      "label": "アニメ・映画",
+      "key": "collab",
+      "label": "コラボ",
       "count": 1,
-      "icon": "🎬"
+      "icon": "🍰"
     },
     {
-      "key": "event",
-      "label": "イベント",
-      "count": 1,
-      "icon": "🌟"
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 4,
+      "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 5,
+      "count": 2,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "ペットボトルのラベル→切って伸ばしたら……「天才の発想やん」 “驚きの完成品”が160万表示「センスありすぎ」「真似させて」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13bVJZT3dOWElVSzI5SlBtRF9MS3FRbXdKTUp6NEhSemlES1podUxLbGVjcVY4SVNWaXpfUlNkTWRaQkw3WU40YTdpSVNfZ3N4Sml0bUxPb0daSm1NemNiRXhyTExoQkZJdFNpR3ZrV0xiclkwb1JEQVFzbkhpZ0E?oc=5",
+      "title": "「時計をしまっても出したままでも可愛い」ハニーズの3850円のちいかわ時計はバッグに付けられる！カバーで見せ方を変えて楽しめます カバーは柔らかなフェイクレザー！時計の裏蓋にもキャラクターの絵柄入り - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uSHpydEJ1V2JOUWtLNlJKUWRqdkJtYjlvcy1wdXhCX29KRy1LX3RiUGF4NUhZWWUwSzZjZU5PbXpBaUM0XzZySnFlQ2M?oc=5",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "snippet": "「時計をしまっても出したままでも可愛い」ハニーズの3850円のちいかわ時計はバッグに付けられる！カバーで見せ方を変えて楽しめます カバーは柔らかなフェイクレザー！時計の裏蓋にもキャラクターの絵柄入り LIMO | くらしとお金の経済メディア",
+      "summary": "「時計をしまっても出したままでも可愛い」ハニーズの3850円のちいかわ時計はバッグに付けられる！カバーで見せ方を変えて楽しめます カバーは柔らかなフェイクレザー！時計の裏蓋にもキャラクターの絵…",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-03T22:45:00+09:00",
+      "published_display": "2026-10-03 22:45 JST"
+    },
+    {
+      "title": "ちいかわ 韓国の人気音楽番組出演に大反響 ステージ映像が公開2日で100万回再生突破「可愛くて涙」（スポニチアネックス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNazNQdXVVZ1EtWTFoYndOZmxGRVRGVEQ2Sk80U01UcnRfZzk1VmVrdTRxNmk1cFYxNjRXNFZ1TzNERFNWcURZaVpIQVFWck1PUUhHX3lLOXZkc1BIREx6T1VEaHBSblRHRnBCRDFoWDUxU0ZSSFdyd1BRbjk2Y0U?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ペットボトルのラベル→切って伸ばしたら……「天才の発想やん」 “驚きの完成品”が160万表示「センスありすぎ」「真似させて」 Yahoo!ニュース",
-      "summary": "ペットボトルのラベル→切って伸ばしたら……「天才の発想やん」 “驚きの完成品”が160万表示「センスありすぎ」「真似させて」 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-03T08:13:21+09:00",
-      "published_display": "2026-10-03 08:13 JST"
-    },
-    {
-      "title": "【ちいかわ】このあと10時からプラキット『ちいプラ』第1弾が予約開始。ちいかわ・ハチワレ・うさぎの3種【数量限定】 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oOW4tZXlMSU03SUd5UnJQNEpGOHUwVHZETzFaVmE3Z0tMMU9obWh3cElHMlJwSTBDNGhndUdEYVVxazlmNlY3UENsTFdEUzRFNnB2eUtUaW1jdw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわ】このあと10時からプラキット『ちいプラ』第1弾が予約開始。ちいかわ・ハチワレ・うさぎの3種【数量限定】 電撃オンライン",
-      "summary": "【ちいかわ】このあと10時からプラキット『ちいプラ』第1弾が予約開始。ちいかわ・ハチワレ・うさぎの3種【数量限定】 電撃オンライン",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-10-03T08:00:00+09:00",
-      "published_display": "2026-10-03 08:00 JST"
-    },
-    {
-      "title": "知ると 「ちいかわ」 がもっと好きになる ナガノ先生がずっと守り続けてきたもの。 - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uczlibWtOWmJmb083ZEtvQ0FYWDBmcGtrRWhqeFdfa0U0aGV1a2c4aGdTSG1kUEt2ZEYySmNWb0p4elVPalJhNDVWeUJ1MHlCTWZZWlVZem5ZS3BN?oc=5",
-      "source": "YouTube",
-      "snippet": "知ると 「ちいかわ」 がもっと好きになる ナガノ先生がずっと守り続けてきたもの。 YouTube",
-      "summary": "知ると 「ちいかわ」 がもっと好きになる ナガノ先生がずっと守り続けてきたもの。 YouTube",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-03T06:44:19+09:00",
-      "published_display": "2026-10-03 06:44 JST"
-    },
-    {
-      "title": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響（ふたまん＋） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVU1jcWd0eU5qSXpuWlFyZXpNbWs1MU95bkdkNlIwNm9rN3BJQ3cwN2tYNGZfd2cyTC1TcTkyaVRHQlM1RF9LS19VcktWV3RKRmNyN2xpcGpGWXNDd1d2UUZiQ2VCVVJfc0N1UnBxdzA1TTRGT05lNWdYRDk4QjQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響（ふたまん＋） Yahoo!ニュース",
-      "summary": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響（ふたまん＋） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-03T06:35:21+09:00",
-      "published_display": "2026-10-03 06:35 JST"
-    },
-    {
-      "title": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響 - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yaTc4ekNaREQ1aDlzdEFocnpfbzVaSWc3THJRdEgyRmtUQThMUHRCMHowTjJING9JbjJzTV84WDZ2dFVoZU9DM1FhRVVTbjdzcnZ3ZU1KZG8wdExudTRn?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "snippet": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響 千葉テレビ放送株式会社",
-      "summary": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響 千葉テレビ放送株式会社",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-03T06:33:23+09:00",
-      "published_display": "2026-10-03 06:33 JST"
-    },
-    {
-      "title": "ちいかわ人気中国で加速 特別展開催、グッズ店も - 琉球新報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlaElzZ200VUZ4aWUwVkx2ak9QdlUySjVCTTlxUVBWak5DMFRsb2hYRWFRZXBYQnFTcng1MFJCOGxsdTVuWnlVakNCeXVzQ20yTXh4eWlGcTU5Q2hKWEE0WWJ3?oc=5",
-      "source": "琉球新報デジタル",
-      "snippet": "ちいかわ人気中国で加速 特別展開催、グッズ店も 琉球新報デジタル",
-      "summary": "ちいかわ人気中国で加速 特別展開催、グッズ店も 琉球新報デジタル",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-03T05:00:00+09:00",
-      "published_display": "2026-10-03 05:00 JST"
-    },
-    {
-      "title": "『ちいかわ』英語吹き替え版第1話が公式YouTubeで公開 - x.com",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qWGtHYWpkZWxDOUszSzFOSFJlalJJX1oyU0FJME1hTmdCaVNPWlM1S2lzdzRSZmJkVGJvT1pudmdILXoyV3B0bFJfcV9keHZFWlNGRWRpVQ?oc=5",
-      "source": "x.com",
-      "snippet": "『ちいかわ』英語吹き替え版第1話が公式YouTubeで公開 x.com",
-      "summary": "『ちいかわ』英語吹き替え版第1話が公式YouTubeで公開 x.com",
+      "snippet": "ちいかわ 韓国の人気音楽番組出演に大反響 ステージ映像が公開2日で100万回再生突破「可愛くて涙」（スポニチアネックス） Yahoo!ニュース",
+      "summary": "ちいかわ 韓国の人気音楽番組出演に大反響 ステージ映像が公開2日で100万回再生突破「可愛くて涙」（スポニチアネックス） Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-03T00:47:13+09:00",
-      "published_display": "2026-10-03 00:47 JST"
+      "published_at": "2026-10-03T20:57:10+09:00",
+      "published_display": "2026-10-03 20:57 JST"
     },
     {
-      "title": "『ちいかわ』くりまんじゅう＆シーサーが“ねんどろいど”フィギュア化！二日酔い顔、くやシーサー顔…豊富なバーツで色んなシチュ再現 (オタク総研) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjAxMHRQYzBMd0ZOZF8yTzNSUkJ1UDNFeTctZDQzN0M4SExjOWFta3UtTUQzZElXU3RIaHlCX1ZzdFlKWDZBSlZYN2treFMwczM4bzBPWlZUd0JVQWpIVTg4d0tfMnBVd05nMURiMHBlN2tuaXdLTVN5XzN2ZFNrTGpoWGVyMWl2LXR5eHh3?oc=5",
+      "title": "ちいかわのチッケム公開（音楽ナタリー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ianR4ODktUlZJd0toQUt5bEtJWUx4bmlucjU5MTlrN2dXZjhiUlhCbG8xNDhQaGJGU2hGZTYxaThNVHpoaDlsRjRZME5XeVYtX2VPTjh2eFFDazBxMFU1a05FRGFaQXN1RmQzeXF5TndnMGNWaExmNlRua0VmanM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』くりまんじゅう＆シーサーが“ねんどろいど”フィギュア化！二日酔い顔、くやシーサー顔…豊富なバーツで色んなシチュ再現 (オタク総研) Yahoo!ニュース",
-      "summary": "『ちいかわ』くりまんじゅう＆シーサーが“ねんどろいど”フィギュア化！二日酔い顔、くやシーサー顔…豊富なバーツで色んなシチュ再現 (オタク総研) Yahoo!ニュース",
+      "snippet": "ちいかわのチッケム公開（音楽ナタリー） Yahoo!ニュース",
+      "summary": "ちいかわのチッケム公開（音楽ナタリー） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-03T20:25:19+09:00",
+      "published_display": "2026-10-03 20:25 JST"
+    },
+    {
+      "title": "ちいかわのチッケム公開（動画あり） - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZUjdnbElqc2J6R1lXMEVpXzdFWTlfckVWMnhOV2h6VzhmMy14Wm5hbVZ1cS1yd3RobUdOWFBGbS1MQnEzWjhmcms4bDk?oc=5",
+      "source": "ナタリー",
+      "snippet": "ちいかわのチッケム公開（動画あり） ナタリー",
+      "summary": "ちいかわのチッケム公開（動画あり） ナタリー",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-03T20:24:00+09:00",
+      "published_display": "2026-10-03 20:24 JST"
+    },
+    {
+      "title": "＜新宿アニソンスコープ＞「映画ちいかわ」サントラ盤が首位 「プロセカ」ワンダーランズ×ショウタイムの新シングルも - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVnhfbUlnaDVQSmctLTVMTUlORzVRd1U5ZFo2ejNCeGdQb0hfalNOaTZMNFpUdjh4eGJQT3p0M1V0OHJmLUlzNUpDYmhuRDZMWXRjaEhabThFMnpzRG9zdVBLb2tmOF83UVpoUkZMekJ1bGQ2bmJfb3dqUElKeTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "＜新宿アニソンスコープ＞「映画ちいかわ」サントラ盤が首位 「プロセカ」ワンダーランズ×ショウタイムの新シングルも Yahoo!ニュース",
+      "summary": "＜新宿アニソンスコープ＞「映画ちいかわ」サントラ盤が首位 「プロセカ」ワンダーランズ×ショウタイムの新シングルも Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-03T20:21:00+09:00",
+      "published_display": "2026-10-03 20:21 JST"
+    },
+    {
+      "title": "人気キャラコラボで従業員の持ち出し続発 モラル頼みは限界か…推し活盛況、出品も容易（産経新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWXZHMzJmbTYzX1l6bmp5VGtTOS11SFJmTmlubHgwR05XTENzVEl0X1NFb2I2Nm1sRUdVSG1hM1pOV0VNdDNDT3FxeUM3dTAyb3B5RE5MOGdaTjJ0RmhqQjEtclBtN0RjNk80cFJUMjN3MC1lMUp2eWJIaEtuOUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "人気キャラコラボで従業員の持ち出し続発 モラル頼みは限界か…推し活盛況、出品も容易（産経新聞） Yahoo!ニュース",
+      "summary": "人気キャラコラボで従業員の持ち出し続発 モラル頼みは限界か…推し活盛況、出品も容易（産経新聞） Yahoo!ニュース",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-03T19:00:00+09:00",
+      "published_display": "2026-10-03 19:00 JST"
+    },
+    {
+      "title": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場 5枚目の写真・画像 - cinemacafe.net",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZzhUSC1BdWJPVEFHY0xENldLVFA2TUMyTFAtUFFySFRiajVQTDZ6aFozbHdUVmZ2SzFTZDBCbWJyMW5QbmhkMHE4Rm4xNnFhQXoyOUg4Ni1NQ01laURNd0hnbURjeWhuay1MOHAzWmQ1OWo1Y0dv?oc=5",
+      "source": "cinemacafe.net",
+      "snippet": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場 5枚目の写真・画像 cinemacafe.net",
+      "summary": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場 5枚目の写真・画像 cinemacafe.net",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-02T22:06:00+09:00",
-      "published_display": "2026-10-02 22:06 JST"
+      "published_at": "2026-10-03T16:30:03+09:00",
+      "published_display": "2026-10-03 16:30 JST"
     },
     {
-      "title": "ちいかわと一緒にひらがなを覚えよう 書き順付きの絵本『ちいかわ あいうえお』発売 - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uR2dBR0tVdjZNQ2Y2T1RwS3NfeHJ2SkVOSmtGbkZ4MVlwdVZFNHZKcmN3QllIREczSl9xV21rSDllY09qd1VyMTJhYVZXWnM2ZlE?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ちいかわと一緒にひらがなを覚えよう 書き順付きの絵本『ちいかわ あいうえお』発売 いこーよニュース",
-      "summary": "ちいかわと一緒にひらがなを覚えよう 書き順付きの絵本『ちいかわ あいうえお』発売 いこーよニュース",
+      "title": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場（cinemacafe.net） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hTnAxaDVsVTdyS2dTRmVHWldaRHV6NzBRZ1BqOHVfZHJURHNqdi1idVhtTjZ4b0swQW1uZGpabXU5QnFTazh1MC1vczdkWXd6bUstVU9QSnc4cFJlcUZycWJ2aEMtUEM5cE5sRzNUam9iajRPQVRBOXlFNTJRY2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場（cinemacafe.net） Yahoo!ニュース",
+      "summary": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場（cinemacafe.net） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-03T16:30:03+09:00",
+      "published_display": "2026-10-03 16:30 JST"
+    },
+    {
+      "title": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参「長旅のお供はうさぎ」（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NV9kbXg5U1hoUE1kZld5aElYdGQtMFBBLVAtN1F2YWJPaURUUVNBN0FWZ05VbktYVFVCZ3p5X2NTeXM0Q2Vzend2QTFvbE9ZUE1LakRRSVQyQ2pYOWg3YjdTSWFIa2tldmpONDlFbmNVeHRWUng3OFI3WWNFblk?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参「長旅のお供はうさぎ」（オリコン） Yahoo!ニュース",
+      "summary": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参「長旅のお供はうさぎ」（オリコン） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-02T20:31:14+09:00",
-      "published_display": "2026-10-02 20:31 JST"
+      "published_at": "2026-10-03T13:10:00+09:00",
+      "published_display": "2026-10-03 13:10 JST"
     },
     {
-      "title": "ちいかわベーカリー mini 2026年冬 大丸東京にオープン決定! - コラボカフェ",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHo4a3ZlWHJFYjI3T01USms0WDY5Y3REOGFnUS10SFRZOGVXTTc0Ql9URk1xMDU3X1BTcDVVQmdYaExOUEtRTDluUHM3YjY0S0sxaVRXM01yTUt1akhUV1NvZm9vV1BNaXdDdHZxQi1JOHlGUjlmSUxYN3Z4WDRzbGpZb1I3bm92c0FLTThn?oc=5",
-      "source": "コラボカフェ",
-      "snippet": "ちいかわベーカリー mini 2026年冬 大丸東京にオープン決定! コラボカフェ",
-      "summary": "ちいかわベーカリー mini 2026年冬 大丸東京にオープン決定! コラボカフェ",
+      "title": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参 「長旅のお供」にしたキャラクターは… - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1faVhUSmpMZW1BQ0lNZExsM25ZTE9CSElVRGNmcTd4OWRNb0ZKeGJJMmhDRWJXZHlFbUM2eWRzSkp6b0ZGSzRBUy1udXVxVVVDdFFRdktFT1NhNThvVlVKbWdzMmVaVjVyUXc?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参 「長旅のお供」にしたキャラクターは… オリコンニュース",
+      "summary": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参 「長旅のお供」にしたキャラクターは… オリコンニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-02T19:44:58+09:00",
-      "published_display": "2026-10-02 19:44 JST"
+      "published_at": "2026-10-03T13:10:00+09:00",
+      "published_display": "2026-10-03 13:10 JST"
     },
     {
-      "title": "初めて“ちいかわ”のネイルパーツを作成→練習を続けたら……“驚きの成長”に「すごい!!!!」「上達が早過ぎる」「成長しとる」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZZ2daWEoyZXI5XzR5clNQNEVoUnFYalJwdmQxUXVpM3g4MUdFQmpuZEp5a0djcTE2RWRDaWJ5OEJrVGZnSUo4dVlydnRVZVlaQnJYeXVRb1hZZ2ZRYXRDSXpoNm5OODNxczh2RWM0MVRQZDJZbVV3eVlIakpWaU0?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "初めて“ちいかわ”のネイルパーツを作成→練習を続けたら……“驚きの成長”に「すごい!!!!」「上達が早過ぎる」「成長しとる」 Yahoo!ニュース",
-      "summary": "初めて“ちいかわ”のネイルパーツを作成→練習を続けたら……“驚きの成長”に「すごい!!!!」「上達が早過ぎる」「成長しとる」 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-02T19:35:00+09:00",
-      "published_display": "2026-10-02 19:35 JST"
+      "title": "「すごい！ちいかわが…」女性写真家の蜷川実花氏、推しグッズを披露 (2026年10月3日掲載) - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93eVFJTWQ0Ri1McW9kMmhhLXZyYzNMZmFMaEJKZ3JrS1AyS3ExTVo4YW95U0hZSkFxTXFfSEt4eUhweWVHSmhhS2FWWWVCSGM5bmF4cE9EZnFLeXhZNGc?oc=5",
+      "source": "ライブドアニュース",
+      "snippet": "「すごい！ちいかわが…」女性写真家の蜷川実花氏、推しグッズを披露 (2026年10月3日掲載) ライブドアニュース",
+      "summary": "「すごい！ちいかわが…」女性写真家の蜷川実花氏、推しグッズを披露 (2026年10月3日掲載) ライブドアニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-03T13:10:00+09:00",
+      "published_display": "2026-10-03 13:10 JST"
     },
     {
-      "title": "初めて“ちいかわ”のネイルパーツを作成→練習を続けたら……“驚きの成長”に「すごい!!!!」「上達が早過ぎる」「成長しとる」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmx6enR4dEw2a2lsRy1GVnhTVjdfdlRaMzJRVGRtNWlORkF1bHZCRVpCTDF3OFVtaDhmNVFPZ3Q4cDNidnFnQlB4WVRyYnRZT2g1REwyTFhwSERXM29JMlNIWWlPVjRlczUwWXM3OEptbWZzbm9xN3RHMm9vVGFGYmt4dnEwU0NRNWJ0VXpB?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "初めて“ちいかわ”のネイルパーツを作成→練習を続けたら……“驚きの成長”に「すごい!!!!」「上達が早過ぎる」「成長しとる」 Yahoo!ニュース",
-      "summary": "初めて“ちいかわ”のネイルパーツを作成→練習を続けたら……“驚きの成長”に「すごい!!!!」「上達が早過ぎる」「成長しとる」 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-02T19:35:00+09:00",
-      "published_display": "2026-10-02 19:35 JST"
+      "title": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参 「長旅のお供」にしたキャラクターは… - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oMzl4QTBDdk9mZXNRZnNkY0FHMWI4R3BxQnN1R2FaYUhHaW13NFlYRjM5aTNBR3llU3Y1WG5nenlKYkluaVFWQVJqVTk5UGhhb0Z0UWVB?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参 「長旅のお供」にしたキャラクターは… オリコンニュース",
+      "summary": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参 「長旅のお供」にしたキャラクターは… オリコンニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-03T13:10:00+09:00",
+      "published_display": "2026-10-03 13:10 JST"
     }
   ]
 }
