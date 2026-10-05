@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-05T09:03:16.457098+09:00",
-  "generated_at_jst": "2026-10-05 09:03 JST",
+  "generated_at": "2026-10-05T21:05:20.682995+09:00",
+  "generated_at_jst": "2026-10-05 21:05 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -12,150 +12,156 @@
   ],
   "categories": [
     {
-      "key": "goods",
-      "label": "グッズ",
-      "count": 4,
-      "icon": "🎀"
+      "key": "collab",
+      "label": "コラボ",
+      "count": 5,
+      "icon": "🍰"
+    },
+    {
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 3,
+      "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 8,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "『暗殺者（たち）』再び首位、ちいかわと接戦 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0U1aUJ5NF9BTUEtbjZRaHg4U3p6aG9GUkVTS0pucDNvbW0yZGVTcDI5Q2RoRkJodnk2RkZmNUFPR01jb1BjbzdJZlR1dDZEdzJ0MkpuX051Rmd1R0lTUEFJaGg2Y0lDQTB1TjE5OEFJcVh5R1RHanctM3NGbmVBRl84QjhHR3M?oc=5",
-      "source": "조선일보",
-      "snippet": "『暗殺者（たち）』再び首位、ちいかわと接戦 조선일보",
-      "summary": "『暗殺者（たち）』再び首位、ちいかわと接戦 조선일보",
+      "title": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？ - 推し楽",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JSjVOVHhqUzhnZVdUaGYybFQ2S2xkSTJDOVdKdkV5NHBwYVhkTGlsMC1ENHFuSFNqMDVWVkp6aFdDcFNkcmp3Wm1Ocmk5c29Qdk4wT016MXNnZzJmbG1NR3VoUGZnUkFQcXpjVWVxRHZEM2M?oc=5",
+      "source": "推し楽",
+      "snippet": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？ 推し楽",
+      "summary": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？ 推し楽",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-05T07:31:00+09:00",
-      "published_display": "2026-10-05 07:31 JST"
+      "published_at": "2026-10-05T20:14:00+09:00",
+      "published_display": "2026-10-05 20:14 JST"
     },
     {
-      "title": "ドランクドラゴン塚地、『ちいかわ』の推しキャラ明かす「理由は親近感…な!!!笑」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iRnBVYTBHSVcyczVXS19wRVc4REJSYnlHeHBRcEFUT2x5SHg1VG5kcTRaZ0tob2lFZVplYzctS3A1bTdDY01WbExnbFc4amc?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "ドランクドラゴン塚地、『ちいかわ』の推しキャラ明かす「理由は親近感…な!!!笑」 オリコンニュース",
-      "summary": "ドランクドラゴン塚地、『ちいかわ』の推しキャラ明かす「理由は親近感…な!!!笑」 オリコンニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T07:30:01+09:00",
-      "published_display": "2026-10-05 07:30 JST"
-    },
-    {
-      "title": "ドランクドラゴン塚地、『ちいかわ』の推しキャラ明かす「理由は親近感…な!!!笑」 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kYU4zYUhPVDgxamF1ZFI4QkE0RTZtMkxOVEFLMWlOdFJPRW9QeGNybjgtb2NpX1JSYW9fdkg3MFBNOVJIUkk3LU1yel9GbmN3Zjlja294UnduU1lkeG5J?oc=5",
-      "source": "ライブドアニュース",
-      "snippet": "ドランクドラゴン塚地、『ちいかわ』の推しキャラ明かす「理由は親近感…な!!!笑」 ライブドアニュース",
-      "summary": "ドランクドラゴン塚地、『ちいかわ』の推しキャラ明かす「理由は親近感…な!!!笑」 ライブドアニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T07:25:00+09:00",
-      "published_display": "2026-10-05 07:25 JST"
-    },
-    {
-      "title": "「ちいかわ」人気の秘密を紐解く “かわいい”の裏にあるシビアな世界と深い物語 - WEBザテレビジョン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hemdKRkQtemh0NDFaeVBTTmlvN3lCOG84UlNQRTJVYVZIbVJGVFVlMks2aXdiYjRBcnlDV1BhRXlKVk5IZUhEUUZrbHdrZw?oc=5",
-      "source": "WEBザテレビジョン",
-      "snippet": "「ちいかわ」人気の秘密を紐解く “かわいい”の裏にあるシビアな世界と深い物語 WEBザテレビジョン",
-      "summary": "「ちいかわ」人気の秘密を紐解く “かわいい”の裏にあるシビアな世界と深い物語 WEBザテレビジョン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T07:22:05+09:00",
-      "published_display": "2026-10-05 07:22 JST"
-    },
-    {
-      "title": "10月5日(月)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aZ3BmYm9RZG9tZ2pBZVVXT1oxSl9jSDdOZjZoNzNfM09JeWRna0ZkR21YQ2x0WmxQR28wc2plaVBfN08yZDhnb1U1emNYOHNhS3U4?oc=5",
-      "source": "めざましmedia",
-      "snippet": "10月5日(月)の「ちいかわ占い」 めざましmedia",
-      "summary": "10月5日(月)の「ちいかわ占い」 めざましmedia",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T07:00:00+09:00",
-      "published_display": "2026-10-05 07:00 JST"
-    },
-    {
-      "title": "「ちいかわ」のぬいぐるみが“着ぐるみ”をしたら...⇒セリアの毛糸の手編み作品に「冬支度バッチリ」「質感たまらん」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nX0NwMTZrYm5pVjVKMVJZaG9rby1kTGZLdEtlUTVEcEh5bnFWTy14aldCb21PRW1HRE9NUndtaTd5NUNYOFVvTlFQU3F6ajROcmxKNE9tcHAxMWJud0Nld21QNm51RGl1dHpLazhZVUM5T1U1Tm1uSzFfdmhRSFk?oc=5",
+      "title": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪（ぴあ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xS3ViMUxGY0UxVHVRZXhrMFZvQUJfV2VTbmxzajk1OGJYTGpKcGdmb2RweTlUNXp5MnZESXpEbnBLbFpTaW00SjNoUERCWjI3QXlXS3lkWDhTcUNzZ3dUc1I4aXBLNFpZa2xjbW9ycS1yWW9oYThLTHpfcDlwekk?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」のぬいぐるみが“着ぐるみ”をしたら...⇒セリアの毛糸の手編み作品に「冬支度バッチリ」「質感たまらん」 Yahoo!ニュース",
-      "summary": "「ちいかわ」のぬいぐるみが“着ぐるみ”をしたら...⇒セリアの毛糸の手編み作品に「冬支度バッチリ」「質感たまらん」 Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-05T06:45:10+09:00",
-      "published_display": "2026-10-05 06:45 JST"
+      "snippet": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪（ぴあ） Yahoo!ニュース",
+      "summary": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪（ぴあ） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-05T20:02:35+09:00",
+      "published_display": "2026-10-05 20:02 JST"
     },
     {
-      "title": "セリフプレート特典も登場！『ちいかわ』ねんどろいど くりまんじゅう・シーサー - dtimes.jp",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxQUlMSFVxQlEtX2IyX25XenV3OGh1MnhWMlQydlhYdGotMUZ3c3Z0X2VoclNnYlVqLVIxc2xqWkJHNTQ3TkE?oc=5",
-      "source": "dtimes.jp",
-      "snippet": "セリフプレート特典も登場！『ちいかわ』ねんどろいど くりまんじゅう・シーサー dtimes.jp",
-      "summary": "セリフプレート特典も登場！『ちいかわ』ねんどろいど くりまんじゅう・シーサー dtimes.jp",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T06:38:37+09:00",
-      "published_display": "2026-10-05 06:38 JST"
-    },
-    {
-      "title": "「ちいかわとハチワレ？」『VIVANT』ドラム＆チョッキーの密着プリクラ風2Sが反響！ 仲良く指ハート披露で「少女漫画のキャラみたい」（中日スポーツ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ST0hITkNJUkJVVlFNUzFLVU5IQnRrbnlMVms5TEU1Tlo4MjlUZWFYcUtyUlViUTdPRzA0eEhNTnpGZ09rZzlkYXBFYkRUMGJsMGVHTDhWa3RTMFF2aGdMSTRnbVdIY3k5Ny1Za1lLbDJianJtaHNja2lKZ0xzVzg?oc=5",
+      "title": "高見沢俊彦『ちいかわ』うさぎ“そっくり”な髪型に「実写でしかない」「リアル」「びっくり」とSNSざわつく - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQzI3Q0JsUm91alQ3SkY2Tkh2YlVQcXJ5bV82eWZUSGk2Z3dyQ1pRdGF5alc4QjFFUkNaekdyUm9ieWFQd19LcmRNdkgxdy1EczVoQzFndHBUNjY1eFBiQllIVzdyWklNVHgwbEQ2Q2Z4WWRzUlRScGdoR0lZaGM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわとハチワレ？」『VIVANT』ドラム＆チョッキーの密着プリクラ風2Sが反響！ 仲良く指ハート披露で「少女漫画のキャラみたい」（中日スポーツ） Yahoo!ニュース",
-      "summary": "「ちいかわとハチワレ？」『VIVANT』ドラム＆チョッキーの密着プリクラ風2Sが反響！ 仲良く指ハート披露で「少女漫画のキャラみたい」（中日スポーツ） Yahoo!ニュース",
+      "snippet": "高見沢俊彦『ちいかわ』うさぎ“そっくり”な髪型に「実写でしかない」「リアル」「びっくり」とSNSざわつく Yahoo!ニュース",
+      "summary": "高見沢俊彦『ちいかわ』うさぎ“そっくり”な髪型に「実写でしかない」「リアル」「びっくり」とSNSざわつく Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-05T06:34:25+09:00",
-      "published_display": "2026-10-05 06:34 JST"
+      "published_at": "2026-10-05T19:35:01+09:00",
+      "published_display": "2026-10-05 19:35 JST"
     },
     {
-      "title": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜（ふたまん＋） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51STFCQ3o5ZDN2dC1DWnJKVVlqMWZiTGRsYmdyMVNtSy1IZ2EycGU0dmVzWXUwRUxHdVJkMU45T3luSzFkbWY3YUFkNnRKQk85aW5DSVRvRFl1SzZaVlNXdDJkUE51Z25IM3dXaGs1YU9DRGowOXVoa0NwSjU4YjA?oc=5",
+      "title": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWenVDM0xDREFjSmsyUlpuOWxqMVVYbUlCeHJaY01sbmk1WTFJNlhyUWRQeHMxUzdZRWhuY2dsTkc0RmFFcWxwVEVFX0FackRuZmxtVklIMFpvUDJYRTQ0?oc=5",
+      "source": "Infoseek",
+      "snippet": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ Infoseek",
+      "summary": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ Infoseek",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-05T19:15:03+09:00",
+      "published_display": "2026-10-05 19:15 JST"
+    },
+    {
+      "title": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VSUxTWi0zTG9jTjI2TC0wNVQwaDN2cF90eWJNSkRqZnFhajlCenV6N2NDa2hrbDFHMksxdnduN2dpWDhOVVFWM2NCOGVoT0pVOGRremJkVVk4bkFyVDRmcTN1RmRaQUZVOVE?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ インサイド",
+      "summary": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ インサイド",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-05T19:15:03+09:00",
+      "published_display": "2026-10-05 19:15 JST"
+    },
+    {
+      "title": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcElTeWVrSDRuNmM4cHQwNTliU0NWYnV4SjJBTkpGYVBGVUl4OUxJTEZrcXViYWRKNEpieS0yZnVvMG5KMGlMZWtPUlVOckhTMHZQYmFidFBmTmN5Q3JF?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ ぴあエンタメ情報",
+      "summary": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ ぴあエンタメ情報",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-05T19:00:00+09:00",
+      "published_display": "2026-10-05 19:00 JST"
+    },
+    {
+      "title": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催! - コラボカフェ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVhOM29HSzNTb0pEcGFIVS1XTGJpbVk4OWhGazdhRC14VWlhSmREYTV6aHFzSFBfZ0hQcmhSaUhhc3gzcE1vd3V0WWpacWlIOXNiNDF5alBMUXQ5alhXb0d4Y3JSSnRQeWU2cmNObmJzM3dicjBkWk5wbE1JeFAyVkpQWnhrV29Qcjd1Ug?oc=5",
+      "source": "コラボカフェ",
+      "snippet": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催! コラボカフェ",
+      "summary": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催! コラボカフェ",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-05T18:25:17+09:00",
+      "published_display": "2026-10-05 18:25 JST"
+    },
+    {
+      "title": "ちいかわ「くりまんじゅう」の好物「だし割り」がお家で楽しめるセットが「玉乃光酒造」から登場！ - キャラクター情報サイト",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94Unc5a2l0WXdUMEh5MEtyUlRCSXp3YmZYQS02UWZBeE16cm5mUVgtM3NjbXlHV2FUOExMQTBpdWtzdw?oc=5",
+      "source": "キャラクター情報サイト",
+      "snippet": "ちいかわ「くりまんじゅう」の好物「だし割り」がお家で楽しめるセットが「玉乃光酒造」から登場！ キャラクター情報サイト",
+      "summary": "ちいかわ「くりまんじゅう」の好物「だし割り」がお家で楽しめるセットが「玉乃光酒造」から登場！ キャラクター情報サイト",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-05T18:01:09+09:00",
+      "published_display": "2026-10-05 18:01 JST"
+    },
+    {
+      "title": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSHlQeF9FUmY0ZVVGRTJfM09SSWZEc1F6TWt4bEZkTzY0WEFhbWRKZHRqSFV5TVRtbjl5TzJUVzFZNFhERk11ZUpsYjBLOUxlbk90MVZZU3NRc1UzYUlBS3o3V1RFcFJwTktMRUt2X1RBTDRJczBWaFVIOVdQV1k?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜（ふたまん＋） Yahoo!ニュース",
-      "summary": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜（ふたまん＋） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-05T06:34:16+09:00",
-      "published_display": "2026-10-05 06:34 JST"
+      "snippet": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる（インサイド） Yahoo!ニュース",
+      "summary": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる（インサイド） Yahoo!ニュース",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-05T18:00:04+09:00",
+      "published_display": "2026-10-05 18:00 JST"
     },
     {
-      "title": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜 - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XWDlRRlZsZTVkVVFNSFZYN3FmRWlrZ2FuRmJ3UGNJejRxWS04TG44bzRrQ2JvWDEwN2padGhxRUhESC1kR3F6ZHB4MWdlaWNaV1FzUFZOWGpadE9Lc3lJ?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "snippet": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜 千葉テレビ放送株式会社",
-      "summary": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜 千葉テレビ放送株式会社",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-05T06:33:21+09:00",
-      "published_display": "2026-10-05 06:33 JST"
+      "title": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHg1bFp1YUxUM3ZlTFR1elZRb2REMXpWcHNfTklQdzNKc2FQa1dWTHJ6NmU3c3kxNzFscjlqNDZwSVV0akdRQTJ1WUQ3NFhkVDdpZzZ2NTlTcXNabFFTWFp3eGl4ZThOb0dNZDlNUTFDVkczLWdhcl9wcXB4VTF0VW5pbFMtT2pLRGg0LXU4UDFwd2xzbU5HQlJVOGdEOTNTWklLVk5lemJZMm54X3I3UjE2b2ZlOTlUSDZEM2RVX0c1YlMyMjNQeVpPc0JtQUZXR3JBS3poY9IBhwFBVV95cUxOS25zWjZTRV82VDI4NFZKeUxub0pCdzhEN1VSazZOZzhSZ29FaDFLUEo0NGtDT2hHUkZnQ0pxY1FlaU1xT2RBSWFEakd3Y0xhMnpVcWpqSlhrdmFDWTFpUWpVZVhfYWJSRUp1X1RFMzl1UlRjX1ZSSEg2NFdoN3dyVWx5a0wwZ0k?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる ｄメニューニュース",
+      "summary": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる ｄメニューニュース",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-05T18:00:00+09:00",
+      "published_display": "2026-10-05 18:00 JST"
     },
     {
-      "title": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜 | 概要 | アニメ | 最新コラム - ふねぽ",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1heXZvZUxoOFBTQ3ByQm5ZN1dVQmhOR190Mkt4blJqMU9uaXVuSWdlZzMxMnMzUjdrLVhqbmFxZVM3NHk0WDdsaTdpd2ZVTGpZOFR6OUZ3MFVNQQ?oc=5",
-      "source": "ふねぽ",
-      "snippet": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜 | 概要 | アニメ | 最新コラム ふねぽ",
-      "summary": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜 | 概要 | アニメ | 最新コラム ふねぽ",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-05T06:00:00+09:00",
-      "published_display": "2026-10-05 06:00 JST"
-    },
-    {
-      "title": "0歳から楽しめるキャラクター型えほん！講談社「だいすきちいかわ シェイプブックミニ」新刊3冊 - dtimes.jp",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1tUnkzR3BmNURnYzFiMnQ4MWw1OFhjcUprbkFFN0dNdmU1VzRIVHo0cE43NF8wc0haSGdCRDRuWXpRYWxXS2c?oc=5",
-      "source": "dtimes.jp",
-      "snippet": "0歳から楽しめるキャラクター型えほん！講談社「だいすきちいかわ シェイプブックミニ」新刊3冊 dtimes.jp",
-      "summary": "0歳から楽しめるキャラクター型えほん！講談社「だいすきちいかわ シェイプブックミニ」新刊3冊 dtimes.jp",
+      "title": "『ちいかわ』島二郎のコスプレと私服、“同じポーズ”で並べたら⇨「ギャップがすごい」「2度見どころか5度見」と爆笑 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3a2Joa2FueXRPd0JXT3RiUldXeVRJSDZ6QUhHOUNFQUwyLWQ2ZEU4WWtqaG1qOWtNTU9Wc29yNEY4OWw5OThPYUROR3M5TU1xcnB6QTZ0WGdnWWFlSmtQeUt0NTZqdEUtSlM4aHJOamNPYTFzb1NFUnB5QXZHaG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『ちいかわ』島二郎のコスプレと私服、“同じポーズ”で並べたら⇨「ギャップがすごい」「2度見どころか5度見」と爆笑 Yahoo!ニュース",
+      "summary": "『ちいかわ』島二郎のコスプレと私服、“同じポーズ”で並べたら⇨「ギャップがすごい」「2度見どころか5度見」と爆笑 Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-05T04:41:15+09:00",
-      "published_display": "2026-10-05 04:41 JST"
+      "published_at": "2026-10-05T17:47:17+09:00",
+      "published_display": "2026-10-05 17:47 JST"
+    },
+    {
+      "title": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場（アニメ！アニメ！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMy1KbnRubF80ZHhCVEpOc0VRTTFjT2tDUkEzSlVnSG5Fd2MzMmFQZzJad3Q0VkNTQTRuMldiSDlKeXFMVzBhSzc4WHFfV0sxbzJyRHpkajVCU2tTTllrRmJIel9DR2hhRkU4WTIybERQYmdqLVVPUTlON1ZiNGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場（アニメ！アニメ！） Yahoo!ニュース",
+      "summary": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場（アニメ！アニメ！） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-05T17:15:02+09:00",
+      "published_display": "2026-10-05 17:15 JST"
     }
   ]
 }
