@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-05T21:05:20.682995+09:00",
-  "generated_at_jst": "2026-10-05 21:05 JST",
+  "generated_at": "2026-10-06T09:03:18.660343+09:00",
+  "generated_at_jst": "2026-10-06 09:03 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -12,91 +12,31 @@
   ],
   "categories": [
     {
+      "key": "goods",
+      "label": "グッズ",
+      "count": 2,
+      "icon": "🎀"
+    },
+    {
       "key": "collab",
       "label": "コラボ",
-      "count": 5,
+      "count": 1,
       "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 3,
+      "count": 4,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 5,
       "icon": "🌱"
     }
   ],
   "items": [
-    {
-      "title": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？ - 推し楽",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JSjVOVHhqUzhnZVdUaGYybFQ2S2xkSTJDOVdKdkV5NHBwYVhkTGlsMC1ENHFuSFNqMDVWVkp6aFdDcFNkcmp3Wm1Ocmk5c29Qdk4wT016MXNnZzJmbG1NR3VoUGZnUkFQcXpjVWVxRHZEM2M?oc=5",
-      "source": "推し楽",
-      "snippet": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？ 推し楽",
-      "summary": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？ 推し楽",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T20:14:00+09:00",
-      "published_display": "2026-10-05 20:14 JST"
-    },
-    {
-      "title": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪（ぴあ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xS3ViMUxGY0UxVHVRZXhrMFZvQUJfV2VTbmxzajk1OGJYTGpKcGdmb2RweTlUNXp5MnZESXpEbnBLbFpTaW00SjNoUERCWjI3QXlXS3lkWDhTcUNzZ3dUc1I4aXBLNFpZa2xjbW9ycS1yWW9oYThLTHpfcDlwekk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪（ぴあ） Yahoo!ニュース",
-      "summary": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪（ぴあ） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-05T20:02:35+09:00",
-      "published_display": "2026-10-05 20:02 JST"
-    },
-    {
-      "title": "高見沢俊彦『ちいかわ』うさぎ“そっくり”な髪型に「実写でしかない」「リアル」「びっくり」とSNSざわつく - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQzI3Q0JsUm91alQ3SkY2Tkh2YlVQcXJ5bV82eWZUSGk2Z3dyQ1pRdGF5alc4QjFFUkNaekdyUm9ieWFQd19LcmRNdkgxdy1EczVoQzFndHBUNjY1eFBiQllIVzdyWklNVHgwbEQ2Q2Z4WWRzUlRScGdoR0lZaGM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "高見沢俊彦『ちいかわ』うさぎ“そっくり”な髪型に「実写でしかない」「リアル」「びっくり」とSNSざわつく Yahoo!ニュース",
-      "summary": "高見沢俊彦『ちいかわ』うさぎ“そっくり”な髪型に「実写でしかない」「リアル」「びっくり」とSNSざわつく Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T19:35:01+09:00",
-      "published_display": "2026-10-05 19:35 JST"
-    },
-    {
-      "title": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWenVDM0xDREFjSmsyUlpuOWxqMVVYbUlCeHJaY01sbmk1WTFJNlhyUWRQeHMxUzdZRWhuY2dsTkc0RmFFcWxwVEVFX0FackRuZmxtVklIMFpvUDJYRTQ0?oc=5",
-      "source": "Infoseek",
-      "snippet": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ Infoseek",
-      "summary": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ Infoseek",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-05T19:15:03+09:00",
-      "published_display": "2026-10-05 19:15 JST"
-    },
-    {
-      "title": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VSUxTWi0zTG9jTjI2TC0wNVQwaDN2cF90eWJNSkRqZnFhajlCenV6N2NDa2hrbDFHMksxdnduN2dpWDhOVVFWM2NCOGVoT0pVOGRremJkVVk4bkFyVDRmcTN1RmRaQUZVOVE?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ インサイド",
-      "summary": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ インサイド",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-05T19:15:03+09:00",
-      "published_display": "2026-10-05 19:15 JST"
-    },
-    {
-      "title": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcElTeWVrSDRuNmM4cHQwNTliU0NWYnV4SjJBTkpGYVBGVUl4OUxJTEZrcXViYWRKNEpieS0yZnVvMG5KMGlMZWtPUlVOckhTMHZQYmFidFBmTmN5Q3JF?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ ぴあエンタメ情報",
-      "summary": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ ぴあエンタメ情報",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-05T19:00:00+09:00",
-      "published_display": "2026-10-05 19:00 JST"
-    },
     {
       "title": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催! - コラボカフェ",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVhOM29HSzNTb0pEcGFIVS1XTGJpbVk4OWhGazdhRC14VWlhSmREYTV6aHFzSFBfZ0hQcmhSaUhhc3gzcE1vd3V0WWpacWlIOXNiNDF5alBMUXQ5alhXb0d4Y3JSSnRQeWU2cmNObmJzM3dicjBkWk5wbE1JeFAyVkpQWnhrV29Qcjd1Ug?oc=5",
@@ -105,8 +45,85 @@
       "summary": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催! コラボカフェ",
       "category_key": "collab",
       "category_label": "コラボ",
-      "published_at": "2026-10-05T18:25:17+09:00",
-      "published_display": "2026-10-05 18:25 JST"
+      "published_at": "2026-10-06T08:23:22+09:00",
+      "published_display": "2026-10-06 08:23 JST"
+    },
+    {
+      "title": "ちいかわ 2022年放送 第21話 なんとかバニア(1)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83SmtlbE9uSWhOUC1OdmZLNXVXSll3Y1lCM0FkcTNRZlFEbmlPMFNlck9GSzNFTktxZ1llc3JRLUFXMDdVMzlMN3Q2cw?oc=5",
+      "source": "TVer",
+      "snippet": "ちいかわ 2022年放送 第21話 なんとかバニア(1)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "summary": "ちいかわ 2022年放送 第21話 なんとかバニア(1)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-06T08:18:13+09:00",
+      "published_display": "2026-10-06 08:18 JST"
+    },
+    {
+      "title": "「ちいかわベーカリー」2周年記念！ちいかわたちがコロネになったマスコットが登場！ - キャラクター情報サイト",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Eb081NVNYcVBqQTFrVFFnX2dGSXlYYXgyZTJzbzdxcTVmWDJKU1FYdDZ2S3BlNjNfaU1QUFVkX3V4QQ?oc=5",
+      "source": "キャラクター情報サイト",
+      "snippet": "「ちいかわベーカリー」2周年記念！ちいかわたちがコロネになったマスコットが登場！ キャラクター情報サイト",
+      "summary": "「ちいかわベーカリー」2周年記念！ちいかわたちがコロネになったマスコットが登場！ キャラクター情報サイト",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-06T08:00:39+09:00",
+      "published_display": "2026-10-06 08:00 JST"
+    },
+    {
+      "title": "10月6日(火)の「ちいかわ占い」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00bUlHd28tMHpGYktCQnBsUTdyVG5UdkkzdmJLV1drVWZDN2dzeF9lTG9odVB3VjJxdjZPWlppM1RtWjl2STBQLTVVeWY3cWRUQzNR?oc=5",
+      "source": "めざましmedia",
+      "snippet": "10月6日(火)の「ちいかわ占い」 めざましmedia",
+      "summary": "10月6日(火)の「ちいかわ占い」 めざましmedia",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-06T07:00:00+09:00",
+      "published_display": "2026-10-06 07:00 JST"
+    },
+    {
+      "title": "「モンジャクィ」人気沸騰 映画ちいかわ、競争社会の韓国で共感 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOTjRhSktOWlRWVjZ1dURzMHNEN09rbzFQQWZqaWNya0ZOc2pIQy1XQkoydlRHVzdvd01fMmJnVmJ4X2dnZVA2U2U3MGt4QnczUzhkTXhwVEswYXFpbV80UjFhQTdnNk03NFlQUQ?oc=5",
+      "source": "日本経済新聞",
+      "snippet": "「モンジャクィ」人気沸騰 映画ちいかわ、競争社会の韓国で共感 日本経済新聞 『ちいかわ』興収171億円突破 『ONE PIECE FILM RED』並ぶ興収ペース維持 オリコンニュース 『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ の画像・写真 ぴあエンタメ情報",
+      "summary": "「モンジャクィ」人気沸騰 映画ちいかわ、競争社会の韓国で共感 日本経済新聞 『ちいかわ』興収171億円突破 『ONE PIECE FILM RED』並ぶ興収ペース維持 オリコンニュース 『映画…",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-06T05:00:00+09:00",
+      "published_display": "2026-10-06 05:00 JST"
+    },
+    {
+      "title": "【ちいかわ】くりまんじゅうが嗜んでいた“だし割り”をお家で楽しめる！ かわいいカップやパッケージにも注目の「ちいかわ 日本酒とお出汁のだし割りセット」が登場 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoNURJZGNQNVgtUEdCN3BIUjBNd1BPazk0aFMtdjIwV1lpR1FRMkRvT0JXX1ZkaDZEMW13bWxIek1QTllMcC13cEdXRFUtQQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】くりまんじゅうが嗜んでいた“だし割り”をお家で楽しめる！ かわいいカップやパッケージにも注目の「ちいかわ 日本酒とお出汁のだし割りセット」が登場 PASH! PLUS",
+      "summary": "【ちいかわ】くりまんじゅうが嗜んでいた“だし割り”をお家で楽しめる！ かわいいカップやパッケージにも注目の「ちいかわ 日本酒とお出汁のだし割りセット」が登場 PASH! PLUS",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-06T04:11:56+09:00",
+      "published_display": "2026-10-06 04:11 JST"
+    },
+    {
+      "title": "【ちいかわ】くりまんじゅうの「だし割り」をお家で！『ちいかわ 日本酒とお出汁のだし割りセット』登場 - Japaaan",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80Skt0ZUJ1YkpZLUI3Ym80N2tLZ3dTZkRpY3AzbHhlLW5ONnZGaDUxalladlFKaWhpUW5TbHZadmxtbWZkX1M2aTBST0taM09U?oc=5",
+      "source": "Japaaan",
+      "snippet": "【ちいかわ】くりまんじゅうの「だし割り」をお家で！『ちいかわ 日本酒とお出汁のだし割りセット』登場 Japaaan",
+      "summary": "【ちいかわ】くりまんじゅうの「だし割り」をお家で！『ちいかわ 日本酒とお出汁のだし割りセット』登場 Japaaan",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-06T03:43:08+09:00",
+      "published_display": "2026-10-06 03:43 JST"
+    },
+    {
+      "title": "衝撃特価ちいかわ✖️ユニクロ パジャマ ノベルティ マルチレンジボールTシャツ・アパレル｜au PAY マーケット - sakhaparliament.ru",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uWUQ2cWdEbEM4MC1Qb3ZrazlMT2pJWi1neUp2Y1BMOWg2OW8wSXFGSGx1dVNCSDRFWGdvZjJsV0tSQVFzRXdYNUtlMEdZR1JFcFRBdDZuZHdMN1U?oc=5",
+      "source": "sakhaparliament.ru",
+      "snippet": "衝撃特価ちいかわ✖️ユニクロ パジャマ ノベルティ マルチレンジボールTシャツ・アパレル｜au PAY マーケット sakhaparliament.ru",
+      "summary": "衝撃特価ちいかわ✖️ユニクロ パジャマ ノベルティ マルチレンジボールTシャツ・アパレル｜au PAY マーケット sakhaparliament.ru",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-06T03:14:12+09:00",
+      "published_display": "2026-10-06 03:14 JST"
     },
     {
       "title": "ちいかわ「くりまんじゅう」の好物「だし割り」がお家で楽しめるセットが「玉乃光酒造」から登場！ - キャラクター情報サイト",
@@ -116,52 +133,41 @@
       "summary": "ちいかわ「くりまんじゅう」の好物「だし割り」がお家で楽しめるセットが「玉乃光酒造」から登場！ キャラクター情報サイト",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-05T18:01:09+09:00",
-      "published_display": "2026-10-05 18:01 JST"
+      "published_at": "2026-10-06T02:04:57+09:00",
+      "published_display": "2026-10-06 02:04 JST"
     },
     {
-      "title": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSHlQeF9FUmY0ZVVGRTJfM09SSWZEc1F6TWt4bEZkTzY0WEFhbWRKZHRqSFV5TVRtbjl5TzJUVzFZNFhERk11ZUpsYjBLOUxlbk90MVZZU3NRc1UzYUlBS3o3V1RFcFJwTktMRUt2X1RBTDRJczBWaFVIOVdQV1k?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる（インサイド） Yahoo!ニュース",
-      "summary": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる（インサイド） Yahoo!ニュース",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-05T18:00:04+09:00",
-      "published_display": "2026-10-05 18:00 JST"
-    },
-    {
-      "title": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHg1bFp1YUxUM3ZlTFR1elZRb2REMXpWcHNfTklQdzNKc2FQa1dWTHJ6NmU3c3kxNzFscjlqNDZwSVV0akdRQTJ1WUQ3NFhkVDdpZzZ2NTlTcXNabFFTWFp3eGl4ZThOb0dNZDlNUTFDVkczLWdhcl9wcXB4VTF0VW5pbFMtT2pLRGg0LXU4UDFwd2xzbU5HQlJVOGdEOTNTWklLVk5lemJZMm54X3I3UjE2b2ZlOTlUSDZEM2RVX0c1YlMyMjNQeVpPc0JtQUZXR3JBS3poY9IBhwFBVV95cUxOS25zWjZTRV82VDI4NFZKeUxub0pCdzhEN1VSazZOZzhSZ29FaDFLUEo0NGtDT2hHUkZnQ0pxY1FlaU1xT2RBSWFEakd3Y0xhMnpVcWpqSlhrdmFDWTFpUWpVZVhfYWJSRUp1X1RFMzl1UlRjX1ZSSEg2NFdoN3dyVWx5a0wwZ0k?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる ｄメニューニュース",
-      "summary": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる ｄメニューニュース",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-05T18:00:00+09:00",
-      "published_display": "2026-10-05 18:00 JST"
-    },
-    {
-      "title": "『ちいかわ』島二郎のコスプレと私服、“同じポーズ”で並べたら⇨「ギャップがすごい」「2度見どころか5度見」と爆笑 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3a2Joa2FueXRPd0JXT3RiUldXeVRJSDZ6QUhHOUNFQUwyLWQ2ZEU4WWtqaG1qOWtNTU9Wc29yNEY4OWw5OThPYUROR3M5TU1xcnB6QTZ0WGdnWWFlSmtQeUt0NTZqdEUtSlM4aHJOamNPYTFzb1NFUnB5QXZHaG8?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』島二郎のコスプレと私服、“同じポーズ”で並べたら⇨「ギャップがすごい」「2度見どころか5度見」と爆笑 Yahoo!ニュース",
-      "summary": "『ちいかわ』島二郎のコスプレと私服、“同じポーズ”で並べたら⇨「ギャップがすごい」「2度見どころか5度見」と爆笑 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-05T17:47:17+09:00",
-      "published_display": "2026-10-05 17:47 JST"
-    },
-    {
-      "title": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場（アニメ！アニメ！） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMy1KbnRubF80ZHhCVEpOc0VRTTFjT2tDUkEzSlVnSG5Fd2MzMmFQZzJad3Q0VkNTQTRuMldiSDlKeXFMVzBhSzc4WHFfV0sxbzJyRHpkajVCU2tTTllrRmJIel9DR2hhRkU4WTIybERQYmdqLVVPUTlON1ZiNGM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場（アニメ！アニメ！） Yahoo!ニュース",
-      "summary": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場（アニメ！アニメ！） Yahoo!ニュース",
+      "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員 - MANTANWEB",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByTWNrdjY4UUtMVDlkZDl6UEdEMmRkdk96eHB0czFmRDJLeVVhX0xyVXEyd08xbXo3YzZzTHhmb3B5dXhjMlZPOFlraDVLXzg4SFRiYkU4bWlRQlNfdV9RN2FObFZyYkZNaU9B?oc=5",
+      "source": "MANTANWEB",
+      "snippet": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員 MANTANWEB",
+      "summary": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員 MANTANWEB",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-05T17:15:02+09:00",
-      "published_display": "2026-10-05 17:15 JST"
+      "published_at": "2026-10-06T00:27:05+09:00",
+      "published_display": "2026-10-06 00:27 JST"
+    },
+    {
+      "title": "ちいかわたちと楽しくひらがなを覚えよう！ 書き順付き絵本『ちいかわ あいうえお』が登場 - Real Sound｜リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hbjZ0TndfOFBJRFNkRDBkdmdQT2xtZ1dkQXNsS25QdWFFMXJOOFdSWm5XMngtbUdxaVFYZGJYOVliWkQwYWc4SkNzZklJT0RUTnlaVzY0NFZpM0VJOVhwVNIBZkFVX3lxTFBpQ2pwN25FMnczM0RSd3FMWEM0TERVZVAxbk93ekRhREd6TEgtcUEwcnZobkxCQ0N5NjV3ZmJ3V0tfQXEwZ19NMGlWbjA0ZTl5ZjYwMjhuMThwWWtuajI1Y29pM016Zw?oc=5",
+      "source": "Real Sound｜リアルサウンド",
+      "snippet": "ちいかわたちと楽しくひらがなを覚えよう！ 書き順付き絵本『ちいかわ あいうえお』が登場 Real Sound｜リアルサウンド",
+      "summary": "ちいかわたちと楽しくひらがなを覚えよう！ 書き順付き絵本『ちいかわ あいうえお』が登場 Real Sound｜リアルサウンド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-05T21:12:54+09:00",
+      "published_display": "2026-10-05 21:12 JST"
+    },
+    {
+      "title": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！（アニメージュプラス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QX29ncXFGMVY5ZVhaUlFoa01tVndNb01LbXhxNTc5TjlvcnVvVThHMjQ5X3kzLWpmMmJmWkRkSDlRSl9uWnI4UnAzUWNNRzJOYjMzeGkwbGQ3aW1pdkxSU1ZNRkVEaV9XbDZreXZWU0R3amdLRTFuM1NqWHBTNG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！（アニメージュプラス） Yahoo!ニュース",
+      "summary": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！（アニメージュプラス） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-05T21:00:00+09:00",
+      "published_display": "2026-10-05 21:00 JST"
     }
   ]
 }
