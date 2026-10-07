@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-07T09:03:17.237289+09:00",
-  "generated_at_jst": "2026-10-07 09:03 JST",
+  "generated_at": "2026-10-07T21:05:33.475329+09:00",
+  "generated_at_jst": "2026-10-07 21:05 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,7 +14,7 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 3,
+      "count": 5,
       "icon": "🎀"
     },
     {
@@ -24,150 +24,144 @@
       "icon": "🎬"
     },
     {
-      "key": "event",
-      "label": "イベント",
-      "count": 1,
-      "icon": "🌟"
-    },
-    {
       "key": "other",
       "label": "そのほか",
-      "count": 5,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「何だこれ！」街で視線集める“ちいかわ痛バイク”がすごい 塗装もステッカーも全部自作、制作費は10万円超 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeEtJS0FJZmJfQ3FlU1BYMnk2WTZaS19JbzN0bzAxTTNlenhJc1RYTk1VcWppN2hmUkUzYVJYVkkxclRPdGpTT2VVcHNyV3hiOEE4WXB4dTg0M3l2Nmtta2xqOVQtQ1BidmcxNXcyNDZ4MDdvSXZicTFlRGhkUGFSVE1XcUhjU0Q0dDdOeVN6ZTVmdWw1d0Z4dUhhRTV5OVJtN2ZsbURJc2RveWNCWGVYU0hITmx5S0pOSUExN0sxUnltWTMtSTdDNjBxMV8zNGhxeVczODQxU07SAYgBQVVfeXFMTmR2aFUwSGd5YV91WjJUd2k1aTNPdkh2RVh2STd5aXRqR2d0eEg0cEk0QzZWM0FsRnAwQU0yU2RRcTdVOGpDRWYzYVZweEN6TzQ0UU81YW5lU3R3c2dmT2dlWlJlVnNJcFNVdU5fQ3pGbE9MN2JDX0FKWUhaZGduaGEwVUZkZ3hKbA?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「何だこれ！」街で視線集める“ちいかわ痛バイク”がすごい 塗装もステッカーも全部自作、制作費は10万円超 ｄメニューニュース",
-      "summary": "「何だこれ！」街で視線集める“ちいかわ痛バイク”がすごい 塗装もステッカーも全部自作、制作費は10万円超 ｄメニューニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T08:53:53+09:00",
-      "published_display": "2026-10-07 08:53 JST"
-    },
-    {
-      "title": "画像ギャラリー | 話題の特別塗装機 ANAの「ちいかわ特別塗装機」デビューの全貌が明らかに！ いつ&どこへ行く？ - 乗りものニュース",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vZWtjaDVPX1VPdDViVklHV1FpWXkwaGlweVdRR0NsM1lodm1NWGxOS2QtUXozaHByeDRneVZvakVuSm80TVRVRE95OA?oc=5",
-      "source": "乗りものニュース",
-      "snippet": "画像ギャラリー | 話題の特別塗装機 ANAの「ちいかわ特別塗装機」デビューの全貌が明らかに！ いつ&どこへ行く？ 乗りものニュース",
-      "summary": "画像ギャラリー | 話題の特別塗装機 ANAの「ちいかわ特別塗装機」デビューの全貌が明らかに！ いつ&どこへ行く？ 乗りものニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T08:30:45+09:00",
-      "published_display": "2026-10-07 08:30 JST"
-    },
-    {
-      "title": "話題の特別塗装機 ANAの「ちいかわ特別塗装機」デビューの全貌が明らかに！ いつ&どこへ行く？ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcy1LcnQwcmtpY2JmMHVrSW9TeEtRUVZjU0tfNzNaeGtrR0JTX2xTR0dyWTlOSjN4dFI4Z25rYjBENkprcTdYZGlzX2doRkFVTGhlRG9PRGZibXpCelNVTE5EY21tT3NxVERaYy1tVDI1dUdDaGc3VzNCdTNrUnFWOG9R0gGHAUFVX3lxTFBCM2huQ2RKMGU3OGc3WUlMN3c3czNUUDZtV2RVdXNxQlZGdDJSLXE3U0ctZmNiYnZNamRuLU9hVnVZbTk0eXpJeXFQMC0tOWJSdUw3VTdKLWFXZEg3LVFsTEpTdENDN2VHdzQ3Rmc1MWRVWm9VZWcweTI1QkIwNDJWc28tWXJ3aw?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "話題の特別塗装機 ANAの「ちいかわ特別塗装機」デビューの全貌が明らかに！ いつ&どこへ行く？ ｄメニューニュース",
-      "summary": "話題の特別塗装機 ANAの「ちいかわ特別塗装機」デビューの全貌が明らかに！ いつ&どこへ行く？ ｄメニューニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T08:27:48+09:00",
-      "published_display": "2026-10-07 08:27 JST"
-    },
-    {
-      "title": "矢吹健太朗『ONE PIECE』ナミ描く／『ちいかわ』新たな特典発表で衝撃【10／6よく読まれたアニメ＆ゲームニュース】 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS29PTi1FUkR3OWk5OHRNMlJTZmpmNDRfWU8taXVVaDNHcVlzSFo0ano3TnFmQUJJSXliaVJSR2NxY2tBLUQ1djZLaXRTbFVlUnhXSmt3Vl9QbnpGMVJCbEI4WXd4b1oxZk9USjBja0k3bHZKU2FBMk1hcUdjZTE1QVZJdktNSnd5WlRkOU5kSQ?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "矢吹健太朗『ONE PIECE』ナミ描く／『ちいかわ』新たな特典発表で衝撃【10／6よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
-      "summary": "矢吹健太朗『ONE PIECE』ナミ描く／『ちいかわ』新たな特典発表で衝撃【10／6よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-07T07:50:00+09:00",
-      "published_display": "2026-10-07 07:50 JST"
-    },
-    {
-      "title": "10月7日(水)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NWtKOVJwQzNjTEVweWJrNm5pVVc2Zkt5YzZCSlRPTFNndjBad0p4RVc1LUJ0ZFNHaGxmbFVNLWp0SERYeVYwcDlMWU9tdzQ5LWdB?oc=5",
-      "source": "めざましmedia",
-      "snippet": "10月7日(水)の「ちいかわ占い」 めざましmedia",
-      "summary": "10月7日(水)の「ちいかわ占い」 めざましmedia",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T07:00:00+09:00",
-      "published_display": "2026-10-07 07:00 JST"
-    },
-    {
-      "title": "ちいかわベーカリー2周年！コロネ姿の限定マスコットが可愛すぎる - yomitime.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YVEFsNElENklCVXl5aV9Pa1FoUG5obTlQVE9pdjZ6TnY5NGhkUjdnNHNfWlRfMkdjcWxvZXBrTHk0UGFSUXNpSDBtdFhwb2NGVWl6TlJtRlFOLXVkbVk2OFpPYw?oc=5",
-      "source": "yomitime.com",
-      "snippet": "ちいかわベーカリー2周年！コロネ姿の限定マスコットが可愛すぎる yomitime.com",
-      "summary": "ちいかわベーカリー2周年！コロネ姿の限定マスコットが可愛すぎる yomitime.com",
+      "title": "『一番くじ ちいかわ ～みんなで遊園地～』が2027年4月発売決定。遊園地を全力で楽しむちいかわ、ハチワレ、うさぎのビジュアルも解禁 - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Y2JneERXQXN2cjZMVDZ5N3FySkYyNXBaM2czcENTSzBoZzJ1cjZ4S1QyblhkNnZ5UG40Um15UzdIeTlvNUI3emZKUjAxWkk5dWxKMU9iSkpYdw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『一番くじ ちいかわ ～みんなで遊園地～』が2027年4月発売決定。遊園地を全力で楽しむちいかわ、ハチワレ、うさぎのビジュアルも解禁 電撃オンライン",
+      "summary": "『一番くじ ちいかわ ～みんなで遊園地～』が2027年4月発売決定。遊園地を全力で楽しむちいかわ、ハチワレ、うさぎのビジュアルも解禁 電撃オンライン",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-07T04:33:22+09:00",
-      "published_display": "2026-10-07 04:33 JST"
+      "published_at": "2026-10-07T20:32:00+09:00",
+      "published_display": "2026-10-07 20:32 JST"
     },
     {
-      "title": "「ハ～ッ……」たまらん！ 【ちいかわ】くりまんじゅう愛飲の「だし割りセット」が玉乃光酒造で予約受け付け中 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhdjJPR0xwX1BGRGYtenZTeGk4aUloc2ZQTm1VTWE4dzJEcnU0Tk4wV3FhbjU5UENuLWF3YTRpeUlrMThqNGJYWTRhLU9uN2p3eDhIMHpHWXFBdzlRNm9ybnlNTQ?oc=5",
-      "source": "朝日新聞",
-      "snippet": "「ハ～ッ……」たまらん！ 【ちいかわ】くりまんじゅう愛飲の「だし割りセット」が玉乃光酒造で予約受け付け中 朝日新聞",
-      "summary": "「ハ～ッ……」たまらん！ 【ちいかわ】くりまんじゅう愛飲の「だし割りセット」が玉乃光酒造で予約受け付け中 朝日新聞",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-10-06T21:57:31+09:00",
-      "published_display": "2026-10-06 21:57 JST"
-    },
-    {
-      "title": "「ちいかわ」ハチワレ、うさぎと満天の夜空♪ 早くも2027年デザインのアイテム登場！腹巻やポチ袋も 1枚目の写真・画像 - 超！アニメディア",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtOEgwdXNfVDg3MDNWN0E1QUh0eDltTlJDdVVnZmtsWEdEVno1Q2x0aHU0VFl2T3dzZk9OX2l6UDJyUUV5d0hUR1EzYmkweEwyU0hxXzRESjVZZ0RZWHpzenlQY0hLSzZoZjhvbURoLUJVUlU?oc=5",
-      "source": "超！アニメディア",
-      "snippet": "「ちいかわ」ハチワレ、うさぎと満天の夜空♪ 早くも2027年デザインのアイテム登場！腹巻やポチ袋も 1枚目の写真・画像 超！アニメディア",
-      "summary": "「ちいかわ」ハチワレ、うさぎと満天の夜空♪ 早くも2027年デザインのアイテム登場！腹巻やポチ袋も 1枚目の写真・画像 超！アニメディア",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-06T21:54:13+09:00",
-      "published_display": "2026-10-06 21:54 JST"
-    },
-    {
-      "title": "シーサーとの絆で大注目のくりまんじゅう！「だらけくじ」の再現度高すぎる注目アイテムと原作元ネタ（リアルサウンド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZUTk4VnhxTmVPRmg4LVdPd1hvb2gyMG5ZSWxHc2FDMUd4bmhPS3hGWmNTMGVfT0I5cklwNXBDVW9zR3FGWUhOZm9SM1o4LUFZSXltaVEwZTlVazRfejVOSXloNlQ0RVdWWTE2bE40ZkZ5MUREaC1XcjFqSW1kOEE?oc=5",
+      "title": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBbjFHa25BNHo3U004VHdVX1FGWXRkeDFDcDlVYVhkT2Q0YVlsbDlUVEFSaHhBbHhBcW13U2ZrM2xZUm5WZkNKT1M3OFMxdmJvY0s5SjRGTkFXQ2UtRjY2dzh4X2pwM1k1U0gzaTBhbG9FbVk2Ukc3SjV3VHVpS1k?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "シーサーとの絆で大注目のくりまんじゅう！「だらけくじ」の再現度高すぎる注目アイテムと原作元ネタ（リアルサウンド） Yahoo!ニュース",
-      "summary": "シーサーとの絆で大注目のくりまんじゅう！「だらけくじ」の再現度高すぎる注目アイテムと原作元ネタ（リアルサウンド） Yahoo!ニュース",
+      "snippet": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に（リアルサウンド） Yahoo!ニュース",
+      "summary": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に（リアルサウンド） Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-06T21:02:39+09:00",
-      "published_display": "2026-10-06 21:02 JST"
+      "published_at": "2026-10-07T20:03:04+09:00",
+      "published_display": "2026-10-07 20:03 JST"
     },
     {
-      "title": "「ちいかわ」うさぎの髪がなびく“ファサ…”も！グッズ作成サービスに、「仕事ヤダ」「パスタライ助」など全5種カレッジ風デザイン追加 1枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CTGJXdzdNbUVyMndWdU9BNzJHblBGSHl3UGFOa193bGswcENEM3UxQy1fc2dQZjJTcnVvWjZzQWdQZTNFT3B2SXhOa0hGT1lSTU4xSzk3STdrYU5aak5mcWFJTlVwbUF5eG0tbThxckkxczB4bHFIUGp3?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」うさぎの髪がなびく“ファサ…”も！グッズ作成サービスに、「仕事ヤダ」「パスタライ助」など全5種カレッジ風デザイン追加 1枚目の写真・画像 インサイド",
-      "summary": "「ちいかわ」うさぎの髪がなびく“ファサ…”も！グッズ作成サービスに、「仕事ヤダ」「パスタライ助」など全5種カレッジ風デザイン追加 1枚目の写真・画像 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-06T20:30:03+09:00",
-      "published_display": "2026-10-06 20:30 JST"
-    },
-    {
-      "title": "「ちいかわ」うさぎの髪がなびく“ファサ…”も！グッズ作成サービスに、「仕事ヤダ」「パスタライ助」など全5種カレッジ風デザイン追加 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BMG1EYWZiX3F6RTd1eFdTOHllRk5wdzR2blZzYkZRMHVqTUhPb05OWFFZcVkwUVVKRWF2ajJaV3JFUzVwc09hTGJZeDJ2aG9yZVRzT2ZRWUxoeHFtQy1wNTI2ZnVoYVE3QzdiV000MXlWVDcxVjd2dmVuQWdpbUk?oc=5",
+      "title": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51OVVEWkZ1M00yZ1lMUjg3bDF2T0ZzcUhpMTVFOXhZLTJHRGZJOVIwcU5XdVVPbGVrLU5uaXlISExhazBQWmt5WEpJSkJXVGF3cElrd0hLaFV3WlhPeFcxaVNzeVpyeWNRTW1BSjFHOEdBNVA0NUR5bUdiUDRLNHc?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」うさぎの髪がなびく“ファサ…”も！グッズ作成サービスに、「仕事ヤダ」「パスタライ助」など全5種カレッジ風デザイン追加 Yahoo!ニュース",
-      "summary": "「ちいかわ」うさぎの髪がなびく“ファサ…”も！グッズ作成サービスに、「仕事ヤダ」「パスタライ助」など全5種カレッジ風デザイン追加 Yahoo!ニュース",
+      "snippet": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ（インサイド） Yahoo!ニュース",
+      "summary": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ（インサイド） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-06T20:30:03+09:00",
-      "published_display": "2026-10-06 20:30 JST"
+      "published_at": "2026-10-07T19:45:02+09:00",
+      "published_display": "2026-10-07 19:45 JST"
     },
     {
-      "title": "映画「ちいかわ」が韓国で動員数トップ、2位は話題の韓国作品＝ネット「ちいかわに負けてる（笑）」 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3hjdkdlSThMV1lVaklTSUxEZkdadDAyZVRZTk1tZmpkVWFIamZmY1lJYWZzckd5SFpPV3VWNFNQbFlPbjdSX0phX0hqekRnQmlPaDN5VnJJTG9yaW9lVHJjZFF2X0JZQXcyc3FvRmRXR2dYVFpoZVpEdTNnNmEyWlFqUksyN0NobEHSAY8BQVVfeXFMTmJweUpIMTlBbEs5aVphUTFsVFFHNXFBdXBScG12cFRqN0VJSlFIbVpyU1JoQVdZZjliM00yNzBGSmpxanZldUJ2MXNHRGdwRl9kdTVIVUFlOHl6cmJCZk1fNE9pY21DRVVVdXZmN1VIUTJDWmNhTXpacG1ROS1PWEZhTFp2Y21Za01OSWkxeFE?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "映画「ちいかわ」が韓国で動員数トップ、2位は話題の韓国作品＝ネット「ちいかわに負けてる（笑）」 ｄメニューニュース",
-      "summary": "映画「ちいかわ」が韓国で動員数トップ、2位は話題の韓国作品＝ネット「ちいかわに負けてる（笑）」 ｄメニューニュース",
+      "title": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqdFdGbWZwM2NaNWlWekY5WWliMFkwOHJyMEJyb3kzQVpnejhSSzRrYURtWUp3R1RTRlNPWWt3NkhuWGJueGdTdkRndHh6b2pESDBCZFA0cVlPNU1PSmZacnhiX2Z3aFF6M1dwQWZtWjU5SUkyZnJLVmpoQmRza3c?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU） Yahoo!ニュース",
+      "summary": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-07T19:20:00+09:00",
+      "published_display": "2026-10-07 19:20 JST"
+    },
+    {
+      "title": "ちいかわ、ロンドンの百貨店でポップアップ開催 世界進出が止まらないってコト!? - KAI-YOU",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tckMxU2Zpbm5OOFJfZEd6RDh5T0VrM1RJWmZ3QmdGcFVMYXpkUmliU0FyRVBMbDREODV3YXpIVVFaZUpmNnIzWA?oc=5",
+      "source": "KAI-YOU",
+      "snippet": "ちいかわ、ロンドンの百貨店でポップアップ開催 世界進出が止まらないってコト!? KAI-YOU",
+      "summary": "ちいかわ、ロンドンの百貨店でポップアップ開催 世界進出が止まらないってコト!? KAI-YOU",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-07T18:45:00+09:00",
+      "published_display": "2026-10-07 18:45 JST"
+    },
+    {
+      "title": "『ちいかわ』の一番くじが2027年4月より発売決定。遊園地で楽しそうに過ごす「ちいかわ」たちのキービジュアルも公開 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhUHF2WjNiU3pRM0lGQXhTUWR2b3BIS1Fwb2VvYWR0TllSczIyUU5JWmktSl9uRWxnRVRxOEZMam0xam9VRzhSTjU0b2gwTS1QVmtHN1dObWlrdw?oc=5",
+      "source": "電ファミニコゲーマー",
+      "snippet": "『ちいかわ』の一番くじが2027年4月より発売決定。遊園地で楽しそうに過ごす「ちいかわ」たちのキービジュアルも公開 電ファミニコゲーマー",
+      "summary": "『ちいかわ』の一番くじが2027年4月より発売決定。遊園地で楽しそうに過ごす「ちいかわ」たちのキービジュアルも公開 電ファミニコゲーマー",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-07T18:44:00+09:00",
+      "published_display": "2026-10-07 18:44 JST"
+    },
+    {
+      "title": "ちいかわ 一番くじ みんなで遊園地 2027年4月発売決定! - コラボカフェ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3R2TEZCSlhiN1Y5SDJYWXpGT2FxWjVaRTRyNTluLXV1UWNTVmVWVkJqUl8zVXgtMFV0RERVYlFIZ0REcXV6a0lmMjdrbUxpM2ZUNUFjcVFTcXpQWVlZdEpzazRvZUJGNGxMd2NvNVlveU8xY25uOE83WE96UHhuVlZvWFcxYVk?oc=5",
+      "source": "コラボカフェ",
+      "snippet": "ちいかわ 一番くじ みんなで遊園地 2027年4月発売決定! コラボカフェ",
+      "summary": "ちいかわ 一番くじ みんなで遊園地 2027年4月発売決定! コラボカフェ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-07T18:37:23+09:00",
+      "published_display": "2026-10-07 18:37 JST"
+    },
+    {
+      "title": "「一番くじ ちいかわ」新作のテーマは“みんなで遊園地”！一緒にパークを満喫するハチワレやうさぎなど、キービジュアルが素敵 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSXdfVnJ4QzBtOEpQYWVoTk9RYlNLRVdZM3gyektxOEx1V0YtRndsd2JxcU14VWM4OVJBS2tRRzNITGJDOF9YWnYtR0pGb0lnR2hSV1E4cktBUEYzeVhwZUdwMW5rNzVDa3MtM2FjNHQ4a2VlMVRKbE5oWmk0NTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「一番くじ ちいかわ」新作のテーマは“みんなで遊園地”！一緒にパークを満喫するハチワレやうさぎなど、キービジュアルが素敵 Yahoo!ニュース",
+      "summary": "「一番くじ ちいかわ」新作のテーマは“みんなで遊園地”！一緒にパークを満喫するハチワレやうさぎなど、キービジュアルが素敵 Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-07T18:35:02+09:00",
+      "published_display": "2026-10-07 18:35 JST"
+    },
+    {
+      "title": "「島二郎の後ろ姿にくぎ付け」『映画ちいかわ 人魚の島のひみつ』新ビジュアル公開、うさぎの視線へも反響多数（ABEMA TIMES） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQVA5NEpOLWRMYXpHTnBZR2p2cU82QmZMUm5icFZfTU0tWUwzakYxQzVXQU5fcWV0eEdyTjFBVkV6eWQ1WkZULVVPeTUtR1JfbHhzSVZHMGd6a09uWTRmSS0wMTgybURGM2hDSU1FNTd2YXhVbDVmM3NJeVJ4Mms?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「島二郎の後ろ姿にくぎ付け」『映画ちいかわ 人魚の島のひみつ』新ビジュアル公開、うさぎの視線へも反響多数（ABEMA TIMES） Yahoo!ニュース",
+      "summary": "「島二郎の後ろ姿にくぎ付け」『映画ちいかわ 人魚の島のひみつ』新ビジュアル公開、うさぎの視線へも反響多数（ABEMA TIMES） Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-06T20:00:00+09:00",
-      "published_display": "2026-10-06 20:00 JST"
+      "published_at": "2026-10-07T18:30:38+09:00",
+      "published_display": "2026-10-07 18:30 JST"
+    },
+    {
+      "title": "「島二郎の後ろ姿にくぎ付け」『映画ちいかわ 人魚の島のひみつ』新ビジュアル公開、うさぎの視線へも反響多数 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TdHNhNWZKMHk3M1h4RjZMLWhlZ25pQ1NxNVJ1Skl2WDNnTFBOcTFJazN2d1NRZnBBOW01T09pbEQwSmpnQmgyMmM2YllDTGxteFVsdw?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "「島二郎の後ろ姿にくぎ付け」『映画ちいかわ 人魚の島のひみつ』新ビジュアル公開、うさぎの視線へも反響多数 ABEMA TIMES",
+      "summary": "「島二郎の後ろ姿にくぎ付け」『映画ちいかわ 人魚の島のひみつ』新ビジュアル公開、うさぎの視線へも反響多数 ABEMA TIMES",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-07T18:28:00+09:00",
+      "published_display": "2026-10-07 18:28 JST"
+    },
+    {
+      "title": "【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン - GAME Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpaUFIXzQ4OXV0UHRrR3FRbnZPSEdBYjl4bEJpa2pIblRzckh6RVN0NDBhTmxyVTNnOF9PMkl2am9KajR1dC13Q2lnS2hwTHVfZFFjNnA1NVEzR0VhblFOMEwzNzM0UQ?oc=5",
+      "source": "GAME Watch",
+      "snippet": "【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン GAME Watch",
+      "summary": "【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン GAME Watch",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-07T18:17:13+09:00",
+      "published_display": "2026-10-07 18:17 JST"
+    },
+    {
+      "title": "【映画ちいかわ】キャンプファイヤーに照らされた第2弾メインビジュアル公開！（アニメージュプラス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vOGxvbm9fTVczd3BwYkFVMEI1OC10dzVBZFFpOTFzWWdVQ3VnM0dQbW11QTdneFFMTzBYbGZGX1ItcjFOY0QtZWsxOWt3b0NURkxkZUdfclVNcW4tR20xVUlCVE5VYW5FU2FOaWZDT2FGQXNoNUZaczJUOU9fQlE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【映画ちいかわ】キャンプファイヤーに照らされた第2弾メインビジュアル公開！（アニメージュプラス） Yahoo!ニュース",
+      "summary": "【映画ちいかわ】キャンプファイヤーに照らされた第2弾メインビジュアル公開！（アニメージュプラス） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-07T18:15:00+09:00",
+      "published_display": "2026-10-07 18:15 JST"
     }
   ]
 }
