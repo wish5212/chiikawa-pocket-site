@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-08T09:02:49.303301+09:00",
-  "generated_at_jst": "2026-10-08 09:02 JST",
+  "generated_at": "2026-10-08T21:05:20.608193+09:00",
+  "generated_at_jst": "2026-10-08 21:05 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,148 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 5,
+      "count": 11,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 2,
+      "count": 1,
       "icon": "🎬"
-    },
-    {
-      "key": "other",
-      "label": "そのほか",
-      "count": 5,
-      "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "矢吹健太朗『ONE PIECE』ナミ描く／映画ちいかわ特典リバイバル配布へ【10／7よく読まれたアニメ＆ゲームニュース】 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ha1ZSbWx6SnFTQXliT2JHaHNGRVNhUWw0TjBGMFJXcjRFWTI5cUlhbm5henQ4dmVoWE5Rb2I5YWRMb2pudG9pWS1yUVcwMUUwRXpESS1GX19ITmUwTVU1THhkZmVXX0NqeGc?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "矢吹健太朗『ONE PIECE』ナミ描く／映画ちいかわ特典リバイバル配布へ【10／7よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
-      "summary": "矢吹健太朗『ONE PIECE』ナミ描く／映画ちいかわ特典リバイバル配布へ【10／7よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-08T07:50:00+09:00",
-      "published_display": "2026-10-08 07:50 JST"
-    },
-    {
-      "title": "ちいかわデザインの医療用スクラブが発売へ、キャラクターの魅力と上品さを両立 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVd6VUtXd0tyNXd0cWJoWkZPenU0LWFXRW85bk1uR0RsY2c3bDdqaGRtdVZaZXFqb1YyeTlaQXV4UnpRYVZXR2gwenZwVFlPRVB5SmtJc0EwRW5HSDJrRk1ybnlpaGhQaTJQckVZdHNYZXVSbV94aGJNODNxNVNRdGs4UWl0d2_SAYwBQVVfeXFMTUtpREhLdDhoT0NCc2JnRTZyTEJuSm1uVmxkTXFma2d4Nnp4QXJzSWJzTk1UM01HOHNYdk94bFJSQlZ4SFd4N1BwMzN6Y0d1SmFrUWVocTFNN1drVVdINVlqOWJETUF4cWtRVURoVTl5aGVwaUVQcTdsc1dtU0szYVBNakRILUZtSmFkQVI?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "ちいかわデザインの医療用スクラブが発売へ、キャラクターの魅力と上品さを両立 ｄメニューニュース",
-      "summary": "ちいかわデザインの医療用スクラブが発売へ、キャラクターの魅力と上品さを両立 ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T07:07:06+09:00",
-      "published_display": "2026-10-08 07:07 JST"
-    },
-    {
-      "title": "Talking×『ちいかわ』くりまんじゅうのアパレルシリーズ登場！飲酒から禁酒まで多彩な姿をデザイン - 玩具人 TOY PEOPLE",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CeU9WYWdOeHBWZzZTTlk3bGVCdk5EVDVDZS1RYXVfSWpmaU1fcWp3cllaaVVUMWl5ZVJuMFkzck9URGQyRHFsUkZTMFRUYVNw?oc=5",
+      "title": "ABEMA「ちいかわクリスマスマーケット」が11月24日から豊砂公園で開催 フォトスポット満載でクリスマスを満喫 - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52MnBMc2lFWDhfOG9FOHJXb0NBQURNLWZSeFZ4WkNGZjI0dUVNa2gwd1BLLXpieExoLWJ4RUNnSTBhMWZBTEFqNjNwRmZuM2lP?oc=5",
       "source": "玩具人 TOY PEOPLE",
-      "snippet": "Talking×『ちいかわ』くりまんじゅうのアパレルシリーズ登場！飲酒から禁酒まで多彩な姿をデザイン 玩具人 TOY PEOPLE",
-      "summary": "Talking×『ちいかわ』くりまんじゅうのアパレルシリーズ登場！飲酒から禁酒まで多彩な姿をデザイン 玩具人 TOY PEOPLE",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-08T05:38:47+09:00",
-      "published_display": "2026-10-08 05:38 JST"
+      "snippet": "ABEMA「ちいかわクリスマスマーケット」が11月24日から豊砂公園で開催 フォトスポット満載でクリスマスを満喫 玩具人 TOY PEOPLE",
+      "summary": "ABEMA「ちいかわクリスマスマーケット」が11月24日から豊砂公園で開催 フォトスポット満載でクリスマスを満喫 玩具人 TOY PEOPLE",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T20:23:06+09:00",
+      "published_display": "2026-10-08 20:23 JST"
     },
     {
-      "title": "『映画ちいかわ』ちいかわ・ハチワレと見つめ合うヒトハ・フタバ。劇中シーンをフィーチャーした第2弾メインビジュアル解禁！ 入場者特典第3・4・6弾の年内リバイバル配布も決定 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GeW85dDE5VjZodWRQM1hZNFhNa3Z3UjJnbmt0M1ZtbVJXNUVPTUdQMHE3N0d1aURMcVFHbXJONmZ1aWhVX0tjckxOTnBpUQ?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "『映画ちいかわ』ちいかわ・ハチワレと見つめ合うヒトハ・フタバ。劇中シーンをフィーチャーした第2弾メインビジュアル解禁！ 入場者特典第3・4・6弾の年内リバイバル配布も決定 PASH! PLUS",
-      "summary": "『映画ちいかわ』ちいかわ・ハチワレと見つめ合うヒトハ・フタバ。劇中シーンをフィーチャーした第2弾メインビジュアル解禁！ 入場者特典第3・4・6弾の年内リバイバル配布も決定 PASH! PLUS",
+      "title": "ちいかわたちとクリスマスを満喫♪フォトスポットやフード、限定グッズ盛りだくさんの「ちいかわクリスマスマーケット」開催☆ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTVNrWEthMjFNeEZnb09mMDRkNGQwbl9NWnFCbEIyYVMzdkxyVDVJRFhWMjZ2UmRpTTZtTUYwLVZlQzdYRlhaVVpMXzV0MEdtOUp3RGxZM214WElRc1paY0VLT3hVUFF6M2xQdzY4SlhLejJ6V21oNzJvSXpPV28?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわたちとクリスマスを満喫♪フォトスポットやフード、限定グッズ盛りだくさんの「ちいかわクリスマスマーケット」開催☆ Yahoo!ニュース",
+      "summary": "ちいかわたちとクリスマスを満喫♪フォトスポットやフード、限定グッズ盛りだくさんの「ちいかわクリスマスマーケット」開催☆ Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T19:15:03+09:00",
+      "published_display": "2026-10-08 19:15 JST"
+    },
+    {
+      "title": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpcEZqRnZFTnBCa3VrSWRtcFJGRWp5b1ZDdjg0T2QxcE4wSk5nMlJfenhiQjRQOXRHTUFoX01ITjlZb3MyMVpBSlFBTVpsVGgyeTRpQWFVa21teTNYZEQ4?oc=5",
+      "source": "Infoseek",
+      "snippet": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 Infoseek",
+      "summary": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 Infoseek",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T19:05:03+09:00",
+      "published_display": "2026-10-08 19:05 JST"
+    },
+    {
+      "title": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UaU14dzhqQUVYT1I3T3BKSXdIek5kbXVrVWN4REo2NTFKbjNqZlZpS3JKQlVKblhpeWpPRThfWEdIYm1ZY25BdXZkWnVZeVVpN180OVRhSkw4UWY0S2VTTWJjYVk1dUxDZXc?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 インサイド",
+      "summary": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T19:05:03+09:00",
+      "published_display": "2026-10-08 19:05 JST"
+    },
+    {
+      "title": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催! - コラボカフェ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEVQTGR1REN5WkFOckFGdXY1aW5uV0tRRnNOMU9YVk1pejVxalM1aUhFRnp1SXV6OFNWSEdWU0huMDZrQ3Y5R3NHbFdYbDBxVmhid2RSWTR1Z2x0bVUzSE5kWXdKZjZjcUw1NXFvRS1XRHBvQVRwN1BMejd6RVAxbU9VNnhjdlU?oc=5",
+      "source": "コラボカフェ",
+      "snippet": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催! コラボカフェ",
+      "summary": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催! コラボカフェ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T18:58:51+09:00",
+      "published_display": "2026-10-08 18:58 JST"
+    },
+    {
+      "title": "映画ちいかわの“新ビジュアル”公開→よく見ると……「こっちを見てたのか……」「劇中にない……」「うるっとくる」考察続々 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMlBubUZyTnRKUW9vWjk5RWpZT3lfMlhVa2NYRGtQSmNfQllpdnY4am8wbVJwWnlEUy1rdGVmSVVIeUVTUnpkQW1fa0dsU0dEVDdobkltcUFyUHQ1UGJRdFZ1TmdYTVp1T09Jb2tkbFVGZVFoRFpRVWIwSUVXUE0?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "映画ちいかわの“新ビジュアル”公開→よく見ると……「こっちを見てたのか……」「劇中にない……」「うるっとくる」考察続々 Yahoo!ニュース",
+      "summary": "映画ちいかわの“新ビジュアル”公開→よく見ると……「こっちを見てたのか……」「劇中にない……」「うるっとくる」考察続々 Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-08T03:19:23+09:00",
-      "published_display": "2026-10-08 03:19 JST"
+      "published_at": "2026-10-08T18:41:11+09:00",
+      "published_display": "2026-10-08 18:41 JST"
     },
     {
-      "title": "「ちいかわ」と『トイ・ストーリー5』が同時開催！米子天満屋の2大POP UP STORE！！10月12日まで - 鳥取マガジン",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KczIyeUZvWVZrV1JZRV8ydEhWbjAzOTlnMWpjd0NGUWdlOWcyN2tlWTgwbGpabDVPaWFGcE12cENCZVZ6WGZrV0pCYnViZWVKTE45ZUd5aGhleE13MmxhV3kxZWxBcklfUnpwVlJXVW5VVUREUUE?oc=5",
-      "source": "鳥取マガジン",
-      "snippet": "「ちいかわ」と『トイ・ストーリー5』が同時開催！米子天満屋の2大POP UP STORE！！10月12日まで 鳥取マガジン",
-      "summary": "「ちいかわ」と『トイ・ストーリー5』が同時開催！米子天満屋の2大POP UP STORE！！10月12日まで 鳥取マガジン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T23:39:16+09:00",
-      "published_display": "2026-10-07 23:39 JST"
-    },
-    {
-      "title": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ - Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3eHBkWFZjeldDQ2VOTW1RSFJabzN2Y3VfMzhKdkRPRWhXY0F1cllkSl9VME9jQ291cEVTUWZFemsta3I3c0E5Z0d1a3p6TmU2OGVlcXo0WHFsYy1yV2ZFVw?oc=5",
-      "source": "Excite エキサイト",
-      "snippet": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ Excite エキサイト",
-      "summary": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ Excite エキサイト",
+      "title": "【ちいかわ】クリスマスツリーやビッグバルーンに限定グッズも登場！ ちいかわたちとクリスマスを楽しむ「ちいかわクリスマスマーケット」が開催決定 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ca3lLYXhYNm8zLXpieTM3aDVDS2QxSTRQbXQyYUU4TF9BZmZqbnNpNE5LblpoVnd0MEl5N1ltNmZkN29PQTJCa1h6MWtrdw?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】クリスマスツリーやビッグバルーンに限定グッズも登場！ ちいかわたちとクリスマスを楽しむ「ちいかわクリスマスマーケット」が開催決定 PASH! PLUS",
+      "summary": "【ちいかわ】クリスマスツリーやビッグバルーンに限定グッズも登場！ ちいかわたちとクリスマスを楽しむ「ちいかわクリスマスマーケット」が開催決定 PASH! PLUS",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-07T22:07:06+09:00",
-      "published_display": "2026-10-07 22:07 JST"
+      "published_at": "2026-10-08T18:39:25+09:00",
+      "published_display": "2026-10-08 18:39 JST"
     },
     {
-      "title": "『一番くじ ちいかわ ～みんなで遊園地～』が2027年4月発売決定。遊園地を全力で楽しむちいかわ、ハチワレ、うさぎのビジュアルも解禁 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Y2JneERXQXN2cjZMVDZ5N3FySkYyNXBaM2czcENTSzBoZzJ1cjZ4S1QyblhkNnZ5UG40Um15UzdIeTlvNUI3emZKUjAxWkk5dWxKMU9iSkpYdw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "『一番くじ ちいかわ ～みんなで遊園地～』が2027年4月発売決定。遊園地を全力で楽しむちいかわ、ハチワレ、うさぎのビジュアルも解禁 電撃オンライン",
-      "summary": "『一番くじ ちいかわ ～みんなで遊園地～』が2027年4月発売決定。遊園地を全力で楽しむちいかわ、ハチワレ、うさぎのビジュアルも解禁 電撃オンライン",
+      "title": "サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JbE43ajhIQnkwMXRrRTJyb21hNFRZWHZTWkFkWWFETFNJam9qUU12eV9YSG9BZ1pLM3M3Ry0tN3RmNlJ2MWNkNEF1MzN5UjJRTXkwRFF3?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 オリコンニュース",
+      "summary": "サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 オリコンニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-07T20:32:00+09:00",
-      "published_display": "2026-10-07 20:32 JST"
+      "published_at": "2026-10-08T18:33:00+09:00",
+      "published_display": "2026-10-08 18:33 JST"
     },
     {
-      "title": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に（リアルサウンド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBbjFHa25BNHo3U004VHdVX1FGWXRkeDFDcDlVYVhkT2Q0YVlsbDlUVEFSaHhBbHhBcW13U2ZrM2xZUm5WZkNKT1M3OFMxdmJvY0s5SjRGTkFXQ2UtRjY2dzh4X2pwM1k1U0gzaTBhbG9FbVk2Ukc3SjV3VHVpS1k?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に（リアルサウンド） Yahoo!ニュース",
-      "summary": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に（リアルサウンド） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T20:03:04+09:00",
-      "published_display": "2026-10-07 20:03 JST"
-    },
-    {
-      "title": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に (リアルサウンド) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTS0wWkkyOWVVczRjdndxNGhlczFnTXdpMTltdHFOcTJOVVNiWEtWNEt1aGFRZUtZLUhudklDSTBSd0ZEVXpGSlJIU1NnRk80eTNsMHVUTGdTUGk0YVF2dS1OY1hkdXBGSmJRVVExb0ZlakJsTWxPdENuZk8zbWRLdlJpQld4aGdScVFUOHlR?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に (リアルサウンド) Yahoo!ニュース",
-      "summary": "「ちいかわ」くりまんじゅうデザインの日本酒セット11月10日に登場 専用カップで“だし割り”を手軽に (リアルサウンド) Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T20:03:04+09:00",
-      "published_display": "2026-10-07 20:03 JST"
-    },
-    {
-      "title": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51OVVEWkZ1M00yZ1lMUjg3bDF2T0ZzcUhpMTVFOXhZLTJHRGZJOVIwcU5XdVVPbGVrLU5uaXlISExhazBQWmt5WEpJSkJXVGF3cElrd0hLaFV3WlhPeFcxaVNzeVpyeWNRTW1BSjFHOEdBNVA0NUR5bUdiUDRLNHc?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ（インサイド） Yahoo!ニュース",
+      "title": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xRkhmOFVfMlVXX21mVHZXLWdydmJ5NU93MUdudFRwYnZnSmdSLUxXWHotNjUteklTa3RfZkxUZ1d4Z3d4LTNtejloRTIyZTI4ZEtzaUdMVFp3eENvUmpQa1BMNm5acXlLM3kxSWxn?oc=5",
+      "source": "au Webポータル",
+      "snippet": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ au Webポータル",
+      "summary": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ au Webポータル",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-07T19:45:02+09:00",
-      "published_display": "2026-10-07 19:45 JST"
+      "published_at": "2026-10-08T18:22:00+09:00",
+      "published_display": "2026-10-08 18:22 JST"
     },
     {
-      "title": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ 1枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IY093RzIyZ1phYjBvYnhSTzNiLThCQTdOVlBYdC1fLUtQT2FLTEFmY0NTX1Jxckdnang5VDlJdlVWYm5QQnd2ZkFMRjFianBKYlJ4MDFyT181XzhQcXhHNnFXM3Z6aWpsZVBtUk1nRF9lTnJaaVRz?oc=5",
+      "title": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Majl1Q2k2akRwVXlVd0lOMEItR3ZoMzc4TnhNcTF5Z25xMGlZcF9fLTRubjIyeVI2akFfUXNIdXFyNnJMN1R3cmRlS2p3bm5oR20wdDR3b0gtYkdHeVEwTnNFU3pmQ3JKOVE?oc=5",
       "source": "インサイド",
-      "snippet": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ 1枚目の写真・画像 インサイド",
-      "summary": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ 1枚目の写真・画像 インサイド",
+      "snippet": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ インサイド",
+      "summary": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ インサイド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-07T19:45:02+09:00",
-      "published_display": "2026-10-07 19:45 JST"
+      "published_at": "2026-10-08T18:00:03+09:00",
+      "published_display": "2026-10-08 18:00 JST"
     },
     {
-      "title": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqdFdGbWZwM2NaNWlWekY5WWliMFkwOHJyMEJyb3kzQVpnejhSSzRrYURtWUp3R1RTRlNPWWt3NkhuWGJueGdTdkRndHh6b2pESDBCZFA0cVlPNU1PSmZacnhiX2Z3aFF6M1dwQWZtWjU5SUkyZnJLVmpoQmRza3c?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU） Yahoo!ニュース",
-      "summary": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-07T19:20:00+09:00",
-      "published_display": "2026-10-07 19:20 JST"
+      "title": "ちいかわクリスマスマーケット｜レッツエンジョイ東京 - レッツエンジョイ東京",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nOGVlR0JDRk5rdUhsazdJUTJWS3FzOERGeHUtMXF1anRZdkloOGtKYzNoM1VsTy1wM21iVFFseUZCVXlWUFdWeU43V2IxWXJrdnc?oc=5",
+      "source": "レッツエンジョイ東京",
+      "snippet": "ちいかわクリスマスマーケット｜レッツエンジョイ東京 レッツエンジョイ東京",
+      "summary": "ちいかわクリスマスマーケット｜レッツエンジョイ東京 レッツエンジョイ東京",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T17:27:08+09:00",
+      "published_display": "2026-10-08 17:27 JST"
+    },
+    {
+      "title": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VTV9yTFFJRDJxZVBZSDY1LU9JS0cweThvY0FNYXktT24zUFp4ajNUeExSam5MMnNObU5iV01FMGIyMzUyamVmM3p2OXdfeUVOX0E?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も いこーよニュース",
+      "summary": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も いこーよニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T17:02:23+09:00",
+      "published_display": "2026-10-08 17:02 JST"
     }
   ]
 }
