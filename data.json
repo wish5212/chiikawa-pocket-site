@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-08T21:05:20.608193+09:00",
-  "generated_at_jst": "2026-10-08 21:05 JST",
+  "generated_at": "2026-10-09T09:04:30.092073+09:00",
+  "generated_at_jst": "2026-10-09 09:04 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,148 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 11,
+      "count": 3,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 1,
+      "count": 3,
       "icon": "🎬"
+    },
+    {
+      "key": "other",
+      "label": "そのほか",
+      "count": 6,
+      "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "ABEMA「ちいかわクリスマスマーケット」が11月24日から豊砂公園で開催 フォトスポット満載でクリスマスを満喫 - 玩具人 TOY PEOPLE",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52MnBMc2lFWDhfOG9FOHJXb0NBQURNLWZSeFZ4WkNGZjI0dUVNa2gwd1BLLXpieExoLWJ4RUNnSTBhMWZBTEFqNjNwRmZuM2lP?oc=5",
-      "source": "玩具人 TOY PEOPLE",
-      "snippet": "ABEMA「ちいかわクリスマスマーケット」が11月24日から豊砂公園で開催 フォトスポット満載でクリスマスを満喫 玩具人 TOY PEOPLE",
-      "summary": "ABEMA「ちいかわクリスマスマーケット」が11月24日から豊砂公園で開催 フォトスポット満載でクリスマスを満喫 玩具人 TOY PEOPLE",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T20:23:06+09:00",
-      "published_display": "2026-10-08 20:23 JST"
-    },
-    {
-      "title": "ちいかわたちとクリスマスを満喫♪フォトスポットやフード、限定グッズ盛りだくさんの「ちいかわクリスマスマーケット」開催☆ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTVNrWEthMjFNeEZnb09mMDRkNGQwbl9NWnFCbEIyYVMzdkxyVDVJRFhWMjZ2UmRpTTZtTUYwLVZlQzdYRlhaVVpMXzV0MEdtOUp3RGxZM214WElRc1paY0VLT3hVUFF6M2xQdzY4SlhLejJ6V21oNzJvSXpPV28?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわたちとクリスマスを満喫♪フォトスポットやフード、限定グッズ盛りだくさんの「ちいかわクリスマスマーケット」開催☆ Yahoo!ニュース",
-      "summary": "ちいかわたちとクリスマスを満喫♪フォトスポットやフード、限定グッズ盛りだくさんの「ちいかわクリスマスマーケット」開催☆ Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T19:15:03+09:00",
-      "published_display": "2026-10-08 19:15 JST"
-    },
-    {
-      "title": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpcEZqRnZFTnBCa3VrSWRtcFJGRWp5b1ZDdjg0T2QxcE4wSk5nMlJfenhiQjRQOXRHTUFoX01ITjlZb3MyMVpBSlFBTVpsVGgyeTRpQWFVa21teTNYZEQ4?oc=5",
-      "source": "Infoseek",
-      "snippet": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 Infoseek",
-      "summary": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 Infoseek",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T19:05:03+09:00",
-      "published_display": "2026-10-08 19:05 JST"
-    },
-    {
-      "title": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UaU14dzhqQUVYT1I3T3BKSXdIek5kbXVrVWN4REo2NTFKbjNqZlZpS3JKQlVKblhpeWpPRThfWEdIYm1ZY25BdXZkWnVZeVVpN180OVRhSkw4UWY0S2VTTWJjYVk1dUxDZXc?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 インサイド",
-      "summary": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T19:05:03+09:00",
-      "published_display": "2026-10-08 19:05 JST"
-    },
-    {
-      "title": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催! - コラボカフェ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEVQTGR1REN5WkFOckFGdXY1aW5uV0tRRnNOMU9YVk1pejVxalM1aUhFRnp1SXV6OFNWSEdWU0huMDZrQ3Y5R3NHbFdYbDBxVmhid2RSWTR1Z2x0bVUzSE5kWXdKZjZjcUw1NXFvRS1XRHBvQVRwN1BMejd6RVAxbU9VNnhjdlU?oc=5",
-      "source": "コラボカフェ",
-      "snippet": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催! コラボカフェ",
-      "summary": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催! コラボカフェ",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T18:58:51+09:00",
-      "published_display": "2026-10-08 18:58 JST"
-    },
-    {
-      "title": "映画ちいかわの“新ビジュアル”公開→よく見ると……「こっちを見てたのか……」「劇中にない……」「うるっとくる」考察続々 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMlBubUZyTnRKUW9vWjk5RWpZT3lfMlhVa2NYRGtQSmNfQllpdnY4am8wbVJwWnlEUy1rdGVmSVVIeUVTUnpkQW1fa0dsU0dEVDdobkltcUFyUHQ1UGJRdFZ1TmdYTVp1T09Jb2tkbFVGZVFoRFpRVWIwSUVXUE0?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "映画ちいかわの“新ビジュアル”公開→よく見ると……「こっちを見てたのか……」「劇中にない……」「うるっとくる」考察続々 Yahoo!ニュース",
-      "summary": "映画ちいかわの“新ビジュアル”公開→よく見ると……「こっちを見てたのか……」「劇中にない……」「うるっとくる」考察続々 Yahoo!ニュース",
+      "title": "ちいかわ 2022年放送 第22話 なんとかバニア(2)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45NW5EVmpYdy1TY3doMnpIZktvZjZaeW15V01FQVNrNVhlSlFxTWhFMDRsT0YzY2gtZTBnN0lwTzBMcUI0MGI2blFuQQ?oc=5",
+      "source": "TVer",
+      "snippet": "ちいかわ 2022年放送 第22話 なんとかバニア(2)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "summary": "ちいかわ 2022年放送 第22話 なんとかバニア(2)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-08T18:41:11+09:00",
-      "published_display": "2026-10-08 18:41 JST"
+      "published_at": "2026-10-09T08:20:40+09:00",
+      "published_display": "2026-10-09 08:20 JST"
     },
     {
-      "title": "【ちいかわ】クリスマスツリーやビッグバルーンに限定グッズも登場！ ちいかわたちとクリスマスを楽しむ「ちいかわクリスマスマーケット」が開催決定 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ca3lLYXhYNm8zLXpieTM3aDVDS2QxSTRQbXQyYUU4TF9BZmZqbnNpNE5LblpoVnd0MEl5N1ltNmZkN29PQTJCa1h6MWtrdw?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "【ちいかわ】クリスマスツリーやビッグバルーンに限定グッズも登場！ ちいかわたちとクリスマスを楽しむ「ちいかわクリスマスマーケット」が開催決定 PASH! PLUS",
-      "summary": "【ちいかわ】クリスマスツリーやビッグバルーンに限定グッズも登場！ ちいかわたちとクリスマスを楽しむ「ちいかわクリスマスマーケット」が開催決定 PASH! PLUS",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T18:39:25+09:00",
-      "published_display": "2026-10-08 18:39 JST"
+      "title": "ちいかわ 第21話～第23話 「なんとかバニア」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBONTJGTW1hS2VsUUZjaXZmSUtuTGVhUUMybGVYak9sdE02cURQbGJUMk82azhYemU2LWFCY1dPdlhjUmdpd1ZCZk8zdw?oc=5",
+      "source": "TVer",
+      "snippet": "ちいかわ 第21話～第23話 「なんとかバニア」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "summary": "ちいかわ 第21話～第23話 「なんとかバニア」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 TVer",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-09T08:20:37+09:00",
+      "published_display": "2026-10-09 08:20 JST"
     },
     {
-      "title": "サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JbE43ajhIQnkwMXRrRTJyb21hNFRZWHZTWkFkWWFETFNJam9qUU12eV9YSG9BZ1pLM3M3Ry0tN3RmNlJ2MWNkNEF1MzN5UjJRTXkwRFF3?oc=5",
+      "title": "漫画『オーバーロード』休載へ／『ちいかわ』特典情報にネット衝撃【10／8よく読まれたアニメ＆ゲームニュース】 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQzZoYzZWRmdLSzBPaldueGZ2Qml4X1VINldGQVowQlhpVnRKTVB4YmxHOXJyM3p1N3RfaHBocFZ1dkV5dmtGbDcwa3R5VTI3?oc=5",
       "source": "オリコンニュース",
-      "snippet": "サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 オリコンニュース",
-      "summary": "サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 オリコンニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T18:33:00+09:00",
-      "published_display": "2026-10-08 18:33 JST"
+      "snippet": "漫画『オーバーロード』休載へ／『ちいかわ』特典情報にネット衝撃【10／8よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
+      "summary": "漫画『オーバーロード』休載へ／『ちいかわ』特典情報にネット衝撃【10／8よく読まれたアニメ＆ゲームニュース】 オリコンニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-09T07:50:00+09:00",
+      "published_display": "2026-10-09 07:50 JST"
     },
     {
-      "title": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xRkhmOFVfMlVXX21mVHZXLWdydmJ5NU93MUdudFRwYnZnSmdSLUxXWHotNjUteklTa3RfZkxUZ1d4Z3d4LTNtejloRTIyZTI4ZEtzaUdMVFp3eENvUmpQa1BMNm5acXlLM3kxSWxn?oc=5",
-      "source": "au Webポータル",
-      "snippet": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ au Webポータル",
-      "summary": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ au Webポータル",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T18:22:00+09:00",
-      "published_display": "2026-10-08 18:22 JST"
+      "title": "福岡の百貨店でちいかわの期間限定ストアが開催決定 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbktEVnpOd3FkVUVnRkppU3k1YzZQeHlPQkxtbmxVd01Hd1V5VmFwaV9USkRTRmI4Y3ViWnlzX2pQeTZuYWpJajBTc2cwMjZseXZVckh2N3lteDd1R1NyakgxUXdWRU85dUwwVUhVb2lqUXdKLVlJa3FwaElHY0s2cmtWQWZlNHJhNkc0UUYybVMzZlJSQ0JkS3ln0gGMAUFVX3lxTFBtRktuZU8wNmtFOWtvcjZpSEU5VWVXOGJ5emZLUVlGdWVzWUxJbkRRQ3BQYUlXSHZ1Zi1IcFpadnNiaVEyTC1ObXBsUFluZ0VpbWpyQkpXeXlPUm9OelQyUWh2QjBSUjNCS2RGUFNRSEJ1Wmk5YkRxOWlJRTI0ZVc3ZHZxTkUzNnIwYUJn?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "福岡の百貨店でちいかわの期間限定ストアが開催決定 ｄメニューニュース",
+      "summary": "福岡の百貨店でちいかわの期間限定ストアが開催決定 ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-09T07:04:22+09:00",
+      "published_display": "2026-10-09 07:04 JST"
     },
     {
-      "title": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Majl1Q2k2akRwVXlVd0lOMEItR3ZoMzc4TnhNcTF5Z25xMGlZcF9fLTRubjIyeVI2akFfUXNIdXFyNnJMN1R3cmRlS2p3bm5oR20wdDR3b0gtYkdHeVEwTnNFU3pmQ3JKOVE?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ インサイド",
-      "summary": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T18:00:03+09:00",
-      "published_display": "2026-10-08 18:00 JST"
+      "title": "10月9日(金)の「ちいかわ占い」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KV0FjVHFoWnFoamV3QTU0bEFOb2pYVzN5c21GZVl4Z3l3NkIySFl4RHh0MUlsZks3bkxUTmRuUVBZYU9iWjNIaUtNOXJPcDVqZ2dZ?oc=5",
+      "source": "めざましmedia",
+      "snippet": "10月9日(金)の「ちいかわ占い」 めざましmedia",
+      "summary": "10月9日(金)の「ちいかわ占い」 めざましmedia",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-09T07:00:00+09:00",
+      "published_display": "2026-10-09 07:00 JST"
     },
     {
-      "title": "ちいかわクリスマスマーケット｜レッツエンジョイ東京 - レッツエンジョイ東京",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nOGVlR0JDRk5rdUhsazdJUTJWS3FzOERGeHUtMXF1anRZdkloOGtKYzNoM1VsTy1wM21iVFFseUZCVXlWUFdWeU43V2IxWXJrdnc?oc=5",
-      "source": "レッツエンジョイ東京",
-      "snippet": "ちいかわクリスマスマーケット｜レッツエンジョイ東京 レッツエンジョイ東京",
-      "summary": "ちいかわクリスマスマーケット｜レッツエンジョイ東京 レッツエンジョイ東京",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-08T17:27:08+09:00",
-      "published_display": "2026-10-08 17:27 JST"
+      "title": "玉乃光酒造×ちいかわ！ くりまんじゅうの「だし割りセット」登場にファン悶絶「めちゃ可愛い」（ふたまん＋） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZDlaSlFiR1YtYWhfWHhiODdILThSUTdPRlh5bGhtdEhKWFRSbDVPUFIwRzg1WE9FTUhHSmtQdm95anhwd0tFMGNMWjNhdkZ2TEwxdFNuQ1NTR0RmWmlUVU9GdFVRcEZMbDVFVktZSDMzVFBqZlNDODhBczEtYW8?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "玉乃光酒造×ちいかわ！ くりまんじゅうの「だし割りセット」登場にファン悶絶「めちゃ可愛い」（ふたまん＋） Yahoo!ニュース",
+      "summary": "玉乃光酒造×ちいかわ！ くりまんじゅうの「だし割りセット」登場にファン悶絶「めちゃ可愛い」（ふたまん＋） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-09T06:34:14+09:00",
+      "published_display": "2026-10-09 06:34 JST"
     },
     {
-      "title": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VTV9yTFFJRDJxZVBZSDY1LU9JS0cweThvY0FNYXktT24zUFp4ajNUeExSam5MMnNObU5iV01FMGIyMzUyamVmM3p2OXdfeUVOX0E?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も いこーよニュース",
-      "summary": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も いこーよニュース",
+      "title": "9月に登場した「ちいかわブックキーホルダー」 お酒好きのパパにあげたら→まさかの使い方に爆笑 「思いつかなかった『ベストアンサー』」 - まいどなニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZMDhPTEhNQ2NFYWJhTGFvZTN5VndiOVV0ZU55YmN1dHJScHl2cWFUZERybWR4Q09Pd3Njbjc1QTB5dURRbzNIbkpWSlBUMmNm?oc=5",
+      "source": "まいどなニュース",
+      "snippet": "9月に登場した「ちいかわブックキーホルダー」 お酒好きのパパにあげたら→まさかの使い方に爆笑 「思いつかなかった『ベストアンサー』」 まいどなニュース",
+      "summary": "9月に登場した「ちいかわブックキーホルダー」 お酒好きのパパにあげたら→まさかの使い方に爆笑 「思いつかなかった『ベストアンサー』」 まいどなニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-09T06:30:00+09:00",
+      "published_display": "2026-10-09 06:30 JST"
+    },
+    {
+      "title": "「中国で『ちいかわ』人気、将来不安映す」福本智之・元日銀国際局長 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xZWU0c3BkOUpRNGJpd1dKTVJ3ZjBSSi0xbDVqU1VNS3pSUWw3SGtEQW5KMWkxXy1TUTFIeGFuVlBqSVNjQU9xb0xvbkZGWEY5TmtpcDdUVS0zaFU1djBod04yYkhLVEYyS3BGaw?oc=5",
+      "source": "日本経済新聞",
+      "snippet": "「中国で『ちいかわ』人気、将来不安映す」福本智之・元日銀国際局長 日本経済新聞",
+      "summary": "「中国で『ちいかわ』人気、将来不安映す」福本智之・元日銀国際局長 日本経済新聞",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-09T05:00:00+09:00",
+      "published_display": "2026-10-09 05:00 JST"
+    },
+    {
+      "title": "「ちいかわクリスマスマーケット」千葉・豊砂公園で、討伐チュロスなどフード＆“鎧さん”の参加型ゲーム - ファッションプレス",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAySWtfQWN4Mm1FQ3Q4aTk5em5HalhjNmViajkwa1hzSWs3dXAyaFFFWDNTcy1MY1hRenBZNnZJMldyVjZqTnpvSjRNTVU3RXpLWS1J?oc=5",
+      "source": "ファッションプレス",
+      "snippet": "「ちいかわクリスマスマーケット」千葉・豊砂公園で、討伐チュロスなどフード＆“鎧さん”の参加型ゲーム ファッションプレス 「ちいかわクリスマスマーケット」開催決定 オリジナルフード全35種・オリジナルグッズ販売など モデルプレス 【ちいかわ】クリスマスマーケットが11月24日より開催！（アニメージュプラス） Yahoo!ニュース",
+      "summary": "「ちいかわクリスマスマーケット」千葉・豊砂公園で、討伐チュロスなどフード＆“鎧さん”の参加型ゲーム ファッションプレス 「ちいかわクリスマスマーケット」開催決定 オリジナルフード全35種・オリ…",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-08T17:02:23+09:00",
-      "published_display": "2026-10-08 17:02 JST"
+      "published_at": "2026-10-09T01:40:47+09:00",
+      "published_display": "2026-10-09 01:40 JST"
+    },
+    {
+      "title": "Amazon、Amazonタブレット史上初、Google Playストア対応「Amazon キッズ タブレット」を発売 - About Amazon Japan",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGRnMEJZSml2SUxSVWZYS3VFdnNFX2YxaDZoZEVIT0hIb2tQWXZEeUJMNW9xcWRLOExTbkx1SEM2NFJ2MTdhdFZfdXk0MzNoQWRQWm5XT2ZQN1JWdzAyNWJZdVFHOVZWNXRiOU5EQXJ2cm0waThjbVhOcTRjeExkQg?oc=5",
+      "source": "About Amazon Japan",
+      "snippet": "Amazon、Amazonタブレット史上初、Google Playストア対応「Amazon キッズ タブレット」を発売 About Amazon Japan",
+      "summary": "Amazon、Amazonタブレット史上初、Google Playストア対応「Amazon キッズ タブレット」を発売 About Amazon Japan",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T22:21:58+09:00",
+      "published_display": "2026-10-08 22:21 JST"
+    },
+    {
+      "title": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から（ITmedia PC USER） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vWnM5bWVhcjhPa2ZwWGZRZ0lBcWxHQXA5YkJQUFJ4UjIwN2taai1iZ01hLVVDS2U2MV9qZ3FoZ2xEbW1sNnVHYnNjalg3OUFtLVhKb0tya2YwQW1mZGhONUw4Y2ZkdjhDQW84WEZnZHA2WGZZbVFoWHY3cE5ZRlU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から（ITmedia PC USER） Yahoo!ニュース",
+      "summary": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から（ITmedia PC USER…",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-08T22:05:09+09:00",
+      "published_display": "2026-10-08 22:05 JST"
+    },
+    {
+      "title": "アマゾン、Google Play対応のキッズタブレット 「ちいかわ」も - Impress Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkYmVwNHVhQzFmSDc2OXltcDRRME1JZDdLSm91eWRDVTkxMm53Wlh6NWN4MDhyMDdxM3Z6bFpUQ0pfbEZWSXBWaGptRlpwNVpid0xPcFJUQ1FEZmFhaWpfVmt3VWM?oc=5",
+      "source": "Impress Watch",
+      "snippet": "アマゾン、Google Play対応のキッズタブレット 「ちいかわ」も Impress Watch",
+      "summary": "アマゾン、Google Play対応のキッズタブレット 「ちいかわ」も Impress Watch",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-08T22:00:00+09:00",
+      "published_display": "2026-10-08 22:00 JST"
     }
   ]
 }
