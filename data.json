@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-10T09:03:46.910082+09:00",
-  "generated_at_jst": "2026-10-10 09:03 JST",
+  "generated_at": "2026-10-10T21:02:49.922321+09:00",
+  "generated_at_jst": "2026-10-10 21:02 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,160 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 4,
+      "count": 3,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 3,
+      "count": 1,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 8,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "10月10日(土)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XaXBsOU1oQ0dCSEllTUN6SWlzMEVGYzFSUTFodVRzUW1MclVheDBEdHpQaHNqSmRGYU1GSGtjazktQ1JQcm41N1c4alB5R183Z3FF?oc=5",
-      "source": "めざましmedia",
-      "snippet": "10月10日(土)の「ちいかわ占い」 めざましmedia",
-      "summary": "10月10日(土)の「ちいかわ占い」 めざましmedia",
+      "title": "アリオ加古川で「ちいかわ むちゃフォトパーティ!!」が10月17日開催！ちいかわ・ハチワレ・ラッコとの写真撮影会やARラリー - 明石じゃーなる",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQmlIeTBHYm5XRlF5dkJ2Mm9qemljN0JFNmN3WGtDSk9oRjYxQy1NTEpTRW56WC1WSzlxRHl0YWwxY0Q0WFZVamNzbURLeThZLS1WWkFHUXk3NDRxWmRvTHZSalNyWEhQdWxNX2J6WQ?oc=5",
+      "source": "明石じゃーなる",
+      "snippet": "アリオ加古川で「ちいかわ むちゃフォトパーティ!!」が10月17日開催！ちいかわ・ハチワレ・ラッコとの写真撮影会やARラリー 明石じゃーなる",
+      "summary": "アリオ加古川で「ちいかわ むちゃフォトパーティ!!」が10月17日開催！ちいかわ・ハチワレ・ラッコとの写真撮影会やARラリー 明石じゃーなる",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-10T07:00:00+09:00",
-      "published_display": "2026-10-10 07:00 JST"
+      "published_at": "2026-10-10T20:00:00+09:00",
+      "published_display": "2026-10-10 20:00 JST"
     },
     {
-      "title": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」 - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QcHd2NmtTblFXNTV0NUhXbmRjeGo4R3lHSDdiMWlTVnV4aVNZTk9ZRmVMeWNFdXlQUThOekNaWDY5X1pNZW1wYVo4N1RYWFJhbVlTVHNBcFZEQjlvOWpv?oc=5",
+      "title": "ちいかわとクリスマスを過ごせる体験型イベント「ちいかわクリスマスマーケット」オープン - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfZ2pOMlRSX0NHZlJkNzhha0hSbk5QWDB0cEpER3N0NG9zM0VHQ0JnSlQ2ZVkwVnVwbnZsbkJPNU01WnlOZTRsbklTZUZJZGVqcno0LWhBMFk0NHNLOGdr?oc=5",
       "source": "千葉テレビ放送株式会社",
-      "snippet": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」 千葉テレビ放送株式会社",
-      "summary": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」 千葉テレビ放送株式会社",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-10T06:33:16+09:00",
-      "published_display": "2026-10-10 06:33 JST"
+      "snippet": "ちいかわとクリスマスを過ごせる体験型イベント「ちいかわクリスマスマーケット」オープン 千葉テレビ放送株式会社",
+      "summary": "ちいかわとクリスマスを過ごせる体験型イベント「ちいかわクリスマスマーケット」オープン 千葉テレビ放送株式会社",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-10T18:04:15+09:00",
+      "published_display": "2026-10-10 18:04 JST"
     },
     {
-      "title": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xYk4tUW94bmVWOW54YTdlZ09keS1kbkZQYTgwXy1hVEdUUFZ0alBzcHRQVXY3NG5YOGo3T09Iay1pUHV2T2JCYmxRd1J0eHpXUVo0SU1KZEtZbmpwQ0ZiMGRlRUN4LTh1UjZKVlZZTTU2TThOQ2wtRUhaOC1KRTg?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋） Yahoo!ニュース",
-      "summary": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-10T06:32:17+09:00",
-      "published_display": "2026-10-10 06:32 JST"
-    },
-    {
-      "title": "『ちいかわ』興収168億超、『踊る大捜査線』復活！ フジテレビの「IPを育てて稼ぐ」新方程式（東洋経済オンライン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWHBSOVVCVHpSMFJkZzdsdUpxRFN3a0N1Y25oRTJJRUZvNmpfajZyMmJab2daeWkzOHF3dXFJeXhPVm16eUJTRV9fMTYyOGNYVlJuQmVUYzdaWmVEajRzLUpVcDA3YkRycWFKRkc2UzlXV2xoY3h6NVN5aWZPTXM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』興収168億超、『踊る大捜査線』復活！ フジテレビの「IPを育てて稼ぐ」新方程式（東洋経済オンライン） Yahoo!ニュース",
-      "summary": "『ちいかわ』興収168億超、『踊る大捜査線』復活！ フジテレビの「IPを育てて稼ぐ」新方程式（東洋経済オンライン） Yahoo!ニュース",
+      "title": "ぼん (@heibonnitui) on X - X",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43LWtRZ1hwRUxfaUFiYS1wbzdmRWpNX2U5STMtaHVsS0tuakh1SnRHblBWVHN4RTZ3QURRLXA0bmFDcHBMUlZOcE1qUDFHdkxEOWVDQWZkR1lRTnFFalNWd19CWmE?oc=5",
+      "source": "X",
+      "snippet": "ぼん (@heibonnitui) on X X",
+      "summary": "ぼん (@heibonnitui) on X X",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-10T06:00:31+09:00",
-      "published_display": "2026-10-10 06:00 JST"
+      "published_at": "2026-10-10T17:40:13+09:00",
+      "published_display": "2026-10-10 17:40 JST"
     },
     {
-      "title": "『ちいかわ』興収168億超､『踊る大捜査線』復活！ フジテレビの｢IPを育てて稼ぐ｣新方程式 - 東洋経済オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wR0lZSGVTUEJLSU9nQ2ROZEYyaDlTWlVBTjludkdhTkpxUGt6ckxvaHVYTnE3eEdDTFh3eTVXcGhyeWp5TnB2SS1QSS1EcUtIdlE?oc=5",
-      "source": "東洋経済オンライン",
-      "snippet": "『ちいかわ』興収168億超､『踊る大捜査線』復活！ フジテレビの｢IPを育てて稼ぐ｣新方程式 東洋経済オンライン",
-      "summary": "『ちいかわ』興収168億超､『踊る大捜査線』復活！ フジテレビの｢IPを育てて稼ぐ｣新方程式 東洋経済オンライン",
+      "title": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ub0hmXzg1VWJNb0h1a0QzNTRVUVpZU054bVZMamI3MUFQcUNSNWg3cU9JZ1FlNWdvRlJ3QVM2RUVrSUQtV0lHY1RiWGhVU1FkWVZFYUotUjdiaXRjZXFDOVRLSHQ?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」 オリコンニュース",
+      "summary": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」 オリコンニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-10T05:50:00+09:00",
-      "published_display": "2026-10-10 05:50 JST"
+      "published_at": "2026-10-10T16:54:00+09:00",
+      "published_display": "2026-10-10 16:54 JST"
     },
     {
-      "title": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】 (ぴあ) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUw3NGtuYURraEJ2MFJfVGhzVXZOUmdMOGRVVGpEdEJDOThVYTdiR0poUW1SR2hpOWNLZHVKM1h5X0RLVC1GdDBJWkRkRVJ5R3FvVjNCOURYR3JuRWc2bFFHMzZHT09tQW10bkdvX2VxWnRjLU1kS19QalE1dFc0NTloRVhHOFh2eXFSQ2VB?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】 (ぴあ) Yahoo!ニュース",
-      "summary": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】 (ぴあ) Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-09T22:35:39+09:00",
-      "published_display": "2026-10-09 22:35 JST"
-    },
-    {
-      "title": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】（ぴあ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQVhsMURfcmVrVTlIc1FVcEVrYUs4MHJubGF3Zng2M0tjSWVzRGkzSzV1RXlXSEgtZk4tenAwSGpVcmFxVGR1QVVWRWxfTjlwQk5CaDNUYXJEMTduV1R6OXFieEJGMEFUZ2lyNmR3d3QyRVpJMEszSEhScFdSdFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】（ぴあ） Yahoo!ニュース",
-      "summary": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】（ぴあ） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-09T22:00:47+09:00",
-      "published_display": "2026-10-09 22:00 JST"
-    },
-    {
-      "title": "「ちいかわベーカリー」2周年！ちいかわたちがコロネになった激かわグッズ多数登場、購入特典も充実♪ - ウレぴあ総研",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qRlI5bi1SSFI3SEdwMEVUMG9XTUNqT2hkNkRJMVV2MFBWeWxGM05Db1RRcERXZ3ktTHR5YXJMUmJWajRHOUd4eTY1TjNaNHVINHc?oc=5",
-      "source": "ウレぴあ総研",
-      "snippet": "「ちいかわベーカリー」2周年！ちいかわたちがコロネになった激かわグッズ多数登場、購入特典も充実♪ ウレぴあ総研",
-      "summary": "「ちいかわベーカリー」2周年！ちいかわたちがコロネになった激かわグッズ多数登場、購入特典も充実♪ ウレぴあ総研",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-09T21:45:00+09:00",
-      "published_display": "2026-10-09 21:45 JST"
-    },
-    {
-      "title": "『ちいかわ』シーサーの《お酒の資格》編いよいよクライマックス!? くりまんじゅうの助言に読者も思わず涙 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZENhUUpqOHpYREVHLW0yeDdNTWxCR2JsU1NfYkw5c1VHVy02WkhkRW1ZUmtLUlA4c2dBRnB0OFFtTW5FZVpuSEx0bmJVQVhOOHZ0X3ozMjh3Zw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "『ちいかわ』シーサーの《お酒の資格》編いよいよクライマックス!? くりまんじゅうの助言に読者も思わず涙 電撃オンライン",
-      "summary": "『ちいかわ』シーサーの《お酒の資格》編いよいよクライマックス!? くりまんじゅうの助言に読者も思わず涙 電撃オンライン",
+      "title": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVEtrZ2REcUZOZk5MX3NpMkdWUmtrLTVNbDlfUFdUek5pX2VnWEVrYkV3MXhsR0p1ZVhvQTRZaXY4cF9yYVBLRnl6N3VqcXc0MzU3ZGhB?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」 オリコンニュース",
+      "summary": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」 オリコンニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-09T21:20:00+09:00",
-      "published_display": "2026-10-09 21:20 JST"
+      "published_at": "2026-10-10T16:54:00+09:00",
+      "published_display": "2026-10-10 16:54 JST"
     },
     {
-      "title": "『NIKKE』新ストーリーや『映画ちいかわ』特典リバイバル、『刀剣乱舞』×TOYOTAコラボなど【今週の注目記事7選】 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBudmJlZzh0Nk5TN1M1UmdoVHMyZDRwN3ZqMF9nWjNrdE1LSTBsNWZ0eExiMHZ1YUdDcEUydGxueHFzU21uWFBuSndzUTVOWG5BbXhMQ1d3ZUFNZw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "『NIKKE』新ストーリーや『映画ちいかわ』特典リバイバル、『刀剣乱舞』×TOYOTAコラボなど【今週の注目記事7選】 電撃オンライン",
-      "summary": "『NIKKE』新ストーリーや『映画ちいかわ』特典リバイバル、『刀剣乱舞』×TOYOTAコラボなど【今週の注目記事7選】 電撃オンライン",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-09T21:00:00+09:00",
-      "published_display": "2026-10-09 21:00 JST"
+      "title": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売 - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nUTlhXzNmajYyQXRUZlNtVTR0ajdENjI5VWlienZXWjJTWl90ZWVuMWV4OFBxTGFQbmNIYS1PbFJfNmhVVlRJM3ZjZzZUSGZiNUJYT3hkTW52OUhKZmZ4VkhvRjc0Nm8?oc=5",
+      "source": "テクノエッジ TechnoEdge",
+      "snippet": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売 テクノエッジ TechnoEdge",
+      "summary": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売 テクノエッジ TechnoEdge",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-10T16:18:17+09:00",
+      "published_display": "2026-10-10 16:18 JST"
     },
     {
-      "title": "深夜の急展開！友達を守るため“1人”で立ち向かうちいかわに称賛の声「ちいかわ」182話 | アニメニュース | アニメフリークス - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qd2d1Zk1WTEMwTEJVNTdTTk1TRDRNd0RIVXBVRTRvTVNyM1k5Zy1BQUJidVozbjNGZVhfckZjUTl2RExPQkw3aHFvOUNJdlowbURkZw?oc=5",
-      "source": "ABEMA TIMES",
-      "snippet": "深夜の急展開！友達を守るため“1人”で立ち向かうちいかわに称賛の声「ちいかわ」182話 | アニメニュース | アニメフリークス ABEMA TIMES",
-      "summary": "深夜の急展開！友達を守るため“1人”で立ち向かうちいかわに称賛の声「ちいかわ」182話 | アニメニュース | アニメフリークス ABEMA TIMES",
+      "title": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！ - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04dlN5TG1GT09OYWJvcGRXbHIwa1J4anI0RWF5UVZ0Ni0tMXBXbURmWmdtZnl5Wk1mY04wMTloa0JmNGZrZzQxdkZHMzBjMjN2dGxqR1hJTHJVeEZxN3hncXpwdXBEanZ0cTlwZkxWemV4QQ?oc=5",
+      "source": "Gizmodo",
+      "snippet": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！ Gizmodo",
+      "summary": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！ Gizmodo",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-10T15:00:00+09:00",
+      "published_display": "2026-10-10 15:00 JST"
+    },
+    {
+      "title": "ちいかわ：クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも - 毎日キレイ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tWEx4VnRBRkRRMm9pdGZ1MjZQd2w2X1N0VVFvb2NmWGRzSFZjeEgtMC1SRkpwajFIYThTSmd0clU2NUk2ZUk2TTlNZlpEU0hBcjl4NnFlaldxOUxmbllvUzNwZUo3aDNpS09zd1lvcw?oc=5",
+      "source": "毎日キレイ",
+      "snippet": "ちいかわ：クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも 毎日キレイ",
+      "summary": "ちいかわ：クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも 毎日キレイ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-10T15:00:00+09:00",
+      "published_display": "2026-10-10 15:00 JST"
+    },
+    {
+      "title": "きぃ (@kiixchi) on X - X",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqa1dpLTlkUTZEclduay1hWjV5ekJQbXhLS1VaRXk0dno2N0ktRWZvcnhTR01WMmdlR1UtMTNCTjRxTTY3UEpTSTNGSDBMTnIzMTB1eXhLRkFqeUU0VzAwZXl4S0M?oc=5",
+      "source": "X",
+      "snippet": "きぃ (@kiixchi) on X X",
+      "summary": "きぃ (@kiixchi) on X X",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-10T13:16:07+09:00",
+      "published_display": "2026-10-10 13:16 JST"
+    },
+    {
+      "title": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―！」（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OcVhya24xenVGTUhOeGxOeTBQdFJ2VF8tekpfd2g4VTM1eHN0TENRRlBkWXU3ZGNSLXBTUWNIeTdkcGVqNU5qZ2RQVmYzbk11VTdfUm9TQmV4YUFnUVlsZXFBaHBtdUpmbzBCNmlhbi0wdkF4Tm94bXRnWXdVcVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―！」（オリコン） Yahoo!ニュース 『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる!超可愛い!」「こんな世界線もあってもよかった……」 オリコンニュース 映画『ちいかわ 人魚の島のひみつ』入場特典のリバイバル配布が決定。プルバックカー“ごきげんセイレーン”＆“チャームミニフィギュア”のゲットのチャンス ファミ通",
+      "summary": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―！」（オリコン） Yahoo!ニュース 『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の…",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-09T20:57:00+09:00",
-      "published_display": "2026-10-09 20:57 JST"
+      "published_at": "2026-10-10T12:27:39+09:00",
+      "published_display": "2026-10-10 12:27 JST"
     },
     {
-      "title": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】 の画像・写真 - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ULUg1LUhlZjh0ZG5uLWdtNjc0dHY2dGt2WDJxOGlheTFSQVZaS01zUnJITTJTRlZsNEhjSUs0YUtRc3hEb1lQc1k3ZWxmLWF1WFY4aW5JRk0tdEFSamZGdXBQalpnNHg2SHk3bXBUQzVqWEkzc1ZmTA?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】 の画像・写真 ぴあエンタメ情報",
-      "summary": "「ちいかわ×東京ばな奈」ソラマチ出店！ 激かわトートバッグ＆スイーツを手に入れよう【10/14まで】 の画像・写真 ぴあエンタメ情報",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-09T20:20:00+09:00",
-      "published_display": "2026-10-09 20:20 JST"
+      "title": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―！」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Qa2dPWjJJSGVvbEd3NllQT1NOd1NVVWdRTGtQa2lxcG4tN3B4X1hCMVYwbk1pdXU4ZEVyQzdGa1ZhLV9reVlzZGMySGpKaWpWd05ITS13?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―！」 オリコンニュース",
+      "summary": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―！」 オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-10T12:27:00+09:00",
+      "published_display": "2026-10-10 12:27 JST"
+    },
+    {
+      "title": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―!」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqVWdQOVYzcTlKLW5FS1NKdGlQeXg2ZVNlRzJhUl9pekhyZ3dJcERfYVNjNW92MTAwS2hUOGhGdDdqd1REVUEyOWVwbnlqOUp3Ykg5MkN1WWRGUQ?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―!」 オリコンニュース",
+      "summary": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―!」 オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-10T12:27:00+09:00",
+      "published_display": "2026-10-10 12:27 JST"
     }
   ]
 }
