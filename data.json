@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-11T21:03:32.910637+09:00",
-  "generated_at_jst": "2026-10-11 21:03 JST",
+  "generated_at": "2026-10-12T09:04:05.903985+09:00",
+  "generated_at_jst": "2026-10-12 09:04 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -12,15 +12,15 @@
   ],
   "categories": [
     {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 4,
-      "icon": "🍰"
+      "key": "goods",
+      "label": "グッズ",
+      "count": 1,
+      "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 3,
+      "count": 1,
       "icon": "🎬"
     },
     {
@@ -32,21 +32,120 @@
     {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 9,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "dugyo (@du_gyo_) on X - X",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yc2ZSSWZMTnpkd3lYQkRZeGRQQVEzZUVsQjlZSEZ1dkFvYW5VQkJWd3NKRkRWbXBYN1g2cENkSGQ4eUx3OEhqX0JaR0NTbTJWb21RSUc0d1I3MFlqS1F3M2ozQXp3UDlu?oc=5",
-      "source": "X",
-      "snippet": "dugyo (@du_gyo_) on X X",
-      "summary": "dugyo (@du_gyo_) on X X",
+      "title": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qMzZBaW8xMUs4VXFmekFwUTVUNGZlVFdLUk5hZUt4UHJHWVRyMnRQSGlPQ3VOZ1Q2SEZyelZmRHpIazlRMW0yU2lFWVB1WXEtUExiaU56RlZiczQyX0NyU2RmS0JObXVsSnc?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種 インサイド",
+      "summary": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-12T09:00:04+09:00",
+      "published_display": "2026-10-12 09:00 JST"
+    },
+    {
+      "title": "『ちいかわ』、『暗殺者（たち）』を破り1位奪還【MKボックスオフィス】 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zblBROGJpaU5jZUFrWFFYdVBmQXV2eHE4emhLUUdac1hDcTRTUUhKSkpRQU5aQ0RLcGRKMW5Bemg3YTRmbURSbGdWc3JnbFZj?oc=5",
+      "source": "매일경제",
+      "snippet": "『ちいかわ』、『暗殺者（たち）』を破り1位奪還【MKボックスオフィス】 매일경제",
+      "summary": "『ちいかわ』、『暗殺者（たち）』を破り1位奪還【MKボックスオフィス】 매일경제",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-11T20:07:08+09:00",
-      "published_display": "2026-10-11 20:07 JST"
+      "published_at": "2026-10-12T08:24:59+09:00",
+      "published_display": "2026-10-12 08:24 JST"
+    },
+    {
+      "title": "「ちいかわ」くりまんじゅう、シーサーの“ねんどろいど”が予約受付中！ 「缶ビール」や「お酒の本」などオプションパーツも豊富 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aanNuVGFEXzU5b18zRnNWbG9LTUx2LWZhOVh5ZjFpVHlhZXBiamhBRlF3dmY1YnhINGZ6dk5KNWtCZnY1OGZ1YU43aU9USnhRMEQxVmtfUUZ3cHhXQnlaRGo0cjc0Ry1KNk9ubnVCR3NTZ3FxWW9YR3N5bFpXTkk?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」くりまんじゅう、シーサーの“ねんどろいど”が予約受付中！ 「缶ビール」や「お酒の本」などオプションパーツも豊富 Yahoo!ニュース",
+      "summary": "「ちいかわ」くりまんじゅう、シーサーの“ねんどろいど”が予約受付中！ 「缶ビール」や「お酒の本」などオプションパーツも豊富 Yahoo!ニュース",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-10-12T08:22:22+09:00",
+      "published_display": "2026-10-12 08:22 JST"
+    },
+    {
+      "title": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSEpmLUJjRzdpM3U3aUtHaVBBNkV0UTdXbG5Gb283MjdYTV9DbjJ5RjhLd1gzWXFmaUE5eHBTSm5xSWNrWWYwd1d1Q1FCY0VjZEx4X2JEM3ZaaUZmZ1M3bzlBbjh2Y1Iwc1E?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富 インサイド",
+      "summary": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富 インサイド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-12T08:20:06+09:00",
+      "published_display": "2026-10-12 08:20 JST"
+    },
+    {
+      "title": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkxncTdweXA2MGpQczBxVWN0VlktZnJIeTByNmFCaTVDV2JiUmdwel9LeVZ2Q2szVUUyYmZieTMxNGZuc3ZqemlSbnN2RC1aSDhkZWJIOS1RbU5TOGdSdXhaVjYtSXZfY0F1bnB0UFM1U1hybGRiWEFSTmhOc09maUw2UmvSAYoBQVVfeXFMUElfWmc1dlZhR0JpUXlvTVVxTGFRbElTTzd1NktKVVo2NDk2YzdMcllqR053YkVFYXpockZINHE2OGdpYkF6Y3dUVm1qWHQxZlQ1SmlaMG5QY096TmNNLUMyVUJNTVVqMHJYZEExQ0xPT3NRNFplellSdVNraVFRdUgwRjhWQXFCWkxn?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 ｄメニューニュース",
+      "summary": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-12T07:04:17+09:00",
+      "published_display": "2026-10-12 07:04 JST"
+    },
+    {
+      "title": "10月12日(月)の「ちいかわ占い」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZzBZTEliYVVPZldIY0RrM1k4UWx6VXVyc251cG0tb3JYVTZ3Y3k4YWJ6bnMzc1JWTUVlZGJpeUNfbkFCWDM2Mmk2enlHdmZvRmQ4?oc=5",
+      "source": "めざましmedia",
+      "snippet": "10月12日(月)の「ちいかわ占い」 めざましmedia",
+      "summary": "10月12日(月)の「ちいかわ占い」 めざましmedia",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-12T07:00:00+09:00",
+      "published_display": "2026-10-12 07:00 JST"
+    },
+    {
+      "title": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 - まいどなニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTWgwZmV3M3pELUVadmNOVXNZQV9OOVZ1VFpsY0tLZno4WDg1LWhEY1FoQ2JtR0tkVG9kT2hyNXprX3I3UWk1REUydmlDdW1p?oc=5",
+      "source": "まいどなニュース",
+      "snippet": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 まいどなニュース",
+      "summary": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 まいどなニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-12T07:00:00+09:00",
+      "published_display": "2026-10-12 07:00 JST"
+    },
+    {
+      "title": "『ちいかわ』のバスボムがなかなか溶けないと思ったら… 「水まんじゅう化」してしまった失敗に反響 - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oNzFUejVzVVE4cVNHTHhHbTkxVlJZOEZMX0hXZFpOT1FRTUJ2aUlydjF2RnN1aU5kNXd0WGlYYjRhX2M0LUJFVU5ib1M?oc=5",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "snippet": "『ちいかわ』のバスボムがなかなか溶けないと思ったら… 「水まんじゅう化」してしまった失敗に反響 LIMO | くらしとお金の経済メディア",
+      "summary": "『ちいかわ』のバスボムがなかなか溶けないと思ったら… 「水まんじゅう化」してしまった失敗に反響 LIMO | くらしとお金の経済メディア",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-12T06:06:00+09:00",
+      "published_display": "2026-10-12 06:06 JST"
+    },
+    {
+      "title": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TNFA2Q25vQ1BoR0QwSFQwa2RmWWJ4aDRGX3Z5c0FpOXE0cjFVRzRaZUV1LWRDLXB1Vnh6NXZVZ2dvWC1PNTVaV0RPdlEtQW1hckltVW83ZWtEZw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！ 電撃オンライン",
+      "summary": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！ 電撃オンライン",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-11T21:03:00+09:00",
+      "published_display": "2026-10-11 21:03 JST"
+    },
+    {
+      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNEFnTWhva3EzaFRQeUpzcUhrWjQ2TnRJOHVNVHBzYlZ0Y2p1aS1RU0JjOXhjQnZpNTcxTW5fTWpYVFpGYW1VX2dRZXA4TW5QN1B1M0tkemJ0Zw?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 オリコンニュース",
+      "summary": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 オリコンニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-11T19:52:35+09:00",
+      "published_display": "2026-10-11 19:52 JST"
     },
     {
       "title": "『ちいかわ』シーサーのつらい涙にもらい泣き。苦悩を救った意外なキャラの“深い一言”とは？（ハフポスト日本版） - Yahoo!ニュース",
@@ -60,17 +159,6 @@
       "published_display": "2026-10-11 19:00 JST"
     },
     {
-      "title": "“ちいかわ”など人気キャラクターのあばれ山車が激しくぶつかる 福島・二本松市 - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94aW1ya1ZQTTdpNWtpQ0c5WlZReEgzZXV3NDBXQVdDMlBWRFFuQzVNakxMVUtMdnpvd1Q1OXlkNzU0RUR3Z3B0cUhBTHJ5Zw?oc=5",
-      "source": "FNNプライムオンライン",
-      "snippet": "“ちいかわ”など人気キャラクターのあばれ山車が激しくぶつかる 福島・二本松市 FNNプライムオンライン",
-      "summary": "“ちいかわ”など人気キャラクターのあばれ山車が激しくぶつかる 福島・二本松市 FNNプライムオンライン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-11T18:40:00+09:00",
-      "published_display": "2026-10-11 18:40 JST"
-    },
-    {
       "title": "\"ちいかわ\"など人気キャラクターのあばれ山車が激しくぶつかる 福島・二本松市：ニュース - FTV 福島テレビ",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EZmpVQ2hhVFBXM1lXcTA3UFNUZ3lwUTAtemFqcTJtZEZQNy01enc3ckFKVXM1MlpSd2NxZ3c0WFpNeHhPd2FpQ2ZWTl9ZZGF1Rmh0alpWbEs0bG5zbjVmdU4zN0Jnd0syM2k0aTZUcDJFdjZ0MFp6b2JB?oc=5",
       "source": "FTV 福島テレビ",
@@ -80,94 +168,6 @@
       "category_label": "そのほか",
       "published_at": "2026-10-11T18:40:00+09:00",
       "published_display": "2026-10-11 18:40 JST"
-    },
-    {
-      "title": "映画の「ちいかわ」たちが可愛すぎ！ユニクロ「ちいかわスウェット」で秋支度。ルームウェアにもいいかも。3990円（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0RWJVNWhxSFI4b0dyV3NYb0w4Q2lQenpQc3l5Z0ExTy1PRWlRdVVuZ1psRGdMWG9FSkh1TDZtU2JtWHhrbkh0andadEtTSi1MaXZKaGc3d0NNYmZmamRFUG9CSjdWS053UTRLVGlhVy1IU3duVFpYaVpzVV9Pams?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "映画の「ちいかわ」たちが可愛すぎ！ユニクロ「ちいかわスウェット」で秋支度。ルームウェアにもいいかも。3990円（LIMO） Yahoo!ニュース",
-      "summary": "映画の「ちいかわ」たちが可愛すぎ！ユニクロ「ちいかわスウェット」で秋支度。ルームウェアにもいいかも。3990円（LIMO） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-11T17:31:08+09:00",
-      "published_display": "2026-10-11 17:31 JST"
-    },
-    {
-      "title": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBscWpDbHRnWlBXWVdyVGFldGtOY0JfajkweERkaWJYdnhqdFBONG1jX01JUTY5MHNGVE5MSHRSMGJDY1ZFNDAwbXVaeFZQbHVUZHhMdkFNQ3FfdktmalRWSGp1OHJtQ1VqZzhEME9EaGJNSG15YXVMbVRR?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ 2枚目の写真・画像 インサイド",
-      "summary": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ 2枚目の写真・画像 インサイド",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-11T17:10:02+09:00",
-      "published_display": "2026-10-11 17:10 JST"
-    },
-    {
-      "title": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jaG94RWxWWUdfU3pIaGl1VDNld25TM3dQbk12bUtuVmdacDV1dGNEdFpZamoxZnhhWlJxT2lZblNwNW1UczB3WXl2Q2xySWd0MTljWnpWdkUzMl9jSTVR?oc=5",
-      "source": "Infoseek",
-      "snippet": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ Infoseek",
-      "summary": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ Infoseek",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-11T17:10:02+09:00",
-      "published_display": "2026-10-11 17:10 JST"
-    },
-    {
-      "title": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ubnl2d2xERWM3UHNFQVVub0hralRrbl81TTNLdFRXdXhFRHdSbng1emVHODhEQjNuMjdMTEZmX3AwbWkzdHBrY0JVeW9LT2hMRWpUNzZDZTY2aEVILUNMMlYtTm56ckx6VGc?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ インサイド",
-      "summary": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ インサイド",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-11T17:10:02+09:00",
-      "published_display": "2026-10-11 17:10 JST"
-    },
-    {
-      "title": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ〜い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbE41alo2N21DbG9QMFZhZ3BrYU1zbFZwc3N5R1pLblNETzJHLWlTT2tfb2NQT3dzWnBqek41QjhFWFhvWTNUNlM0ZXFCZTV4NDdtUWxCNU1rbndLVUFfNmFtMm9MV0pQTWZ3UU1ncGJKaFBFd0U2SEdBWGtIUWNLRTBR0gGHAUFVX3lxTFBmR0Fpem5hZDVQVUhYaEdDVmtORG9YWVRnVzhodXpXaUdOa1FUc3VsclU3emZHRUVZa3V3d1FTMHpBekxXQzN0T1RjVURjcnAwQm91MG5US21VRlpUNUpyelpqSnpBNmRoVjl3OFJXYzc4OU1ZNHdSdHl2ZEhwbmlvcGdhYjljZw?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ〜い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ ｄメニューニュース",
-      "summary": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ〜い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ ｄメニューニュース",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-11T17:10:00+09:00",
-      "published_display": "2026-10-11 17:10 JST"
-    },
-    {
-      "title": "【ちいかわ】プラキット『ちいプラ』3種セットが予約受付中。3体そろえれば、原作どおり2人乗りシーンも再現できる！ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wOEI2V2xIZ29MblRFdzJiZUtNR3VIcUI5YTEtcGlDM2JpUUJreGtlTDZhS1IyMldIeFpwTEZnVTgwM0pkLUNnNFhaREZ1NzZpRlpoZko0TkNsdw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわ】プラキット『ちいプラ』3種セットが予約受付中。3体そろえれば、原作どおり2人乗りシーンも再現できる！ 電撃オンライン",
-      "summary": "【ちいかわ】プラキット『ちいプラ』3種セットが予約受付中。3体そろえれば、原作どおり2人乗りシーンも再現できる！ 電撃オンライン",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-10-11T16:50:00+09:00",
-      "published_display": "2026-10-11 16:50 JST"
-    },
-    {
-      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」（オリコン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hNVBMRmFGZnZ3LWVWc3N3bDRFaFZZX1B2SFNITE9ScU9LWFYyVWhkVXllU1d2OVZiZ3RDNVZtaE95YzZjdGppcWdsLW1IZVE5WWtwbzEtMXcxNG8yeWw3QkN0cTNybG9HdGxZMVhNbHJVd3pRVEltM1hvUGVseEk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」（オリコン） Yahoo!ニュース 映画『ちいかわ』来場者特典巡りイオンシネマの『異例のアナウンス』にSNSで反響呼ぶ「特典は特典であって本編がメイン」「特典でつってるのに」（中日スポーツ） Yahoo!ニュース 『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 オリコンニュース",
-      "summary": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」（オリコン） Yahoo!ニュース 映画『ちいかわ』来場者特典巡りイ…",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-11T16:19:13+09:00",
-      "published_display": "2026-10-11 16:19 JST"
-    },
-    {
-      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83NTVTbGo2WmVlbEJDck1kZDltNzFoQ01WRHdlQlNPeE8xRUdpTkt2OTlqS1BLTm5ZbXFNSU1DNHBGXzVYTjBSOVFwTDU1MHhRdE1la0NHbEZhcGpQVHVEajBOVlU?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 オリコンニュース",
-      "summary": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 オリコンニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-11T16:19:00+09:00",
-      "published_display": "2026-10-11 16:19 JST"
     }
   ]
 }
