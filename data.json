@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-12T09:04:05.903985+09:00",
-  "generated_at_jst": "2026-10-12 09:04 JST",
+  "generated_at": "2026-10-12T21:10:05.183152+09:00",
+  "generated_at_jst": "2026-10-12 21:10 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,160 +14,160 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 1,
+      "count": 2,
       "icon": "🎀"
+    },
+    {
+      "key": "collab",
+      "label": "コラボ",
+      "count": 2,
+      "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 1,
+      "count": 5,
       "icon": "🎬"
-    },
-    {
-      "key": "event",
-      "label": "イベント",
-      "count": 1,
-      "icon": "🌟"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 9,
+      "count": 3,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qMzZBaW8xMUs4VXFmekFwUTVUNGZlVFdLUk5hZUt4UHJHWVRyMnRQSGlPQ3VOZ1Q2SEZyelZmRHpIazlRMW0yU2lFWVB1WXEtUExiaU56RlZiczQyX0NyU2RmS0JObXVsSnc?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種 インサイド",
-      "summary": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種 インサイド",
+      "title": "「ずっと見たかった、\"ちいかわ\"が…」熊本地震で運休のJR鹿児島線が74日ぶりに全線再開 通勤通学の移動手段が戻り 連休最終日には映画を楽しむ家族連れも - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtWGlnSzJ6eG05bkQ5T1hncWpuMWQxVnh0OXIyU19GOFNHOGtoSmdMVVhmZW9xSUxOcmU4SDY4Q3ZONmdoR2tvTHFZVVlxeU1laHpkcmV6LUVzRTdENXVVcWtINm8?oc=5",
+      "source": "TBS NEWS DIG",
+      "snippet": "「ずっと見たかった、\"ちいかわ\"が…」熊本地震で運休のJR鹿児島線が74日ぶりに全線再開 通勤通学の移動手段が戻り 連休最終日には映画を楽しむ家族連れも TBS NEWS DIG",
+      "summary": "「ずっと見たかった、\"ちいかわ\"が…」熊本地震で運休のJR鹿児島線が74日ぶりに全線再開 通勤通学の移動手段が戻り 連休最終日には映画を楽しむ家族連れも TBS NEWS DIG",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-12T18:37:00+09:00",
+      "published_display": "2026-10-12 18:37 JST"
+    },
+    {
+      "title": "「ずっと見たかった、\"ちいかわ\"が…」熊本地震で運休のJR鹿児島線が74日ぶりに全線再開 通勤通学の移動手段が戻り 連休最終日には映画を楽しむ家族連れも - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QOEI3b3RvS1g5a1g5c1RzVXRTdTRtdDIwRGVRSjB2ajl6ZHhBdzRxV2pIcmllV2Q1ck4wV2VyMEl5eU1rQ3drcFdHT0VHQXp1Q2xFN0ZpRkdRUQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "snippet": "「ずっと見たかった、\"ちいかわ\"が…」熊本地震で運休のJR鹿児島線が74日ぶりに全線再開 通勤通学の移動手段が戻り 連休最終日には映画を楽しむ家族連れも TBS NEWS DIG",
+      "summary": "「ずっと見たかった、\"ちいかわ\"が…」熊本地震で運休のJR鹿児島線が74日ぶりに全線再開 通勤通学の移動手段が戻り 連休最終日には映画を楽しむ家族連れも TBS NEWS DIG",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-12T18:37:00+09:00",
+      "published_display": "2026-10-12 18:37 JST"
+    },
+    {
+      "title": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる!超可愛い!」「こんな世界線もあってもよかった……」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jS0kzcEpic2VDcUZlb3RFQWJGVFUzVHZIcEFPWk9BRFFDcG8yWDlCd2ZNbXp2U1EwS2dfc1VwQzVNb20yYWNjU0JoQllRZkM5ZDY4YWMxcEdTZnZ5bkk5RVpFcXFDVzR4X0E?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる!超可愛い!」「こんな世界線もあってもよかった……」 オリコンニュース",
+      "summary": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる!超可愛い!」「こんな世界線もあってもよかった……」 オリコンニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-12T18:22:29+09:00",
+      "published_display": "2026-10-12 18:22 JST"
+    },
+    {
+      "title": "ちいかわ人気でソウルの常設店に長蛇の列…始発で到着しても700番台 - AFPBB News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QzRSYjJTVzAtay0zb0s1eXotWThPUVg2dFB5MnFuY3ptNUtlQ3E2Mk1wTVBMNDU5UjY3bHZnNFAySkcxN0p6MXJIb2U3Vzd0eHfSAVRBVV95cUxOZUdoNkpDdHJaTThFaGNjRTk3cHo0SXE0c3BaajhDTUV0MHZrM1JlQ181aXc4b2VsSzhiV1BuZmtCTHlxeF9nUDQ4WnVDRkEyLXNDMjU?oc=5",
+      "source": "AFPBB News",
+      "snippet": "ちいかわ人気でソウルの常設店に長蛇の列…始発で到着しても700番台 AFPBB News",
+      "summary": "ちいかわ人気でソウルの常設店に長蛇の列…始発で到着しても700番台 AFPBB News",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-12T17:45:50+09:00",
+      "published_display": "2026-10-12 17:45 JST"
+    },
+    {
+      "title": "ちいかわ人気でソウルの常設店に長蛇の列…始発で到着しても700番台（KOREA WAVE） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlMFIwMDc0aHpjeXBSaThBbVdheHJLN0R5cTRoWUhGcWlFX1dZMHRpYW9ESWpYT2dsby1MLVYwUjZsSmQ1THRoRDhsSENrUnlQMkswUnVFUWNKLWtPZVMxZUtJY3pPNEc5cVdaU2JzWVpweDVKbTFNQnYyalFBWEk?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわ人気でソウルの常設店に長蛇の列…始発で到着しても700番台（KOREA WAVE） Yahoo!ニュース",
+      "summary": "ちいかわ人気でソウルの常設店に長蛇の列…始発で到着しても700番台（KOREA WAVE） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-12T17:42:16+09:00",
+      "published_display": "2026-10-12 17:42 JST"
+    },
+    {
+      "title": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開 - クランクイン！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vSnR5NVZNamZBelRuXzZfTnJISnJDM0RJeGZJMEVFZi1aYUoxS1ZNb2pibkxlYWhkNm9Bd1NhMXllQ1ZKSDk1QldxV29hd3ZhYTNqd3o2WQ?oc=5",
+      "source": "クランクイン！",
+      "snippet": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開 クランクイン！",
+      "summary": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開 クランクイン！",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-12T09:00:04+09:00",
-      "published_display": "2026-10-12 09:00 JST"
+      "published_at": "2026-10-12T17:00:00+09:00",
+      "published_display": "2026-10-12 17:00 JST"
     },
     {
-      "title": "『ちいかわ』、『暗殺者（たち）』を破り1位奪還【MKボックスオフィス】 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zblBROGJpaU5jZUFrWFFYdVBmQXV2eHE4emhLUUdac1hDcTRTUUhKSkpRQU5aQ0RLcGRKMW5Bemg3YTRmbURSbGdWc3JnbFZj?oc=5",
-      "source": "매일경제",
-      "snippet": "『ちいかわ』、『暗殺者（たち）』を破り1位奪還【MKボックスオフィス】 매일경제",
-      "summary": "『ちいかわ』、『暗殺者（たち）』を破り1位奪還【MKボックスオフィス】 매일경제",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-12T08:24:59+09:00",
-      "published_display": "2026-10-12 08:24 JST"
-    },
-    {
-      "title": "「ちいかわ」くりまんじゅう、シーサーの“ねんどろいど”が予約受付中！ 「缶ビール」や「お酒の本」などオプションパーツも豊富 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aanNuVGFEXzU5b18zRnNWbG9LTUx2LWZhOVh5ZjFpVHlhZXBiamhBRlF3dmY1YnhINGZ6dk5KNWtCZnY1OGZ1YU43aU9USnhRMEQxVmtfUUZ3cHhXQnlaRGo0cjc0Ry1KNk9ubnVCR3NTZ3FxWW9YR3N5bFpXTkk?oc=5",
+      "title": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開（クランクイン！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wR2dCTDRUdTdsWnZ4TWhfbXNlUUNYZGY3aURrYVZjVnNXOEIxTzhzZVhhNkZ5LW5aMjZ5UGZmSkhzeHdPRUtGSk96ZjBvY2NXN0RpNUpKcFdCR0ZfMjBKeGZnOHo0UFd3T3Q2UnZDaEJjbkNjMjNTd0h3SlFIdE0?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」くりまんじゅう、シーサーの“ねんどろいど”が予約受付中！ 「缶ビール」や「お酒の本」などオプションパーツも豊富 Yahoo!ニュース",
-      "summary": "「ちいかわ」くりまんじゅう、シーサーの“ねんどろいど”が予約受付中！ 「缶ビール」や「お酒の本」などオプションパーツも豊富 Yahoo!ニュース",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-10-12T08:22:22+09:00",
-      "published_display": "2026-10-12 08:22 JST"
-    },
-    {
-      "title": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSEpmLUJjRzdpM3U3aUtHaVBBNkV0UTdXbG5Gb283MjdYTV9DbjJ5RjhLd1gzWXFmaUE5eHBTSm5xSWNrWWYwd1d1Q1FCY0VjZEx4X2JEM3ZaaUZmZ1M3bzlBbjh2Y1Iwc1E?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富 インサイド",
-      "summary": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富 インサイド",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-12T08:20:06+09:00",
-      "published_display": "2026-10-12 08:20 JST"
-    },
-    {
-      "title": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkxncTdweXA2MGpQczBxVWN0VlktZnJIeTByNmFCaTVDV2JiUmdwel9LeVZ2Q2szVUUyYmZieTMxNGZuc3ZqemlSbnN2RC1aSDhkZWJIOS1RbU5TOGdSdXhaVjYtSXZfY0F1bnB0UFM1U1hybGRiWEFSTmhOc09maUw2UmvSAYoBQVVfeXFMUElfWmc1dlZhR0JpUXlvTVVxTGFRbElTTzd1NktKVVo2NDk2YzdMcllqR053YkVFYXpockZINHE2OGdpYkF6Y3dUVm1qWHQxZlQ1SmlaMG5QY096TmNNLUMyVUJNTVVqMHJYZEExQ0xPT3NRNFplellSdVNraVFRdUgwRjhWQXFCWkxn?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 ｄメニューニュース",
-      "summary": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 ｄメニューニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-12T07:04:17+09:00",
-      "published_display": "2026-10-12 07:04 JST"
-    },
-    {
-      "title": "10月12日(月)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZzBZTEliYVVPZldIY0RrM1k4UWx6VXVyc251cG0tb3JYVTZ3Y3k4YWJ6bnMzc1JWTUVlZGJpeUNfbkFCWDM2Mmk2enlHdmZvRmQ4?oc=5",
-      "source": "めざましmedia",
-      "snippet": "10月12日(月)の「ちいかわ占い」 めざましmedia",
-      "summary": "10月12日(月)の「ちいかわ占い」 めざましmedia",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-12T07:00:00+09:00",
-      "published_display": "2026-10-12 07:00 JST"
-    },
-    {
-      "title": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 - まいどなニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTWgwZmV3M3pELUVadmNOVXNZQV9OOVZ1VFpsY0tLZno4WDg1LWhEY1FoQ2JtR0tkVG9kT2hyNXprX3I3UWk1REUydmlDdW1p?oc=5",
-      "source": "まいどなニュース",
-      "snippet": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 まいどなニュース",
-      "summary": "「誰ですか」歩行者天国歩いてたら…突如現れた\"ちいかわアート\"に通行人が歓喜 「池袋の！こないだも書いてくれていた」 まいどなニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-12T07:00:00+09:00",
-      "published_display": "2026-10-12 07:00 JST"
-    },
-    {
-      "title": "『ちいかわ』のバスボムがなかなか溶けないと思ったら… 「水まんじゅう化」してしまった失敗に反響 - LIMO | くらしとお金の経済メディア",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oNzFUejVzVVE4cVNHTHhHbTkxVlJZOEZMX0hXZFpOT1FRTUJ2aUlydjF2RnN1aU5kNXd0WGlYYjRhX2M0LUJFVU5ib1M?oc=5",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "snippet": "『ちいかわ』のバスボムがなかなか溶けないと思ったら… 「水まんじゅう化」してしまった失敗に反響 LIMO | くらしとお金の経済メディア",
-      "summary": "『ちいかわ』のバスボムがなかなか溶けないと思ったら… 「水まんじゅう化」してしまった失敗に反響 LIMO | くらしとお金の経済メディア",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-12T06:06:00+09:00",
-      "published_display": "2026-10-12 06:06 JST"
-    },
-    {
-      "title": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TNFA2Q25vQ1BoR0QwSFQwa2RmWWJ4aDRGX3Z5c0FpOXE0cjFVRzRaZUV1LWRDLXB1Vnh6NXZVZ2dvWC1PNTVaV0RPdlEtQW1hckltVW83ZWtEZw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！ 電撃オンライン",
-      "summary": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！ 電撃オンライン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-11T21:03:00+09:00",
-      "published_display": "2026-10-11 21:03 JST"
+      "snippet": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開（クランクイン！） Yahoo!ニュース",
+      "summary": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開（クランクイン！） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-12T17:00:00+09:00",
+      "published_display": "2026-10-12 17:00 JST"
     },
     {
       "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNEFnTWhva3EzaFRQeUpzcUhrWjQ2TnRJOHVNVHBzYlZ0Y2p1aS1RU0JjOXhjQnZpNTcxTW5fTWpYVFpGYW1VX2dRZXA4TW5QN1B1M0tkemJ0Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YY3hhb0IxT2hzeEtZNjduSTFWazJocHBldk12Vm5zbEV2S0lEcEt3bzNZQ0FOdlNpUXF4RndyaEVSSlNxMnVrcEFvUm1TdlRoaHZ1VjhpOTUyZw?oc=5",
       "source": "オリコンニュース",
       "snippet": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 オリコンニュース",
       "summary": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」 オリコンニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-11T19:52:35+09:00",
-      "published_display": "2026-10-11 19:52 JST"
+      "published_at": "2026-10-12T16:15:29+09:00",
+      "published_display": "2026-10-12 16:15 JST"
     },
     {
-      "title": "『ちいかわ』シーサーのつらい涙にもらい泣き。苦悩を救った意外なキャラの“深い一言”とは？（ハフポスト日本版） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EZFozTWVVZ3poWnpXX0xnOXRrV0FpWTAtenFfMDUtcnZ2NHpHdnhTOWhKQ0VlRk5GR210dEJlTnZNNV9uZXRxaUZPcnpqLTF2akRvQV9tb3ZvbEQxT2ZrMVpLeGtKX0JpX252SmFJc29mZnRkTmc4cEllUkwxaU0?oc=5",
+      "title": "二宮和也がベージュ×ブラウンの部屋着を着てナチュラルカラーのベッドの上にちょっこり立つ姿に「ちいかわとかシルバニアみたいでかわいい」「かわいすぎて戸惑う」「妖精なの…？」（THE FIRST TIMES） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYjZLSFd5MWgtQVRUaWR2R2pmZVM4bG1NSmhRdUpBRkliMkRpakdlOGhLV21fUnh2bmpJN3Z0VkIwai1sMUR0ekFlN1oxdUtWWUEtT1N0aDRKYktyVnhvMW4yWGhJdE1DSW9JOGpKRVEyRHRjd2lRc2N3Qm5GX00?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』シーサーのつらい涙にもらい泣き。苦悩を救った意外なキャラの“深い一言”とは？（ハフポスト日本版） Yahoo!ニュース",
-      "summary": "『ちいかわ』シーサーのつらい涙にもらい泣き。苦悩を救った意外なキャラの“深い一言”とは？（ハフポスト日本版） Yahoo!ニュース",
+      "snippet": "二宮和也がベージュ×ブラウンの部屋着を着てナチュラルカラーのベッドの上にちょっこり立つ姿に「ちいかわとかシルバニアみたいでかわいい」「かわいすぎて戸惑う」「妖精なの…？」（THE FIRST TIMES） Yahoo!ニュース",
+      "summary": "二宮和也がベージュ×ブラウンの部屋着を着てナチュラルカラーのベッドの上にちょっこり立つ姿に「ちいかわとかシルバニアみたいでかわいい」「かわいすぎて戸惑う」「妖精なの…？」（THE FIRST…",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-11T19:00:30+09:00",
-      "published_display": "2026-10-11 19:00 JST"
+      "published_at": "2026-10-12T16:04:30+09:00",
+      "published_display": "2026-10-12 16:04 JST"
     },
     {
-      "title": "\"ちいかわ\"など人気キャラクターのあばれ山車が激しくぶつかる 福島・二本松市：ニュース - FTV 福島テレビ",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EZmpVQ2hhVFBXM1lXcTA3UFNUZ3lwUTAtemFqcTJtZEZQNy01enc3ckFKVXM1MlpSd2NxZ3c0WFpNeHhPd2FpQ2ZWTl9ZZGF1Rmh0alpWbEs0bG5zbjVmdU4zN0Jnd0syM2k0aTZUcDJFdjZ0MFp6b2JB?oc=5",
-      "source": "FTV 福島テレビ",
-      "snippet": "\"ちいかわ\"など人気キャラクターのあばれ山車が激しくぶつかる 福島・二本松市：ニュース FTV 福島テレビ",
-      "summary": "\"ちいかわ\"など人気キャラクターのあばれ山車が激しくぶつかる 福島・二本松市：ニュース FTV 福島テレビ",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-11T18:40:00+09:00",
-      "published_display": "2026-10-11 18:40 JST"
+      "title": "【ちいかわ好き必見】映画コラボのカプセルトイ、デスクに置いたら便利すぎた！ - 千葉テレビ放送",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NaEpxbV9XakpxcXVZRVkwSE9CV2NiTERhVjUzSGFuVm0tVHE4NGFKVThteTFTcU5wSEZsRmhod29oZndONkpKRnEwdEZzMkZEV0Q3eG9qLUE3YURfMWtv?oc=5",
+      "source": "千葉テレビ放送",
+      "snippet": "【ちいかわ好き必見】映画コラボのカプセルトイ、デスクに置いたら便利すぎた！ 千葉テレビ放送",
+      "summary": "【ちいかわ好き必見】映画コラボのカプセルトイ、デスクに置いたら便利すぎた！ 千葉テレビ放送",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-12T13:58:27+09:00",
+      "published_display": "2026-10-12 13:58 JST"
+    },
+    {
+      "title": "【ちいかわ好き必見】映画コラボのカプセルトイ、デスクに置いたら便利すぎた！ - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCNVFNc1RrbmpYU0l4aEg5Q3ZnU3c5Yk94TXd5bkdhN09tWkotLWhERkVuanc2c3VOWGZNcGZrOUMyRmZCOEJzVkF5ZU9UUTVRUFNwLWxaU0hTS2k4V0ZSMWlUVk1scUYtMDhUM2dB?oc=5",
+      "source": "au Webポータル",
+      "snippet": "【ちいかわ好き必見】映画コラボのカプセルトイ、デスクに置いたら便利すぎた！ au Webポータル",
+      "summary": "【ちいかわ好き必見】映画コラボのカプセルトイ、デスクに置いたら便利すぎた！ au Webポータル",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-12T13:58:00+09:00",
+      "published_display": "2026-10-12 13:58 JST"
+    },
+    {
+      "title": "「映画ちいかわ」 韓国で週末興行1位 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TN0dhNjBvYks5RENoVk1DVDhMbmkyYXEzSllPVGZzN0RvNWFvNDlQbkI0UmxpU09rZjM4dUJqcWNxZHhlVW5uVFN6RU5PcGprWkQ3VTl5ZDBwdzN5MTZSTzR2QmgtREZzSkJXVmJ2aG9WMmdjMTd5aV80ZkxxcFk?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「映画ちいかわ」 韓国で週末興行1位 Yahoo!ニュース",
+      "summary": "「映画ちいかわ」 韓国で週末興行1位 Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-12T13:28:42+09:00",
+      "published_display": "2026-10-12 13:28 JST"
     }
   ]
 }
