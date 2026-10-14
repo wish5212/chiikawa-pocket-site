@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-14T11:27:31.880444+09:00",
-  "generated_at_jst": "2026-10-14 11:27 JST",
+  "generated_at": "2026-10-15T01:05:19.594440+09:00",
+  "generated_at_jst": "2026-10-15 01:05 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 10,
+      "count": 6,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 1,
+      "count": 4,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 1,
+      "count": 2,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "しまむらパークで「ちいかわ」グッズが本日10月14日12時より販売！ふわっと光る「あのこ」のルームライト - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONWRjMENSWFBIdzdEckJOem5mT2RKVDJlVXpHSmk0bDMtT1VfVUp0ZTBpeWtpREFCanVtMEFnTzBUY29RQmN0VlU5a2VzdFc3b0dya2U1b21tbjNRTUQweFJLNXluMzlEaC12cnQtMk8yVVA2TjcwQUZZSEIzUzJyX3V30gGHAUFVX3lxTE5KRmxPc2FwdktUUDktSnVfUEpDMnpTUUU5NmZhTWNKUl9XWWVBNFZwdXQwYUJSU3Iyb0tkR0ZiaHF2dmZ1dU1Uekptd3ZIYmE3V2dCajNzMnlfV1c5QXhVczlNc24tN3hCRFg3UTBDOVZoUGhZWmpyelpSdWZDZEM5TlR4aDhfaw?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "しまむらパークで「ちいかわ」グッズが本日10月14日12時より販売！ふわっと光る「あのこ」のルームライト ｄメニューニュース",
-      "summary": "しまむらパークで「ちいかわ」グッズが本日10月14日12時より販売！ふわっと光る「あのこ」のルームライト ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T11:24:30+09:00",
-      "published_display": "2026-10-14 11:24 JST"
-    },
-    {
-      "title": "ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開 - クランクイン！",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6d3FCTWl4TjBMT25aQ3hfM1N4OFktRFJYNE44bDZxQXMtSFlwUlM2Qk9KNUZ2UzRCVDlBN3dLSk9YQndpQk52aXkyLXRZZHdVeWE2OQ?oc=5",
-      "source": "クランクイン！",
-      "snippet": "ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開 クランクイン！",
-      "summary": "ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開 クランクイン！",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T11:20:00+09:00",
-      "published_display": "2026-10-14 11:20 JST"
-    },
-    {
-      "title": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産実施中 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xY1N2RGp4Nzg5SHBQdlg3dGNPTGtQa084OTJBU3lYZGRXWnUyZExaU3loa0dXaFN2a2V1a25FZXFZdDA3TThRUkNmcUo5eDlNX1A5TzVCNHg0ZlBRbHROZTZKZV95bm0wbk42bTln?oc=5",
-      "source": "au Webポータル",
-      "snippet": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産実施中 au Webポータル",
-      "summary": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産実施中 au Webポータル",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T11:17:00+09:00",
-      "published_display": "2026-10-14 11:17 JST"
-    },
-    {
-      "title": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ScnU4UTU2ZGxLMnFsRzltaXdTMjRUU0FiTDlYa0d5SkplU1hjNkE0UHRsVGxqTTNGRDliVzZhSml0WTBkVmJ6VVo4RW5qZUg5aUhWRkc5MFhiTHRsZVdSNlo2TmV6ZC1wWUZqcUx3?oc=5",
-      "source": "au Webポータル",
-      "snippet": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種 au Webポータル",
-      "summary": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種 au Webポータル",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T11:16:00+09:00",
-      "published_display": "2026-10-14 11:16 JST"
-    },
-    {
-      "title": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xWUY0VkZBMmJqUi1OSHNLbEZHOUtiODRrUkpxRDRQQjEtNDBxTXplMjVsTjRmVW9LQ19Gd00tQ0pMdURoYVlWWnJuX19LUThZOUhDM3J1aTZpd3Z1NUxLRjc0bENqeUV3Znc?oc=5",
+      "title": "「ちいかわベーカリー」2周年イベント開催！コロネになったちいかわたちのマスコットはじめ、アパレルや紅茶缶など限定アイテムが続々 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wbFB4bFFTZXZvSE9PUklUYVdZN0VYMWdrWWRaUWk0eFRQUDFwY2VOWmtxelRuXzR3Tzg0NnAxYlNKY1hFazltU0tKTlNDZkl2Yzh5LVpDNjh2MnMyUTBPV3BvWkloV1Yxenc?oc=5",
       "source": "インサイド",
-      "snippet": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種 インサイド",
-      "summary": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種 インサイド",
+      "snippet": "「ちいかわベーカリー」2周年イベント開催！コロネになったちいかわたちのマスコットはじめ、アパレルや紅茶缶など限定アイテムが続々 インサイド",
+      "summary": "「ちいかわベーカリー」2周年イベント開催！コロネになったちいかわたちのマスコットはじめ、アパレルや紅茶缶など限定アイテムが続々 インサイド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-14T11:00:03+09:00",
-      "published_display": "2026-10-14 11:00 JST"
+      "published_at": "2026-10-15T00:10:03+09:00",
+      "published_display": "2026-10-15 00:10 JST"
     },
     {
-      "title": "争奪戦になりそう……！ 【ちいかわベーカリー】2周年記念フェアが10/15より開催。ちいかわたちがコロネになった限定マスコットや、紅茶缶が登場 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mbGIwZ0NYOFlKOW1DS2NIRkpmU1dZNEswcUxpbksxSTlvbWpUTEVaWDg4T3dXa0tUanhyaFVtOEVaVmM2Wm8tb0dsTHlCRV90UEJ5N2RCc0lFTW5lSUhhelVqd2FLNGdEZTE4RVQ2dFF3YmJ0UGpfMVZB?oc=5",
-      "source": "朝日新聞",
-      "snippet": "争奪戦になりそう……！ 【ちいかわベーカリー】2周年記念フェアが10/15より開催。ちいかわたちがコロネになった限定マスコットや、紅茶缶が登場 朝日新聞",
-      "summary": "争奪戦になりそう……！ 【ちいかわベーカリー】2周年記念フェアが10/15より開催。ちいかわたちがコロネになった限定マスコットや、紅茶缶が登場 朝日新聞",
+      "title": "【ちいかわジェット】初便は長崎へ ANA特別機が10月19日就航 紙コップも特別仕様…機内限定グッズも - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQSnZ6bHRwQjJ0TlBTTld5Y0hCd29qOERmVXhfYzRyWVlSNXNUaW1HZ3dMMjlUck9SNUIyZUp6a0g0TjVndVRGQVMzYWVpcUdyZ1JFajZPUFFFNmQwSXFlVVlaNmhPMUk?oc=5",
+      "source": "TBS NEWS DIG",
+      "snippet": "【ちいかわジェット】初便は長崎へ ANA特別機が10月19日就航 紙コップも特別仕様…機内限定グッズも TBS NEWS DIG",
+      "summary": "【ちいかわジェット】初便は長崎へ ANA特別機が10月19日就航 紙コップも特別仕様…機内限定グッズも TBS NEWS DIG",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-14T10:42:56+09:00",
-      "published_display": "2026-10-14 10:42 JST"
+      "published_at": "2026-10-14T23:51:17+09:00",
+      "published_display": "2026-10-14 23:51 JST"
     },
     {
-      "title": "「暗殺者（たち）」が首位奪還…「ちいかわ」と観客581人差 - AFPBB News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SVk5LU1SMWRybnVKRnM0QTdXY3dNMWZ0QlpBZ296RnNDNFFMWVQ4VlJkWHkzdEpfOEhRdjBWeks2Zm1uLUdQQW9RMFVJa0JzQ0HSAVRBVV95cUxQa2MtT3RKM0xyQndJY1pCQ2tlcjZEc2RhYUhVYm9VVUFLeUFIdW9ibmswRFhidjBhTElFdE81SnFrcXI1TFFQWk1PR290U2F0bVpLbXI?oc=5",
-      "source": "AFPBB News",
-      "snippet": "「暗殺者（たち）」が首位奪還…「ちいかわ」と観客581人差 AFPBB News",
-      "summary": "「暗殺者（たち）」が首位奪還…「ちいかわ」と観客581人差 AFPBB News",
+      "title": "ちいかわにアレを食べさせる【ちいかわぽけっと】 #1 - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01WHlYMHJ5dmdSTGp1NUlOYnZuREw2NDZGQ2x3M3dmWEhVWmNhWGhyQXBoQXRFX3V6N0pqSERNVnNvaUh2MjBjM2NuYjZDcWRfMFVOdlcxSDBuQUpT?oc=5",
+      "source": "YouTube",
+      "snippet": "ちいかわにアレを食べさせる【ちいかわぽけっと】 #1 YouTube",
+      "summary": "ちいかわにアレを食べさせる【ちいかわぽけっと】 #1 YouTube",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-14T10:32:13+09:00",
-      "published_display": "2026-10-14 10:32 JST"
+      "published_at": "2026-10-14T23:00:49+09:00",
+      "published_display": "2026-10-14 23:00 JST"
     },
     {
-      "title": "”言わないよねェッ”「まじかるちいかわ」強くなったハチワレ＆うさぎ、あのこが全長70cm超の抱きぬいぐるみに！ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yV242NWpwVjJrTW1MZVc4TjExSlhuVWlZUWs3YUg0TzhwcjNRclFpbXdVMThmc0lfTHBzX3dYS1d1WHBGcUVzWkpxZ2Z1OVNmRU5ZQTdZU0dWYktCZ2NVZXFmTGlaR2RkUHgxNFNzOUFWaWtodXhtSmIxcVZ4MUE?oc=5",
+      "title": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話（ABEMA TIMES） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSMGY5VmFMUGVuMHl3RXQxbUxCb3BQSV9NdEtQYzM4OFZ2QzV6UWhXMWh3ZF9nUkNGMXlvdWdDRlduZEVaU0VkdkFjV3J5TkFMR3FieUtCS1luV0hDTUlvM0NoSWVsTWRhd18ycmlJVlZCZjFlQVBmMm5yV3hrR2M?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "”言わないよねェッ”「まじかるちいかわ」強くなったハチワレ＆うさぎ、あのこが全長70cm超の抱きぬいぐるみに！ Yahoo!ニュース",
-      "summary": "”言わないよねェッ”「まじかるちいかわ」強くなったハチワレ＆うさぎ、あのこが全長70cm超の抱きぬいぐるみに！ Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T10:30:03+09:00",
-      "published_display": "2026-10-14 10:30 JST"
+      "snippet": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話（ABEMA TIMES） Yahoo!ニュース",
+      "summary": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話（ABEMA TIMES） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-14T21:06:17+09:00",
+      "published_display": "2026-10-14 21:06 JST"
     },
     {
-      "title": "南原清隆、“ちいかわ好き”小峠英二に「ちいかわグッズ」プレゼント「ちいかわおじさん爆誕」「よく似合ってます」ネットほっこり - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieTVXNzd6NHZNSVRVWlJoVXFsc1hBSGRORmJmQVd6RGMyNF9ydXhLUjdYQzVWVjEyMUdOaWRrZTJycmRNZWl5N1MyMjhVeDlBQl9Fb2ZCUzB1clZSaVlfdmtuUUNOaVIxbF83cjd0MzloRG91ZkxZLUw5OGZQY2M?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "南原清隆、“ちいかわ好き”小峠英二に「ちいかわグッズ」プレゼント「ちいかわおじさん爆誕」「よく似合ってます」ネットほっこり Yahoo!ニュース",
-      "summary": "南原清隆、“ちいかわ好き”小峠英二に「ちいかわグッズ」プレゼント「ちいかわおじさん爆誕」「よく似合ってます」ネットほっこり Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T10:10:48+09:00",
-      "published_display": "2026-10-14 10:10 JST"
-    },
-    {
-      "title": "しまむらパークで「ちいかわ」グッズが本日10月14日12時より販売！ふわっと光る「あのこ」のルームライト - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01dTk3dlAzV0Y5RDV5dlNZalFDaUUxaldRczhEQ2dVOUxqN0ZzeEpSRXJDb1BaT2k4NnhGWjJIZHktZDN4dm9KNlIwdzBoQlBFUkFjczgzZUF3UUs5YnhHS2l3YVdCZC1wZ1E?oc=5",
-      "source": "インサイド",
-      "snippet": "しまむらパークで「ちいかわ」グッズが本日10月14日12時より販売！ふわっと光る「あのこ」のルームライト インサイド",
-      "summary": "しまむらパークで「ちいかわ」グッズが本日10月14日12時より販売！ふわっと光る「あのこ」のルームライト インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T10:00:03+09:00",
-      "published_display": "2026-10-14 10:00 JST"
-    },
-    {
-      "title": "「ちいかわベーカリー」2周年記念グッズ、10月15日発売！コロネなマスコット全8種（cinemacafe.net） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rXzNOd2R5OE1LeV9kSll6emhOeWl2NDJkUjBUQVk5T09XZFFnQ3FYTEw1Sk1icGdZejFRMXZPZGtWeGJGTkNtYWdEeWN3T1phZ0gxTWs1NHFFQUZFM25VaXlSbk1nMlhMWHFXZnpCN3pKNlF0U2V4WVpmc0t2Qm8?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわベーカリー」2周年記念グッズ、10月15日発売！コロネなマスコット全8種（cinemacafe.net） Yahoo!ニュース",
-      "summary": "「ちいかわベーカリー」2周年記念グッズ、10月15日発売！コロネなマスコット全8種（cinemacafe.net） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-14T09:00:04+09:00",
-      "published_display": "2026-10-14 09:00 JST"
-    },
-    {
-      "title": "登場キャラの半数が言葉を話さない映画「ちいかわ」…耳が聞こえない漫画家、字幕に感無量 声や音まで文字に「推しの『ハァー』が聞こえる」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUWFTNjh3V1VoOVJsTEkyUllxVk1hRWNMTjZ6aWRfSm9iREI5anlLbTd0ek5jSk9WdEp3blN5Mk1nYXROVVY2cFlSUXlTWEdiWU5MVTZ4dkYtMWFOdlV2NENNbzgzT1B6b3RxdVREMmhaM0wySkJrQmRpbHJJRkk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "登場キャラの半数が言葉を話さない映画「ちいかわ」…耳が聞こえない漫画家、字幕に感無量 声や音まで文字に「推しの『ハァー』が聞こえる」 Yahoo!ニュース",
-      "summary": "登場キャラの半数が言葉を話さない映画「ちいかわ」…耳が聞こえない漫画家、字幕に感無量 声や音まで文字に「推しの『ハァー』が聞こえる」 Yahoo!ニュース",
+      "title": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話 | アニメニュース | アニメフリークス - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KWGZ0Rnk5Si1weUxES0pNbUtZcUpxSHctYUFTMDg4blJQTUdxTDVBNEgwcW1kSG00MWgzSEM4TzdsNjgtLTAwdngtUDlVWFdBQXFLWA?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話 | アニメニュース | アニメフリークス ABEMA TIMES",
+      "summary": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話 | アニメニュース | アニメフリークス ABEMA TIMES",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-14T08:09:38+09:00",
-      "published_display": "2026-10-14 08:09 JST"
+      "published_at": "2026-10-14T21:03:00+09:00",
+      "published_display": "2026-10-14 21:03 JST"
+    },
+    {
+      "title": "【ABEMA】体験型イベント「ちいかわクリスマスマーケット」開催決定…約6000平方メートルの会場に光・映像・音で彩るシンボルツリーも登場 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QZm9xQkJ4bk1EQWJDVjRvUXloS3kwY2Y5d0R5c2FXTEJCSnl6WmJvNGtHcWhTd2lFSFRMa0JwY0FIelRYRWYtMkF2MlFlTThaYlFpWEh4NGVVbkpSV0hz?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "【ABEMA】体験型イベント「ちいかわクリスマスマーケット」開催決定…約6000平方メートルの会場に光・映像・音で彩るシンボルツリーも登場 ABEMA TIMES",
+      "summary": "【ABEMA】体験型イベント「ちいかわクリスマスマーケット」開催決定…約6000平方メートルの会場に光・映像・音で彩るシンボルツリーも登場 ABEMA TIMES",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-14T21:00:00+09:00",
+      "published_display": "2026-10-14 21:00 JST"
+    },
+    {
+      "title": "映画興行成績＞「映画ちいかわ」またも1位返り咲き 「バイオハザード」は2位、「汝、星のごとく」は4位発進（MANTANWEB） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCYW04SExzZ29Gci1ENnRQbzlCby1MdFlDNDJpOFdZaWNjT2xhQmI3NkhSUFg3Q19WT3EwN29XaUgwUHRZWVRldjVhRFU3VldDYVVoY0FhZmxrc3VBZ2EwLXdKMThTbjBTZ2J6b0lwU29qTDh6VzZLRkJrSDM4c1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "映画興行成績＞「映画ちいかわ」またも1位返り咲き 「バイオハザード」は2位、「汝、星のごとく」は4位発進（MANTANWEB） Yahoo!ニュース",
+      "summary": "映画興行成績＞「映画ちいかわ」またも1位返り咲き 「バイオハザード」は2位、「汝、星のごとく」は4位発進（MANTANWEB） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-14T20:35:00+09:00",
+      "published_display": "2026-10-14 20:35 JST"
+    },
+    {
+      "title": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場 2枚目の写真・画像 - アニメ！アニメ！",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wMzgyTUNvMTVVNGZJLUxMU2xOakdzZnVlMFFIVkFIU21mOFoxVmotS1RqRTF2X0ZsdURZelQ2Q2ZSR2tXUHo5eU1jMWlYUXNjRHNkRWdUM0M0aHpFbjc2b0FkUTFZU25ZQjQzM1lEYkdYYk0?oc=5",
+      "source": "アニメ！アニメ！",
+      "snippet": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場 2枚目の写真・画像 アニメ！アニメ！",
+      "summary": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場 2枚目の写真・画像 アニメ！アニメ！",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-14T20:00:03+09:00",
+      "published_display": "2026-10-14 20:00 JST"
+    },
+    {
+      "title": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場 - アニメ！アニメ！",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15eDU5VnNGd1NYYkJjc3lWNEtkcS1WNDBzZUpCb2JMbGlHNUhPY25Od1VzdFQwQkMyai1BWl9Rb0NId1JWQmZYamowdUFuSjU2VWRoTnA0Mnd4dl9haWExbVNB?oc=5",
+      "source": "アニメ！アニメ！",
+      "snippet": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場 アニメ！アニメ！",
+      "summary": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場 アニメ！アニメ！",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-14T20:00:03+09:00",
+      "published_display": "2026-10-14 20:00 JST"
+    },
+    {
+      "title": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』首位返り咲き！ 『バイオハザード』最新作は2位発進 興収ベースではトップ - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RV1h6UFBTbllpeGtXZWt0NkUzc2NZX3A4bXBWLTFwMG9vTjlkblBEUGxULVJaLUpDYWtuanB1Z3dZRzRlYnVjbjBhblQ5VzMxOWNVQzRJcnVUbFpWQm9V?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』首位返り咲き！ 『バイオハザード』最新作は2位発進 興収ベースではトップ 千葉テレビ放送株式会社",
+      "summary": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』首位返り咲き！ 『バイオハザード』最新作は2位発進 興収ベースではトップ 千葉テレビ放送株式会社",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-14T19:03:14+09:00",
+      "published_display": "2026-10-14 19:03 JST"
+    },
+    {
+      "title": "中国人がわざわざ日本に観に来る熱狂ぶり…｢映画ちいかわ｣が中華圏の若者に刺さる\"日本とは全く別の理由\" - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzlTZVdJT2h4VlZHQWFhaC15TEJreFZyejhFa1NSbnN1WGdSY19MMHVvenoxaVNIUUhYUzFYYm1iTHc0eXNaZWNPZGFVNG5YNkxxM3owR2lFdG10S3NZZTl0Z3Jxc2pWVndJcExXNDJraV9ScDhsZjhETWNGZGRiTnM3Sk9EMnBn?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "中国人がわざわざ日本に観に来る熱狂ぶり…｢映画ちいかわ｣が中華圏の若者に刺さる\"日本とは全く別の理由\" Yahoo!ニュース",
+      "summary": "中国人がわざわざ日本に観に来る熱狂ぶり…｢映画ちいかわ｣が中華圏の若者に刺さる\"日本とは全く別の理由\" Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-14T18:15:38+09:00",
+      "published_display": "2026-10-14 18:15 JST"
+    },
+    {
+      "title": "「ちいかわ」トイザらス限定エコバッグにAmazonのタブレットも！ 子ども向け商品含む新商品が登場 - アニメ！アニメ！",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9URWJrNlpvTGFRVFhJaGxNRFV5UWJFeVVoeDlaVmFxNnAxVnBjOXN2VHFkYlZMMFpiR2VYZmJjYmFMaTdLZ21SaFJZZTVib183N1RMaDQ2X1NYYlh0d2N5S2Z3?oc=5",
+      "source": "アニメ！アニメ！",
+      "snippet": "「ちいかわ」トイザらス限定エコバッグにAmazonのタブレットも！ 子ども向け商品含む新商品が登場 アニメ！アニメ！",
+      "summary": "「ちいかわ」トイザらス限定エコバッグにAmazonのタブレットも！ 子ども向け商品含む新商品が登場 アニメ！アニメ！",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-14T18:00:03+09:00",
+      "published_display": "2026-10-14 18:00 JST"
     }
   ]
 }
