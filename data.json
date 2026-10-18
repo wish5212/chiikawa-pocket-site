@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-17T23:33:04.228317+09:00",
-  "generated_at_jst": "2026-10-17 23:33 JST",
+  "generated_at": "2026-10-18T10:52:07.125239+09:00",
+  "generated_at_jst": "2026-10-18 10:52 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,17 +14,139 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 8,
+      "count": 4,
       "icon": "🎀"
+    },
+    {
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 2,
+      "icon": "🎬"
+    },
+    {
+      "key": "event",
+      "label": "イベント",
+      "count": 1,
+      "icon": "🌟"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 5,
       "icon": "🌱"
     }
   ],
   "items": [
+    {
+      "title": "壁一面に並ぶご当地「ちいかわ」、コンプリート目前の壮観な光景に驚嘆 なぜそこまで…意外な人脈も駆使（ENCOUNT） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdHpGMkdNV2g0MHo1SjJLR3VLLThHd1hnSkotLTJjZ0FySHVaM3ZINmE2NnBMam8xUTBEcWNaeW1RcnVpWnFvWVBlQlg4cjhzd3hjM2RBQ19vMWE1TTNIVGw3VDRJdnNCS2xSZ2tEdUs1NnZ4WnVjc0JlaVF3VVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "壁一面に並ぶご当地「ちいかわ」、コンプリート目前の壮観な光景に驚嘆 なぜそこまで…意外な人脈も駆使（ENCOUNT） Yahoo!ニュース",
+      "summary": "壁一面に並ぶご当地「ちいかわ」、コンプリート目前の壮観な光景に驚嘆 なぜそこまで…意外な人脈も駆使（ENCOUNT） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T10:10:00+09:00",
+      "published_display": "2026-10-18 10:10 JST"
+    },
+    {
+      "title": "日本アニメ映画「ちいかわ」、「暗殺者（たち）」を3倍差で引き離す…170万人目前 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFdicV9YWlZvOEZpdWZOTV9peUlsWkFBSGlUb0thdkhPb0VpXzg4QzZMY2UzdlVpQlNSTm5uYjlNcnc4aExMTHlBZzRTUHlaeVNpN3B2R2dzQTR5SHZlSjdGN1JoRDUteC01YWxTc21vY05jWFlqdWtweGcxS1NFdDZHT3ZWb0N0OU1FS2VQWdIBlAFBVV95cUxOLXh5eTVpSHQ0c3NjS3ZicWxEZDE4S0RialVCdE1mNG9YQnFleHotWkk4TDdQR1VuMFRIWm9oR3kzVV82LWlzQlpJWTdGemF1amp4SU9tazJ2ZnBjVGFBUzd5b0IyQVg2cTVhV2lieGFGalM3OUU5aUlSVEhlSzluQXQ2ODVQYkppcmx6YVJSY2I3SGdL?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "日本アニメ映画「ちいかわ」、「暗殺者（たち）」を3倍差で引き離す…170万人目前 ｄメニューニュース",
+      "summary": "日本アニメ映画「ちいかわ」、「暗殺者（たち）」を3倍差で引き離す…170万人目前 ｄメニューニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-18T10:03:00+09:00",
+      "published_display": "2026-10-18 10:03 JST"
+    },
+    {
+      "title": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zekNOZTB3UzVuMXBzZ0dwN2dBWDBiR1RjMnd0UEhmRmV5eVR1RkZVSVVZOU9LUTlzSk5jTUZZWWtMa3BBX1VFanBCZ2ZHM0swdGxDTXFKdUJBOS1JZEFJeF9INWFpMmo5WEJrNTM2M2NWZ19HOTJ3RlRpbjdvWVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産 Yahoo!ニュース",
+      "summary": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産 Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-18T10:00:03+09:00",
+      "published_display": "2026-10-18 10:00 JST"
+    },
+    {
+      "title": "ちいかわたちの可愛いお顔をデザイン！ハード食感の「ちいかわ 流れ星グミ」が登場！ちょっとすっぱい“黒い流れ星グミ”が入っているかも？ - 電撃ホビーウェブ",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0RpTkxXQVFxUkV6Tm9KS3B2a2Y5dWV0c2ZMcWk5SEthMWh6QmJTMmYzTmlqX3U3c0hiYmYta0VqX01KOFV4aVk1cTdxWl85?oc=5",
+      "source": "電撃ホビーウェブ",
+      "snippet": "ちいかわたちの可愛いお顔をデザイン！ハード食感の「ちいかわ 流れ星グミ」が登場！ちょっとすっぱい“黒い流れ星グミ”が入っているかも？ 電撃ホビーウェブ",
+      "summary": "ちいかわたちの可愛いお顔をデザイン！ハード食感の「ちいかわ 流れ星グミ」が登場！ちょっとすっぱい“黒い流れ星グミ”が入っているかも？ 電撃ホビーウェブ",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T09:00:00+09:00",
+      "published_display": "2026-10-18 09:00 JST"
+    },
+    {
+      "title": "週刊ちいかわ恋占い 2026年10月18日（日）～10月24日（土） - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peGtscTBweHlmVDFobTRhY0hicEQxQi1ldWxXeWhUTWx3OVR5T210LUt5TFRKQzBVTnA3Ylp1T3RsRXpkTEctNDRubmpqUmlaQ0RGSEk3NTZZbFRtVUpB?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "週刊ちいかわ恋占い 2026年10月18日（日）～10月24日（土） 千葉テレビ放送株式会社",
+      "summary": "週刊ちいかわ恋占い 2026年10月18日（日）～10月24日（土） 千葉テレビ放送株式会社",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-18T07:10:16+09:00",
+      "published_display": "2026-10-18 07:10 JST"
+    },
+    {
+      "title": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRDFxc01DWlQxck9mYmZHUDNpRjNMbmRIQ1BzM0xMUGRYNkF2NHNoTzJXTURyWFB1bTB3bDJUUEhnekhmcXJzS2FlUjNsN0dCMFR2bFFFejhkOG5yaFlKN19weUMzSEw2WUN0b3lMNFRyWno3S0RJbHJFbw?oc=5",
+      "source": "ニコニコニュース",
+      "snippet": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定 ニコニコニュース",
+      "summary": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定 ニコニコニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-18T07:03:16+09:00",
+      "published_display": "2026-10-18 07:03 JST"
+    },
+    {
+      "title": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいどが予約受付中！購入特典にはセリフプレートも - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KbmVDcTF0UTd3aUdfNHM0cjNyZXJrdkJOTmNrYkQ1YTRsd29wd3lIU01tdUw3T2NkSEh4bjdZZmIwS3FsUE1Id0xyZWIwMlIyeERubmotaV9DdURkRzB2NmJJTEFTYVhzMVE?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいどが予約受付中！購入特典にはセリフプレートも インサイド",
+      "summary": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいどが予約受付中！購入特典にはセリフプレートも インサイド",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-10-18T06:50:03+09:00",
+      "published_display": "2026-10-18 06:50 JST"
+    },
+    {
+      "title": "「ちいかわ」中国でも人気 特別展にファン詰めかける - 高知新聞",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vX1RxRmc4ZGMwRWFOWUVQZHA4RjRaZWlzcWtJNnNPOU5ybzI0SEhvWjRTUVhiampfUFZYN1FrWkgxT2ZkSV9NSi1DRnktUEltU1FGaUlzQkJzOWZnVGJZ?oc=5",
+      "source": "高知新聞",
+      "snippet": "「ちいかわ」中国でも人気 特別展にファン詰めかける 高知新聞",
+      "summary": "「ちいかわ」中国でも人気 特別展にファン詰めかける 高知新聞",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T05:00:00+09:00",
+      "published_display": "2026-10-18 05:00 JST"
+    },
+    {
+      "title": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売 - GAME Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55dWNJX05pbjF0a2pQWlMzWjRpSVFoM0dmWmtBNUV3U2I3S2NnTGRkTzZDMkpTbHI1eG5sUXlwdUllZVp0LUZaM2p3UHkwVjhUVm93RjNkeWI4cllaNGR0d05RNjhudw?oc=5",
+      "source": "GAME Watch",
+      "snippet": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売 GAME Watch",
+      "summary": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売 GAME Watch",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T00:00:00+09:00",
+      "published_display": "2026-10-18 00:00 JST"
+    },
+    {
+      "title": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売（GAME Watch） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PMGFJbXJwYlhIbU1rYUVNRml6TmNuMEFjVVJta1FPd2lad0FhOG9qZmxZVlJsS1JpdWM0WFU5cDhxQnZDaG9heG9YVTA5OGdZY3AySXhHenRoeVNXc2RaYjl5NVNYR3NpcVZjS01oLUdGRm5SRUJkN0Z4ejdPdkk?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売（GAME Watch） Yahoo!ニュース",
+      "summary": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売（GAME Watch） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T00:00:00+09:00",
+      "published_display": "2026-10-18 00:00 JST"
+    },
     {
       "title": "【ちいかわ】新発売のちいかわスロットコインチョコレートを開封レポ！ちょっと残念なギミックも可愛いです（jsc） - エキスパート - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWxJakprS0FyaFZteWJjNlltZnp1ZlFmQnB4SG5XbFNKVi1QQ0RDVGZWMWg5NjkxS2ZaaTltT0R0N1ljc3ZPMFQzcTVmYnNISUZDQXV5YUlBYTdXLUVRVjRNNlZSbTUycDZnYVZicHJsREU3dDM5ODhwS092a1czTngxNUkyY015?oc=5",
@@ -46,116 +168,6 @@
       "category_label": "グッズ",
       "published_at": "2026-10-17T19:00:00+09:00",
       "published_display": "2026-10-17 19:00 JST"
-    },
-    {
-      "title": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hdXZWN2ZXckhiTVdJekhwT29oLVIyV0hhUXBSdXRKLThwcUVHUXZCWlJKMmFvRWRmT255UGxPSklfM0lZVlI5SklkeDJJNy1heUhhWFBqbUVrOF9nellkSFM5TEk1V0QyZjBOaG1EcmdaVHNKeUg1b0hHUU1ZbU0?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種（インサイド） Yahoo!ニュース",
-      "summary": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種（インサイド） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-17T17:30:04+09:00",
-      "published_display": "2026-10-17 17:30 JST"
-    },
-    {
-      "title": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92YkMtcGU3aS1DSElJdXVhUmFrZ0Z1YXZLQ0hoNWFTY2c0OXcxeXVNVFM3ZVkwTG9UOHRhdVJuTl9PZHlpOHJtQlgta0ZERmRHd01yU3Q4ZjF6ejlhX0ppbmtTQ3hEZzVTZHVTSDh0dW92NDBrYjcw?oc=5",
-      "source": "インサイド",
-      "snippet": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種 2枚目の写真・画像 インサイド",
-      "summary": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種 2枚目の写真・画像 インサイド",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-17T17:30:04+09:00",
-      "published_display": "2026-10-17 17:30 JST"
-    },
-    {
-      "title": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種 6枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZFFuVmV4eWtHT3E3ZGRodUx2a2UtUXl0WnI0ZG41RHdfLUliT3NYcG5RclYzOUdLSzlFLWR2MzMwXzJ6TUl0VzZ3ZDZwUjdOVjVYLS1MM216dTk0N3JBUEFfbjh3NWJtdWYtV2xVUTQ1NHZzSXBn?oc=5",
-      "source": "インサイド",
-      "snippet": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種 6枚目の写真・画像 インサイド",
-      "summary": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種 6枚目の写真・画像 インサイド",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-17T17:30:04+09:00",
-      "published_display": "2026-10-17 17:30 JST"
-    },
-    {
-      "title": "【最速】ちいかわちいかわふわふわBIGブランケット大沼り続出の中神プレイを見せる？！#ufoキャッチャー #ちいかわ #ハチワレ #うさぎ #プライズ #ベネクス #フック #クレーンゲーム - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fVlI5MDJTTzViQnhPcnlsclgxQWtOek5obTBLYzRCVWFiVHFaLXFhd3VJenZobW10OXA4R0NSUW0tcndXVGtQempJOUZBd3hyaml1THU5bkZpZEda?oc=5",
-      "source": "YouTube",
-      "snippet": "【最速】ちいかわちいかわふわふわBIGブランケット大沼り続出の中神プレイを見せる？！#ufoキャッチャー #ちいかわ #ハチワレ #うさぎ #プライズ #ベネクス #フック #クレーンゲーム YouTube",
-      "summary": "【最速】ちいかわちいかわふわふわBIGブランケット大沼り続出の中神プレイを見せる？！#ufoキャッチャー #ちいかわ #ハチワレ #うさぎ #プライズ #ベネクス #フック #クレーンゲーム…",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T16:19:44+09:00",
-      "published_display": "2026-10-17 16:19 JST"
-    },
-    {
-      "title": "「ちいかわ」、中国伝統建築の神獣モチーフを北京限定で展開 - AFPBB News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1JRa2dERElqQXFZY21weTM0b29pd3pzUTJBY25VUlI1d2hrR1E2aTQxWi1xYmZNcjlITWxzYWN5a1FqRmxfanpTNTlSTnJNRXdwZWhSd0ZudVBOUWtiY2x5ZmVSazlOaWhUZEtScDlPbVVYWGdka1JrV1BNY1hWSdIBVEFVX3lxTE5JS2Nha29RTGttMXlqRkpfSWlWVk9ZVUVEVVRFUE8zUmZQMFBXRlZnY3JaWm4wbDdpVkJGbUhRalNjQl9TeEY4SEYxdENKRUdpaUVRWA?oc=5",
-      "source": "AFPBB News",
-      "snippet": "「ちいかわ」、中国伝統建築の神獣モチーフを北京限定で展開 AFPBB News",
-      "summary": "「ちいかわ」、中国伝統建築の神獣モチーフを北京限定で展開 AFPBB News",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-17T16:00:38+09:00",
-      "published_display": "2026-10-17 16:00 JST"
-    },
-    {
-      "title": "「ちいかわ×ANA」コラボが楽しみ！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTNVJ3NXFRcF9kd093dnEyckZvRkxKblhLZFp6UGxIRk0wVHN5VVhTbDRHM0VRN3BMX0VuUEhGZmVZekN5SEZ3cTBobkVwTHVYd2piX0I3YmJlNUQydS1lZ3F3MlZXaS1tRmJDTzNQNTQ4LTdHd0FrbGNn?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ×ANA」コラボが楽しみ！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開 2枚目の写真・画像 インサイド",
-      "summary": "「ちいかわ×ANA」コラボが楽しみ！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開 2枚目の写真・画像 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T15:30:03+09:00",
-      "published_display": "2026-10-17 15:30 JST"
-    },
-    {
-      "title": "「ちいかわ×ANA」コラボが楽しみ！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZMmppY05SYlBQTTd4YzZIQ25kNjA4REtqcEE2NFhDVTBsZFRIbzNTQTZZUzkwd3IyNWhNRmNzM2pOT1NYZGpGeTNvTTMzaUlhVWNmY2owdWozRFBlSmR1SUlLVkhNTWMwM0E?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ×ANA」コラボが楽しみ！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開 インサイド",
-      "summary": "「ちいかわ×ANA」コラボが楽しみ！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T15:30:03+09:00",
-      "published_display": "2026-10-17 15:30 JST"
-    },
-    {
-      "title": "「ちいかわクリスマスマーケット」開催決定！事前のチケット先行抽選をチェック（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuVTg5NkFzRnotU0NkMDJXdUZIWGtoaFRrWlVXMl94aFh0cUpoU2tkWUhKdmdTMERvSksxUEF1QTBXaEJicHFid0VIRGFFY1A0OUUxajZpTFJBemVvY0FTSGtVREtORk8tRE9DYXZZVVVBcGc4Q1MwU3FPcXc0NzQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわクリスマスマーケット」開催決定！事前のチケット先行抽選をチェック（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわクリスマスマーケット」開催決定！事前のチケット先行抽選をチェック（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T13:20:03+09:00",
-      "published_display": "2026-10-17 13:20 JST"
-    },
-    {
-      "title": "【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売 - オトナンサー",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MVEthdGpPb3l6X21fcnVIdHk2dDBJbXo5MVgzMWhPSEFGcmlLLV9PSGpjZzRwVGI3UHhfY0N3bm9wVUhXNE5QZEh3?oc=5",
-      "source": "オトナンサー",
-      "snippet": "【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売 オトナンサー",
-      "summary": "【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売 オトナンサー",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T13:03:21+09:00",
-      "published_display": "2026-10-17 13:03 JST"
-    },
-    {
-      "title": "「ちいかわぽけっと」公式グッズ第4弾“お弁当”と“お店屋さん”発売！ 全国5か所でポップアップストアも - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbFdzNEVFcHlzNTJHN2dNYUF2RU40enFzWmRTNl95dk04cUxkU1hELUNEMkstcXBNS2diemFfcFpQLTBEQ2NqVEo5bG5QY3ZZNVJLMEIyczdPNlF2?oc=5",
-      "source": "朝日新聞",
-      "snippet": "「ちいかわぽけっと」公式グッズ第4弾“お弁当”と“お店屋さん”発売！ 全国5か所でポップアップストアも 朝日新聞",
-      "summary": "「ちいかわぽけっと」公式グッズ第4弾“お弁当”と“お店屋さん”発売！ 全国5か所でポップアップストアも 朝日新聞",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T12:15:02+09:00",
-      "published_display": "2026-10-17 12:15 JST"
     }
   ]
 }
