@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-18T10:52:07.125239+09:00",
-  "generated_at_jst": "2026-10-18 10:52 JST",
+  "generated_at": "2026-10-19T00:00:21.757851+09:00",
+  "generated_at_jst": "2026-10-19 00:00 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,20 +14,14 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 4,
+      "count": 3,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 2,
+      "count": 4,
       "icon": "🎬"
-    },
-    {
-      "key": "event",
-      "label": "イベント",
-      "count": 1,
-      "icon": "🌟"
     },
     {
       "key": "other",
@@ -38,136 +32,136 @@
   ],
   "items": [
     {
-      "title": "壁一面に並ぶご当地「ちいかわ」、コンプリート目前の壮観な光景に驚嘆 なぜそこまで…意外な人脈も駆使（ENCOUNT） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdHpGMkdNV2g0MHo1SjJLR3VLLThHd1hnSkotLTJjZ0FySHVaM3ZINmE2NnBMam8xUTBEcWNaeW1RcnVpWnFvWVBlQlg4cjhzd3hjM2RBQ19vMWE1TTNIVGw3VDRJdnNCS2xSZ2tEdUs1NnZ4WnVjc0JlaVF3VVk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "壁一面に並ぶご当地「ちいかわ」、コンプリート目前の壮観な光景に驚嘆 なぜそこまで…意外な人脈も駆使（ENCOUNT） Yahoo!ニュース",
-      "summary": "壁一面に並ぶご当地「ちいかわ」、コンプリート目前の壮観な光景に驚嘆 なぜそこまで…意外な人脈も駆使（ENCOUNT） Yahoo!ニュース",
+      "title": "【動画】ANA「ちいかわジェット」お披露目 - Aviation Wire",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MMEw1ajZsOGxpVHRxMWNuaU1CYXlXdnR2bEtYYmszb2dkMlZVVURLNmRYZDBfWm1mWElvbXBlcGREZmg4X3ZzOUwtdW1rZ2FVeWRRelBn?oc=5",
+      "source": "Aviation Wire",
+      "snippet": "【動画】ANA「ちいかわジェット」お披露目 Aviation Wire",
+      "summary": "【動画】ANA「ちいかわジェット」お披露目 Aviation Wire",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-18T10:10:00+09:00",
-      "published_display": "2026-10-18 10:10 JST"
+      "published_at": "2026-10-18T23:51:00+09:00",
+      "published_display": "2026-10-18 23:51 JST"
     },
     {
-      "title": "日本アニメ映画「ちいかわ」、「暗殺者（たち）」を3倍差で引き離す…170万人目前 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFdicV9YWlZvOEZpdWZOTV9peUlsWkFBSGlUb0thdkhPb0VpXzg4QzZMY2UzdlVpQlNSTm5uYjlNcnc4aExMTHlBZzRTUHlaeVNpN3B2R2dzQTR5SHZlSjdGN1JoRDUteC01YWxTc21vY05jWFlqdWtweGcxS1NFdDZHT3ZWb0N0OU1FS2VQWdIBlAFBVV95cUxOLXh5eTVpSHQ0c3NjS3ZicWxEZDE4S0RialVCdE1mNG9YQnFleHotWkk4TDdQR1VuMFRIWm9oR3kzVV82LWlzQlpJWTdGemF1amp4SU9tazJ2ZnBjVGFBUzd5b0IyQVg2cTVhV2lieGFGalM3OUU5aUlSVEhlSzluQXQ2ODVQYkppcmx6YVJSY2I3SGdL?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "日本アニメ映画「ちいかわ」、「暗殺者（たち）」を3倍差で引き離す…170万人目前 ｄメニューニュース",
-      "summary": "日本アニメ映画「ちいかわ」、「暗殺者（たち）」を3倍差で引き離す…170万人目前 ｄメニューニュース",
+      "title": "ANA×「ちいかわ」コラボグッズ実物を見てきた！ 各キャラの職種も紹介、10月23日から空港ショップなどで販売 (トラベル Watch) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2tlc0Z0TVJxZjhsYmk5SERLWWh3eDRKY1VsUzY3RXQxeUtpbVNCMVJNRG5raDR0b3RQQVNJX2dZNE9RUzF2NkJDS2c1a05wQVdOWTNwQTM0RkhvdWRDNHlpLWxHa2xFR1l5NGh2UGV5NXcwUDJrX2llcGpkYzAzYVNRbjVtRXFBV05WRXBB?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ANA×「ちいかわ」コラボグッズ実物を見てきた！ 各キャラの職種も紹介、10月23日から空港ショップなどで販売 (トラベル Watch) Yahoo!ニュース",
+      "summary": "ANA×「ちいかわ」コラボグッズ実物を見てきた！ 各キャラの職種も紹介、10月23日から空港ショップなどで販売 (トラベル Watch) Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-18T20:45:33+09:00",
+      "published_display": "2026-10-18 20:45 JST"
+    },
+    {
+      "title": "「ちいかわ×ANA」コラボグッズ第一弾が10月23日発売 ANA制服姿のマスコットやぬいぐるみなど登場（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4OFM4LWJNam5CMmw2VmNRcE5ZVUtsNjNQVnU1ajA0enpxZVNuQlZTc1FxMHBnMEQ4dEUyTGN2VVNtajU2V0hrSDJqZ01tSDJCNFRtS1B4cXJiZmpvODhhdzdFT1lLTW1obHhQTDRDb1YzTW9KWFlfWTJqQldNVEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ×ANA」コラボグッズ第一弾が10月23日発売 ANA制服姿のマスコットやぬいぐるみなど登場（リアルサウンド） Yahoo!ニュース",
+      "summary": "「ちいかわ×ANA」コラボグッズ第一弾が10月23日発売 ANA制服姿のマスコットやぬいぐるみなど登場（リアルサウンド） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-18T20:03:11+09:00",
+      "published_display": "2026-10-18 20:03 JST"
+    },
+    {
+      "title": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売 制服姿のちいかわたちをデザイン - 映画.com",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBlUXRROVFGTThXNkRpRHlCbG9iV2Y0cE1DYUNyLVR3YVZQb2s0Tl9Ob2ljckIwTnU3VEYzbQ?oc=5",
+      "source": "映画.com",
+      "snippet": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売 制服姿のちいかわたちをデザイン 映画.com",
+      "summary": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売 制服姿のちいかわたちをデザイン 映画.com",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-18T20:00:00+09:00",
+      "published_display": "2026-10-18 20:00 JST"
+    },
+    {
+      "title": "ANAが「ちいかわジェット」公開 19日に初就航 - SmartNews",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNUVJCV0NWTkY1ZDJfYl8xdmF1a1hGdGpoQnpoUm40ZmVxRFZ3WS1mSDNMYmVfVlR0Z0ZHV1ZGdm5SUk96alZLWUhSUWxGVXhYWm9rQmRuMC16RnlMSzdXQUNVWUFoNERZeXFIWi1ZdVl2NUI2aV9tNkMxNi1jVlNtdGdZYnZtQnQ2dFFtbmwyOTVlS18taWlnYjliWGNjOERKTU9Ga2pjUXIxbEVCU2tTOTJEcmpPekplY0ZJYU5MOXl4XzlzM0JFQVhJWXVycUs3NVhtMGRDWmdscXRKQlZZMF8zWlJkVVdYQW1TclJRSjVObzNjNHk5cU40dHdScXozSndKTjd3czNDbWxSN0J2V3RZbTduZFEzOHdlek9xdHpucFZIQnFWTVMyTGhSRUpuX080S1BDMWhQVS1BaU9ERjdGYXc2bTRDTTZ2UVBn?oc=5",
+      "source": "SmartNews",
+      "snippet": "ANAが「ちいかわジェット」公開 19日に初就航 SmartNews",
+      "summary": "ANAが「ちいかわジェット」公開 19日に初就航 SmartNews",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-18T10:03:00+09:00",
-      "published_display": "2026-10-18 10:03 JST"
+      "published_at": "2026-10-18T19:59:00+09:00",
+      "published_display": "2026-10-18 19:59 JST"
     },
     {
-      "title": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zekNOZTB3UzVuMXBzZ0dwN2dBWDBiR1RjMnd0UEhmRmV5eVR1RkZVSVVZOU9LUTlzSk5jTUZZWWtMa3BBX1VFanBCZ2ZHM0swdGxDTXFKdUJBOS1JZEFJeF9INWFpMmo5WEJrNTM2M2NWZ19HOTJ3RlRpbjdvWVU?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産 Yahoo!ニュース",
-      "summary": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産 Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-18T10:00:03+09:00",
-      "published_display": "2026-10-18 10:00 JST"
-    },
-    {
-      "title": "ちいかわたちの可愛いお顔をデザイン！ハード食感の「ちいかわ 流れ星グミ」が登場！ちょっとすっぱい“黒い流れ星グミ”が入っているかも？ - 電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0RpTkxXQVFxUkV6Tm9KS3B2a2Y5dWV0c2ZMcWk5SEthMWh6QmJTMmYzTmlqX3U3c0hiYmYta0VqX01KOFV4aVk1cTdxWl85?oc=5",
-      "source": "電撃ホビーウェブ",
-      "snippet": "ちいかわたちの可愛いお顔をデザイン！ハード食感の「ちいかわ 流れ星グミ」が登場！ちょっとすっぱい“黒い流れ星グミ”が入っているかも？ 電撃ホビーウェブ",
-      "summary": "ちいかわたちの可愛いお顔をデザイン！ハード食感の「ちいかわ 流れ星グミ」が登場！ちょっとすっぱい“黒い流れ星グミ”が入っているかも？ 電撃ホビーウェブ",
+      "title": "【動画】【ちいかわジェット】ちいかわ、空の旅へ＝全日空、特別塗装機お披露目 - 時事通信ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lbW5yRkoxX0hJTUdnb0JERVR2ZlNZR1FPbVlvemVnNF9uUkhMQU5SZ0VtU1BpczVqUWhZSzdnM2pTNDBrZUthYVJOemN6Zzg?oc=5",
+      "source": "時事通信ニュース",
+      "snippet": "【動画】【ちいかわジェット】ちいかわ、空の旅へ＝全日空、特別塗装機お披露目 時事通信ニュース",
+      "summary": "【動画】【ちいかわジェット】ちいかわ、空の旅へ＝全日空、特別塗装機お披露目 時事通信ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-18T09:00:00+09:00",
-      "published_display": "2026-10-18 09:00 JST"
+      "published_at": "2026-10-18T19:45:07+09:00",
+      "published_display": "2026-10-18 19:45 JST"
     },
     {
-      "title": "週刊ちいかわ恋占い 2026年10月18日（日）～10月24日（土） - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peGtscTBweHlmVDFobTRhY0hicEQxQi1ldWxXeWhUTWx3OVR5T210LUt5TFRKQzBVTnA3Ylp1T3RsRXpkTEctNDRubmpqUmlaQ0RGSEk3NTZZbFRtVUpB?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "snippet": "週刊ちいかわ恋占い 2026年10月18日（日）～10月24日（土） 千葉テレビ放送株式会社",
-      "summary": "週刊ちいかわ恋占い 2026年10月18日（日）～10月24日（土） 千葉テレビ放送株式会社",
+      "title": "【ちいかわジェット】ちいかわ、空の旅へ＝全日空、特別塗装機お披露目 - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56WWc3bHBDYWIyZjBDMDMzbTVXN3BHU2xnSWNFMEgyN1kwczFkUXFIZEtiTVBvNERGTmhidUZtb3h3QmNKT2h4TmQwN3FRaDAydElsNVRJWURVRWRN?oc=5",
+      "source": "YouTube",
+      "snippet": "【ちいかわジェット】ちいかわ、空の旅へ＝全日空、特別塗装機お披露目 YouTube",
+      "summary": "【ちいかわジェット】ちいかわ、空の旅へ＝全日空、特別塗装機お披露目 YouTube",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T19:36:08+09:00",
+      "published_display": "2026-10-18 19:36 JST"
+    },
+    {
+      "title": "ちいかわ、空の旅へ＝全日空、特別塗装機お披露目：トレンド動画：時事ドットコム - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPT2lZUEo3OHloSEpMWDdzNXBIRnZpS3FNMU92V2FPUVdGdHd3b3YzVVhSYkkzNFNYNXIzRzhFZ24yOFVsZkVTSzI4MEFwejZs?oc=5",
+      "source": "時事ドットコム",
+      "snippet": "ちいかわ、空の旅へ＝全日空、特別塗装機お披露目：トレンド動画：時事ドットコム 時事ドットコム",
+      "summary": "ちいかわ、空の旅へ＝全日空、特別塗装機お披露目：トレンド動画：時事ドットコム 時事ドットコム",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T19:36:00+09:00",
+      "published_display": "2026-10-18 19:36 JST"
+    },
+    {
+      "title": "ちいかわ寿司POP UP STORE、福岡三越で開催 購入特典にトレーディングカード（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55RXl1RVM3LXpSTV9Vam0xek9jTXp1ZmpLQWs1UEloM0daUFJta3FxT2xNNDZIZGpfbS1XVk1SdWJNeUpFOXhOeGo5YnB5dUUxdUg0T0Fwd1hVbi1NMGVKdjNfbUlMZ3cyaEZGY2VXbFN2Mzd6Q09VbEw1M0p0WVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわ寿司POP UP STORE、福岡三越で開催 購入特典にトレーディングカード（リアルサウンド） Yahoo!ニュース",
+      "summary": "ちいかわ寿司POP UP STORE、福岡三越で開催 購入特典にトレーディングカード（リアルサウンド） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-18T19:30:54+09:00",
+      "published_display": "2026-10-18 19:30 JST"
+    },
+    {
+      "title": "韓国の20代が「ちいかわ」に熱狂…映画観客の45％、可愛さと過酷な世界観に共感 - AFPBB News",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WbVFVZmlrMENYNDlCcnFrWFdGZnAxTmZZOTE1aDVHOUNzbFZ1clQtbFZfQlpFT1hEd3MwME9uMXdhRktlZzVXaHFYaUhETE04d212a9IBVEFVX3lxTE1WbVFVZmlrMENYNDlCcnFrWFdGZnAxTmZZOTE1aDVHOUNzbFZ1clQtbFZfQlpFT1hEd3MwME9uMXdhRktlZzVXaHFYaUhETE04d212aw?oc=5",
+      "source": "AFPBB News",
+      "snippet": "韓国の20代が「ちいかわ」に熱狂…映画観客の45％、可愛さと過酷な世界観に共感 AFPBB News",
+      "summary": "韓国の20代が「ちいかわ」に熱狂…映画観客の45％、可愛さと過酷な世界観に共感 AFPBB News",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-18T07:10:16+09:00",
-      "published_display": "2026-10-18 07:10 JST"
+      "published_at": "2026-10-18T18:29:10+09:00",
+      "published_display": "2026-10-18 18:29 JST"
     },
     {
-      "title": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRDFxc01DWlQxck9mYmZHUDNpRjNMbmRIQ1BzM0xMUGRYNkF2NHNoTzJXTURyWFB1bTB3bDJUUEhnekhmcXJzS2FlUjNsN0dCMFR2bFFFejhkOG5yaFlKN19weUMzSEw2WUN0b3lMNFRyWno3S0RJbHJFbw?oc=5",
-      "source": "ニコニコニュース",
-      "snippet": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定 ニコニコニュース",
-      "summary": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定 ニコニコニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-18T07:03:16+09:00",
-      "published_display": "2026-10-18 07:03 JST"
-    },
-    {
-      "title": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいどが予約受付中！購入特典にはセリフプレートも - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KbmVDcTF0UTd3aUdfNHM0cjNyZXJrdkJOTmNrYkQ1YTRsd29wd3lIU01tdUw3T2NkSEh4bjdZZmIwS3FsUE1Id0xyZWIwMlIyeERubmotaV9DdURkRzB2NmJJTEFTYVhzMVE?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいどが予約受付中！購入特典にはセリフプレートも インサイド",
-      "summary": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいどが予約受付中！購入特典にはセリフプレートも インサイド",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-10-18T06:50:03+09:00",
-      "published_display": "2026-10-18 06:50 JST"
-    },
-    {
-      "title": "「ちいかわ」中国でも人気 特別展にファン詰めかける - 高知新聞",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vX1RxRmc4ZGMwRWFOWUVQZHA4RjRaZWlzcWtJNnNPOU5ybzI0SEhvWjRTUVhiampfUFZYN1FrWkgxT2ZkSV9NSi1DRnktUEltU1FGaUlzQkJzOWZnVGJZ?oc=5",
-      "source": "高知新聞",
-      "snippet": "「ちいかわ」中国でも人気 特別展にファン詰めかける 高知新聞",
-      "summary": "「ちいかわ」中国でも人気 特別展にファン詰めかける 高知新聞",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-18T05:00:00+09:00",
-      "published_display": "2026-10-18 05:00 JST"
-    },
-    {
-      "title": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売 - GAME Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55dWNJX05pbjF0a2pQWlMzWjRpSVFoM0dmWmtBNUV3U2I3S2NnTGRkTzZDMkpTbHI1eG5sUXlwdUllZVp0LUZaM2p3UHkwVjhUVm93RjNkeWI4cllaNGR0d05RNjhudw?oc=5",
-      "source": "GAME Watch",
-      "snippet": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売 GAME Watch",
-      "summary": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売 GAME Watch",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-18T00:00:00+09:00",
-      "published_display": "2026-10-18 00:00 JST"
-    },
-    {
-      "title": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売（GAME Watch） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PMGFJbXJwYlhIbU1rYUVNRml6TmNuMEFjVVJta1FPd2lad0FhOG9qZmxZVlJsS1JpdWM0WFU5cDhxQnZDaG9heG9YVTA5OGdZY3AySXhHenRoeVNXc2RaYjl5NVNYR3NpcVZjS01oLUdGRm5SRUJkN0Z4ejdPdkk?oc=5",
+      "title": "韓国の20代が「ちいかわ」に熱狂…映画観客の45％、可愛さと過酷な世界観に共感（KOREA WAVE） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVllRYWtzVEZvM0g2WnVtaDZHQ2VKREQyQzViMkdkX1ZONDFDTnl1ZWFMYUxHQlQtdEt0NDJfQzU2WG9xNXN4eFlKZ1FySmZPYWdkTkZDamI2NDctOUZrUXdtcG9CelJpV0pseWlvWmUxRnJnR2ZTMUh1Z0s3Y1k?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売（GAME Watch） Yahoo!ニュース",
-      "summary": "ガシャポン「ちいかわ めじるしアクセサリー3」10月第4週に再販売（GAME Watch） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-18T00:00:00+09:00",
-      "published_display": "2026-10-18 00:00 JST"
+      "snippet": "韓国の20代が「ちいかわ」に熱狂…映画観客の45％、可愛さと過酷な世界観に共感（KOREA WAVE） Yahoo!ニュース",
+      "summary": "韓国の20代が「ちいかわ」に熱狂…映画観客の45％、可愛さと過酷な世界観に共感（KOREA WAVE） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-18T18:21:16+09:00",
+      "published_display": "2026-10-18 18:21 JST"
     },
     {
-      "title": "【ちいかわ】新発売のちいかわスロットコインチョコレートを開封レポ！ちょっと残念なギミックも可愛いです（jsc） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWxJakprS0FyaFZteWJjNlltZnp1ZlFmQnB4SG5XbFNKVi1QQ0RDVGZWMWg5NjkxS2ZaaTltT0R0N1ljc3ZPMFQzcTVmYnNISUZDQXV5YUlBYTdXLUVRVjRNNlZSbTUycDZnYVZicHJsREU3dDM5ODhwS092a1czTngxNUkyY015?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【ちいかわ】新発売のちいかわスロットコインチョコレートを開封レポ！ちょっと残念なギミックも可愛いです（jsc） - エキスパート Yahoo!ニュース",
-      "summary": "【ちいかわ】新発売のちいかわスロットコインチョコレートを開封レポ！ちょっと残念なギミックも可愛いです（jsc） - エキスパート Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T20:05:18+09:00",
-      "published_display": "2026-10-17 20:05 JST"
-    },
-    {
-      "title": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売 制服姿のちいかわたちをデザイン : ニュース - アニメハック",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIQ1JteVJkOEw2bzg0R282YllDWlRvV0JvUXFrV2hfMGRqQlJJdGdNZl9wTEpyRS1ZdlZzZlNfTE5ISHdtU1hQcl9Kaw?oc=5",
-      "source": "アニメハック",
-      "snippet": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売 制服姿のちいかわたちをデザイン : ニュース アニメハック",
-      "summary": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売 制服姿のちいかわたちをデザイン : ニュース アニメハック",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-17T19:00:00+09:00",
-      "published_display": "2026-10-17 19:00 JST"
+      "title": "「ちいかわ」のキャラクターをデザインした全日空の特別機＝18日午後、羽田空港 - ちいかわ特別機を公開 全日空、国内各地で就航へ - 写真・画像(1/1) - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zUG02TFdkMGwwRkw0VGx0b0JvalRUSDhYUXZhbkRVYmRXVjVLeWRiS0dTcXYxT3drUDVhVjBNUXUxelUtcGRGa2Q1N2tWX3JJVy05QVpkYw?oc=5",
+      "source": "西日本新聞me",
+      "snippet": "「ちいかわ」のキャラクターをデザインした全日空の特別機＝18日午後、羽田空港 - ちいかわ特別機を公開 全日空、国内各地で就航へ - 写真・画像(1/1) 西日本新聞me",
+      "summary": "「ちいかわ」のキャラクターをデザインした全日空の特別機＝18日午後、羽田空港 - ちいかわ特別機を公開 全日空、国内各地で就航へ - 写真・画像(1/1) 西日本新聞me",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-18T18:16:34+09:00",
+      "published_display": "2026-10-18 18:16 JST"
     }
   ]
 }
