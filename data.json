@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-19T11:09:02.039803+09:00",
-  "generated_at_jst": "2026-10-19 11:09 JST",
+  "generated_at": "2026-10-20T02:52:44.501290+09:00",
+  "generated_at_jst": "2026-10-20 02:52 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,14 +14,8 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 1,
+      "count": 5,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
     },
     {
       "key": "anime",
@@ -32,142 +26,142 @@
     {
       "key": "other",
       "label": "そのほか",
-      "count": 7,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「映画ちいかわ」 2週連続週末興行1位＝韓国 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VHplTjFGQmVVQjN5cEpRYlp6VUtEV0pjWW9ZVHhpaGkwcGNDc1JwUHBuWmkxaVN1S25ERGozMGxIRFRIRjAxdEtXNFE5ZHhsNlpucmpwUXdTRVF3YjdtQUFGTU05WkI3Q3FhTURlVVNWLVk4LWJmT0pKT1hHQk0?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「映画ちいかわ」 2週連続週末興行1位＝韓国 Yahoo!ニュース",
-      "summary": "「映画ちいかわ」 2週連続週末興行1位＝韓国 Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-19T10:56:39+09:00",
-      "published_display": "2026-10-19 10:56 JST"
-    },
-    {
-      "title": "「映画ちいかわ」 2週連続週末興行1位＝韓国 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3VZT254d05jWXZaV2lOeTNCcFNiUE1IOUg5ZExGM1ZNMUpfZUtUTW44Skk2MTB2OThzR2RDdklscm1CUDdvZmdMd0xERmtFMG9Gc05pNXMzS2V4TnBnTGF4NFdJWFBvY0lfdksxVlh0MUlrRWZqVklYZkk3QUdTZ2hKOEtTdUd4bWfSAY8BQVVfeXFMUFlUamtZTGF0UlpCS2FNQ1FPT1VJWVU5aUM2c1d1QW9OdEhvUVh5Y3FXUTFpOVlyaF9LcWJfLWtJY0FfMDN2aG9ZNmcyaGZkVlkzNWJfTGdSMFJoNGt3VWxCNWZoOVpya0VMMFJOQ2laaVlYTXpkME1VUmZCTVg3WmVlVTRfRG5Mc1NocGh1azg?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「映画ちいかわ」 2週連続週末興行1位＝韓国 ｄメニューニュース",
-      "summary": "「映画ちいかわ」 2週連続週末興行1位＝韓国 ｄメニューニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-19T10:56:00+09:00",
-      "published_display": "2026-10-19 10:56 JST"
-    },
-    {
-      "title": "ANA、特別デザイン機「ちいかわジェット」が就航 初便は満席で羽田から長崎へ出発 - sky-budget スカイバジェット",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbktFZTRQQUkzUlRmWE13ektpSkVJOC1kM1AwWWQzNmE3X2RuMTFnakVabFBsTWRQcjN2M3EzTWZpMm4tbzBJV1h6Sll2RUlWMFI1em5UOE13dGxsa3BmeW9nazdTUDAtZDZpQ0d3WjQwcWFWMk5jb3FIazBrTXBCZzJVeTNWdWRVVWdNUFlWTkNja2R3djJ3RXVR?oc=5",
-      "source": "sky-budget スカイバジェット",
-      "snippet": "ANA、特別デザイン機「ちいかわジェット」が就航 初便は満席で羽田から長崎へ出発 sky-budget スカイバジェット",
-      "summary": "ANA、特別デザイン機「ちいかわジェット」が就航 初便は満席で羽田から長崎へ出発 sky-budget スカイバジェット",
+      "title": "『ちいかわ』最新話更新（10/19）。最近お店のレビューを始めた、ちいかわのハンドルネームは…!? - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83XzBGdmJSTjF5VHpMem03S3FFc25fNVdjRDk0Tl9ZQ0JSRHpBOUxGRE1EVWFwalVmX3lIcVNWUHdyV0pUNVhBY3VRd0Joa0NWMEFfRTRaOVRYZw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』最新話更新（10/19）。最近お店のレビューを始めた、ちいかわのハンドルネームは…!? 電撃オンライン",
+      "summary": "『ちいかわ』最新話更新（10/19）。最近お店のレビューを始めた、ちいかわのハンドルネームは…!? 電撃オンライン",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-19T10:20:12+09:00",
-      "published_display": "2026-10-19 10:20 JST"
+      "published_at": "2026-10-20T01:30:00+09:00",
+      "published_display": "2026-10-20 01:30 JST"
     },
     {
-      "title": "ANA「ちいかわジェット」が就航。初便は満席。展望デッキも多くの人出 - AIRLINE web",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jZFJGRXVNSGxPVWZ5b0JzSjBJc2MydTBfa3cxR3VhMF9PeWJDQWR1aGFCYnd4d3ZlcU45aFF5cHRUVzFQcmJ5YXVTR1FWZw?oc=5",
-      "source": "AIRLINE web",
-      "snippet": "ANA「ちいかわジェット」が就航。初便は満席。展望デッキも多くの人出 AIRLINE web",
-      "summary": "ANA「ちいかわジェット」が就航。初便は満席。展望デッキも多くの人出 AIRLINE web",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-19T10:11:14+09:00",
-      "published_display": "2026-10-19 10:11 JST"
-    },
-    {
-      "title": "本品限定キラキラシール入り！丸美屋食品工業「期間限定 アニメちいかわ きのこのポタージュ」「期間限定 アニメちいかわ ほうれんそうのポタージュ」 - Dtimes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BNy1yMkttZm9XN013NzFnU0FwSlJWSEtRd09VWE9WTE02SXA4TU52djVYQmEySlMzTUt3ZXBMcm1jT1RUdmc?oc=5",
-      "source": "Dtimes",
-      "snippet": "本品限定キラキラシール入り！丸美屋食品工業「期間限定 アニメちいかわ きのこのポタージュ」「期間限定 アニメちいかわ ほうれんそうのポタージュ」 Dtimes",
-      "summary": "本品限定キラキラシール入り！丸美屋食品工業「期間限定 アニメちいかわ きのこのポタージュ」「期間限定 アニメちいかわ ほうれんそうのポタージュ」 Dtimes",
+      "title": "「ちいかわパーク」7/24発売の新作限定グッズに注目!特典、イベントも充実♪ - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tSUpydElWVTYtOVRpVHpMQ0xFQUlxcnVnSU44ekxhcVZSay1CdmgybWdvTVBHMU5jZmRUQVUyaUZ6eW9FVzNCaVVDZHRrSTJpdFhyQkFVVE5BazBTbzNPZ0REWEJlZmcybUZQOThTTTNiZEt0QnBvUmx3?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "「ちいかわパーク」7/24発売の新作限定グッズに注目!特典、イベントも充実♪ ぴあエンタメ情報",
+      "summary": "「ちいかわパーク」7/24発売の新作限定グッズに注目!特典、イベントも充実♪ ぴあエンタメ情報",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-19T10:06:08+09:00",
-      "published_display": "2026-10-19 10:06 JST"
+      "published_at": "2026-10-20T01:05:14+09:00",
+      "published_display": "2026-10-20 01:05 JST"
     },
     {
-      "title": "ちいかわ「米国で売れすぎて売り場が空っぽ」……アメリカ人がハマるまっとうな理由 - 現代ビジネス",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHcXVFRjNxYmY0b2J0UmtqQWpvUzJYNzV5cmxsV2pOSS1XZm9QX1dOSjNlNW1QT0tSbFR0WDkyak5QRUNOT0djN2FyYjlIM3pfYlhzcnZFa0M?oc=5",
-      "source": "現代ビジネス",
-      "snippet": "ちいかわ「米国で売れすぎて売り場が空っぽ」……アメリカ人がハマるまっとうな理由 現代ビジネス",
-      "summary": "ちいかわ「米国で売れすぎて売り場が空っぽ」……アメリカ人がハマるまっとうな理由 現代ビジネス",
+      "title": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪ - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dFV4R2JWR1VqRVJadXNwd09DY05OdXV0M1ZBUkNIblhwTnZBeUVJTVFQZm1tcm0wYWQ4THo4aXI0aFotVW54bzBYMENUMGVPQ1NmRjJraEdhS2FhSGd1STc4WkFVWVEwTHdxVnhPMkhQV2VsRDkteWV3?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪ ぴあエンタメ情報",
+      "summary": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪ ぴあエンタメ情報",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-20T01:05:14+09:00",
+      "published_display": "2026-10-20 01:05 JST"
+    },
+    {
+      "title": "「ちいかわパーク」7/24発売の新作限定グッズに注目!特典、イベントも充実♪ - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFazFGbnhFSDc0cGhFU3BNZjdoV3lUcTIwbDBQd212WWNxTnZUVEdCUlRSdG05dzM2X2RRaUNiZmxVcTAtZkhlczNhUF9vZHFqdUdSSEFFQXc5MHRXSjFpd05pNWc3b1NxVThHOEJZSGMtWHN3WUVGdQ?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "「ちいかわパーク」7/24発売の新作限定グッズに注目!特典、イベントも充実♪ ぴあエンタメ情報",
+      "summary": "「ちいかわパーク」7/24発売の新作限定グッズに注目!特典、イベントも充実♪ ぴあエンタメ情報",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-20T01:05:12+09:00",
+      "published_display": "2026-10-20 01:05 JST"
+    },
+    {
+      "title": "【反則級の可愛さ！】ちいかわだらけの飛行機が爆誕！ANA「ちいかわジェット」の実物を間近で見てきた！ - 乗りものニュース",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwYzFZWDA4eFFPalJCTURIdkw3WUc5cDNjVjZiTWtldU1MVFV1T1g1bkxldEdZTUJONGg2Q2tkZExOcnVvS3hXZXF3?oc=5",
+      "source": "乗りものニュース",
+      "snippet": "【反則級の可愛さ！】ちいかわだらけの飛行機が爆誕！ANA「ちいかわジェット」の実物を間近で見てきた！ 乗りものニュース",
+      "summary": "【反則級の可愛さ！】ちいかわだらけの飛行機が爆誕！ANA「ちいかわジェット」の実物を間近で見てきた！ 乗りものニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-19T10:00:28+09:00",
-      "published_display": "2026-10-19 10:00 JST"
+      "published_at": "2026-10-19T21:30:00+09:00",
+      "published_display": "2026-10-19 21:30 JST"
     },
     {
-      "title": "ANA、ちいかわジェット国内線就航 初便満席で長崎へ（Aviation Wire） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03WEkyMEFqYzJZcWxyQ1lia0JoM20wOG1pNUcxa1pMVWRXQXlwXzB0dEYzOFR1bzR2UHV2SE5RMS02RzkwNUd2aHRZR0pBR0VIaXFDUlVlSXZuRE1IYmZNUFQ5TklZYl9mYXB0R0RMV09DZE8yX2pFVEllSTRvbUE?oc=5",
+      "title": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪（ぴあ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yaFlzMUpWSDZHRDBXZ1ppZGV3OFhqR1h4VU4xWXROdllhLWhQanlNQzlRcmxPTW8xeGdfRTJSdVFrdXRmTlZhY1BScXI4U1FwVW5Bem5zMk13SUlqaGxSeUNQMDJHbnJFTU9Sa3dXbmlfTzhzZzdyaE1CUkM2RkU?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ANA、ちいかわジェット国内線就航 初便満席で長崎へ（Aviation Wire） Yahoo!ニュース",
-      "summary": "ANA、ちいかわジェット国内線就航 初便満席で長崎へ（Aviation Wire） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-19T09:54:00+09:00",
-      "published_display": "2026-10-19 09:54 JST"
+      "snippet": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪（ぴあ） Yahoo!ニュース",
+      "summary": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪（ぴあ） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-19T21:00:45+09:00",
+      "published_display": "2026-10-19 21:00 JST"
     },
     {
-      "title": "ANA、ちいかわジェット国内線就航 初便は長崎へ - Aviation Wire",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ud3BQVjAxRjg3RHRta0VYczJBUnFobS1rb284TGNwNE1fdnhQbFRWMEZsUzB0Z2ppRkJLdk55RnZKcGY2Nk9UaWxZUVg1VXB1ZG5HN0J3?oc=5",
-      "source": "Aviation Wire",
-      "snippet": "ANA、ちいかわジェット国内線就航 初便は長崎へ Aviation Wire",
-      "summary": "ANA、ちいかわジェット国内線就航 初便は長崎へ Aviation Wire",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-19T09:47:00+09:00",
-      "published_display": "2026-10-19 09:47 JST"
-    },
-    {
-      "title": "「映画の世界観をそのまま日常へ」ユニクロのちいかわスウェット3990円！さりげない刺繍で普段着コーデにも馴染む（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44eV9lUVJ5WDN1amQxNHZtMk05WWl1UjU4WTBzU2U2UVRQTGowaXhkc2g0NHJjSndnWEVTbDBRWi01SEZEb1AxTWk1NHlJUktNQTQxTXE1TUVMa3NSbldGZTZGNXpTTDh3Y2JCVVdYNldwRE9UMHc2MUZtUkppQkk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「映画の世界観をそのまま日常へ」ユニクロのちいかわスウェット3990円！さりげない刺繍で普段着コーデにも馴染む（LIMO） Yahoo!ニュース",
-      "summary": "「映画の世界観をそのまま日常へ」ユニクロのちいかわスウェット3990円！さりげない刺繍で普段着コーデにも馴染む（LIMO） Yahoo!ニュース",
+      "title": "「相変わらずえぐい」映画『ちいかわ』第7弾入場者特典のカードに不穏な描写!?「気づいて震えてる」考察するファン続出 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80Z2FhVjRkTWZCNktJMVUwbVZPbUF6V1B2OGs3MmhqWm1qSmlfNDVkdDQybDNBdEo0NW1EeDdGZmtkSnJoRnd5WUFwS1ZDblZqQW9GXw?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "「相変わらずえぐい」映画『ちいかわ』第7弾入場者特典のカードに不穏な描写!?「気づいて震えてる」考察するファン続出 ABEMA TIMES",
+      "summary": "「相変わらずえぐい」映画『ちいかわ』第7弾入場者特典のカードに不穏な描写!?「気づいて震えてる」考察するファン続出 ABEMA TIMES",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-19T09:45:57+09:00",
-      "published_display": "2026-10-19 09:45 JST"
+      "published_at": "2026-10-19T20:59:00+09:00",
+      "published_display": "2026-10-19 20:59 JST"
     },
     {
-      "title": "『ちいかわ』のめじるしアクセサリー第3弾が再登場！クリアなレインコート姿のちいかわ、ハチワレ、うさぎ、モモンガ、古本屋の全5種類！ - 電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GMjkxYW9RRGpJY2Y1MmxGckNHNnJmcVFwWENUOHh0Ti1xWjV2OGpad0tBWExLdDJ6YUxaQmx4aFZ4NTAzeGRNNlkxc1FmQldN?oc=5",
-      "source": "電撃ホビーウェブ",
-      "snippet": "『ちいかわ』のめじるしアクセサリー第3弾が再登場！クリアなレインコート姿のちいかわ、ハチワレ、うさぎ、モモンガ、古本屋の全5種類！ 電撃ホビーウェブ",
-      "summary": "『ちいかわ』のめじるしアクセサリー第3弾が再登場！クリアなレインコート姿のちいかわ、ハチワレ、うさぎ、モモンガ、古本屋の全5種類！ 電撃ホビーウェブ",
+      "title": "羽田発の長崎便が初便「ちいかわジェットが就航開始」空港の展望デッキにファン400人《長崎》 - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTk4RE5mM3dpNnlaTTA5Y3VwQkpGQkRmRDRxOEtpRkQ2d0MzNEJROEI5cF9XdlBRNmFSOVIyOWo2NWtPM18yTzFTRk1pbE5RaWt1S1NiMmhQcmd2b2YyWHdheGVHX2NzMFNORTR1QmZmalJwU2xVLVl6dEVNRzVmTVBJQ3JYdUk?oc=5",
+      "source": "日テレNEWS NNN",
+      "snippet": "羽田発の長崎便が初便「ちいかわジェットが就航開始」空港の展望デッキにファン400人《長崎》 日テレNEWS NNN",
+      "summary": "羽田発の長崎便が初便「ちいかわジェットが就航開始」空港の展望デッキにファン400人《長崎》 日テレNEWS NNN",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-19T09:44:44+09:00",
-      "published_display": "2026-10-19 09:44 JST"
+      "published_at": "2026-10-19T20:50:00+09:00",
+      "published_display": "2026-10-19 20:50 JST"
     },
     {
-      "title": "ANAコラボ「ちいかわジェット」運航開始 機体に「ハチワレ」「うさぎ」など8種（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVF9BNHF0UHdOOVI0RkZ2S2l0SjRnN3Zpa1czby1pb05lSjBTNVlpRW5OeVl5RDhKSkJobDJzODMyLXg3d0JkV045RDJ0TlV3Rm9NNWlTa2NLQWdJYUpKMzBuX2ctZ1ROSE94NEpXWEtkNkI0d1Z6cV96Qkp5aWM?oc=5",
+      "title": "『映画ちいかわ』特典第7弾配布 興収181億円突破 - SmartNews",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQZjhXVzZQYnlZaHNIX1JvaWRSbnNQbmsyanZoZzRyTldmOGRiSFNHUU1Ub0RRdVdlbmdCSndCWXNRWnRQOWI4SzBWeUxMamlXaG5mOVZBdTdjZmZhbm9Ucy1xMF8zVlRCTGI0S2RGYTJHZkRtV2JyZlRfUmlfRDRZSWVqajNBOEhGTGQ3OVZJQjV3aG5pb0tLOG4ydWIxZm1pT2otXzlIVVllaFoyUkRXeVhId1g2ZUkxcFVUWGxyeHl1TkpEcjlhVXhEWEt6OS1wSEhpTDJmMGNqNnBVZ3JVaXZpM09LUlpmRHUxdThyU3pELWNFTHFJNUwwUFBKcmxpc0ZhZGVoWXBtWUJtT3hXMjd5YnN1b2ZHOWs0MEd0eTBaalliQmVxUXNiZU1CM2RLcFlhdHNMdzYzdkxIYXdIQWxsSDFPb2xfMmhnRnpqaklDUkZ3dDJubHAyUExvU0xUdnhwdQ?oc=5",
+      "source": "SmartNews",
+      "snippet": "『映画ちいかわ』特典第7弾配布 興収181億円突破 SmartNews",
+      "summary": "『映画ちいかわ』特典第7弾配布 興収181億円突破 SmartNews",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-19T20:48:00+09:00",
+      "published_display": "2026-10-19 20:48 JST"
+    },
+    {
+      "title": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪ - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hcldwT205VGtOMDJjOHVrVnp0UFFEdHVBYVF0Y1hJS0lPdEJRdklaMVdkcTZpYnN3SFRwTzBOcmlOZVlaMndvSHBkQXVRMVdNeGhua1VNMWZMQ0lsWEt4M09DQ1pQSUhnb2Q5N1FfekpLRHROV3FhMA?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪ ぴあエンタメ情報",
+      "summary": "【ちいかわベーカリー】2周年記念イベント開催！ 激かわグッズ販売、レア特典がもらえるチャンスも♪ ぴあエンタメ情報",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-19T20:15:20+09:00",
+      "published_display": "2026-10-19 20:15 JST"
+    },
+    {
+      "title": "ANA特別塗装機「ちいかわジェット」長崎空港へ初就航「ワクワクで満たされる世界を」 - NCC長崎文化放送",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13bm8zbzNuWWZZQklFYWU3TkVmRU94S1BrdXRTbjllSlB0U3NabU02Q1M0WWNJNzR0Y3R4aVAyR181LWJNWDJaN0VCZXlCcnZtY3pRZ3RnQXU?oc=5",
+      "source": "NCC長崎文化放送",
+      "snippet": "ANA特別塗装機「ちいかわジェット」長崎空港へ初就航「ワクワクで満たされる世界を」 NCC長崎文化放送",
+      "summary": "ANA特別塗装機「ちいかわジェット」長崎空港へ初就航「ワクワクで満たされる世界を」 NCC長崎文化放送",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-19T19:28:00+09:00",
+      "published_display": "2026-10-19 19:28 JST"
+    },
+    {
+      "title": "「ちいかわジェット」最初の到着地は長崎!海を越えて老若男女400人が駆け付けた長崎空港を取材 搭乗証明書の発行も! - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LUGktTjVwUmdGbkllbGFUUVZQQkZHdTJWSDVOZllDMjZheFlvQ1NHX2dobExWcXQ3X3JrZW01cDI2NHkwcDRDVXBEWnM4ck5SYnlpX3RrMktVSDlWZlNaUDh1bXhJX0o1djI1YWNFM3JYZjZZWTVrMXhhcjhkc3M?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ANAコラボ「ちいかわジェット」運航開始 機体に「ハチワレ」「うさぎ」など8種（テレビ朝日系（ANN）） Yahoo!ニュース",
-      "summary": "ANAコラボ「ちいかわジェット」運航開始 機体に「ハチワレ」「うさぎ」など8種（テレビ朝日系（ANN）） Yahoo!ニュース",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-19T09:28:23+09:00",
-      "published_display": "2026-10-19 09:28 JST"
-    },
-    {
-      "title": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？ - 乗りものニュース",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RUHBvZHJFd3VVZGhyTW1sa2hxTEhXenpwRFJXN1RITk9fd254SE5TbENoYnB5bmJ6T0V5b1Rvb1ptenU4ZFpxODYtMA?oc=5",
-      "source": "乗りものニュース",
-      "snippet": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？ 乗りものニュース",
-      "summary": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？ 乗りものニュース",
+      "snippet": "「ちいかわジェット」最初の到着地は長崎!海を越えて老若男女400人が駆け付けた長崎空港を取材 搭乗証明書の発行も! Yahoo!ニュース",
+      "summary": "「ちいかわジェット」最初の到着地は長崎!海を越えて老若男女400人が駆け付けた長崎空港を取材 搭乗証明書の発行も! Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-19T09:18:00+09:00",
-      "published_display": "2026-10-19 09:18 JST"
+      "published_at": "2026-10-19T19:12:17+09:00",
+      "published_display": "2026-10-19 19:12 JST"
     }
   ]
 }
