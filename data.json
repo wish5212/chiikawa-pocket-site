@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-23T11:18:48.020222+09:00",
-  "generated_at_jst": "2026-10-23 11:18 JST",
+  "generated_at": "2026-10-24T01:01:32.946337+09:00",
+  "generated_at_jst": "2026-10-24 01:01 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,160 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 4,
+      "count": 8,
       "icon": "🎀"
+    },
+    {
+      "key": "collab",
+      "label": "コラボ",
+      "count": 2,
+      "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 4,
+      "count": 1,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 1,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "映画「ちいかわ」興収でONE PIECE超えの勢い、アジアでも大ヒットの理由 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFlHZmdmbElRVUVkUGlNcThTZWZqRG9QUEhsWms5WXpfc0pzbjBEdTZjZ2xBbFVreURlRVlEZUVJZGIyNFNjVzVEQVp4TmRfVEoyUFl1ak9ubkc1Q0Q3ZzY4WFZVTkJ4SzRWeEtqbkdDWFBEUGdyQVRUX2s2MVpGcmRQX0xfb0JyU0JLTkJkUUJhTkk1TG1VaHNuT3ZRMHlpWGc1MzJKYV92Y2d0a1RZWHBCaTF1VG9zSlJQMGFZekF5bDluS1NRWnNXejJZa3hKZHhPNmJEcFN4OXdXdDVEOWk3N29TQdIBlgFBVV95cUxNQ3VtX1FXZzJnLTdXS1dFVEtfSkU0MDlTeUMtSDkySlA2ZnQ2dDREaENuX2wxSTI5a2p6a00wQ2pJTkR4c3JlR3JlNnBaaExVc3pkR1h1WmlBYkU3dHZZc3RuQXNndElKTkNIOTZRUUtYaWpzQ2QzS2RrUjRIZEh6RmlfQUREMHZ3cm5KT1Z0eXhtNHJ3YlE?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "映画「ちいかわ」興収でONE PIECE超えの勢い、アジアでも大ヒットの理由 ｄメニューニュース",
-      "summary": "映画「ちいかわ」興収でONE PIECE超えの勢い、アジアでも大ヒットの理由 ｄメニューニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-23T10:55:00+09:00",
-      "published_display": "2026-10-23 10:55 JST"
-    },
-    {
-      "title": "若者の流行ランキング『ちいかわ』が首位 「ドパガキ」は212位→15位に急上昇 - KAI-YOU",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LV1pNaF8yYWF0WHZWWHJ6LWZ1UW5aejZmUUJoaTdFdkVaRlhzWWRiNGVyYmJhMWlaclZtSzgtM2FLYVFTcGRGcg?oc=5",
-      "source": "KAI-YOU",
-      "snippet": "若者の流行ランキング『ちいかわ』が首位 「ドパガキ」は212位→15位に急上昇 KAI-YOU",
-      "summary": "若者の流行ランキング『ちいかわ』が首位 「ドパガキ」は212位→15位に急上昇 KAI-YOU",
+      "title": "ちいかわジェットで「持って帰ってしまった」 TKO木本の報告に「可愛い」「羨ましい」とネット反応 - ENCOUNT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHbDl0RUtTd2Y3Z05FX0ZULWxTUTF0QXpYZGctOEg4YklieEZ3dXpxVldFTXlOU2kxTmhhMjExOTI4RFFXTDh1eUNjN2tzNFpxT1dj?oc=5",
+      "source": "ENCOUNT",
+      "snippet": "ちいかわジェットで「持って帰ってしまった」 TKO木本の報告に「可愛い」「羨ましい」とネット反応 ENCOUNT",
+      "summary": "ちいかわジェットで「持って帰ってしまった」 TKO木本の報告に「可愛い」「羨ましい」とネット反応 ENCOUNT",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-23T10:52:00+09:00",
-      "published_display": "2026-10-23 10:52 JST"
+      "published_at": "2026-10-24T00:49:55+09:00",
+      "published_display": "2026-10-24 00:49 JST"
     },
     {
-      "title": "第41話～第43話第123話～第125話 「郎」編 - TVer",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GcWJhQXBVZHlaUG82UmhpZmJrMXQ1bUNleGd3SXZoQkNqMVduTF9VVWM3Y0VNYzVBSUpNTlV2Q1dZeE9sTHJDUHp2OA?oc=5",
-      "source": "TVer",
-      "snippet": "第41話～第43話第123話～第125話 「郎」編 TVer",
-      "summary": "第41話～第43話第123話～第125話 「郎」編 TVer",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-23T08:18:40+09:00",
-      "published_display": "2026-10-23 08:18 JST"
-    },
-    {
-      "title": "ちいかわ：“シーサーだらけ”のオンラインくじ お師匠とおそろいの鎧姿 名場面のマスコットも - まんたんウェブ",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52aVFnT1VUSVRKZGVvN3Ntc3B5SEt4Ym51N2Yxb2pIa00tcEJ4NnVmVUhTS0p1ZTFBUTBvaUsxM29IMmloRVBacER5WEZhbk14UzFkNDc3QmllYVBaNFdfLWN2OVFqWTFzelZv?oc=5",
-      "source": "まんたんウェブ",
-      "snippet": "ちいかわ：“シーサーだらけ”のオンラインくじ お師匠とおそろいの鎧姿 名場面のマスコットも まんたんウェブ",
-      "summary": "ちいかわ：“シーサーだらけ”のオンラインくじ お師匠とおそろいの鎧姿 名場面のマスコットも まんたんウェブ",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-23T08:05:54+09:00",
-      "published_display": "2026-10-23 08:05 JST"
-    },
-    {
-      "title": "頭のリボンがとってもキュート！『ちいかわ』から、ふわふわフロッキーマスコットがガシャポンに登場！ - 電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rSFJaUTNyMktyc3QyclZaSW9iSm9ZaDU0dTJJNHFYbEpkXzhheVJOa1c3Wll3RFk3Q0ozcEJ0eGZ1dVZKNTZvV3hDTlhvWUpD?oc=5",
-      "source": "電撃ホビーウェブ",
-      "snippet": "頭のリボンがとってもキュート！『ちいかわ』から、ふわふわフロッキーマスコットがガシャポンに登場！ 電撃ホビーウェブ",
-      "summary": "頭のリボンがとってもキュート！『ちいかわ』から、ふわふわフロッキーマスコットがガシャポンに登場！ 電撃ホビーウェブ",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-23T08:00:00+09:00",
-      "published_display": "2026-10-23 08:00 JST"
-    },
-    {
-      "title": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CU3lnMXRUQmJzRE8xT3pucFBYOVljekZNQWJMQlNYdjYxczhmMFM3ajd1OEppb0FrYzNiOWNrakRLUlNveF8xM1RFTGJiVTB3dkt4TTJZNHphekQyT1Z3dloxZENDNnM5cjZBVkkySHRCSW1mNUE?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 ｄメニューニュース",
-      "summary": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 ｄメニューニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-23T07:26:20+09:00",
-      "published_display": "2026-10-23 07:26 JST"
-    },
-    {
-      "title": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGb1BFUkxFZ1UxUzE2d1gzbXpyb3hUMUZGYjBPLUNRcVBhNU5SYXh6eVlGM000aF8xVE5xS3lSSHd0Z05lMGhSZ2VsbXptSkxVcjlfc3BFU2xxdXhXZWh3UlFMSGlVdjJ4Z0hBQzdzWnpKUlZVS3ZQSlFHdk9QUkU?oc=5",
+      "title": "『ちいかわぽけっと』公式グッズ第4弾が発売！お弁当の具やお店屋さん衣装Tシャツ、トートバッグなど豊富なデザイン - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtR1hKWUdaQ3Z1bDR0UmdkaHVJWnBLTm43MHlLSXlVamdmcmdRWHNsR3VVLXJjU2NPWWd3a1FaUUtOU3c5Q2M0dXluWG1rQ3dxVDhsbDB2RjVSUlptblBkWkY1QThWWFJ6S1JXd3hOY3JFYkpmbXRUNTFaUy1MRVk?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 Yahoo!ニュース",
-      "summary": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-23T07:23:46+09:00",
-      "published_display": "2026-10-23 07:23 JST"
-    },
-    {
-      "title": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 - 東京バーゲンマニア",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RNDZpVzkwNlJNSERyTVI5eThadnZkY0NFcDVSci1fY0pOaHF2R2xJLVZxZjBNSlpWako5ZEpfeDByU3B3TXJVRW5YVFpDeDN0a0VF?oc=5",
-      "source": "東京バーゲンマニア",
-      "snippet": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 東京バーゲンマニア",
-      "summary": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 東京バーゲンマニア",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-23T07:16:00+09:00",
-      "published_display": "2026-10-23 07:16 JST"
-    },
-    {
-      "title": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に - eeo",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xOWZCUXgyYlk3eTVLM1NXRkRnWWFRNkFGeG1mdzNWLVBhWEY1UWxYejhDUWpsZVdGVlhxS1BabEZzWk13cnlSVWZnaEQyS3BMXzhBSA?oc=5",
-      "source": "eeo",
-      "snippet": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に eeo",
-      "summary": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に eeo",
+      "snippet": "『ちいかわぽけっと』公式グッズ第4弾が発売！お弁当の具やお店屋さん衣装Tシャツ、トートバッグなど豊富なデザイン Yahoo!ニュース",
+      "summary": "『ちいかわぽけっと』公式グッズ第4弾が発売！お弁当の具やお店屋さん衣装Tシャツ、トートバッグなど豊富なデザイン Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-23T07:15:56+09:00",
-      "published_display": "2026-10-23 07:15 JST"
+      "published_at": "2026-10-24T00:10:03+09:00",
+      "published_display": "2026-10-24 00:10 JST"
     },
     {
-      "title": "10月23日(金)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uR3pQaGM1YXBSWnk5aDNMTWc0aHhzOFJPZFhYYVVlYzE5OGtiYW1aS2xiQUhGa2tydWV4cS0zSjYzUjN6NWNralUtUkF5OHlmUkRj?oc=5",
-      "source": "めざましmedia",
-      "snippet": "10月23日(金)の「ちいかわ占い」 めざましmedia",
-      "summary": "10月23日(金)の「ちいかわ占い」 めざましmedia",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-23T07:00:00+09:00",
-      "published_display": "2026-10-23 07:00 JST"
-    },
-    {
-      "title": "【ちいかわ】かわいいシーサーの超BIGぬいぐるみやマスコットはファン必見！ 「ちいかわ シーサーだらけくじ」が発売決定 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LUTBDYVl5cXQxellsRzE4cF9OaGlBQllseWx1c3h2RFFQbkFqeUhVMlJpcllIMjFPX3huRVBVMm1IUnRRNng3bFZwdjdlUQ?oc=5",
+      "title": "【ちいかわ】イケボの「ニンニクいれますか？」にも注目!? アニメ『ちいかわ』第42話「ニンニクカラメ！」はちいかわ＆ハチワレの練習の成果にも注目 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vRGtaZWxiNzFFNnhibFNWLThCa1VJcE1IRHdYel93OUpSTWFzbnFjRVRKRFNtU0xQaU1hOHAxaWs5SXhILWxteGhJamVzUQ?oc=5",
       "source": "PASH! PLUS",
-      "snippet": "【ちいかわ】かわいいシーサーの超BIGぬいぐるみやマスコットはファン必見！ 「ちいかわ シーサーだらけくじ」が発売決定 PASH! PLUS",
-      "summary": "【ちいかわ】かわいいシーサーの超BIGぬいぐるみやマスコットはファン必見！ 「ちいかわ シーサーだらけくじ」が発売決定 PASH! PLUS",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-23T06:41:17+09:00",
-      "published_display": "2026-10-23 06:41 JST"
+      "snippet": "【ちいかわ】イケボの「ニンニクいれますか？」にも注目!? アニメ『ちいかわ』第42話「ニンニクカラメ！」はちいかわ＆ハチワレの練習の成果にも注目 PASH! PLUS",
+      "summary": "【ちいかわ】イケボの「ニンニクいれますか？」にも注目!? アニメ『ちいかわ』第42話「ニンニクカラメ！」はちいかわ＆ハチワレの練習の成果にも注目 PASH! PLUS",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-23T20:45:06+09:00",
+      "published_display": "2026-10-23 20:45 JST"
     },
     {
-      "title": "101歳祖母を孫が「ちいかわ」に チェンソーで作った「さすまた」を振りかざす姿に「協力してくれるおばあちゃん最高」「いいなー欲しい」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NUlxM3h5NTgwUDNHc3hVeTFJeGNmVGZRQmVPT1VXOGI5UWNIUGNNWXJadVBPQ01zeE1GSG5RekxjNWJaQl9IakxQb2xnYXpKNWhoNGNQV2QwcEFaclRZVTgwM3VEY19MRkE2SlllUER4cVluWUtjeElQQmJGZHc?oc=5",
+      "title": "「ボンボンドロップシール」ちいかわの新作が公式通販で10月26日11時発売！待望の「ミニ」デザイン全8種 (インサイド) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa181cU5CQlZSU3FoRVJfeEJlMlozT0FDNEp5YXEyYllvMUFVS3BTWmthUF9LclFhZmk1d2xOcDJsT2FxaGFCY2J0UUNra0VKRGticVJSaHJKTmQ2b2p0LUZySFVRZml1VUF3NWx1dDQ1Y0QzUjVuMFFMUHhpUXFtdWx3Y1p4VkZWQ3J2b3lR?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "101歳祖母を孫が「ちいかわ」に チェンソーで作った「さすまた」を振りかざす姿に「協力してくれるおばあちゃん最高」「いいなー欲しい」 Yahoo!ニュース",
-      "summary": "101歳祖母を孫が「ちいかわ」に チェンソーで作った「さすまた」を振りかざす姿に「協力してくれるおばあちゃん最高」「いいなー欲しい」 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-23T06:40:12+09:00",
-      "published_display": "2026-10-23 06:40 JST"
+      "snippet": "「ボンボンドロップシール」ちいかわの新作が公式通販で10月26日11時発売！待望の「ミニ」デザイン全8種 (インサイド) Yahoo!ニュース",
+      "summary": "「ボンボンドロップシール」ちいかわの新作が公式通販で10月26日11時発売！待望の「ミニ」デザイン全8種 (インサイド) Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T19:18:22+09:00",
+      "published_display": "2026-10-23 19:18 JST"
+    },
+    {
+      "title": "ちいかわパークの人気グッズが大阪で買える！ルクア サウス「ちいかわパークストア」 - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZFhFa25uSjJuOERrQ1VSWjRkem9HZzFNVTFSVTVKaVNobTVjTWx2SDktNEN4VmltSXRJS3cweDV3RG9pYXFMbVQtWjBNRlJGX1E?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわパークの人気グッズが大阪で買える！ルクア サウス「ちいかわパークストア」 いこーよニュース",
+      "summary": "ちいかわパークの人気グッズが大阪で買える！ルクア サウス「ちいかわパークストア」 いこーよニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T19:10:18+09:00",
+      "published_display": "2026-10-23 19:10 JST"
+    },
+    {
+      "title": "女性韓国人YouTuber、『ちいかわ』グッズ探しに都内を奔走 満喫する姿に反響「楽しそう」（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbzU2SExDVkxLRXlTUnJNSG5iLWxOYVBiNlJUWHFYb09YSm5uZEhINnBLa1hzUE9qX2RKVHlVVmR3b20ycEZfb3libDc4ellENlZYLXdQR3RPbXJVTEY4a3BBVTB0RVZ6LUlWZGxXT1llN1Z3RjJxMVR1RG1SSW8?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "女性韓国人YouTuber、『ちいかわ』グッズ探しに都内を奔走 満喫する姿に反響「楽しそう」（リアルサウンド） Yahoo!ニュース",
+      "summary": "女性韓国人YouTuber、『ちいかわ』グッズ探しに都内を奔走 満喫する姿に反響「楽しそう」（リアルサウンド） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T19:02:35+09:00",
+      "published_display": "2026-10-23 19:02 JST"
+    },
+    {
+      "title": "「ボンボンドロップシール」ちいかわの新作が公式通販で10月26日11時発売！待望の「ミニ」デザイン全8種 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDS2R6NGVUdkkwMUlMbl9GOFdmVUFJdDRXU2txU21iR1lteHduNzZaTi1ZZ0NXOVA2MGM4VmNmSnhrTjRYemxCUEFXYlUtc0VnZ29iRW1UaVM3cFpMMGREd0NSZUFOcGwzQ1E?oc=5",
+      "source": "インサイド",
+      "snippet": "「ボンボンドロップシール」ちいかわの新作が公式通販で10月26日11時発売！待望の「ミニ」デザイン全8種 インサイド",
+      "summary": "「ボンボンドロップシール」ちいかわの新作が公式通販で10月26日11時発売！待望の「ミニ」デザイン全8種 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T19:00:03+09:00",
+      "published_display": "2026-10-23 19:00 JST"
+    },
+    {
+      "title": "ちいかわパークのグッズが大阪で買える♪「ちいかわパークストア」がオープン - 推し楽",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzLXB1bkMySThvd3JiMTREaGxNYVJkQ1NJX2dQQnZaZ1MzLXUyc3Bpc2tEbFBfdlZ4SFo3SF9OVUVhTndTMmVCekFETzBxOFRocnNDblg3YktXUTZmb1BnWm5obUlmWG5sX0hyVzRtOFZ6ZG8?oc=5",
+      "source": "推し楽",
+      "snippet": "ちいかわパークのグッズが大阪で買える♪「ちいかわパークストア」がオープン 推し楽",
+      "summary": "ちいかわパークのグッズが大阪で買える♪「ちいかわパークストア」がオープン 推し楽",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T18:46:28+09:00",
+      "published_display": "2026-10-23 18:46 JST"
+    },
+    {
+      "title": "ANAの制服を着た〝ちいかわ〟たちが大集合！「ちいかわ×ANA」のコラボグッズが登場 - @DIME アットダイム",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIVl9mTWVNZTVxZ2F6dG1lVEc3M1duUy1Qc2h6V05Nd0IzNmE3OFh0NGNDYmVGdERfdUpSeF93ZFFEeVRU?oc=5",
+      "source": "@DIME アットダイム",
+      "snippet": "ANAの制服を着た〝ちいかわ〟たちが大集合！「ちいかわ×ANA」のコラボグッズが登場 @DIME アットダイム",
+      "summary": "ANAの制服を着た〝ちいかわ〟たちが大集合！「ちいかわ×ANA」のコラボグッズが登場 @DIME アットダイム",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T18:31:41+09:00",
+      "published_display": "2026-10-23 18:31 JST"
+    },
+    {
+      "title": "“ちいかわ疲れ”の訴え続々…「さすがにひどい」待機列は8万人超！ANAコラボへの怒りと悲しみ（週刊女性PRIME） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNek5BWEI5WFVvelAyTWpVWFY4MjhrWE1JSXFXTnJnYkRpcVViWEdrZ2pFd1piRDJJZk9TSmI0X0IzQVVQOFpnRDZnX1RYZkY4aVVubTJfc3R6dmRWUGJjckJmSHpKUlp0aFhRd0VTWnVKZFI1NWlzekZWU2dvQTdLM2JZakVzeE94?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "“ちいかわ疲れ”の訴え続々…「さすがにひどい」待機列は8万人超！ANAコラボへの怒りと悲しみ（週刊女性PRIME） Yahoo!ニュース",
+      "summary": "“ちいかわ疲れ”の訴え続々…「さすがにひどい」待機列は8万人超！ANAコラボへの怒りと悲しみ（週刊女性PRIME） Yahoo!ニュース",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-23T18:30:35+09:00",
+      "published_display": "2026-10-23 18:30 JST"
+    },
+    {
+      "title": "《ANA×ちいかわコラボ》待機列が8万人超えで「さすがに酷すぎませんか？」ファンから怒りの声、顕著になる『ちいかわ戦争』に疲れ - 週刊女性PRIME",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43NkFNYk02U1VjZEtlTGJrU084QnBZM3BmYWkyR0RzdVo3OUFuZm9pMDNmQjk5RkFid3EtbWZ4TXZEY0JscUhjbG44ZWlsZ3MzLVkxMWlZb1BoWWht?oc=5",
+      "source": "週刊女性PRIME",
+      "snippet": "《ANA×ちいかわコラボ》待機列が8万人超えで「さすがに酷すぎませんか？」ファンから怒りの声、顕著になる『ちいかわ戦争』に疲れ 週刊女性PRIME",
+      "summary": "《ANA×ちいかわコラボ》待機列が8万人超えで「さすがに酷すぎませんか？」ファンから怒りの声、顕著になる『ちいかわ戦争』に疲れ 週刊女性PRIME",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-23T18:30:00+09:00",
+      "published_display": "2026-10-23 18:30 JST"
+    },
+    {
+      "title": "『ちいかわ』100円玉・500円玉が入る「コインシリンダー」が10月下旬より順次発売予定！漫画のコマやセリフをデザインした全5種 - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TLUpxXzRQSzFLOFlFQVh4SWNMd19YLVVDZ2FSZ3MtRFJHQUluM3lYR0h1RC1YcloxMEVSRlo4NS0zREhqbmFpREJsWVNVUy0tbkpuNzRzVQ?oc=5",
+      "source": "にじめん",
+      "snippet": "『ちいかわ』100円玉・500円玉が入る「コインシリンダー」が10月下旬より順次発売予定！漫画のコマやセリフをデザインした全5種 にじめん",
+      "summary": "『ちいかわ』100円玉・500円玉が入る「コインシリンダー」が10月下旬より順次発売予定！漫画のコマやセリフをデザインした全5種 にじめん",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T18:27:00+09:00",
+      "published_display": "2026-10-23 18:27 JST"
     }
   ]
 }
