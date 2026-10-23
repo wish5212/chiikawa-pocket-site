@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-23T01:11:59.534286+09:00",
-  "generated_at_jst": "2026-10-23 01:11 JST",
+  "generated_at": "2026-10-23T11:18:48.020222+09:00",
+  "generated_at_jst": "2026-10-23 11:18 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,71 +14,132 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 11,
+      "count": 4,
       "icon": "🎀"
+    },
+    {
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 4,
+      "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 1,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "【ちいかわ】『シーサーだらけくじ』全ラインナップ公開。抱きしめたい約50cm超BIGぬいぐるみやラーメンポシェットなどシーサーファン必見！ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGUUZvYlZiVW96OUlEOWNVVndqUmFWeV8yZXlJTmdjMG9Lb3Y1dGtDekxNclcxcHI1UzNZQnY4NXp2UVJyQ1dXSlJIQ0xnVHFFOXJBcXdtNA?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわ】『シーサーだらけくじ』全ラインナップ公開。抱きしめたい約50cm超BIGぬいぐるみやラーメンポシェットなどシーサーファン必見！ 電撃オンライン",
-      "summary": "【ちいかわ】『シーサーだらけくじ』全ラインナップ公開。抱きしめたい約50cm超BIGぬいぐるみやラーメンポシェットなどシーサーファン必見！ 電撃オンライン",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T22:20:00+09:00",
-      "published_display": "2026-10-22 22:20 JST"
+      "title": "映画「ちいかわ」興収でONE PIECE超えの勢い、アジアでも大ヒットの理由 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFlHZmdmbElRVUVkUGlNcThTZWZqRG9QUEhsWms5WXpfc0pzbjBEdTZjZ2xBbFVreURlRVlEZUVJZGIyNFNjVzVEQVp4TmRfVEoyUFl1ak9ubkc1Q0Q3ZzY4WFZVTkJ4SzRWeEtqbkdDWFBEUGdyQVRUX2s2MVpGcmRQX0xfb0JyU0JLTkJkUUJhTkk1TG1VaHNuT3ZRMHlpWGc1MzJKYV92Y2d0a1RZWHBCaTF1VG9zSlJQMGFZekF5bDluS1NRWnNXejJZa3hKZHhPNmJEcFN4OXdXdDVEOWk3N29TQdIBlgFBVV95cUxNQ3VtX1FXZzJnLTdXS1dFVEtfSkU0MDlTeUMtSDkySlA2ZnQ2dDREaENuX2wxSTI5a2p6a00wQ2pJTkR4c3JlR3JlNnBaaExVc3pkR1h1WmlBYkU3dHZZc3RuQXNndElKTkNIOTZRUUtYaWpzQ2QzS2RrUjRIZEh6RmlfQUREMHZ3cm5KT1Z0eXhtNHJ3YlE?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "映画「ちいかわ」興収でONE PIECE超えの勢い、アジアでも大ヒットの理由 ｄメニューニュース",
+      "summary": "映画「ちいかわ」興収でONE PIECE超えの勢い、アジアでも大ヒットの理由 ｄメニューニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-23T10:55:00+09:00",
+      "published_display": "2026-10-23 10:55 JST"
     },
     {
-      "title": "【ちいかわ】シーサーだらけのオンラインくじ10月28日より発売！（アニメージュプラス） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRy1xZjRESGdsMXdIZ0Ixc1V2MDFqQmd1RmdCbkd6NFR6WUhzenBuakNpdW50MV9jczl1Qkk3X0lPMzU1Zm5oTGtyWElrS05QNlNaV2sxdTVpRFZlZmxkQlZrX0cxX1BablV5Nm9YckxJNFZYZ2RUX0FfeWZBRm8?oc=5",
+      "title": "若者の流行ランキング『ちいかわ』が首位 「ドパガキ」は212位→15位に急上昇 - KAI-YOU",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LV1pNaF8yYWF0WHZWWHJ6LWZ1UW5aejZmUUJoaTdFdkVaRlhzWWRiNGVyYmJhMWlaclZtSzgtM2FLYVFTcGRGcg?oc=5",
+      "source": "KAI-YOU",
+      "snippet": "若者の流行ランキング『ちいかわ』が首位 「ドパガキ」は212位→15位に急上昇 KAI-YOU",
+      "summary": "若者の流行ランキング『ちいかわ』が首位 「ドパガキ」は212位→15位に急上昇 KAI-YOU",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-23T10:52:00+09:00",
+      "published_display": "2026-10-23 10:52 JST"
+    },
+    {
+      "title": "第41話～第43話第123話～第125話 「郎」編 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GcWJhQXBVZHlaUG82UmhpZmJrMXQ1bUNleGd3SXZoQkNqMVduTF9VVWM3Y0VNYzVBSUpNTlV2Q1dZeE9sTHJDUHp2OA?oc=5",
+      "source": "TVer",
+      "snippet": "第41話～第43話第123話～第125話 「郎」編 TVer",
+      "summary": "第41話～第43話第123話～第125話 「郎」編 TVer",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-23T08:18:40+09:00",
+      "published_display": "2026-10-23 08:18 JST"
+    },
+    {
+      "title": "ちいかわ：“シーサーだらけ”のオンラインくじ お師匠とおそろいの鎧姿 名場面のマスコットも - まんたんウェブ",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52aVFnT1VUSVRKZGVvN3Ntc3B5SEt4Ym51N2Yxb2pIa00tcEJ4NnVmVUhTS0p1ZTFBUTBvaUsxM29IMmloRVBacER5WEZhbk14UzFkNDc3QmllYVBaNFdfLWN2OVFqWTFzelZv?oc=5",
+      "source": "まんたんウェブ",
+      "snippet": "ちいかわ：“シーサーだらけ”のオンラインくじ お師匠とおそろいの鎧姿 名場面のマスコットも まんたんウェブ",
+      "summary": "ちいかわ：“シーサーだらけ”のオンラインくじ お師匠とおそろいの鎧姿 名場面のマスコットも まんたんウェブ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T08:05:54+09:00",
+      "published_display": "2026-10-23 08:05 JST"
+    },
+    {
+      "title": "頭のリボンがとってもキュート！『ちいかわ』から、ふわふわフロッキーマスコットがガシャポンに登場！ - 電撃ホビーウェブ",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rSFJaUTNyMktyc3QyclZaSW9iSm9ZaDU0dTJJNHFYbEpkXzhheVJOa1c3Wll3RFk3Q0ozcEJ0eGZ1dVZKNTZvV3hDTlhvWUpD?oc=5",
+      "source": "電撃ホビーウェブ",
+      "snippet": "頭のリボンがとってもキュート！『ちいかわ』から、ふわふわフロッキーマスコットがガシャポンに登場！ 電撃ホビーウェブ",
+      "summary": "頭のリボンがとってもキュート！『ちいかわ』から、ふわふわフロッキーマスコットがガシャポンに登場！ 電撃ホビーウェブ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-23T08:00:00+09:00",
+      "published_display": "2026-10-23 08:00 JST"
+    },
+    {
+      "title": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CU3lnMXRUQmJzRE8xT3pucFBYOVljekZNQWJMQlNYdjYxczhmMFM3ajd1OEppb0FrYzNiOWNrakRLUlNveF8xM1RFTGJiVTB3dkt4TTJZNHphekQyT1Z3dloxZENDNnM5cjZBVkkySHRCSW1mNUE?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 ｄメニューニュース",
+      "summary": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 ｄメニューニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-23T07:26:20+09:00",
+      "published_display": "2026-10-23 07:26 JST"
+    },
+    {
+      "title": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGb1BFUkxFZ1UxUzE2d1gzbXpyb3hUMUZGYjBPLUNRcVBhNU5SYXh6eVlGM000aF8xVE5xS3lSSHd0Z05lMGhSZ2VsbXptSkxVcjlfc3BFU2xxdXhXZWh3UlFMSGlVdjJ4Z0hBQzdzWnpKUlZVS3ZQSlFHdk9QUkU?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【ちいかわ】シーサーだらけのオンラインくじ10月28日より発売！（アニメージュプラス） Yahoo!ニュース",
-      "summary": "【ちいかわ】シーサーだらけのオンラインくじ10月28日より発売！（アニメージュプラス） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T21:00:00+09:00",
-      "published_display": "2026-10-22 21:00 JST"
+      "snippet": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 Yahoo!ニュース",
+      "summary": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-23T07:23:46+09:00",
+      "published_display": "2026-10-23 07:23 JST"
     },
     {
-      "title": "「ちいかわ」新商品が10月23日“10時”発売！ANAコラボ以外にも「うさぎだらけフィギュア」や「すくいやすいカレー皿」などバラエティ豊か（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HV1p4TXhsZS14cW9JVlVuZjEtV0VxSG1xam01OGdoSkdfTDE3UlA5ckNfY3pxbUFHWjlQazNBam10NFdJOXY4RkdsNFZQYkJOTmZTTWtqMVRkLTZ0ZWRuX1ZJeEcyNzlaWjFCbXljQkk5VkRYVExOM0wxWWhmajQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」新商品が10月23日“10時”発売！ANAコラボ以外にも「うさぎだらけフィギュア」や「すくいやすいカレー皿」などバラエティ豊か（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」新商品が10月23日“10時”発売！ANAコラボ以外にも「うさぎだらけフィギュア」や「すくいやすいカレー皿」などバラエティ豊か（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T20:45:03+09:00",
-      "published_display": "2026-10-22 20:45 JST"
+      "title": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 - 東京バーゲンマニア",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RNDZpVzkwNlJNSERyTVI5eThadnZkY0NFcDVSci1fY0pOaHF2R2xJLVZxZjBNSlpWako5ZEpfeDByU3B3TXJVRW5YVFpDeDN0a0VF?oc=5",
+      "source": "東京バーゲンマニア",
+      "snippet": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 東京バーゲンマニア",
+      "summary": "『映画ちいかわ』入場特典第7弾は、ナガノ氏描き下ろし。「またかわいいやつ来ちゃった」など喜びの悲鳴止まらず。 東京バーゲンマニア",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-23T07:16:00+09:00",
+      "published_display": "2026-10-23 07:16 JST"
     },
     {
-      "title": "「ちいかわ」新商品が10月23日“10時”発売！ANAコラボ以外にも「うさぎだらけフィギュア」や「すくいやすいカレー皿」などバラエティ豊か 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSkFDRlEwR3EwcThvVTJZV2FydjA5ZVNKWHpJOVdlWnAwU0kwSWxTcFp1TzFsc19jbEFFZFhQTGxJb3F0cl9zSHB3WDV4aEhGQ1ZYc2U3WkhQSDdJRWxaR1NkcHdZbUdlX0JObktETHQ1V3Z1YUs0?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」新商品が10月23日“10時”発売！ANAコラボ以外にも「うさぎだらけフィギュア」や「すくいやすいカレー皿」などバラエティ豊か 2枚目の写真・画像 インサイド",
-      "summary": "「ちいかわ」新商品が10月23日“10時”発売！ANAコラボ以外にも「うさぎだらけフィギュア」や「すくいやすいカレー皿」などバラエティ豊か 2枚目の写真・画像 インサイド",
+      "title": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に - eeo",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xOWZCUXgyYlk3eTVLM1NXRkRnWWFRNkFGeG1mdzNWLVBhWEY1UWxYejhDUWpsZVdGVlhxS1BabEZzWk13cnlSVWZnaEQyS3BMXzhBSA?oc=5",
+      "source": "eeo",
+      "snippet": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に eeo",
+      "summary": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に eeo",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-22T20:45:03+09:00",
-      "published_display": "2026-10-22 20:45 JST"
+      "published_at": "2026-10-23T07:15:56+09:00",
+      "published_display": "2026-10-23 07:15 JST"
     },
     {
-      "title": "「ちいかわ」オンラインくじにシーサー大集結 超BIGぬいぐるみやフェイスクッションなど全12種 - Real Sound｜リアルサウンド",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEcHl2akctZlFMNkRvaTNoY3RaUTR2WDh3ck1ObXJHeE5raHRDQkE1cEtPY25UMFh4cDRXV0ZhT25OT2RrNXhtZ3NaZ3dHV1RKeXJ6Nm1IdXNRNmZzRy0tNtIBZkFVX3lxTE1qYnp5dHE0Z0kxNWlfekpDZlI2QWdnU2hpVDc4NGN5Nmw4Yng1YmI0TzBEVm1aRW1DV2ZfRlFfUGJEdHJLbm9HZ1F1THJheDJPR3E2Tk9mUVFzS1E5TW1ESF9Rek5UQQ?oc=5",
-      "source": "Real Sound｜リアルサウンド",
-      "snippet": "「ちいかわ」オンラインくじにシーサー大集結 超BIGぬいぐるみやフェイスクッションなど全12種 Real Sound｜リアルサウンド",
-      "summary": "「ちいかわ」オンラインくじにシーサー大集結 超BIGぬいぐるみやフェイスクッションなど全12種 Real Sound｜リアルサウンド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T20:06:28+09:00",
-      "published_display": "2026-10-22 20:06 JST"
+      "title": "10月23日(金)の「ちいかわ占い」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uR3pQaGM1YXBSWnk5aDNMTWc0aHhzOFJPZFhYYVVlYzE5OGtiYW1aS2xiQUhGa2tydWV4cS0zSjYzUjN6NWNralUtUkF5OHlmUkRj?oc=5",
+      "source": "めざましmedia",
+      "snippet": "10月23日(金)の「ちいかわ占い」 めざましmedia",
+      "summary": "10月23日(金)の「ちいかわ占い」 めざましmedia",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-23T07:00:00+09:00",
+      "published_display": "2026-10-23 07:00 JST"
     },
     {
       "title": "【ちいかわ】かわいいシーサーの超BIGぬいぐるみやマスコットはファン必見！ 「ちいかわ シーサーだらけくじ」が発売決定 - PASH! PLUS",
@@ -88,74 +149,19 @@
       "summary": "【ちいかわ】かわいいシーサーの超BIGぬいぐるみやマスコットはファン必見！ 「ちいかわ シーサーだらけくじ」が発売決定 PASH! PLUS",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-22T19:27:12+09:00",
-      "published_display": "2026-10-22 19:27 JST"
+      "published_at": "2026-10-23T06:41:17+09:00",
+      "published_display": "2026-10-23 06:41 JST"
     },
     {
-      "title": "“こんなのレアで～す”「ちいかわ」シーサーだらけのオンラインくじ!? SNSで話題沸騰中の注目アイテムが登場！ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tSDM1S25sY0NLVnhIREUyRjM0Qk5vaWJWWUZkSUl1RHg3VElva1dKeEZkbHlSb0RxQW1oY0FxSHpwbGJIUTc3Tk01OGtBS0xLdlF6MHlWUGN6cU40NTJaT1dUaXRVcFRWOXpsYUhselZia3g2dVpPS2d6Qkd2Wlk?oc=5",
+      "title": "101歳祖母を孫が「ちいかわ」に チェンソーで作った「さすまた」を振りかざす姿に「協力してくれるおばあちゃん最高」「いいなー欲しい」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NUlxM3h5NTgwUDNHc3hVeTFJeGNmVGZRQmVPT1VXOGI5UWNIUGNNWXJadVBPQ01zeE1GSG5RekxjNWJaQl9IakxQb2xnYXpKNWhoNGNQV2QwcEFaclRZVTgwM3VEY19MRkE2SlllUER4cVluWUtjeElQQmJGZHc?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "“こんなのレアで～す”「ちいかわ」シーサーだらけのオンラインくじ!? SNSで話題沸騰中の注目アイテムが登場！ Yahoo!ニュース",
-      "summary": "“こんなのレアで～す”「ちいかわ」シーサーだらけのオンラインくじ!? SNSで話題沸騰中の注目アイテムが登場！ Yahoo!ニュース",
+      "snippet": "101歳祖母を孫が「ちいかわ」に チェンソーで作った「さすまた」を振りかざす姿に「協力してくれるおばあちゃん最高」「いいなー欲しい」 Yahoo!ニュース",
+      "summary": "101歳祖母を孫が「ちいかわ」に チェンソーで作った「さすまた」を振りかざす姿に「協力してくれるおばあちゃん最高」「いいなー欲しい」 Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-22T19:15:03+09:00",
-      "published_display": "2026-10-22 19:15 JST"
-    },
-    {
-      "title": "ANA、「ちいかわ」コラボグッズ第1弾の販売制限を延長 - TRAICY（トライシー）",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50RE13eDZsX0FBT2JYRy1kb3RCWW9jQS1HWmFqbklNSm9pZ3FKdnpvXy1idUc3R3BPLWZDT3VQUVFueEdyc3o2QjZfRi00TlhZTkNRSmhhZw?oc=5",
-      "source": "TRAICY（トライシー）",
-      "snippet": "ANA、「ちいかわ」コラボグッズ第1弾の販売制限を延長 TRAICY（トライシー）",
-      "summary": "ANA、「ちいかわ」コラボグッズ第1弾の販売制限を延長 TRAICY（トライシー）",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T17:04:44+09:00",
-      "published_display": "2026-10-22 17:04 JST"
-    },
-    {
-      "title": "「ちいかわ シーサーだらけくじ」の全ラインナップ公開！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmWHpiUHY1VHY5Z2pkODlTanlMUWNPSjBEWkt5VTFfd1R3QWYzOUtfRWp4ekw1X3NXRU42WVRHSGVoWTBHWm9CcTZ5SXg4NVNINkd4dUZZTTJOVnIzV0lxX25wcy1PdjNNaGw0Wkd4OXg4c3dZRnJMZG5LNUZoUUE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ シーサーだらけくじ」の全ラインナップ公開！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも Yahoo!ニュース 「ちいかわ シーサーだらけくじ」、10月28日11時より販売 超BIGぬいぐるみやマスコットなど。10連特典は着せ替えシール GAME Watch 「ちいかわ」シーサーだらけくじ、鎧姿のぬいぐるみや郎のロゴ入りどんぶりポシェットなど ナタリー",
-      "summary": "「ちいかわ シーサーだらけくじ」の全ラインナップ公開！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも Yahoo!ニュース 「ちいかわ シーサーだらけくじ」、10月28…",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T16:45:03+09:00",
-      "published_display": "2026-10-22 16:45 JST"
-    },
-    {
-      "title": "「ちいかわ シーサーだらけくじ」の全ラインナップ公開！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04NjBOQ3ZsSXA3aF9VWkkwdjBNMXpLMzVoa1V5RjluQW9TNWI3WVNYbWZkaFBOWXlrX19INHN0dUx2Qk9MUGc1Q1ZsOGQ0eFdOaHd2MGpjdGIwcVJHLWdUaXZ6TnRPM0RaMFl0NFRMb2doOWUwUmtHNHRB?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ シーサーだらけくじ」の全ラインナップ公開！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも 2枚目の写真・画像 インサイド",
-      "summary": "「ちいかわ シーサーだらけくじ」の全ラインナップ公開！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも 2枚目の写真・画像 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T16:45:03+09:00",
-      "published_display": "2026-10-22 16:45 JST"
-    },
-    {
-      "title": "【ちいかわ】「シーサーだらけくじ」 ぽってりボディー「超BIGぬいぐるみ」、「スイッスイッ」「くやシーサー」のぬいぐるみも - オトナンサー",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfRjBBckYxTVlud0xmZkJPRnA2WmVianZMWG5Oamlldy11M0tVcFJLSi1yX2tOU0t6UHlBYTVqbEtNSmdzckVxcHdB?oc=5",
-      "source": "オトナンサー",
-      "snippet": "【ちいかわ】「シーサーだらけくじ」 ぽってりボディー「超BIGぬいぐるみ」、「スイッスイッ」「くやシーサー」のぬいぐるみも オトナンサー",
-      "summary": "【ちいかわ】「シーサーだらけくじ」 ぽってりボディー「超BIGぬいぐるみ」、「スイッスイッ」「くやシーサー」のぬいぐるみも オトナンサー",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T16:30:55+09:00",
-      "published_display": "2026-10-22 16:30 JST"
-    },
-    {
-      "title": "ANA、「ちいかわ」コラボグッズ購入制限を延長。26日以降も「1種類につき1人2点、Box商品は1点まで」 - トラベル Watch",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RODJmWXFpNGpoZWo1SzV0VDh1b0xBZGVXUENkRXdGT3hJdVdpR0owbVpQbWJPNHJKVlBidkdIRnZ0Z0Z4c1laaGZRYUs5NEpjLXpqZEFVLU9pNHpLd3NXaU9Ga3pQR2NZ?oc=5",
-      "source": "トラベル Watch",
-      "snippet": "ANA、「ちいかわ」コラボグッズ購入制限を延長。26日以降も「1種類につき1人2点、Box商品は1点まで」 トラベル Watch",
-      "summary": "ANA、「ちいかわ」コラボグッズ購入制限を延長。26日以降も「1種類につき1人2点、Box商品は1点まで」 トラベル Watch",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-22T16:20:14+09:00",
-      "published_display": "2026-10-22 16:20 JST"
+      "published_at": "2026-10-23T06:40:12+09:00",
+      "published_display": "2026-10-23 06:40 JST"
     }
   ]
 }
