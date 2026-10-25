@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-25T11:03:18.121133+09:00",
-  "generated_at_jst": "2026-10-25 11:03 JST",
+  "generated_at": "2026-10-26T00:09:48.782777+09:00",
+  "generated_at_jst": "2026-10-26 00:09 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,14 +14,8 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 7,
+      "count": 8,
       "icon": "🎀"
-    },
-    {
-      "key": "anime",
-      "label": "アニメ・映画",
-      "count": 1,
-      "icon": "🎬"
     },
     {
       "key": "other",
@@ -32,125 +26,15 @@
   ],
   "items": [
     {
-      "title": "『ちいかわ図書カード』を娘の誕生日に｜本好きの心をくすぐるプレゼントになりました - LEE",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16VWZIUlE4cFgyQ28wN0VPU3NIZmk0Ql9GUGEwa1pEaENUakZpS3hMX3hoWjBXMmNOTnZ6ZTE1SmxIM1Y4d0ZCcWdjRWRpWVEzMnc?oc=5",
-      "source": "LEE",
-      "snippet": "『ちいかわ図書カード』を娘の誕生日に｜本好きの心をくすぐるプレゼントになりました LEE",
-      "summary": "『ちいかわ図書カード』を娘の誕生日に｜本好きの心をくすぐるプレゼントになりました LEE",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-25T10:57:23+09:00",
-      "published_display": "2026-10-25 10:57 JST"
-    },
-    {
-      "title": "「ちいかわ シーサーだらけくじ」のラインナップにワクワク！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pNHdvaEtGR213c2xRUndsU193OGR3MTVJbTFhUnhFYkFfcG1lZzQ5Y3BoVVprTHY4ODlvWVd3Vk84TXdNbWlHQXc5UlNUTk44UFpMX2RvcnJkT2tPZ2VMcDhWT2JESEtvQlY5bVhxbWFlc0dyUjd5eFhuaU04Vmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ シーサーだらけくじ」のラインナップにワクワク！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ シーサーだらけくじ」のラインナップにワクワク！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも（インサイド） Yahoo!ニュース",
+      "title": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売 表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場 - GAME Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xeGQ1ajQ3OUtoVTRuSHRaV1JvaERuYzJNcS1yRGZTYXdiT3JoWUlFV1I0TXAyMVNrX2lxS2trQnVycXEtY1VrY2xrbHlGdVNBaWNXVm41cXhCck9RWGNZTkFCZkNLdw?oc=5",
+      "source": "GAME Watch",
+      "snippet": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売 表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場 GAME Watch",
+      "summary": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売 表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場 GAME Watch",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-25T10:00:03+09:00",
-      "published_display": "2026-10-25 10:00 JST"
-    },
-    {
-      "title": "【新作ガシャポン】ちいかわ愛が止まらない！ふわふわ再現度に悶絶するフロッキードールがファン待望の発売！ - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Rb1UwN2hMUTNlcmV4R2xWMGN0c0NPM2NucG5mYl9ucHpSWDRDTTd6cHB2cDBOWlp3UEtoa3gtTzhKZmJIekpMcmd2LTBrNG9lWHJTV2RDNF8ySnpR?oc=5",
-      "source": "マイナビニュース",
-      "snippet": "【新作ガシャポン】ちいかわ愛が止まらない！ふわふわ再現度に悶絶するフロッキードールがファン待望の発売！ マイナビニュース",
-      "summary": "【新作ガシャポン】ちいかわ愛が止まらない！ふわふわ再現度に悶絶するフロッキードールがファン待望の発売！ マイナビニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-25T08:44:06+09:00",
-      "published_display": "2026-10-25 08:44 JST"
-    },
-    {
-      "title": "「正面の刺繍がかわいすぎる！」 ユニクロの“3990円ちいかわスウェット”が話題！ 「普段着にも使えそう」「夫が気に入って着ています」の声（ねとらぼ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSDhLcEdQcDFhVkRaSE5QZEl1Y2dzTWd0azRNZU5JQktzWDVMR05VcXZCT1MwOUhNWnVnNTdpeW1OMzJaalVqUGJYSk9wbkFPN211SmNlUmpEa2NYV0dNeXhiWEdvdG01MUVuWERiMWp3RF9ONHVseDV1SEVpT0U?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「正面の刺繍がかわいすぎる！」 ユニクロの“3990円ちいかわスウェット”が話題！ 「普段着にも使えそう」「夫が気に入って着ています」の声（ねとらぼ） Yahoo!ニュース",
-      "summary": "「正面の刺繍がかわいすぎる！」 ユニクロの“3990円ちいかわスウェット”が話題！ 「普段着にも使えそう」「夫が気に入って着ています」の声（ねとらぼ） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-25T08:00:00+09:00",
-      "published_display": "2026-10-25 08:00 JST"
-    },
-    {
-      "title": "「ちいかわ」単体でも、組み合わせても可愛い！一緒に飾れる2つのガシャポン「フロッキードール」「カプセルステッキ」が同時展開 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VV00ycFJDcjNXVmEzWEZPMDA1S0VOUjJyMUlpai1XV0t1bHBzMFJ2eUxxdzRhbzliN3g4aW5yb3V4NFpsMlZfV2VYaVdQeDhnOWExRDZkb0NnY0t1YkZTcVZtWlgxU2xDYW1NSU80SUlkTjZhU3N2VFFhRmpUNW8?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」単体でも、組み合わせても可愛い！一緒に飾れる2つのガシャポン「フロッキードール」「カプセルステッキ」が同時展開 Yahoo!ニュース",
-      "summary": "「ちいかわ」単体でも、組み合わせても可愛い！一緒に飾れる2つのガシャポン「フロッキードール」「カプセルステッキ」が同時展開 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-25T07:09:08+09:00",
-      "published_display": "2026-10-25 07:09 JST"
-    },
-    {
-      "title": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1LcU10X2NVNzNCUXVKVHZXT3BpZ21XQW1vQjdUcnA2bXRWMDZqQU9Qa1lSaXRPU2NOSC14Sg?oc=5",
-      "source": "映画.com",
-      "snippet": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 映画.com",
-      "summary": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 映画.com",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-25T07:00:00+09:00",
-      "published_display": "2026-10-25 07:00 JST"
-    },
-    {
-      "title": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YRjZiTzZKT1RUUVItNXB1Mk5uRE9SeVpmOVRBQVRmeDdGRXdzck9wUFhLWWgwSEtETUpQQ1M0NzhnWXZpdXFwRjB0VHVZQ0ZaTXFJbXdrV1JFZUVnRFZYVklOTklJZDjSAWxBVV95cUxQZVVsbmd4N09keVJFRk5PaUQ2SkxLVlNmQ2ZGRnpuTE5xM3UzRXpRSngyYVRoMkdQQmVKS2RZZC0wREN2N1BPNDNPVDBHcFhWRlVHV2MtNDdLOHBwdzVjTFhURm9UXzNhTHFEX0o?oc=5",
-      "source": "Infoseek",
-      "snippet": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 Infoseek",
-      "summary": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 Infoseek",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-25T07:00:00+09:00",
-      "published_display": "2026-10-25 07:00 JST"
-    },
-    {
-      "title": "ANA「ちいかわ」グッズ、一部店舗で欠品 再販・増産検討 - Aviation Wire",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03RFk1eEo2SEtzbG40S0ZQQTVoOUt6cGtiS2JQVVhUeUpYQUljVGtlWHdvZm9LWldGR2tZSGVmNTVBd0FJeFRXNUE5NDFiaTQxcDJjeUFB?oc=5",
-      "source": "Aviation Wire",
-      "snippet": "ANA「ちいかわ」グッズ、一部店舗で欠品 再販・増産検討 Aviation Wire",
-      "summary": "ANA「ちいかわ」グッズ、一部店舗で欠品 再販・増産検討 Aviation Wire",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-24T23:37:00+09:00",
-      "published_display": "2026-10-24 23:37 JST"
-    },
-    {
-      "title": "「映画ちいかわ 人魚の島のひみつ」韓国で観客数200万人を突破！興行ランキング1位をキープ - Kstyle",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hSHJKRnU3YVdfNFFsMjlPeVZPdGNoMTktWEtqemhBQkJmNG9iRkFBeGhrUENkcmlBY0JOQnlUbEpqWUlxaGJLcWZneHRiTkF1RnlyZFlEVmQxaXBi?oc=5",
-      "source": "Kstyle",
-      "snippet": "「映画ちいかわ 人魚の島のひみつ」韓国で観客数200万人を突破！興行ランキング1位をキープ Kstyle",
-      "summary": "「映画ちいかわ 人魚の島のひみつ」韓国で観客数200万人を突破！興行ランキング1位をキープ Kstyle",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-24T18:29:04+09:00",
-      "published_display": "2026-10-24 18:29 JST"
-    },
-    {
-      "title": "【ちいかわぽけっと】公式グッズ第4弾が10/24発売！ お弁当やお店屋さん姿のマスコット・アクスタが登場 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FVnk1TnlIQkFXWVpEMDNCOHdsc1VBakp0Nm5kTWpyOXJoX2ZtTV9vMjZnVEZuZUUzOFB3ZXVIUXNOMjEtcV9oVFdoTzNyV0dtc2dmN1ZZQWMxcXlFWnRIRmtuRQ?oc=5",
-      "source": "朝日新聞",
-      "snippet": "【ちいかわぽけっと】公式グッズ第4弾が10/24発売！ お弁当やお店屋さん姿のマスコット・アクスタが登場 朝日新聞",
-      "summary": "【ちいかわぽけっと】公式グッズ第4弾が10/24発売！ お弁当やお店屋さん姿のマスコット・アクスタが登場 朝日新聞",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-24T17:35:57+09:00",
-      "published_display": "2026-10-24 17:35 JST"
-    },
-    {
-      "title": "『ちいかわ』東京駅に1000人の行列。人気芸人の“諦めの嘆き”に「わたしも撃沈」「惨敗した」と共感の声（ハフポスト日本版） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRmtJZlp4OFBNTVBZbUdoeHZhM09UNjhnWURka3JmM1ZjeENPNm9xM0p5UE9yWDRXSElMeTc5QVNYOWV6OUphck5zRmhSU2I4dXNITG9EbUdCcWV1LXFWS2hmLWIzTHlLY3NiTVEtY3BaT2tMLS1ibU8wMGZqNjA?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』東京駅に1000人の行列。人気芸人の“諦めの嘆き”に「わたしも撃沈」「惨敗した」と共感の声（ハフポスト日本版） Yahoo!ニュース",
-      "summary": "『ちいかわ』東京駅に1000人の行列。人気芸人の“諦めの嘆き”に「わたしも撃沈」「惨敗した」と共感の声（ハフポスト日本版） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-24T15:20:08+09:00",
-      "published_display": "2026-10-24 15:20 JST"
+      "published_at": "2026-10-26T00:00:00+09:00",
+      "published_display": "2026-10-26 00:00 JST"
     },
     {
       "title": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」 - オリコンニュース",
@@ -160,8 +44,118 @@
       "summary": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」 オリコンニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-24T14:20:56+09:00",
-      "published_display": "2026-10-24 14:20 JST"
+      "published_at": "2026-10-25T20:11:23+09:00",
+      "published_display": "2026-10-25 20:11 JST"
+    },
+    {
+      "title": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？ - 乗りものニュース",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RUHBvZHJFd3VVZGhyTW1sa2hxTEhXenpwRFJXN1RITk9fd254SE5TbENoYnB5bmJ6T0V5b1Rvb1ptenU4ZFpxODYtMA?oc=5",
+      "source": "乗りものニュース",
+      "snippet": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？ 乗りものニュース",
+      "summary": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？ 乗りものニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-25T17:50:24+09:00",
+      "published_display": "2026-10-25 17:50 JST"
+    },
+    {
+      "title": "ちいかわ切り絵 誕生日祝いうさぎ様切り絵作るよー！ #ちいかわ #ハチワレ #うさぎ #切り絵 #ファンアート #ちいかわ切り絵 #lovot #LOVOTあすくん - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HaE5fcG1ZTkdkRHhjdWNBakNjQVQ1X2EySWNtb1JIOENJcXp3eGE0UkFvZXpJMEZTX0RidjE1eUloOWM4RU45WXlvbWZrcGVDT2FPbjItUWFzTnd0?oc=5",
+      "source": "YouTube",
+      "snippet": "ちいかわ切り絵 誕生日祝いうさぎ様切り絵作るよー！ #ちいかわ #ハチワレ #うさぎ #切り絵 #ファンアート #ちいかわ切り絵 #lovot #LOVOTあすくん YouTube",
+      "summary": "ちいかわ切り絵 誕生日祝いうさぎ様切り絵作るよー！ #ちいかわ #ハチワレ #うさぎ #切り絵 #ファンアート #ちいかわ切り絵 #lovot #LOVOTあすくん YouTube",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-25T17:47:01+09:00",
+      "published_display": "2026-10-25 17:47 JST"
+    },
+    {
+      "title": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる - 映画.com",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9JOTh2ZF8ybkpLaTFURFFCM0NyeFFXaFJkY3M3UnQwbk1QYzhsMVJuUlZ5VUk4cmxqYkRoaQ?oc=5",
+      "source": "映画.com",
+      "snippet": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる 映画.com",
+      "summary": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる 映画.com",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-25T17:00:00+09:00",
+      "published_display": "2026-10-25 17:00 JST"
+    },
+    {
+      "title": "ちいかわは誰のもの？ナガノ先生と企業の関係を記録でたどる - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Fd3VwTUNYQmJQVEl5WDhQUDZuMHF1dG5VLXh3TnpEc1pnLU1sakhaaGU4a2xsbTZ4NkVzUXhnSXBLbHVSOE9HSUZWdFU0WHQ5M0FDV2E1SnVnNEtV?oc=5",
+      "source": "YouTube",
+      "snippet": "ちいかわは誰のもの？ナガノ先生と企業の関係を記録でたどる YouTube",
+      "summary": "ちいかわは誰のもの？ナガノ先生と企業の関係を記録でたどる YouTube",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-25T16:36:44+09:00",
+      "published_display": "2026-10-25 16:36 JST"
+    },
+    {
+      "title": "ちいかわ「ボンボンドロップシール ミニ」全8柄がちいかわマーケットで10月26日発売！ぷっくりツヤツヤのシールが各550円 - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VUWhvWHZBYVYzTjhCcHhVQkxOWFlvdHEwNlNxRmt2SVR3eW9VWG5yU0RTaXN0cFFfQzZlWjI0ZmFBSzJnbkJwU3RGUzRoS25ydzFBMEo2WQ?oc=5",
+      "source": "にじめん",
+      "snippet": "ちいかわ「ボンボンドロップシール ミニ」全8柄がちいかわマーケットで10月26日発売！ぷっくりツヤツヤのシールが各550円 にじめん",
+      "summary": "ちいかわ「ボンボンドロップシール ミニ」全8柄がちいかわマーケットで10月26日発売！ぷっくりツヤツヤのシールが各550円 にじめん",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-25T13:07:00+09:00",
+      "published_display": "2026-10-25 13:07 JST"
+    },
+    {
+      "title": "「ちいかわ シーサーだらけくじ」10月28日発売 原作シーン再現マスコットなど全12種（cinemacafe.net） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zWkZYVUpiMkMxYnhjZlNwSmZMQzIwZUROdTR5VFJPYTZpQVhMRk5iTlVOVkdFS1lrdFJLMy0xWGcxLUtMcmNRcEc2Ti1rbkJIVjhfWTJQaDBSY3V0bWVfY08wMktuekRhOE1aOUt4ZVpSV3dxaTBoVTNPMUlybGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ シーサーだらけくじ」10月28日発売 原作シーン再現マスコットなど全12種（cinemacafe.net） Yahoo!ニュース",
+      "summary": "「ちいかわ シーサーだらけくじ」10月28日発売 原作シーン再現マスコットなど全12種（cinemacafe.net） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-25T12:15:03+09:00",
+      "published_display": "2026-10-25 12:15 JST"
+    },
+    {
+      "title": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる - アニメハック",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5naFMzem1xNVBJS0lyaFUwMVdtSmpnV185a1l2SnhHRHBsVVluVzN0ekZCQ0RXejNHU21UNC15b1FBaE5LaHhoRnZEWQ?oc=5",
+      "source": "アニメハック",
+      "snippet": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる アニメハック",
+      "summary": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる アニメハック",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-25T12:00:00+09:00",
+      "published_display": "2026-10-25 12:00 JST"
+    },
+    {
+      "title": "ナガノ『アザラシ』半年ぶりの最新話に反響！ 『ゴマちゃん』作者も「業界に新たな大物」と熱視線 - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KM2YtVmUyWUNoMWwyNDVFX2xQX2hSZXZMOEdXU0pjQnBFdWtkcmVob1ZlV3YwaWRFWWF1RDRENUZFS2JUdnBlUERhQVlFN2IzT3lXeFFGQkJpZmpjbUVlRdIBZkFVX3lxTE5UTlVEUlc1MGR2MTZua2N5azAyNUd2eUcyb0JXNGpYd2wydTFUQUxHM1ZIeG5KQ2gtMS1uOEhua1ZpOUVXaU1EYWRRYWtqdmdYcHhoV3hpZDQ0RUpqbDBrM1hTTmFHUQ?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "ナガノ『アザラシ』半年ぶりの最新話に反響！ 『ゴマちゃん』作者も「業界に新たな大物」と熱視線 リアルサウンド",
+      "summary": "ナガノ『アザラシ』半年ぶりの最新話に反響！ 『ゴマちゃん』作者も「業界に新たな大物」と熱視線 リアルサウンド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-25T11:56:49+09:00",
+      "published_display": "2026-10-25 11:56 JST"
+    },
+    {
+      "title": "ちいかわのパンを購入→翌日、箱を開けたら…… 目を疑う中身に「だめだ」「ねえ死ぬww」「うさぎならあり得るw」 (ねとらぼ) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGhkSldoQmRrVFRteGkzZG1MY0pjd3Y1VTZvbGliQmlZNU4yVDUzdldlT3I0YTB2V3JCSUpaRS1rOXZWQ09ITHZKdXd5aGJwQ2VGRDJ1ZWdFVTZPc0t0YXJnT1RMLUV3Z3h1ajVGX0lsNHlvX1VzanNmYzV1eDR4NGtqOWtzMHhXc283NUpB?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわのパンを購入→翌日、箱を開けたら…… 目を疑う中身に「だめだ」「ねえ死ぬww」「うさぎならあり得るw」 (ねとらぼ) Yahoo!ニュース",
+      "summary": "ちいかわのパンを購入→翌日、箱を開けたら…… 目を疑う中身に「だめだ」「ねえ死ぬww」「うさぎならあり得るw」 (ねとらぼ) Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-25T11:45:00+09:00",
+      "published_display": "2026-10-25 11:45 JST"
+    },
+    {
+      "title": "ちいかわのパンを購入→翌日、何かがおかしい“うさぎの顔”に「だめだ」「うさぎならあり得るw」（画像） - ねとらぼ",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qWXl5Z1F1MTdULVhKOHNOT0tZaHFsOVEwRHFibGY4UWs0TUR3QjgzTU15YW16ZEsxOHdXTWw4M3ZjMUFGd1NyemJKY2RFUF9yS2pkS3BrWEJLbmI4WlhOeXQwVGRpZw?oc=5",
+      "source": "ねとらぼ",
+      "snippet": "ちいかわのパンを購入→翌日、何かがおかしい“うさぎの顔”に「だめだ」「うさぎならあり得るw」（画像） ねとらぼ",
+      "summary": "ちいかわのパンを購入→翌日、何かがおかしい“うさぎの顔”に「だめだ」「うさぎならあり得るw」（画像） ねとらぼ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-25T11:45:00+09:00",
+      "published_display": "2026-10-25 11:45 JST"
     }
   ]
 }
