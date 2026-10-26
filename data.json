@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-26T11:04:20.442067+09:00",
-  "generated_at_jst": "2026-10-26 11:04 JST",
+  "generated_at": "2026-10-27T02:47:06.670812+09:00",
+  "generated_at_jst": "2026-10-27 02:47 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,7 +14,7 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 7,
+      "count": 6,
       "icon": "🎀"
     },
     {
@@ -26,142 +26,142 @@
     {
       "key": "other",
       "label": "そのほか",
-      "count": 4,
+      "count": 5,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「映画ちいかわ」が3週連続週末興行1位 観客200万人突破＝韓国 - 聯合ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EWlBVSEdVMDN3YXBpMEJ1czNyQmJURUlQYU1VcFpuSTVVUWlfa0VxYVJkUEJvUnF2QUxkWXBBeFV6M29MZThlVFBPNFpwWUlZUWtOd1U1Z3FnQQ?oc=5",
-      "source": "聯合ニュース",
-      "snippet": "「映画ちいかわ」が3週連続週末興行1位 観客200万人突破＝韓国 聯合ニュース",
-      "summary": "「映画ちいかわ」が3週連続週末興行1位 観客200万人突破＝韓国 聯合ニュース",
+      "title": "【ちいかわ】ライトスティックチャーム ちいかわ食玩 あいりんと島二郎さんの買い物 開封動画 Vlog - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5NC0wMGZ6NlVPcmxBQW5sZVo1aTctUGJrOU0tYzBtWENZcVhLTHJEUGJMWC1ST0NzWkRJYnZ4RWh6NGotX0pVVjdGeWpNeDNGODNxSHVSa1dIcUVG?oc=5",
+      "source": "YouTube",
+      "snippet": "【ちいかわ】ライトスティックチャーム ちいかわ食玩 あいりんと島二郎さんの買い物 開封動画 Vlog YouTube",
+      "summary": "【ちいかわ】ライトスティックチャーム ちいかわ食玩 あいりんと島二郎さんの買い物 開封動画 Vlog YouTube",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-26T21:47:12+09:00",
+      "published_display": "2026-10-26 21:47 JST"
+    },
+    {
+      "title": "『ちいぽけ』全国5都市を巡るポップアップストア開幕！新作グッズ求めるファンで賑わう【東京会場レポート】 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92V2R0WE9Xd2l0U29lZDBOY1NKbzNNb1Q3elkzMmh3R2l0TFk4WFlUNTF5bkdJVnF3VGE0eHFfUzV2bERTLUcxWkJCTS1ralB1RHVBRQ?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "『ちいぽけ』全国5都市を巡るポップアップストア開幕！新作グッズ求めるファンで賑わう【東京会場レポート】 ABEMA TIMES",
+      "summary": "『ちいぽけ』全国5都市を巡るポップアップストア開幕！新作グッズ求めるファンで賑わう【東京会場レポート】 ABEMA TIMES",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-26T21:40:00+09:00",
+      "published_display": "2026-10-26 21:40 JST"
+    },
+    {
+      "title": "しまむらで「ちいかわ」グッズが11月3日15時よりオンライン販売！寒い季節にピッタリなもこもこルームシューズ全4種（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13R2gxZXRObnY4WmFkZUViM3pNLXEta21xeVNVVHp1UlloMW1aZ2FVMlBxU0g4cnJscHQtcTJ3dWRlMXZPaFBJTjVlRUUwNlNJZ1FJV0V6WTBaMS1Td2NTcDZpU2RMQ1dXejJ6am1Db1g0a3ZoTXFWdzVKS2h3cUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "しまむらで「ちいかわ」グッズが11月3日15時よりオンライン販売！寒い季節にピッタリなもこもこルームシューズ全4種（インサイド） Yahoo!ニュース",
+      "summary": "しまむらで「ちいかわ」グッズが11月3日15時よりオンライン販売！寒い季節にピッタリなもこもこルームシューズ全4種（インサイド） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-26T21:15:03+09:00",
+      "published_display": "2026-10-26 21:15 JST"
+    },
+    {
+      "title": "『ちいかわぽけっと』POP UP STORE東京会場が初日から盛況！ 公式グッズ第4弾は「お店屋さん」と「お弁当」 - AppBank",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44MFE3WjZxckVNakVKUlFabGdWc3hjOWp1dExKRGFDc0l6WnZpZ0pIX2sxZkN0b0xNZkFHQkd0WS1ZUS1DWjFzTlhOTnd6TlFNNU1xYTdPSnNlTDY5MDJKOQ?oc=5",
+      "source": "AppBank",
+      "snippet": "『ちいかわぽけっと』POP UP STORE東京会場が初日から盛況！ 公式グッズ第4弾は「お店屋さん」と「お弁当」 AppBank",
+      "summary": "『ちいかわぽけっと』POP UP STORE東京会場が初日から盛況！ 公式グッズ第4弾は「お店屋さん」と「お弁当」 AppBank",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-26T20:11:37+09:00",
+      "published_display": "2026-10-26 20:11 JST"
+    },
+    {
+      "title": "「ちいかわパークストア」が大阪・LUCUA SOUTHに登場 11月24日グランドオープン - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xbFVGem1OdTNCblNPcXJkZDRBSFVCRURXUXBFU21EZFVycVFUZ0lrQUlBajZHLUduaklHZWxZSW9hZEF5dk9mY1dkalNpZ3lCc0NTZ3pBN18wMm1GMWxretIBZkFVX3lxTFBiOENFbTdlVWxUX0tlNUl6WFhia0NpbTZnMm1CeFVEbTdkd3J6cmRDRkd5LTZpTEdDLV9vSnFaUldGNDV0N0dIS0I1ZmE1QzJ3SlhuQmNhUFRQS2l4VWFTa1VJYURHdw?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "「ちいかわパークストア」が大阪・LUCUA SOUTHに登場 11月24日グランドオープン リアルサウンド",
+      "summary": "「ちいかわパークストア」が大阪・LUCUA SOUTHに登場 11月24日グランドオープン リアルサウンド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-26T20:11:17+09:00",
+      "published_display": "2026-10-26 20:11 JST"
+    },
+    {
+      "title": "『ちいかわ』作者におやつカンパニーが感謝。人気お菓子を頬張るキャラに“まさかの展開”が…（ハフポスト日本版） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96OEJMYUowSmxscFJ2NEZZai1INzYwVFIwMXlfd0RkUnYyc2l1LW1iVWFnWDVadVlwRTVWbVc3VHZ3T1plbGhnZExCeV84em55VVhlRDMydzJPNkFydkRPdVI5QWdFTVdHSE5tVWh6aGZQS3ZYSW5hQ3dpWktVQ28?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『ちいかわ』作者におやつカンパニーが感謝。人気お菓子を頬張るキャラに“まさかの展開”が…（ハフポスト日本版） Yahoo!ニュース",
+      "summary": "『ちいかわ』作者におやつカンパニーが感謝。人気お菓子を頬張るキャラに“まさかの展開”が…（ハフポスト日本版） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-26T20:00:57+09:00",
+      "published_display": "2026-10-26 20:00 JST"
+    },
+    {
+      "title": "『映画ちいかわ』が韓国で大ヒット！釜山国際映画祭のA級昇格、イ・ミンホの出演作をめぐる歴史歪曲論争など、10月の韓国現地レポートをお届け - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenVDWWd0allXa2FjMXZJWGp5QllFMzQ5UDZsdDJhalMtZU9BaGhhNkhxRzgtWkttNjZzYTRuMGJlTnBrS3BfRXNyd0lPdXFXeFJHdC1vdTV3VG5EVVdFaVpIVUd1RXhvQkRvOV8tNC0yRmtZcmg2YWpSV0VQcnFSbjRzNF9jR0lFNHRIQ2xB0gGTAUFVX3lxTE4xaHd0M3BQSzA5azJWYTdFU2xyS2tabGpuMDFLODRncmdDRGZGYy1QemlNMVZRV1R5NFdlelhzZkZBalFzYXpUVE16WWM2bVRDbF9NSjRLSTN5dUpNc1pOUEszSVViZGlrSXZ3aTJ1RzQ2S2VYNFhiMlZDUmRpRHZzUlgyNHZZeW9hRTFQRVVmNUo4WQ?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "『映画ちいかわ』が韓国で大ヒット！釜山国際映画祭のA級昇格、イ・ミンホの出演作をめぐる歴史歪曲論争など、10月の韓国現地レポートをお届け ｄメニューニュース",
+      "summary": "『映画ちいかわ』が韓国で大ヒット！釜山国際映画祭のA級昇格、イ・ミンホの出演作をめぐる歴史歪曲論争など、10月の韓国現地レポートをお届け ｄメニューニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-26T10:53:51+09:00",
-      "published_display": "2026-10-26 10:53 JST"
+      "published_at": "2026-10-26T19:45:00+09:00",
+      "published_display": "2026-10-26 19:45 JST"
     },
     {
-      "title": "「ちいかわ×ANA」コラボグッズが再販および追加生産を検討！制服姿で働くマスコットやぬいぐるみなど多数（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GUGxoeGRHTnI4dF9LQXpjblBnSDZjNXVKYmV6WW0wY2pqRE42UHhNXzctNktzX1FtcDFnMUkweUlpb1NEVkRmUXdYbU9aRnJ4OHR0dmc2ZVVmcVcySVNYMy1mZUNBbXAxTDR5UFZLSWNyT1luZ01YZnhHM3c4UFE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ×ANA」コラボグッズが再販および追加生産を検討！制服姿で働くマスコットやぬいぐるみなど多数（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ×ANA」コラボグッズが再販および追加生産を検討！制服姿で働くマスコットやぬいぐるみなど多数（インサイド） Yahoo!ニュース",
+      "title": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZXg4M3FRQWpFVS10NU9vZ285MmlXYnJ1ZTZYSkpFNDU0UUVzejhJRGNVZHNEeVJmblVTRkpxQXYwMkpsTXU1TWxHbDdtejk4emtwWjN5dTdNYkc4VjVWZ2NiSWswcm9VeFE?oc=5",
+      "source": "インサイド",
+      "snippet": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ インサイド",
+      "summary": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ インサイド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-26T09:15:03+09:00",
-      "published_display": "2026-10-26 09:15 JST"
+      "published_at": "2026-10-26T18:45:03+09:00",
+      "published_display": "2026-10-26 18:45 JST"
     },
     {
-      "title": "『ちいかわ』に敵なし…週末に28万人を動員、累計224万人突破【MKボックスオフィス】 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aQm1IV3RyTFNCRDl4bkN5Y2dLYnhiVWtWaXR5b3Q1dXUwQUZEWlN1LXJ6RmdzQkFiSU84bDVPMWZPVkxDbGp4Y2ZISldDc2RT?oc=5",
-      "source": "매일경제",
-      "snippet": "『ちいかわ』に敵なし…週末に28万人を動員、累計224万人突破【MKボックスオフィス】 매일경제",
-      "summary": "『ちいかわ』に敵なし…週末に28万人を動員、累計224万人突破【MKボックスオフィス】 매일경제",
+      "title": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lR3NfZzdCcDRRbkZneHdZQmhiNDI0MzZTSmwtUFU2R2lpV0dnRXR5c1JTR2VuYUVUZmFfUE9Tc3RiamluaDg5elhUT2pLVTMyc1BaRVZkOTFZVmx6SThjeUtCdTgyMGJ5TVBSTVk0azFxRXloWGpwMEhzZ2lmeWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ Yahoo!ニュース",
+      "summary": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-26T18:45:03+09:00",
+      "published_display": "2026-10-26 18:45 JST"
+    },
+    {
+      "title": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ 6枚目の写真・画像 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vcWlKRjVObnJBS0lyQ1BqZmpWMWpUekJGY0NseFNaUWJtSk9ENFVOTGJTZDRodklESUI2cjdadUMzblE2YWdlTjNkNG5mNVZKNVp5a1ZPYjJqQzRtdTVUaEtlQjRnZGRhYVkwX1FyU3A4YUpwMlpN?oc=5",
+      "source": "インサイド",
+      "snippet": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ 6枚目の写真・画像 インサイド",
+      "summary": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ 6枚目の写真・画像 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-26T18:45:03+09:00",
+      "published_display": "2026-10-26 18:45 JST"
+    },
+    {
+      "title": "「ちいかわパークストア」が大阪・LUCUA SOUTHに11月24日オープン！スウェットやポップコーンバケツ、記念ノベルティも - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKYXJmTm00eEtiVmNUQVo3UFZsNFIzd3RzODNydlQ0cmpxYkZwR2F4eC11eEtwVkNRYU5raWtUYmpzRUdtcmhPTGVvekdNUmxmckRXTXJyZw?oc=5",
+      "source": "にじめん",
+      "snippet": "「ちいかわパークストア」が大阪・LUCUA SOUTHに11月24日オープン！スウェットやポップコーンバケツ、記念ノベルティも にじめん",
+      "summary": "「ちいかわパークストア」が大阪・LUCUA SOUTHに11月24日オープン！スウェットやポップコーンバケツ、記念ノベルティも にじめん",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-26T07:45:34+09:00",
-      "published_display": "2026-10-26 07:45 JST"
+      "published_at": "2026-10-26T18:42:00+09:00",
+      "published_display": "2026-10-26 18:42 JST"
     },
     {
-      "title": "＜ちいかわ＞“シーサーだらけ”のオンラインくじ発売へ 「超BIGぬいぐるみ」「鎧なシーサーぬいぐるみ」 クッション、ポシェットも - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZkhTLVRER3BpV1FhakVhU0g0STVXMTFXUGpKQjJQeW5XRUJpVnhxTjFCQ2FDWmFtNUplSmRfeVJhTTlzVWg3SFI2enkyTXhNUmx4ZU4yVDZhSkFaWEVVQ1Z3cUJNOU10aE85WHg4aHBLVkJRRXNTUGZjUW56ZUU?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "＜ちいかわ＞“シーサーだらけ”のオンラインくじ発売へ 「超BIGぬいぐるみ」「鎧なシーサーぬいぐるみ」 クッション、ポシェットも Yahoo!ニュース",
-      "summary": "＜ちいかわ＞“シーサーだらけ”のオンラインくじ発売へ 「超BIGぬいぐるみ」「鎧なシーサーぬいぐるみ」 クッション、ポシェットも Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-26T07:21:26+09:00",
-      "published_display": "2026-10-26 07:21 JST"
-    },
-    {
-      "title": "10月26日(月)の「ちいかわ占い」 - めざましmedia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OS1FVFRBUnp4RHFTUTNOU0VkT2t0aFNWY1FUNVU4T1pjQzVnZGpORkpVWTVkZGJnOHJCcXpqblppWU9oUW0td0xKb1JXV1VEd0Qw?oc=5",
-      "source": "めざましmedia",
-      "snippet": "10月26日(月)の「ちいかわ占い」 めざましmedia",
-      "summary": "10月26日(月)の「ちいかわ占い」 めざましmedia",
+      "title": "期間限定の「ちいかわ」2026ハロウィンデザインは、もうチェックした？「Talking ODM」にて展開 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiejFNN2ZtNGxwc3RsSkU5QzZFSHVxTHZYejBRckZtcGQzczZ2OWFTR094eXNUblUwY1I2emoyMWNINVp1aVZHT3F3eHVGWVdtMEwwMDJyMTVpd0szaFRtZ09qb1hQMmx1TWc?oc=5",
+      "source": "インサイド",
+      "snippet": "期間限定の「ちいかわ」2026ハロウィンデザインは、もうチェックした？「Talking ODM」にて展開 インサイド",
+      "summary": "期間限定の「ちいかわ」2026ハロウィンデザインは、もうチェックした？「Talking ODM」にて展開 インサイド",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-26T07:00:00+09:00",
-      "published_display": "2026-10-26 07:00 JST"
-    },
-    {
-      "title": "「はちきれそう」「良い太ももちゃん」38歳人気声優、タイトな制服＆ニーハイで魅了、「なにこの可愛い人」「デカい」「ちぃかわの人か」（中日スポーツ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9acDJVR25mNTVKTW9fVi1SUHBXNkF6MExTa085U283ZEJmeERCZ2dqQ042bXBONjVDWWE0MDB5dm5ablNOQWJDaGpOazgzS0JmMm5ETlZZQ0szeE51dWxRLTlTcjd4VTVzZkh3WUg5U3FjcW9rZzRuQUpVVEViZ0E?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「はちきれそう」「良い太ももちゃん」38歳人気声優、タイトな制服＆ニーハイで魅了、「なにこの可愛い人」「デカい」「ちぃかわの人か」（中日スポーツ） Yahoo!ニュース",
-      "summary": "「はちきれそう」「良い太ももちゃん」38歳人気声優、タイトな制服＆ニーハイで魅了、「なにこの可愛い人」「デカい」「ちぃかわの人か」（中日スポーツ） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-26T05:13:50+09:00",
-      "published_display": "2026-10-26 05:13 JST"
-    },
-    {
-      "title": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaENoM3k2aWhiVmVlYjVrNVlKbGd0QzZ5c3NWUE9FMnR3UW9rSVpMT0RPWExWSUd3aG9jU1hvMWpSbmZmMFp3ZUJEVm40UVBFc3RUY01aek5adw?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」 オリコンニュース",
-      "summary": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」 オリコンニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-26T01:03:17+09:00",
-      "published_display": "2026-10-26 01:03 JST"
-    },
-    {
-      "title": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売（GAME Watch） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRURFUkNVSjJGeXcyb0lhNUtBUFB1T3RDSWtmZGpvaU5wcDdnY0tkYmdIQ3AxbEc2eXQ2LWNybUpzRXZxREVSQmxmdXhpRXpCME95d0x1VWtLeFlzNEN2aUZ3bDY5WTBseFBfaDVpdkNHekRqVF9nWjNJYmVMOW8?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売（GAME Watch） Yahoo!ニュース",
-      "summary": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売（GAME Watch） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-26T00:06:30+09:00",
-      "published_display": "2026-10-26 00:06 JST"
-    },
-    {
-      "title": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売 表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場 - GAME Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xeGQ1ajQ3OUtoVTRuSHRaV1JvaERuYzJNcS1yRGZTYXdiT3JoWUlFV1I0TXAyMVNrX2lxS2trQnVycXEtY1VrY2xrbHlGdVNBaWNXVm41cXhCck9RWGNZTkFCZkNLdw?oc=5",
-      "source": "GAME Watch",
-      "snippet": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売 表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場 GAME Watch",
-      "summary": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売 表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場 GAME Watch",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-26T00:00:00+09:00",
-      "published_display": "2026-10-26 00:00 JST"
-    },
-    {
-      "title": "ナガノ『アザラシ』半年ぶりの最新話に反響！ 『ゴマちゃん』作者も「業界に新たな大物」と熱視線（リアルサウンド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teDNNN3g3NEw1eW5OMU5RdGdoaVlRTzVVeGRZLXM3bXZPU0UzOUZPaTBpRlVKSnF4eFJIcHVyTm1XcXlKR2ZRWFZHbGROVUdrQVlxbGU3REE3T2tMVVI5Um5uZi04NURxd2oyYy0zU3lLTi1ZSDhXRHBKTGhIaFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ナガノ『アザラシ』半年ぶりの最新話に反響！ 『ゴマちゃん』作者も「業界に新たな大物」と熱視線（リアルサウンド） Yahoo!ニュース",
-      "summary": "ナガノ『アザラシ』半年ぶりの最新話に反響！ 『ゴマちゃん』作者も「業界に新たな大物」と熱視線（リアルサウンド） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-25T20:51:21+09:00",
-      "published_display": "2026-10-25 20:51 JST"
-    },
-    {
-      "title": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる（映画.com） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiSlIwOS1rSzd6V0lDRDVQSzJIVFR5ZkdXWldmYVF2R1VKSW84c0ZjcTRGVmowSEp3RzZMdTBXR1BrZ3FRTjRtcnBRMGo1bFJxc0lYcnhUbVYxTjMtMzBZeDlabFVzRzF0aFdzMU5NWjZJR09lc0VYcDBEeEN1Zms?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる（映画.com） Yahoo!ニュース",
-      "summary": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる（映画.com） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-25T17:00:00+09:00",
-      "published_display": "2026-10-25 17:00 JST"
-    },
-    {
-      "title": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9JOTh2ZF8ybkpLaTFURFFCM0NyeFFXaFJkY3M3UnQwbk1QYzhsMVJuUlZ5VUk4cmxqYkRoaQ?oc=5",
-      "source": "映画.com",
-      "snippet": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる 映画.com",
-      "summary": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる 映画.com",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-25T17:00:00+09:00",
-      "published_display": "2026-10-25 17:00 JST"
+      "published_at": "2026-10-26T18:30:02+09:00",
+      "published_display": "2026-10-26 18:30 JST"
     }
   ]
 }
