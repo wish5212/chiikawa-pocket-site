@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-28T01:57:26.306885+09:00",
-  "generated_at_jst": "2026-10-28 01:57 JST",
+  "generated_at": "2026-10-28T11:51:04.154797+09:00",
+  "generated_at_jst": "2026-10-28 11:51 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 5,
+      "count": 9,
       "icon": "🎀"
     },
     {
-      "key": "collab",
-      "label": "コラボ",
+      "key": "event",
+      "label": "イベント",
       "count": 1,
-      "icon": "🍰"
+      "icon": "🌟"
     },
     {
-      "key": "anime",
-      "label": "アニメ・映画",
-      "count": 6,
-      "icon": "🎬"
+      "key": "other",
+      "label": "そのほか",
+      "count": 2,
+      "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「GU」×「ちいかわ」コラボ、オンライン先行予約決定に5.6万いいねの反響 SNS「買えないと思ってた」「争奪戦かな（笑）」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuY2FwV2Y3QkNSc2pYNGpYWldxcDJwYUZ0clpFX3BVQ01QNXVjdDVkdUdSRV83QkdickYyR2hmS19YWDZGc3Job3JINnF5ZmRYLXdGZmNlbE8zUGNCN2NVaVdQSnhpc203UTF1QWdmbW9xTXB1dTBZTUZTSUhZWjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「GU」×「ちいかわ」コラボ、オンライン先行予約決定に5.6万いいねの反響 SNS「買えないと思ってた」「争奪戦かな（笑）」 Yahoo!ニュース",
-      "summary": "「GU」×「ちいかわ」コラボ、オンライン先行予約決定に5.6万いいねの反響 SNS「買えないと思ってた」「争奪戦かな（笑）」 Yahoo!ニュース",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-28T00:42:57+09:00",
-      "published_display": "2026-10-28 00:42 JST"
-    },
-    {
-      "title": "「ちいかわ おすわりぬいぐるみ②」再販決定！うさぎ・モモンガ・古本屋・ラッコがちょこんとおすわりする手のひらサイズぬいぐるみ - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53SXZyNlo1UjN5eVFwU2NwTHlnM2ZtdC0yVHB6UmdveGJYdDFEYmgyNTFWTm5nYnZ3LTBsTGhuWUZvdlBBRjhZSE1VZFhDMm1UY29oaWxKdw?oc=5",
-      "source": "にじめん",
-      "snippet": "「ちいかわ おすわりぬいぐるみ②」再販決定！うさぎ・モモンガ・古本屋・ラッコがちょこんとおすわりする手のひらサイズぬいぐるみ にじめん",
-      "summary": "「ちいかわ おすわりぬいぐるみ②」再販決定！うさぎ・モモンガ・古本屋・ラッコがちょこんとおすわりする手のひらサイズぬいぐるみ にじめん",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-27T23:57:00+09:00",
-      "published_display": "2026-10-27 23:57 JST"
-    },
-    {
-      "title": "『映画ちいかわ』公開14週でも動員2位の偉業…“入場特典” の効果なのか “作品の力” なのかSNSで議論勃発 - smart-flash.jp",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2UFM0QnRVUjAwZG5UbE54dnNpVk9GaGlBUXFUUXpfZnVmWXBqaG1aVmd3ZThNUDFtZHRHOGJGVVlVeVZiZFhCNWwwRXNIeUNVdUk4UXRKdEdiM0ZVMkg4UUpYbWpKenFJZjN1UWxERjJXUUJXck9hc3B1TQ?oc=5",
-      "source": "smart-flash.jp",
-      "snippet": "『映画ちいかわ』公開14週でも動員2位の偉業…“入場特典” の効果なのか “作品の力” なのかSNSで議論勃発 smart-flash.jp",
-      "summary": "『映画ちいかわ』公開14週でも動員2位の偉業…“入場特典” の効果なのか “作品の力” なのかSNSで議論勃発 smart-flash.jp",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-27T23:48:45+09:00",
-      "published_display": "2026-10-27 23:48 JST"
-    },
-    {
-      "title": "「ちいかわ成分は1日20分まで」映画ちいかわ 人魚の島のひみつ NICKNAMEさんの映画レビュー（感想・評価） - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52d2FucjNHYVBXcDI2NkljbDUtOWNRODQ3aVAwTjUwNjFHREJZQUxwTWRzaUwycU1lR2ttU3R1NUlYZGlzWHMtRUxiQzhZc1VYZHB1enlDdWxpdw?oc=5",
-      "source": "映画.com",
-      "snippet": "「ちいかわ成分は1日20分まで」映画ちいかわ 人魚の島のひみつ NICKNAMEさんの映画レビュー（感想・評価） 映画.com",
-      "summary": "「ちいかわ成分は1日20分まで」映画ちいかわ 人魚の島のひみつ NICKNAMEさんの映画レビュー（感想・評価） 映画.com",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-27T21:10:23+09:00",
-      "published_display": "2026-10-27 21:10 JST"
-    },
-    {
-      "title": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RnE2LTV4eElCd2tUOElSXzZiUGtwdUdKZXFqNjl6S1FldkdwMERWTGxfeS1NbXZwZ2ozQU5ocTZfS3JNbHVGYnNnUTJ0ajBVbDRtUmtQQzB0NERZZmwzeWRvMUw4UURmUWxZMTVacjN4WnhhS2Fj?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも 2枚目の写真・画像 インサイド",
-      "summary": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも 2枚目の写真・画像 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-27T21:00:03+09:00",
-      "published_display": "2026-10-27 21:00 JST"
-    },
-    {
-      "title": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BRjRWek10d2MtOWV1djhiWmZjV2c5U1I4LXY0bVo4dWFKU0ptQmU5elJsNUtDaHJkOHQxamV5LTdvTk5EdWF3My1LOWQ3ZExSbnVVSDBxMWt5bkFaMUZ0d3lEMG9yUGVSbEpPak5zWnVPTUU1RVd0U0lxUEFnZEk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-27T21:00:03+09:00",
-      "published_display": "2026-10-27 21:00 JST"
-    },
-    {
-      "title": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GZHZ1SmEzcGVfdEQ0Yk45NUROaWUxY1NiYzduXzNLYUpOVmQ0RDItazk3a0VIYTlranh1SktWdzl3a1h1WkswN05fbTFoQmZnTWpoLURaQUdEdDRKampuMkswN21hQWMwVnc?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも インサイド",
-      "summary": "「ちいかわ シーサーだらけくじ」いよいよ10月28日発売！くやシーサーなクッション、スーパーアルバイターや交通整理のマスコットも インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-27T21:00:03+09:00",
-      "published_display": "2026-10-27 21:00 JST"
-    },
-    {
-      "title": "「映画が最高すぎました」 “ちいかわのキャラ”人気ランキング上位に「とにかく可愛い！」「声もいい」「最推しです」の声（1/3） | 漫画 ねとらぼリサーチ - ねとらぼ",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZS3ZCc3M3d1EyRVdDZ0tjSGt5dGdXeW03LU5wS3N1ZGNZQVVCME9mUDZiTElfdlhIT0ZBQ282bU1oMmt3bUVOVF85V2kyV1FTbXljSVM2Z3U4b19OeUEyZ204d9IBaEFVX3lxTE9tRVFyUzZrcFJ5aDNYc1lYUWlOX0tXajI5bDNpS3lGM20wSVBTLXpwT0xQeFdRYlR4bW04RGNMdUx3amp0ZnhYbl9Ic0NOblVZTGEwMUFSQklDOGJCNUZtVE9aZWRCUWZu?oc=5",
-      "source": "ねとらぼ",
-      "snippet": "「映画が最高すぎました」 “ちいかわのキャラ”人気ランキング上位に「とにかく可愛い！」「声もいい」「最推しです」の声（1/3） | 漫画 ねとらぼリサーチ ねとらぼ",
-      "summary": "「映画が最高すぎました」 “ちいかわのキャラ”人気ランキング上位に「とにかく可愛い！」「声もいい」「最推しです」の声（1/3） | 漫画 ねとらぼリサーチ ねとらぼ",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-27T20:47:12+09:00",
-      "published_display": "2026-10-27 20:47 JST"
-    },
-    {
-      "title": "ほめられリボンが大活躍、ハチワレの「なんとかなれーッ!!」で絶体絶命の危機を脱出！アニメ『ちいかわ』第185話 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcGZwWVhPampSclJlZ3o4bzBaQk0zVUpSQ3VTQi1zaVNKZ1FIdVQ2Mmgxd1pSTkxleTdVdU9iZUN0LXJWLUdjb1Y5SlFnczJaLUtjeG4yNHljVC1ZZ2E0OEtMeXc4aHl4YllheWFUd1RHeVFTaUNpMW56YmVNNk0?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ほめられリボンが大活躍、ハチワレの「なんとかなれーッ!!」で絶体絶命の危機を脱出！アニメ『ちいかわ』第185話 Yahoo!ニュース",
-      "summary": "ほめられリボンが大活躍、ハチワレの「なんとかなれーッ!!」で絶体絶命の危機を脱出！アニメ『ちいかわ』第185話 Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-27T20:45:32+09:00",
-      "published_display": "2026-10-27 20:45 JST"
-    },
-    {
-      "title": "ほめられリボンが大活躍、ハチワレの「なんとかなれーッ!!」で絶体絶命の危機を脱出！アニメ『ちいかわ』第185話 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV2RqakJ5eHVJZmFmS1l5aXNLY1EzZnp2cVdrNHhZOFpyb3NuYldyNHJJX202VlpLSWJLM0xxdEprUDVmanRlWDgtWTgwUHB1RFBfeg?oc=5",
-      "source": "ABEMA TIMES",
-      "snippet": "ほめられリボンが大活躍、ハチワレの「なんとかなれーッ!!」で絶体絶命の危機を脱出！アニメ『ちいかわ』第185話 ABEMA TIMES",
-      "summary": "ほめられリボンが大活躍、ハチワレの「なんとかなれーッ!!」で絶体絶命の危機を脱出！アニメ『ちいかわ』第185話 ABEMA TIMES",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-27T20:43:00+09:00",
-      "published_display": "2026-10-27 20:43 JST"
-    },
-    {
-      "title": "ちいかわたちがふんわりテディベア姿に♡ クリスマスカラーのリボンでおめかしした新作ぬいぐるみ - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TWmNmR0hLc29sWGw4a2Fyd2JxU21UTHpXMUh0SUpPaDJDWWxwYUtjVjBibnhQTnZEeGNaNTZaMlNBSlA0VWlSc2MzelBsNTRHa2pPM2VzeXl3dlIySXhrdg?oc=5",
+      "title": "討伐するの？ 上海にある毛沢東旧居に迫りくる「ちいかわ」たちにSNS民興奮 「搾取…されてた？」「草むしり検定5級を勉強してた？」 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FNDJmdGpidGpYYS0tMkwtWFlQM0FsaG52RzNRc3h6NVJGZjlWbk5pd1ZQUVhtbTJySjcza0lJU1JPSkpSUGM1UDhnRzhoZ3VFZ3R2WGlCNzBCLUVWUnZTQ2pkUjNZNVlo0gFuQVVfeXFMT3ZyTE5wc0doSFRUNUl1NGNPZjN6UHA1b3FfbFRYaHU0dF9TQmtpOGJxcGwyVTNvUG1VelNuX2xqalZDS3V5N0tqWVF3My1uTHlMcUxHTnp6VmFxTnZfU0xvb2ktX0VBVUtJYm84UWc?oc=5",
       "source": "Infoseek",
-      "snippet": "ちいかわたちがふんわりテディベア姿に♡ クリスマスカラーのリボンでおめかしした新作ぬいぐるみ Infoseek",
-      "summary": "ちいかわたちがふんわりテディベア姿に♡ クリスマスカラーのリボンでおめかしした新作ぬいぐるみ Infoseek",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-27T20:30:59+09:00",
-      "published_display": "2026-10-27 20:30 JST"
+      "snippet": "討伐するの？ 上海にある毛沢東旧居に迫りくる「ちいかわ」たちにSNS民興奮 「搾取…されてた？」「草むしり検定5級を勉強してた？」 Infoseek",
+      "summary": "討伐するの？ 上海にある毛沢東旧居に迫りくる「ちいかわ」たちにSNS民興奮 「搾取…されてた？」「草むしり検定5級を勉強してた？」 Infoseek",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-28T11:20:00+09:00",
+      "published_display": "2026-10-28 11:20 JST"
     },
     {
-      "title": "『映画ちいかわ』公開14週でも動員2位の偉業…“入場特典” の効果なのか “作品の力” なのかSNSで議論勃発（SmartFLASH） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhRVdjVmVadklSeTdGNGhhRGltY1RmcUtmaDB4NlE2STRlSy1MQUJOS3VqMnJYTkJxN1RJc3kyTWtMbTdySTYxTmZKYVFQMXBxR3JFTk5KOWp2Vy1YVzFmSk9iek5tY3YyWXBHY2NiWkNHcHVzZHNOTklCMUs3ZUE?oc=5",
+      "title": "京都・錦市場に「ちいかわベビーカステラ」2号店がオープン 新しいマスコットセットとカップホルダーも登場 - GAME Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tU1JUcHBkTGxlN3MxNm0yalotcXQxalhiTDBIYnZaZ19uSE1tNVM5cEFsYjBwVlJvOEVwRUlCeUNheS1jVEpIemI5UXBzNkxqUGozZDExT3JaLWE1Nm1hcVFnd3d3dw?oc=5",
+      "source": "GAME Watch",
+      "snippet": "京都・錦市場に「ちいかわベビーカステラ」2号店がオープン 新しいマスコットセットとカップホルダーも登場 GAME Watch",
+      "summary": "京都・錦市場に「ちいかわベビーカステラ」2号店がオープン 新しいマスコットセットとカップホルダーも登場 GAME Watch",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T11:16:38+09:00",
+      "published_display": "2026-10-28 11:16 JST"
+    },
+    {
+      "title": "京都・錦市場に「ちいかわベビーカステラ」2号店がオープン（GAME Watch） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qVXNzOGFaeWZkOXZSaV9aNnFoMzU4VnBDa1p4REpCWC1RQnl4NVZjdDBQU0s0LWlmSnYteFZBcGFsQ09qbmVzVnppRFdVRDd4cG1GLXBWSnc0a25EVXJGZVloczlfMXhsU1VCT0NoRUZUWXFJUEZuQlNzejV2bVk?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『映画ちいかわ』公開14週でも動員2位の偉業…“入場特典” の効果なのか “作品の力” なのかSNSで議論勃発（SmartFLASH） Yahoo!ニュース",
-      "summary": "『映画ちいかわ』公開14週でも動員2位の偉業…“入場特典” の効果なのか “作品の力” なのかSNSで議論勃発（SmartFLASH） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-27T19:40:21+09:00",
-      "published_display": "2026-10-27 19:40 JST"
+      "snippet": "京都・錦市場に「ちいかわベビーカステラ」2号店がオープン（GAME Watch） Yahoo!ニュース",
+      "summary": "京都・錦市場に「ちいかわベビーカステラ」2号店がオープン（GAME Watch） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-28T11:16:00+09:00",
+      "published_display": "2026-10-28 11:16 JST"
+    },
+    {
+      "title": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ - KADOKAWAオフィシャルサイト",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbzhDY2dSUEt1YnkwbmN1Z0VDMEp5dFhIU2t4aGg4LUdZQzFRYVNieUlMU3dXQXN6OHBHMHRmZWhDUVg4Y05IMHEwNk95djVFblE?oc=5",
+      "source": "KADOKAWAオフィシャルサイト",
+      "snippet": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ KADOKAWAオフィシャルサイト",
+      "summary": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ KADOKA…",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T10:49:03+09:00",
+      "published_display": "2026-10-28 10:49 JST"
+    },
+    {
+      "title": "テイクアウトショップ「ちいかわベビーカステラ 京都錦店」が11月18日(水)、錦市場にグランドオープン！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqajNQb1cxTXV2aWxYMngyQTV2TTRhdjhHeEpVNWZMZjA1TW1fZmRJRzZvYjVuMG45XzI5dUh4OEgyNDVDZGtBZExtZHhTdGtyZ3lHcU1sUXVTcjc2MWdya2NETVBjMWh5YWc?oc=5",
+      "source": "PR TIMES",
+      "snippet": "テイクアウトショップ「ちいかわベビーカステラ 京都錦店」が11月18日(水)、錦市場にグランドオープン！ PR TIMES",
+      "summary": "テイクアウトショップ「ちいかわベビーカステラ 京都錦店」が11月18日(水)、錦市場にグランドオープン！ PR TIMES",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-10-28T10:00:02+09:00",
+      "published_display": "2026-10-28 10:00 JST"
+    },
+    {
+      "title": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LUkc5Znhtb3ljak5nbnlEeWVfWEp5QmY0azg3WkJxRWpwcEEtTmRGRzZNRC04RUlUcDZjN0ZkdzEzalcwb05RdkZDSUVpMDBidmNiLV80RzdSV2ZaMVZlZk5fbmdvTVItVGdRNEo5UTlBRDNnZkp0S1Y5Yw?oc=5",
+      "source": "産経ニュース",
+      "snippet": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ 産経ニュース",
+      "summary": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ 産経ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T10:00:00+09:00",
+      "published_display": "2026-10-28 10:00 JST"
+    },
+    {
+      "title": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwMGJXV0ZHVXZBRm9lLXZZbUxQdHpfR3hjOXIwRUdFcjh6RENIS1JUWl91MmJDMXJPNXRQRDY4Ynl0dWlhc0xCckQ4MnZhSVNaUl9tcDMwWmpiWFRlVHdDdUdZcGo3WTB2Ni1qMFRPZ1VZUQ?oc=5",
+      "source": "Infoseek",
+      "snippet": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ Infoseek",
+      "summary": "大人気「ちいかわ」のかわいいイラストがいっぱい！ “おふろに貼れるおけいこポスター”『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』が10月28日(水)発売！ Infose…",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T10:00:00+09:00",
+      "published_display": "2026-10-28 10:00 JST"
+    },
+    {
+      "title": "【しまむら×ちいかわ】「メンズがない…涙」 税込み869円「メンズも売って」！ 要望あいつぐ、冬の “あったか” グッズ（LASISA） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4dVUxR3lTMW96VHVteVJ6QktMejNvNkJFTTZRM2pYcWpXNzIwZEtWNVVaQ2pqZEVJM2N1Z1hPdjdrbUpBRG83Tk9DYWNIaXZCRzZTb2hLaDVNMWtPc0IwV0F2aGVpT2V1LWxNeVRiNWdCOFViekdLOEpXX1hVVzg?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【しまむら×ちいかわ】「メンズがない…涙」 税込み869円「メンズも売って」！ 要望あいつぐ、冬の “あったか” グッズ（LASISA） Yahoo!ニュース",
+      "summary": "【しまむら×ちいかわ】「メンズがない…涙」 税込み869円「メンズも売って」！ 要望あいつぐ、冬の “あったか” グッズ（LASISA） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T09:15:00+09:00",
+      "published_display": "2026-10-28 09:15 JST"
+    },
+    {
+      "title": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBidWxuMGtmZjFxLXlrNHhnT2tDV1A4QklmM3ZZYXk5TG1RdmJMSU12REdNX1FrUkE4dWlDWXdiRTNKNC1aUFl4VW9wT2p2WWpqSXB2SHVfU0Rxc0c4SVRz?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ 千葉テレビ放送株式会社",
+      "summary": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ 千葉テレビ放送株式会社",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T08:00:47+09:00",
+      "published_display": "2026-10-28 08:00 JST"
+    },
+    {
+      "title": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3pLTXhXUW4tdmlONXRxWFBTYVhoV2J2dElDeFdmN1RfaHpDazltalY0c0Q2RGNHeUZfRDdENWd3QlNHZUhXd0tHcmlFaUtDdjZqaVlpU0NLbnlGcERyV252TXUtLUFPaDhfSVNaaExsTVU5Y25MWVhlRENKbThGOThfbC1hVEpKd2fSAY8BQVVfeXFMTjJGZFhTQk4xZGlkWVBjWjhKblJsMUZqWGQzb3pSSnhMTWdxWk9ya1MxVnhnbm0xZ1lxVk5CVFI4ZkpmQ3V1NnJ5R1ozVmZzaERHa1lZbWVHVUk3cFFOcnJFUXZLakg5bFJIcllnNE9FMGdZcDlHczYwTHFBS3h4Snd5eXNMY1VaQ2dGUHFYakk?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ ｄメニューニュース",
+      "summary": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ ｄメニューニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T07:00:00+09:00",
+      "published_display": "2026-10-28 07:00 JST"
+    },
+    {
+      "title": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％（クランクイン！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85SkEtaWlLTUktdXpmTXZyM2hUSkM0blNuQWlYOVNQOHZpYXZ3Z0xwUVAxT1pHd05XR2doOUd4S0FOU2o4MzJxV191VGFCcXR0d0dpbktwSkx4bFRmdkw0WVBkLXVDOU9nT0NFUDlhYzVveFZKS25kUUxWbFRtRG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％（クランクイン！） Yahoo!ニュース",
+      "summary": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％（クランクイン！） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T07:00:00+09:00",
+      "published_display": "2026-10-28 07:00 JST"
+    },
+    {
+      "title": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ - クランクイン！",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aYmFSRFk5UC1PU0tlQVJYSC1NYWZqc1FPbU81NkJaQjFUYm9Eem8zWGNjNXF3dzdNQWt5MHBfZ2czYU5hYVNyX0FCalIwdEJxakxPNA?oc=5",
+      "source": "クランクイン！",
+      "snippet": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ クランクイン！",
+      "summary": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％ クランクイン！",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-28T07:00:00+09:00",
+      "published_display": "2026-10-28 07:00 JST"
     }
   ]
 }
