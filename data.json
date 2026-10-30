@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-30T12:16:22.501887+09:00",
-  "generated_at_jst": "2026-10-30 12:16 JST",
+  "generated_at": "2026-10-31T02:22:23.801204+09:00",
+  "generated_at_jst": "2026-10-31 02:22 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,29 +14,139 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 3,
-      "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
       "count": 4,
-      "icon": "🍰"
+      "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 4,
+      "count": 2,
       "icon": "🎬"
+    },
+    {
+      "key": "event",
+      "label": "イベント",
+      "count": 1,
+      "icon": "🌟"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 1,
+      "count": 5,
       "icon": "🌱"
     }
   ],
   "items": [
+    {
+      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xaWJSMXY2ZmhLektYNFc5MGN5eldWOXFYa3VpVEQxRHBLc0Nmb2V1RXZkdk5wa3RYcUNITDN6dl9xN0xYdVlxRk9JNFRZX1VtbWFFaWdkSXJsTVdaUmVVVzdXYU9wc0M2d3JCQjllSVVYcEo4T0JQaA?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
+      "summary": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-31T01:07:44+09:00",
+      "published_display": "2026-10-31 01:07 JST"
+    },
+    {
+      "title": "「ディズニー×MARY QUANT」神コラボ！ミニーのレトロ可愛い新作グッズ出たよ♪ - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUSnY0Zl81RnFMaUlmOTBUNGc4LUh4TG8wX3F3bFYyNFJxc2RDYmR4RjFsY2o2Ulh2REdoT1BYSUZQYlpqRlBNcjlET3hucm12M1hzX2xjZzktTTN1SERGQXQzTldHN1Z1MHVhVDFUVjVSVC11VnlkMg?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "「ディズニー×MARY QUANT」神コラボ！ミニーのレトロ可愛い新作グッズ出たよ♪ ぴあエンタメ情報",
+      "summary": "「ディズニー×MARY QUANT」神コラボ！ミニーのレトロ可愛い新作グッズ出たよ♪ ぴあエンタメ情報",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-31T01:07:44+09:00",
+      "published_display": "2026-10-31 01:07 JST"
+    },
+    {
+      "title": "「初めて触れるちいかわ なるほどちょっぴりダークだ」映画ちいかわ 人魚の島のひみつ 赤垣さんの映画レビュー（感想・評価） - 映画.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tcFczOUxJV2hlV0VjcjFyR3FuYmZjQUhWYlVkekhQQU5hd2xnOXJBZENncUZET2lUOXpvX05PUzZpMGZSYlV6cmJNYm5RWXNFSEtRSV83ZnJvZw?oc=5",
+      "source": "映画.com",
+      "snippet": "「初めて触れるちいかわ なるほどちょっぴりダークだ」映画ちいかわ 人魚の島のひみつ 赤垣さんの映画レビュー（感想・評価） 映画.com",
+      "summary": "「初めて触れるちいかわ なるほどちょっぴりダークだ」映画ちいかわ 人魚の島のひみつ 赤垣さんの映画レビュー（感想・評価） 映画.com",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-10-30T22:09:53+09:00",
+      "published_display": "2026-10-30 22:09 JST"
+    },
+    {
+      "title": "ハチワレがピーマン肉詰めに！？ちいかわレストラン“討伐フェア”が静岡PARCOに - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oc0xzMEdadF9jektPRndRUkQ4T0FjcGY0M21xOVBGSmZXOTJFb0FkT0VsMFRaVzFHRktrZWRzTExYYjc4S2ZZaVVrLVhuZ2tUeWc?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ハチワレがピーマン肉詰めに！？ちいかわレストラン“討伐フェア”が静岡PARCOに いこーよニュース",
+      "summary": "ハチワレがピーマン肉詰めに！？ちいかわレストラン“討伐フェア”が静岡PARCOに いこーよニュース",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-10-30T21:01:33+09:00",
+      "published_display": "2026-10-30 21:01 JST"
+    },
+    {
+      "title": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ - Hobby JAPAN Web",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90UW9vQXFEd3plUWZWZVpMWDF3U3ctNkZ1UDdhTHB1SWtlLURDQVFJcUxHNy1sT0JMS0ktVmpCYkpVak85Ym9KNQ?oc=5",
+      "source": "Hobby JAPAN Web",
+      "snippet": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ Hobby JAPAN Web",
+      "summary": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ Hobby JAPAN Web",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-30T20:25:28+09:00",
+      "published_display": "2026-10-30 20:25 JST"
+    },
+    {
+      "title": "『ちいかわ』最新話にディッピンドッツ公式が反応「実写すぎる」「再現度高いですね」「仕事が早い」【ネタバレあり】 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VOXdWQmM4TDc5TU9rTUJrVDdnSFhMUUJqdTlaMnhuWFRGeGo3MGpIbTBuLWJCYU91blFjZDV3enlsbmJNU0k3Rk9oMEpKVkxYbUs1NHlGZl9SUQ?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』最新話にディッピンドッツ公式が反応「実写すぎる」「再現度高いですね」「仕事が早い」【ネタバレあり】 オリコンニュース",
+      "summary": "『ちいかわ』最新話にディッピンドッツ公式が反応「実写すぎる」「再現度高いですね」「仕事が早い」【ネタバレあり】 オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-30T20:22:19+09:00",
+      "published_display": "2026-10-30 20:22 JST"
+    },
+    {
+      "title": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05SHZrcXpyT2FqdWhkamdpZHJtRDdkZTNDV2tLNXlVRjRxeFlrUksyTHM3VWpraVdIU3ZrN3lxbldtMWlMeGxRWGM1TTBPUUtkNlFjS251a3ZjQW9Da0ZsLdIBZkFVX3lxTFBEemhtMTZqNzY5S0RGTEhKb2F5SVpFVjduSnB2WDBNYXR6OGxLSjJ1djhEQms3UmlnZHN3NjBPcV96dklSdHZPM2NVVU05eHkweFljd2V1bXRlS3c0M2NHWTZhcUNUZw?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も リアルサウンド",
+      "summary": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も リアルサウンド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-30T20:11:26+09:00",
+      "published_display": "2026-10-30 20:11 JST"
+    },
+    {
+      "title": "ちいかわがAmazonのタブレットに！ 「Amazon キッズ タブレット」であれもこれもできる…ってコト！？（Fav-Log by ITmedia） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cTFoeGhXclBraGNSSXlINmdxRXRLSHNEcHlRYU1qWDQtTHY2OWNBSER5VU5hNEk0RjNxVS1BRkw3YmVMbzJBM2hUMGdzY1Z5WmJFTzZNczRPRjJ6WHFIUkJVZVA0UE5IaGoyYWoyM2dCSnN5OXpYOUhOV1Q5LU0?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ちいかわがAmazonのタブレットに！ 「Amazon キッズ タブレット」であれもこれもできる…ってコト！？（Fav-Log by ITmedia） Yahoo!ニュース",
+      "summary": "ちいかわがAmazonのタブレットに！ 「Amazon キッズ タブレット」であれもこれもできる…ってコト！？（Fav-Log by ITmedia） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-30T20:10:00+09:00",
+      "published_display": "2026-10-30 20:10 JST"
+    },
+    {
+      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zQ2JuUjNOY2pURnQzSzkwSm0ycFhCcFRDXzZLQVNsazlCdU9wWnBPYlNIbVcydDhmQ2JvbW1POUU3TUQwQ0Z3Mjg2eFY2ckVQV1ZDUjBBRTQ2b2ZsSVJnTmJ3Y1FBVGVuWlM4SUVHOFpYMXdUUlhKUA?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
+      "summary": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-30T19:49:47+09:00",
+      "published_display": "2026-10-30 19:49 JST"
+    },
+    {
+      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VRkNDNkxpRURpZHVKaXZLUUZUc2RWbzAzVEF6ckJqci1iRS1TcWhfX3FKRVNZdVBBa19QeW1RTkJiMUlBTHVWWlhsekZHR2ZuUllvRXpGNzYta1RHOUtJ?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ ぴあエンタメ情報",
+      "summary": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ ぴあエンタメ情報",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-30T19:20:00+09:00",
+      "published_display": "2026-10-30 19:20 JST"
+    },
     {
       "title": "【ちいかわ】ラッコ先生が理想の上司すぎる…！ アニメ『ちいかわ』第52話「強くなるには」はブロッコリーと向き合うちいかわにも注目 - PASH! PLUS",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uaFlvUmNOSFAzWFFDcjEwWHFmNl9oX3FVVFZOZ3J1T1RnN2tKRUFqTm9ualVJX2lUMVhWMEE5RVdoN1pnSHBUYTZUQzNtUQ?oc=5",
@@ -45,129 +155,19 @@
       "summary": "【ちいかわ】ラッコ先生が理想の上司すぎる…！ アニメ『ちいかわ』第52話「強くなるには」はブロッコリーと向き合うちいかわにも注目 PASH! PLUS",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-10-30T12:15:02+09:00",
-      "published_display": "2026-10-30 12:15 JST"
+      "published_at": "2026-10-30T18:52:53+09:00",
+      "published_display": "2026-10-30 18:52 JST"
     },
     {
-      "title": "アニメ人気ランキング｜『薬屋のひとりごと』『ちいかわ』がトップ2に！ - FOD INFO",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NZTJESVlKTkU5blVNYWo2NE11UUs2X0JlT042bURCc1NITlFhSTFNY2RJeUxmQldydjloUlVqSE5aZ1Z6UWRtNTVYUU83YTNPVVRaclpR?oc=5",
-      "source": "FOD INFO",
-      "snippet": "アニメ人気ランキング｜『薬屋のひとりごと』『ちいかわ』がトップ2に！ FOD INFO",
-      "summary": "アニメ人気ランキング｜『薬屋のひとりごと』『ちいかわ』がトップ2に！ FOD INFO",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-30T12:00:40+09:00",
-      "published_display": "2026-10-30 12:00 JST"
-    },
-    {
-      "title": "『くら寿司』×『にじさんじ』コラボ開始も、色濃く残る『ちいかわ』騒動「全て本部で保管中」広報が明かした“寿司皿100万枚”の行方 - 週刊女性PRIME",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82Tl9TZ1hvQ01fMC04M2g2TllwY254RHIxQnlTREgyQjA1ZVZCVU1RQm1IYjdTRXo0cDVyYU5mb3N6OVZFS3NWSU1RSGI2QTQ?oc=5",
-      "source": "週刊女性PRIME",
-      "snippet": "『くら寿司』×『にじさんじ』コラボ開始も、色濃く残る『ちいかわ』騒動「全て本部で保管中」広報が明かした“寿司皿100万枚”の行方 週刊女性PRIME",
-      "summary": "『くら寿司』×『にじさんじ』コラボ開始も、色濃く残る『ちいかわ』騒動「全て本部で保管中」広報が明かした“寿司皿100万枚”の行方 週刊女性PRIME",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-30T12:00:00+09:00",
-      "published_display": "2026-10-30 12:00 JST"
-    },
-    {
-      "title": "ちいかわ＞リボンを着けたちいかわたち minumコラボシャンプー＆トリートメント発売 ヘアバンドも（MANTANWEB） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5Tk52aWhxVEMyd0dUaFIxX0N5MmMxcEdXX2xhMkFWbzZlYjBkeW8yOHo5NFB6NldSVTJVZTVyQUItYTdtYnRtektNTTRHZ2FTVVo5V2JSZThYTDVFNVpxWFdzNG1ldVNnVW4yajM4TkgwV1RXX0RxTVF3MHRJcEE?oc=5",
+      "title": "『ちいかわ』うさぎの“裏の顔”が判明？ 「大胆な暮らし」をVlogで配信中（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1haVJLd2h3a3d0c1d4SEJrYTJSUF9DMXVKaEd2UFljTVk1YUM5QVFaSUQyTnl2LTZEWTdHMVpBVFBQRnFPRkw1Sk84SXBvQ1ZVWlJTYVZ4NVo1ZFpKcGJZOF9mc0w1R0hhZUY2RlJCTWJWbzRBWHBvdUNXVFpBem8?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ちいかわ＞リボンを着けたちいかわたち minumコラボシャンプー＆トリートメント発売 ヘアバンドも（MANTANWEB） Yahoo!ニュース",
-      "summary": "ちいかわ＞リボンを着けたちいかわたち minumコラボシャンプー＆トリートメント発売 ヘアバンドも（MANTANWEB） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-30T10:54:00+09:00",
-      "published_display": "2026-10-30 10:54 JST"
-    },
-    {
-      "title": "「ちいかわ」ツヤツヤになれーッ！ヘアバンド付きのコラボ限定ヘアケアセット（コミックナタリー） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rb01aRUh3UzhGeEdpalpsUVRsZ1ZTN1Z2VDNIU19tdUVtUDUyaVFJdi1SVlJsNGEtNDJfWF9CME9Eel83UGpZVGZqWTVJbGNJSFd3Q2ltT1QzN1pLajRwSVkwVXZpcGRJUmdDZDlMOGFIaGpOZEU5S0lVUDRXTVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」ツヤツヤになれーッ！ヘアバンド付きのコラボ限定ヘアケアセット（コミックナタリー） Yahoo!ニュース",
-      "summary": "「ちいかわ」ツヤツヤになれーッ！ヘアバンド付きのコラボ限定ヘアケアセット（コミックナタリー） Yahoo!ニュース",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-30T10:39:10+09:00",
-      "published_display": "2026-10-30 10:39 JST"
-    },
-    {
-      "title": "「ちいかわ」ツヤツヤになれーッ！ヘアバンド付きのコラボ限定ヘアケアセット - ナタリー",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MMDBSNzhZQVA1UTBKTDJWUVZiUmJOc2ptWlZWUWs0RS1MY3lYbWdLbU9GWUc4R3g4SmFxdUJjbWVqWF83aDVfZ2tEeTc?oc=5",
-      "source": "ナタリー",
-      "snippet": "「ちいかわ」ツヤツヤになれーッ！ヘアバンド付きのコラボ限定ヘアケアセット ナタリー",
-      "summary": "「ちいかわ」ツヤツヤになれーッ！ヘアバンド付きのコラボ限定ヘアケアセット ナタリー",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-30T10:38:00+09:00",
-      "published_display": "2026-10-30 10:38 JST"
-    },
-    {
-      "title": "『ちいかわ』の“ヘアバンド”がおまけ！ 「turlin by minum＋」コラボアイテム発売へ（クランクイン！） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbE9saFFoMHFjYms3UDk3MVhKUk1KcXJhdmRfbEkyU1h2ckFIcjY0Um5mbWJVNEhDMXI4LXljeEVfeHowcFlLMTJVOGdNZ0t3Rk85cnJaUjNaM0c2VVhxaGIyeTRXSVRLSTloQ3ZZRDBCWk96VGthclFTRllIQ00?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』の“ヘアバンド”がおまけ！ 「turlin by minum＋」コラボアイテム発売へ（クランクイン！） Yahoo!ニュース",
-      "summary": "『ちいかわ』の“ヘアバンド”がおまけ！ 「turlin by minum＋」コラボアイテム発売へ（クランクイン！） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-30T10:32:00+09:00",
-      "published_display": "2026-10-30 10:32 JST"
-    },
-    {
-      "title": "『ちいかわ』の“ヘアバンド”がおまけ！ 「turlin by minum＋」コラボアイテム発売へ - クランクイン！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jLWlPMS0yS2VhVW9LaWJUVm5QeEVZd2ZGMzM5dzI3NUk0OGVZdlVlU2U4NTIzUW1CN3o5amd2dE0zZWN0V3NESDlMeHJxdUtva0c4MDllbw?oc=5",
-      "source": "クランクイン！",
-      "snippet": "『ちいかわ』の“ヘアバンド”がおまけ！ 「turlin by minum＋」コラボアイテム発売へ クランクイン！",
-      "summary": "『ちいかわ』の“ヘアバンド”がおまけ！ 「turlin by minum＋」コラボアイテム発売へ クランクイン！",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-30T10:32:00+09:00",
-      "published_display": "2026-10-30 10:32 JST"
-    },
-    {
-      "title": "SNS発の『ちいかわ』映画がコナン超え 興収184億円ヒットを読み解く | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jaFd4b3I5SWNSZkNQRWtZbGxoRlVTcUM0MF85cUJJckprZkpVN2pXRTc5NW5jckVlOUJ6OVJvUW9MaG1rRjdz?oc=5",
-      "source": "MEDIAMIXI",
-      "snippet": "SNS発の『ちいかわ』映画がコナン超え 興収184億円ヒットを読み解く | ニュース | IT×エンタメの最前線を届ける MEDIAMIXI",
-      "summary": "SNS発の『ちいかわ』映画がコナン超え 興収184億円ヒットを読み解く | ニュース | IT×エンタメの最前線を届ける MEDIAMIXI",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-30T10:28:22+09:00",
-      "published_display": "2026-10-30 10:28 JST"
-    },
-    {
-      "title": "【読者レビュー9.7点】映画『ちいかわ 人魚の島のひみつ』かわいいだけじゃない、罪と罰の重厚な物語にリピーター続出 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdHVkdm9YeW5NemN3UlpyTE5WMGV3SVdnOTJyUEs0MFhuQUFFTkQ2c2U5a0dSdUlYUzAyRnRqWVBRMU4tdklwa2NjRnloZkpaNkFiUkEwUQ?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【読者レビュー9.7点】映画『ちいかわ 人魚の島のひみつ』かわいいだけじゃない、罪と罰の重厚な物語にリピーター続出 電撃オンライン",
-      "summary": "【読者レビュー9.7点】映画『ちいかわ 人魚の島のひみつ』かわいいだけじゃない、罪と罰の重厚な物語にリピーター続出 電撃オンライン",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-30T10:20:00+09:00",
-      "published_display": "2026-10-30 10:20 JST"
-    },
-    {
-      "title": "登録者53「大胆な暮らし」の正体は? ちいかわ&ハチワレが動画を見ていたら… - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52V0RQdlpzYmxsQldpa2hZQkpOV2p4MWMyZ211aG1kM0VTNE5KUnp4cW02UDdLMVJmY2ZSb2JKX1hWekJ3azFic2stYTZvUFB6QVZfY0Z0OHowLWh1?oc=5",
-      "source": "マイナビニュース",
-      "snippet": "登録者53「大胆な暮らし」の正体は? ちいかわ&ハチワレが動画を見ていたら… マイナビニュース",
-      "summary": "登録者53「大胆な暮らし」の正体は? ちいかわ&ハチワレが動画を見ていたら… マイナビニュース",
+      "snippet": "『ちいかわ』うさぎの“裏の顔”が判明？ 「大胆な暮らし」をVlogで配信中（リアルサウンド） Yahoo!ニュース",
+      "summary": "『ちいかわ』うさぎの“裏の顔”が判明？ 「大胆な暮らし」をVlogで配信中（リアルサウンド） Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-30T10:19:20+09:00",
-      "published_display": "2026-10-30 10:19 JST"
-    },
-    {
-      "title": "minum、ちいかわコラボレーション第2弾が決定！「turlin by minum+」から限定デザインのヘアケアアイテムが登場 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tY3k0RUh6eUtsNzJ1SzdGMXBsVDVBRWJuR194SExvYkc5LW5BNXFiOVpZbFJsX2MxNWJaVU90UXA1Ynlvd1o5Wlk0TXk4S0swSDFoQkRQYjF1QVRZcG5zZy02ZGN4ZE5ydWc?oc=5",
-      "source": "PR TIMES",
-      "snippet": "minum、ちいかわコラボレーション第2弾が決定！「turlin by minum+」から限定デザインのヘアケアアイテムが登場 PR TIMES",
-      "summary": "minum、ちいかわコラボレーション第2弾が決定！「turlin by minum+」から限定デザインのヘアケアアイテムが登場 PR TIMES",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-10-30T10:00:34+09:00",
-      "published_display": "2026-10-30 10:00 JST"
+      "published_at": "2026-10-30T18:20:01+09:00",
+      "published_display": "2026-10-30 18:20 JST"
     }
   ]
 }
