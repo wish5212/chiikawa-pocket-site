@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-10-31T02:22:23.801204+09:00",
-  "generated_at_jst": "2026-10-31 02:22 JST",
+  "generated_at": "2026-10-31T11:59:47.267153+09:00",
+  "generated_at_jst": "2026-10-31 11:59 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -18,79 +18,40 @@
       "icon": "🎀"
     },
     {
-      "key": "anime",
-      "label": "アニメ・映画",
-      "count": 2,
-      "icon": "🎬"
-    },
-    {
-      "key": "event",
-      "label": "イベント",
+      "key": "collab",
+      "label": "コラボ",
       "count": 1,
-      "icon": "🌟"
+      "icon": "🍰"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 5,
+      "count": 7,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xaWJSMXY2ZmhLektYNFc5MGN5eldWOXFYa3VpVEQxRHBLc0Nmb2V1RXZkdk5wa3RYcUNITDN6dl9xN0xYdVlxRk9JNFRZX1VtbWFFaWdkSXJsTVdaUmVVVzdXYU9wc0M2d3JCQjllSVVYcEo4T0JQaA?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
-      "summary": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-31T01:07:44+09:00",
-      "published_display": "2026-10-31 01:07 JST"
-    },
-    {
-      "title": "「ディズニー×MARY QUANT」神コラボ！ミニーのレトロ可愛い新作グッズ出たよ♪ - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUSnY0Zl81RnFMaUlmOTBUNGc4LUh4TG8wX3F3bFYyNFJxc2RDYmR4RjFsY2o2Ulh2REdoT1BYSUZQYlpqRlBNcjlET3hucm12M1hzX2xjZzktTTN1SERGQXQzTldHN1Z1MHVhVDFUVjVSVC11VnlkMg?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "「ディズニー×MARY QUANT」神コラボ！ミニーのレトロ可愛い新作グッズ出たよ♪ ぴあエンタメ情報",
-      "summary": "「ディズニー×MARY QUANT」神コラボ！ミニーのレトロ可愛い新作グッズ出たよ♪ ぴあエンタメ情報",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-10-31T01:07:44+09:00",
-      "published_display": "2026-10-31 01:07 JST"
-    },
-    {
-      "title": "「初めて触れるちいかわ なるほどちょっぴりダークだ」映画ちいかわ 人魚の島のひみつ 赤垣さんの映画レビュー（感想・評価） - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tcFczOUxJV2hlV0VjcjFyR3FuYmZjQUhWYlVkekhQQU5hd2xnOXJBZENncUZET2lUOXpvX05PUzZpMGZSYlV6cmJNYm5RWXNFSEtRSV83ZnJvZw?oc=5",
-      "source": "映画.com",
-      "snippet": "「初めて触れるちいかわ なるほどちょっぴりダークだ」映画ちいかわ 人魚の島のひみつ 赤垣さんの映画レビュー（感想・評価） 映画.com",
-      "summary": "「初めて触れるちいかわ なるほどちょっぴりダークだ」映画ちいかわ 人魚の島のひみつ 赤垣さんの映画レビュー（感想・評価） 映画.com",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-30T22:09:53+09:00",
-      "published_display": "2026-10-30 22:09 JST"
-    },
-    {
-      "title": "ハチワレがピーマン肉詰めに！？ちいかわレストラン“討伐フェア”が静岡PARCOに - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oc0xzMEdadF9jektPRndRUkQ4T0FjcGY0M21xOVBGSmZXOTJFb0FkT0VsMFRaVzFHRktrZWRzTExYYjc4S2ZZaVVrLVhuZ2tUeWc?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ハチワレがピーマン肉詰めに！？ちいかわレストラン“討伐フェア”が静岡PARCOに いこーよニュース",
-      "summary": "ハチワレがピーマン肉詰めに！？ちいかわレストラン“討伐フェア”が静岡PARCOに いこーよニュース",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-10-30T21:01:33+09:00",
-      "published_display": "2026-10-30 21:01 JST"
-    },
-    {
-      "title": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ - Hobby JAPAN Web",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90UW9vQXFEd3plUWZWZVpMWDF3U3ctNkZ1UDdhTHB1SWtlLURDQVFJcUxHNy1sT0JMS0ktVmpCYkpVak85Ym9KNQ?oc=5",
-      "source": "Hobby JAPAN Web",
-      "snippet": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ Hobby JAPAN Web",
-      "summary": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ Hobby JAPAN Web",
+      "title": "批評誌『エクリヲ』が“IP”を特集 VTuberや『ちいかわ』から現代社会を考察 - KAI-YOU",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16UTFlVUNtUzB2aVZINUNsMXZOc091ZHhfMkFFV1p3TjBQYVgxXzI5Q3ZkdjBVTGoyLWlQWmdIdUxpekQ1V1R0Sg?oc=5",
+      "source": "KAI-YOU",
+      "snippet": "批評誌『エクリヲ』が“IP”を特集 VTuberや『ちいかわ』から現代社会を考察 KAI-YOU",
+      "summary": "批評誌『エクリヲ』が“IP”を特集 VTuberや『ちいかわ』から現代社会を考察 KAI-YOU",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-30T20:25:28+09:00",
-      "published_display": "2026-10-30 20:25 JST"
+      "published_at": "2026-10-31T11:06:00+09:00",
+      "published_display": "2026-10-31 11:06 JST"
+    },
+    {
+      "title": "静岡PARCOで「ちいかわレストラン」討伐フェアのドリンク＆グッズ店が11月開催（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNURnMUhRWkRUOWFnS01PZGlNQ0FqZXREMXUxWV93TE9IQmxFMklESkJuMzRiQUFZTjZLWFU4cnVIRkpWd1BnZVpPSXRnZ29NWnROOWctNUMxeWVfMmJiSlRFSUVHUW1xbXVNNW9MYWo3bVN5SUc0eTA1eHp3Y3c?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "静岡PARCOで「ちいかわレストラン」討伐フェアのドリンク＆グッズ店が11月開催（リアルサウンド） Yahoo!ニュース",
+      "summary": "静岡PARCOで「ちいかわレストラン」討伐フェアのドリンク＆グッズ店が11月開催（リアルサウンド） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-31T11:01:36+09:00",
+      "published_display": "2026-10-31 11:01 JST"
     },
     {
       "title": "『ちいかわ』最新話にディッピンドッツ公式が反応「実写すぎる」「再現度高いですね」「仕事が早い」【ネタバレあり】 - オリコンニュース",
@@ -100,74 +61,107 @@
       "summary": "『ちいかわ』最新話にディッピンドッツ公式が反応「実写すぎる」「再現度高いですね」「仕事が早い」【ネタバレあり】 オリコンニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-30T20:22:19+09:00",
-      "published_display": "2026-10-30 20:22 JST"
+      "published_at": "2026-10-31T10:34:56+09:00",
+      "published_display": "2026-10-31 10:34 JST"
     },
     {
-      "title": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も - リアルサウンド",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05SHZrcXpyT2FqdWhkamdpZHJtRDdkZTNDV2tLNXlVRjRxeFlrUksyTHM3VWpraVdIU3ZrN3lxbldtMWlMeGxRWGM1TTBPUUtkNlFjS251a3ZjQW9Da0ZsLdIBZkFVX3lxTFBEemhtMTZqNzY5S0RGTEhKb2F5SVpFVjduSnB2WDBNYXR6OGxLSjJ1djhEQms3UmlnZHN3NjBPcV96dklSdHZPM2NVVU05eHkweFljd2V1bXRlS3c0M2NHWTZhcUNUZw?oc=5",
-      "source": "リアルサウンド",
-      "snippet": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も リアルサウンド",
-      "summary": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も リアルサウンド",
+      "title": "【ヤッハー!】ちいかわ、リンリン動く「うさぎツリー」が愉快で最高!「なにこれかわいすぎる」「うちで飼いたい」と4.8万いいね - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qNjU0dF9ycjJMNjA2Z0V5Qm1nLWtnZGp6UnYxWjVIcHc3YU5CWkQ4b1Q5WFF6NzBJSU1rXzF2ejRrSGNyeWlzWC00c2NROVQyVmFEakhsejlERzdI?oc=5",
+      "source": "マイナビニュース",
+      "snippet": "【ヤッハー!】ちいかわ、リンリン動く「うさぎツリー」が愉快で最高!「なにこれかわいすぎる」「うちで飼いたい」と4.8万いいね マイナビニュース",
+      "summary": "【ヤッハー!】ちいかわ、リンリン動く「うさぎツリー」が愉快で最高!「なにこれかわいすぎる」「うちで飼いたい」と4.8万いいね マイナビニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-30T20:11:26+09:00",
-      "published_display": "2026-10-30 20:11 JST"
+      "published_at": "2026-10-31T10:30:40+09:00",
+      "published_display": "2026-10-31 10:30 JST"
     },
     {
-      "title": "ちいかわがAmazonのタブレットに！ 「Amazon キッズ タブレット」であれもこれもできる…ってコト！？（Fav-Log by ITmedia） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cTFoeGhXclBraGNSSXlINmdxRXRLSHNEcHlRYU1qWDQtTHY2OWNBSER5VU5hNEk0RjNxVS1BRkw3YmVMbzJBM2hUMGdzY1Z5WmJFTzZNczRPRjJ6WHFIUkJVZVA0UE5IaGoyYWoyM2dCSnN5OXpYOUhOV1Q5LU0?oc=5",
+      "title": "「ちいかわパーク」クリスマス - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JYcTVIUFZ6dUFUQ0hlSVVIbFBXRlMxdGhXdktxdVhBcXJrRm5RTVVJMmJVTkxSczV0SEF6cnZKQ2xORjZRUGFHUlBBcXhmZ0p0Y3NIQ0k1RElvSFhOWGNtX3Nfd1RMd3g2eVc1Sk1jQzEya243S3VndndyVzFvcHBGdWVpY3AtY2hCaFVmTzBXSjDSAYYBQVVfeXFMT0UtNjh6Mm1aejM2Q0swbTZJSi1YNDhxQXo3T2o1SGNpYTJOSjZHa1QzUWlQRWhrWmIwRnZZTy1iZm5fZW1DU1ZfQV9DYzZ3ZXkwWnBySWNWTk5KTVdJSHJSeXhJaFhYZW1zQ0tpQkpDbTgxQ3ZWaG5COEJDWDFqQ3hzY20xQ3c?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「ちいかわパーク」クリスマス ｄメニューニュース",
+      "summary": "「ちいかわパーク」クリスマス ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-31T10:00:00+09:00",
+      "published_display": "2026-10-31 10:00 JST"
+    },
+    {
+      "title": "全70アプリ搭載のスマホトイ「ちいかわフォンすまーと」が発売！”きらりんドロップ”6種をじゃらづけ可能なチャーム付きスペシャルセットも（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTzJNU1otYlRwSy1CSWgzZlZ3Uzhyc2NBSWJtRml5WmYweDJ2djVrVGlock9jMjVYSGo5LVpfWkRoNWtXUWk0Vml2dUJWMDZwemRvcXVGWlJxczFDS05LQnpEUDMwaFRQM0tVbnBCS3Z1T29fWXQ4azR2aVlKelE?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ちいかわがAmazonのタブレットに！ 「Amazon キッズ タブレット」であれもこれもできる…ってコト！？（Fav-Log by ITmedia） Yahoo!ニュース",
-      "summary": "ちいかわがAmazonのタブレットに！ 「Amazon キッズ タブレット」であれもこれもできる…ってコト！？（Fav-Log by ITmedia） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-10-30T20:10:00+09:00",
-      "published_display": "2026-10-30 20:10 JST"
-    },
-    {
-      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zQ2JuUjNOY2pURnQzSzkwSm0ycFhCcFRDXzZLQVNsazlCdU9wWnBPYlNIbVcydDhmQ2JvbW1POUU3TUQwQ0Z3Mjg2eFY2ckVQV1ZDUjBBRTQ2b2ZsSVJnTmJ3Y1FBVGVuWlM4SUVHOFpYMXdUUlhKUA?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
-      "summary": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真 ぴあエンタメ情報",
+      "snippet": "全70アプリ搭載のスマホトイ「ちいかわフォンすまーと」が発売！”きらりんドロップ”6種をじゃらづけ可能なチャーム付きスペシャルセットも（インサイド） Yahoo!ニュース",
+      "summary": "全70アプリ搭載のスマホトイ「ちいかわフォンすまーと」が発売！”きらりんドロップ”6種をじゃらづけ可能なチャーム付きスペシャルセットも（インサイド） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-30T19:49:47+09:00",
-      "published_display": "2026-10-30 19:49 JST"
+      "published_at": "2026-10-31T09:10:03+09:00",
+      "published_display": "2026-10-31 09:10 JST"
     },
     {
-      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VRkNDNkxpRURpZHVKaXZLUUZUc2RWbzAzVEF6ckJqci1iRS1TcWhfX3FKRVNZdVBBa19QeW1RTkJiMUlBTHVWWlhsekZHR2ZuUllvRXpGNzYta1RHOUtJ?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ ぴあエンタメ情報",
-      "summary": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ ぴあエンタメ情報",
+      "title": "ちいかわベーカリーで顧客情報が流出、予約サイト「Japanticket」への不正アクセスが波及 優先入場券の販売を一時停止 - 合同会社ロケットボーイズ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlpsMklzWkdzb0RQZnpUOERLUlRqcExMNXZ4eEVoUHN4TmlJUTZNRERmdEpPTHhSODJWSHdZWlEwNWZFaFVHRVJERUp2MFR2LVRwY2h0MzRROGh0MnpDeW1XZExfWjZROWpNRWZtYnVHTEhFWm15eFJETnFEU29xcFBoSTJPdmgzb01HRmlEcXRZaUlVdmpJaG93?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "snippet": "ちいかわベーカリーで顧客情報が流出、予約サイト「Japanticket」への不正アクセスが波及 優先入場券の販売を一時停止 合同会社ロケットボーイズ",
+      "summary": "ちいかわベーカリーで顧客情報が流出、予約サイト「Japanticket」への不正アクセスが波及 優先入場券の販売を一時停止 合同会社ロケットボーイズ",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-10-30T19:20:00+09:00",
-      "published_display": "2026-10-30 19:20 JST"
+      "published_at": "2026-10-31T09:09:50+09:00",
+      "published_display": "2026-10-31 09:09 JST"
     },
     {
-      "title": "【ちいかわ】ラッコ先生が理想の上司すぎる…！ アニメ『ちいかわ』第52話「強くなるには」はブロッコリーと向き合うちいかわにも注目 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uaFlvUmNOSFAzWFFDcjEwWHFmNl9oX3FVVFZOZ3J1T1RnN2tKRUFqTm9ualVJX2lUMVhWMEE5RVdoN1pnSHBUYTZUQzNtUQ?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "【ちいかわ】ラッコ先生が理想の上司すぎる…！ アニメ『ちいかわ』第52話「強くなるには」はブロッコリーと向き合うちいかわにも注目 PASH! PLUS",
-      "summary": "【ちいかわ】ラッコ先生が理想の上司すぎる…！ アニメ『ちいかわ』第52話「強くなるには」はブロッコリーと向き合うちいかわにも注目 PASH! PLUS",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-10-30T18:52:53+09:00",
-      "published_display": "2026-10-30 18:52 JST"
-    },
-    {
-      "title": "『ちいかわ』うさぎの“裏の顔”が判明？ 「大胆な暮らし」をVlogで配信中（リアルサウンド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1haVJLd2h3a3d0c1d4SEJrYTJSUF9DMXVKaEd2UFljTVk1YUM5QVFaSUQyTnl2LTZEWTdHMVpBVFBQRnFPRkw1Sk84SXBvQ1ZVWlJTYVZ4NVo1ZFpKcGJZOF9mc0w1R0hhZUY2RlJCTWJWbzRBWHBvdUNXVFpBem8?oc=5",
+      "title": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSktLZ2lFNDV4MGNCRmZZSGtwU0FoUE52M1ZIUUdJYnI5UFB0QWpaWHBQTV9WeUk3dElBR1FOaFlNdHVSdW9VeklNRWxPWU9SZTYwYlJjNmE1Q2FkNWpqaG5uMXc2LTI5Ql9RV1JRN1BoTXk5MmRsOUhFQ1hxT1k?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』うさぎの“裏の顔”が判明？ 「大胆な暮らし」をVlogで配信中（リアルサウンド） Yahoo!ニュース",
-      "summary": "『ちいかわ』うさぎの“裏の顔”が判明？ 「大胆な暮らし」をVlogで配信中（リアルサウンド） Yahoo!ニュース",
+      "snippet": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も（リアルサウンド） Yahoo!ニュース",
+      "summary": "「ちいかわ大判焼き」常設店が台北に初オープン ちいかわ・ハチワレ・うさぎの顔型焼き菓子も（リアルサウンド） Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-10-30T18:20:01+09:00",
-      "published_display": "2026-10-30 18:20 JST"
+      "published_at": "2026-10-31T09:01:01+09:00",
+      "published_display": "2026-10-31 09:01 JST"
+    },
+    {
+      "title": "【ちいかわ×minum】コラボ第2弾が新登場！“限定ヘアバンド付き”絵柄が選べるのがうれしい♪（LASISA） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qaDlTa2xHREdOYVZubkx0clZiSjVWd29fNG5ZRGdJWmxRUHNUX3lENDEyUXpBNWN3UGxYU2pQMGQyMFU0MDV2dWZTbkJ4OFAzclQzcWgzVFV1WUttclRNajFDdXN4R0ZWMzg3bEpPQzZvd0FKUzliaE5LZXZmek0?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわ×minum】コラボ第2弾が新登場！“限定ヘアバンド付き”絵柄が選べるのがうれしい♪（LASISA） Yahoo!ニュース",
+      "summary": "【ちいかわ×minum】コラボ第2弾が新登場！“限定ヘアバンド付き”絵柄が選べるのがうれしい♪（LASISA） Yahoo!ニュース",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-10-31T08:15:00+09:00",
+      "published_display": "2026-10-31 08:15 JST"
+    },
+    {
+      "title": "「ちいかわ プリズンポテト 濃厚サワクリ味」11月2日発売！囚人服姿のちいかわたちを描いた全4柄パッケージ - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95UFdTUWVGaGJIM1RDcjhjYy01djhTVUhjby1KVEZfcDE0eVB3Q1FSRDBtc3FyNDlkRVM1Wk0zVkFCeTkxRmNIY25PMy1EaURQUGFmdzJFdw?oc=5",
+      "source": "にじめん",
+      "snippet": "「ちいかわ プリズンポテト 濃厚サワクリ味」11月2日発売！囚人服姿のちいかわたちを描いた全4柄パッケージ にじめん",
+      "summary": "「ちいかわ プリズンポテト 濃厚サワクリ味」11月2日発売！囚人服姿のちいかわたちを描いた全4柄パッケージ にじめん",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-10-31T07:49:00+09:00",
+      "published_display": "2026-10-31 07:49 JST"
+    },
+    {
+      "title": "10月31日(土)の「ちいかわ占い」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CS0ZQeDNRWXBKNGlfVlhXZTl1MjJjc1BJUnpjeXFITnJMYUFZdXJHeURJTmRNM21jMGFoajJWLVJ5czF3UFh0ZGdSbHJZc0gyUEl3?oc=5",
+      "source": "めざましmedia",
+      "snippet": "10月31日(土)の「ちいかわ占い」 めざましmedia",
+      "summary": "10月31日(土)の「ちいかわ占い」 めざましmedia",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-31T07:00:00+09:00",
+      "published_display": "2026-10-31 07:00 JST"
+    },
+    {
+      "title": "新作「ちいかわフォンすまーと」も登場「ちいかわ電子玩具」おすすめ3選【2026年10月版】（Fav-Log by ITmedia） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZSmtnZEp6eHZzVW5zV25Teld6WF9sU0d2c3lRTDdEdlFTU3NhdzhhMkJESE1MTUNId0xucFVuZEVPblJWcXRLWmk4VkUwVjFPYlhsRkVpOUFwQUNLZVZoTENtcEkycldGX05NeWJIVU9DMlRGVWJlOHRteDJDMjg?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "新作「ちいかわフォンすまーと」も登場「ちいかわ電子玩具」おすすめ3選【2026年10月版】（Fav-Log by ITmedia） Yahoo!ニュース",
+      "summary": "新作「ちいかわフォンすまーと」も登場「ちいかわ電子玩具」おすすめ3選【2026年10月版】（Fav-Log by ITmedia） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-10-31T06:32:40+09:00",
+      "published_display": "2026-10-31 06:32 JST"
     }
   ]
 }
