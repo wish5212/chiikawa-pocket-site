@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-02T02:20:38.579008+09:00",
-  "generated_at_jst": "2026-11-02 02:20 JST",
+  "generated_at": "2026-11-02T12:03:15.689987+09:00",
+  "generated_at_jst": "2026-11-02 12:03 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,14 +14,8 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 5,
+      "count": 6,
       "icon": "🎀"
-    },
-    {
-      "key": "anime",
-      "label": "アニメ・映画",
-      "count": 1,
-      "icon": "🎬"
     },
     {
       "key": "other",
@@ -32,136 +26,136 @@
   ],
   "items": [
     {
-      "title": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ - Hobby JAPAN Web",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90UW9vQXFEd3plUWZWZVpMWDF3U3ctNkZ1UDdhTHB1SWtlLURDQVFJcUxHNy1sT0JMS0ktVmpCYkpVak85Ym9KNQ?oc=5",
-      "source": "Hobby JAPAN Web",
-      "snippet": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ Hobby JAPAN Web",
-      "summary": "健気に自転車の練習をする「ちいかわ」をヴィネットで再現！合わせ目の処理やマーカー塗装など「ちいプラ」をきれいに作るためのコツをHJモデラーがご紹介！ Hobby JAPAN Web",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-02T01:49:03+09:00",
-      "published_display": "2026-11-02 01:49 JST"
-    },
-    {
-      "title": "「ちいかわ」デザインの自動販売機がKITTE名古屋に登場！ 大人気商品「Kiramekko(きらめっこ)」や「GPSBOX」が簡単に購入できる - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IekNlclVHUlFtTGMtUGNnTFE5UklfSUxxMHdEc2RVN1MtR1FQVk9HWUk2ZExlejhVQVh0TU8tN1lPdEJEZ0FMdWJSQ1lPQQ?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "「ちいかわ」デザインの自動販売機がKITTE名古屋に登場！ 大人気商品「Kiramekko(きらめっこ)」や「GPSBOX」が簡単に購入できる PASH! PLUS",
-      "summary": "「ちいかわ」デザインの自動販売機がKITTE名古屋に登場！ 大人気商品「Kiramekko(きらめっこ)」や「GPSBOX」が簡単に購入できる PASH! PLUS",
+      "title": "「ちいかわクリスマスマーケット」限定グッズ、きらめく雪のスノードームやオーナメント風おかしケース - ファッションプレス",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95a3pRNWxleDlqTkNHTXV0TWdydEk0MzNzaUhJZHBsVGhhNzNJT0hPYlcxandBYXlVQUNiOEZwa2ROQUN5Z1c0Q1pjT19TQnUyeGVv?oc=5",
+      "source": "ファッションプレス",
+      "snippet": "「ちいかわクリスマスマーケット」限定グッズ、きらめく雪のスノードームやオーナメント風おかしケース ファッションプレス",
+      "summary": "「ちいかわクリスマスマーケット」限定グッズ、きらめく雪のスノードームやオーナメント風おかしケース ファッションプレス",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-01T21:47:46+09:00",
-      "published_display": "2026-11-01 21:47 JST"
+      "published_at": "2026-11-02T11:52:15+09:00",
+      "published_display": "2026-11-02 11:52 JST"
     },
     {
-      "title": "「ちいかわ」特別デザインの自動販売機がKITTE名古屋B1Fに登場！Kiramekko・GPSBOXの全8シリーズを11月1日より販売 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vTTlUUDQzdko4N3N0ZzFkcVpFMXdXcmp5Q2tmZkltN2VfdUs2Z1FLaHB1dzBFSHR3VmF5cW5TaVFyT0t1OFBWVHJlMGx3bG5SZFFMT3g3VEFlNk5rcG5TZE1xeTN0VW42S2dJcUthajVXTHd4ZzJEYXhFZw?oc=5",
-      "source": "ニコニコニュース",
-      "snippet": "「ちいかわ」特別デザインの自動販売機がKITTE名古屋B1Fに登場！Kiramekko・GPSBOXの全8シリーズを11月1日より販売 ニコニコニュース",
-      "summary": "「ちいかわ」特別デザインの自動販売機がKITTE名古屋B1Fに登場！Kiramekko・GPSBOXの全8シリーズを11月1日より販売 ニコニコニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-01T21:24:15+09:00",
-      "published_display": "2026-11-01 21:24 JST"
-    },
-    {
-      "title": "『VIVANT』が“推しファン”人数で『ちいかわ』抜き首位に ドラマ最終回に向け注目増、エンタメマーケ調査（オタク総研） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU1c3dHY3OHBzSXVlRW41QmVyR0tQdjZRV1NyN0I2ZFAxMEM2SkNrTmVsVHNBY3Byak9BcUVpWnhiLUhoUDRCbmYtbUJhYTFrQVdSNklmdklvbW85QTdmU3otQ0R0T2Q3QVJENGM2SFdjbmlINGFPNmpjcjNFYnc?oc=5",
+      "title": "「争奪戦になりそう！」ちいかわの新作ボンボンドロップシールは全4種で各660円！まじかる・超まじかる・悪いバージョンまでかわいさ満載（LIMO） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbVBLdTFFX3drenlNRlhnczNLNHBsRXVDaVktd3VQTjlWTndlUEV4NzI2NjRTZm4wSkxCRTBXOEYwbHh3cnZrSFBwd056RFl5Znl1N3pzMjk0Uml4VU1CbnNpWUlUTlRxVlhVOHo5X0lPVWpJRk8yV1dFeVhiOUU?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "『VIVANT』が“推しファン”人数で『ちいかわ』抜き首位に ドラマ最終回に向け注目増、エンタメマーケ調査（オタク総研） Yahoo!ニュース",
-      "summary": "『VIVANT』が“推しファン”人数で『ちいかわ』抜き首位に ドラマ最終回に向け注目増、エンタメマーケ調査（オタク総研） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-01T21:08:00+09:00",
-      "published_display": "2026-11-01 21:08 JST"
-    },
-    {
-      "title": "くつずれ / ハチワレ(CV.田中誠人) 弾き語り #伊東健人 #ちいかわ - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTlFQOGVQMkRybDBTbEJ5aHdZVTlGeVNGR1VSR0tuZ1JGM0NFRFlHeTBGUFNYdXZYaC0wSHRhZHgzeHBtVEdReXp0Y3ZDZWpab0RFNXdvRWVHUW9Q?oc=5",
-      "source": "YouTube",
-      "snippet": "くつずれ / ハチワレ(CV.田中誠人) 弾き語り #伊東健人 #ちいかわ YouTube",
-      "summary": "くつずれ / ハチワレ(CV.田中誠人) 弾き語り #伊東健人 #ちいかわ YouTube",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-01T20:00:32+09:00",
-      "published_display": "2026-11-01 20:00 JST"
-    },
-    {
-      "title": "「とにかく可愛いちいかわを堪能」映画ちいかわ 人魚の島のひみつ okaachanさんの映画レビュー（感想・評価） - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Tld6Z19iT1NIWTRHSHhteGFtb3lTcXJmbGphYm1ETGk1d2tPb0RhdzMyZGhBeDNUak5yUTZyYThMQnRqVUZscklwMzFvR3JRcndLdlZZMGpCUQ?oc=5",
-      "source": "映画.com",
-      "snippet": "「とにかく可愛いちいかわを堪能」映画ちいかわ 人魚の島のひみつ okaachanさんの映画レビュー（感想・評価） 映画.com",
-      "summary": "「とにかく可愛いちいかわを堪能」映画ちいかわ 人魚の島のひみつ okaachanさんの映画レビュー（感想・評価） 映画.com",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-01T19:08:20+09:00",
-      "published_display": "2026-11-01 19:08 JST"
-    },
-    {
-      "title": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 9枚目 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OQ1o3SmZmNVJrcFRBaDZES2hZelRRQ3NMcG1NZ1RTY1NxNW1QbXVIMmlkYXJ2ZXpzb3QxTXZDRVpBNGJsdlU0QmVZUjM3TFZ1ZklOYVV6d1RSdw?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 9枚目 オリコンニュース",
-      "summary": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 9枚目 オリコンニュース",
+      "snippet": "「争奪戦になりそう！」ちいかわの新作ボンボンドロップシールは全4種で各660円！まじかる・超まじかる・悪いバージョンまでかわいさ満載（LIMO） Yahoo!ニュース",
+      "summary": "「争奪戦になりそう！」ちいかわの新作ボンボンドロップシールは全4種で各660円！まじかる・超まじかる・悪いバージョンまでかわいさ満載（LIMO） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-01T18:15:56+09:00",
-      "published_display": "2026-11-01 18:15 JST"
+      "published_at": "2026-11-02T11:46:01+09:00",
+      "published_display": "2026-11-02 11:46 JST"
     },
     {
-      "title": "『ちいかわ』名駅直結”KITTE名古屋”に特別デザイン自販機が登場！ 大人気ぬいぐるみやフィギュアを販売 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTkJpVnpCQlM3MkZka29PaUU4VDA5amswRmdONWgtR3N4S2dOYk9aMWpmbGNUVE9hTXFzQ3hrdmpZUURtT1J4QUNQX1gweUZLTXdSNmREUnRUQQ?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "『ちいかわ』名駅直結”KITTE名古屋”に特別デザイン自販機が登場！ 大人気ぬいぐるみやフィギュアを販売 電撃オンライン",
-      "summary": "『ちいかわ』名駅直結”KITTE名古屋”に特別デザイン自販機が登場！ 大人気ぬいぐるみやフィギュアを販売 電撃オンライン",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-01T18:00:00+09:00",
-      "published_display": "2026-11-01 18:00 JST"
-    },
-    {
-      "title": "【明日まで】「お茶吹いた」… 《ちいかわ》 動き回るツリーうさぎ、、、 動画に「何度見ても最高」！ 購入応募の〆切迫る（LASISA） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSEh4NGVLR0JSMTJUX3hvN09VSU1DWThISU1SeXFGY3RacXM2d2ZYLTJWMnExdndGSHdBaEs5V0JZc3k5cTQ4S2hGZ1RRRkpJVEdJWXREeUN2T1RmMGZseXhab1pDd1M2blB1UDNKaXZlMVR1LVZnaEsyUWtSZlE?oc=5",
+      "title": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」が11月16日発売―当たったらラッキーなレア3種も - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdGtQMTVKeFlfWjlKb3JBYUU4akc2b01XQm5JVUZZU1pNbm13Ti14S3ItcWxnbHlhRGtJYkFjQVZfODV0UG13eHRlbXNwX0pnaFVXNFJaSGNFbzZSRHBpREF5eWJSbV9NSVItdHFVR2RlMWVwRlVBaUxtS2gzbms?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【明日まで】「お茶吹いた」… 《ちいかわ》 動き回るツリーうさぎ、、、 動画に「何度見ても最高」！ 購入応募の〆切迫る（LASISA） Yahoo!ニュース",
-      "summary": "【明日まで】「お茶吹いた」… 《ちいかわ》 動き回るツリーうさぎ、、、 動画に「何度見ても最高」！ 購入応募の〆切迫る（LASISA） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-01T17:15:00+09:00",
-      "published_display": "2026-11-01 17:15 JST"
-    },
-    {
-      "title": "【明日まで】「お茶吹いた」… 《ちいかわ》 動き回るツリーうさぎ、、、 動画に「何度見ても最高」！ 購入応募の〆切迫る (LASISA) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlZETW9FZ3BTb1hMTmh3Mng3OUx0SER6ZnNsXzJ0NkdYd0diM2stSzN0UlRmV19UVTBSMUdiOWFFNmZlX2FfeXd0RFV6S0xudFNodGRaeGY5Y0pCeW1TN2RTVFkydFdkUVVWWlFOVWo0LWhxY2lqdF9vRGxkRWpyQ3d0RTgtcTVhd0k4dHNn?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【明日まで】「お茶吹いた」… 《ちいかわ》 動き回るツリーうさぎ、、、 動画に「何度見ても最高」！ 購入応募の〆切迫る (LASISA) Yahoo!ニュース",
-      "summary": "【明日まで】「お茶吹いた」… 《ちいかわ》 動き回るツリーうさぎ、、、 動画に「何度見ても最高」！ 購入応募の〆切迫る (LASISA) Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-01T17:15:00+09:00",
-      "published_display": "2026-11-01 17:15 JST"
-    },
-    {
-      "title": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 4枚目 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NOTVzenNuSmdhODQ5OFZjUXFRc1ZnZnRuenY5SUVoWWlnWVlXejFuVVFZRzNQc3U1dnhnSm5LdU9iWG00TDlmRVV1YUFSOV9SSHNrQzlBSzdWUQ?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 4枚目 オリコンニュース",
-      "summary": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 4枚目 オリコンニュース",
+      "snippet": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」が11月16日発売―当たったらラッキーなレア3種も Yahoo!ニュース",
+      "summary": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」が11月16日発売―当たったらラッキーなレア3種も Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-01T17:10:53+09:00",
-      "published_display": "2026-11-01 17:10 JST"
+      "published_at": "2026-11-02T11:00:03+09:00",
+      "published_display": "2026-11-02 11:00 JST"
     },
     {
-      "title": "【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 (オリコン) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRllNUDJHRVpNSDI3QXhGY1Z3LXdfOVZZT2ZKeFduYUwwMEhTd3ktejNsWmN2YUlUekFfYm0wNkpSeEVnTk5NRnJDOC1LNVJFeFZ4d2R3OEgyNXM2Nm1yVDEyUnVkN0NXbnA2NDlPSUU1WmdkQkxkMWdja0xwdGZYSk1JXzFybGNTTUtlc2dB?oc=5",
+      "title": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xbXR6ZldEMU50YVZfQ21GQXVLSWo2Sk1HNWtZYV9PUWR4V3F4NW02VEhPN2VIeG5jTF9aWkczY3RtMjlCMnVQNk50UXZDSjZmVDEtdUxTR1FtUk9hSzhkdU5KTE83cm5ONzRua0oyeFVtcWRRQWxIN241RWpEeDQ?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 (オリコン) Yahoo!ニュース",
-      "summary": "【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 (オリコン) Yahoo!ニュース",
+      "snippet": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 Yahoo!ニュース",
+      "summary": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-02T10:00:03+09:00",
+      "published_display": "2026-11-02 10:00 JST"
+    },
+    {
+      "title": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWG1Cb2xvY25KMlhnVFRzQzlhdjFUNnhYZW1NV2xkZEh6Q2h6R3B4anE2M2pJYUhaWlFGOUQ4SU5GQkVZV3REN3V0NUp6QVpxbkt4UEY2MmZzOXhUVzMzU1BnYWhabmE4bzU2TzZjVEplMC1hOGZoYzJ0ZlpDbnItMUZoVXU4djlqWFpySjVVdjE3QmtDbTJCVWNrNHh2LWNoUWtCQWJtMGl0YWZkWTYzQW9YNGVaaXVULTROM0toQkJ5dFBOTEx6cHdHS0pxRXBsNVR5VUxwa9IBhwFBVV95cUxNNWFZWVQ4c1dVUy1nOGdoTUN4SnI2T2tMaWxjQ29icjdDVHRaTm9zLXY3QVpOSUJXbmk1ZHN2Q0RpU2RTRVBMenAzZXJnLVJlZFRXN1lEUDhZdVhsSUFvc0EyWmpBTDFDN3R0cXA1eGlzOHhFWnZQc1I2WmR6eElyRU1oajAyWW8?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 ｄメニューニュース",
+      "summary": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 ｄメニューニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-02T10:00:00+09:00",
+      "published_display": "2026-11-02 10:00 JST"
+    },
+    {
+      "title": "ちいかわ自販機が名古屋駅直結KITTEに登場 フィギュアやサンリオコラボぬいぐるみも - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZT2pIMk5zci1hZDR4Vy1PSEU2WjJ3YTEzTjFxMDRCX19DZDFTa1NtWVpZUmRocDBCUGR2eVFMWnFRZ2FDQTBHT1I5SHJyN25JM2c?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわ自販機が名古屋駅直結KITTEに登場 フィギュアやサンリオコラボぬいぐるみも いこーよニュース",
+      "summary": "ちいかわ自販機が名古屋駅直結KITTEに登場 フィギュアやサンリオコラボぬいぐるみも いこーよニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-01T17:04:07+09:00",
-      "published_display": "2026-11-01 17:04 JST"
+      "published_at": "2026-11-02T08:45:13+09:00",
+      "published_display": "2026-11-02 08:45 JST"
+    },
+    {
+      "title": "ちいかわクリスマスマーケット限定グッズ公開 スノードームやサンタさんなマスコット - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odWhxZlY3eWN5aFVxR0lPejBSOUtDMWt5YUV5TTRxZ1dPcEs1WUhFY2FNWXdNY2RMRml4Q2JIdnFSTW5vNF82bGNhTGEweUlXakE?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわクリスマスマーケット限定グッズ公開 スノードームやサンタさんなマスコット いこーよニュース",
+      "summary": "ちいかわクリスマスマーケット限定グッズ公開 スノードームやサンタさんなマスコット いこーよニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T08:40:42+09:00",
+      "published_display": "2026-11-02 08:40 JST"
+    },
+    {
+      "title": "ブラッド・ピットも止められなかった『ちいかわ』…韓国で興行ランキング１位を奪還（ハンギョレ新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84N2loTElLbW0tQUNpclN3LVRBaE4xYzNxWVlhNFVGTS1XTDNUbU5ya3NHT0dYSHJHZ25NT3hRbkFJTjRxSkJwYkMzV25HLUZacm5oM2RoMWZUbGQyaUNxZ0d5QzlCSG9RNTNfWnNiTHJibkNsV0ZGMGRkdzUzd2c?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ブラッド・ピットも止められなかった『ちいかわ』…韓国で興行ランキング１位を奪還（ハンギョレ新聞） Yahoo!ニュース",
+      "summary": "ブラッド・ピットも止められなかった『ちいかわ』…韓国で興行ランキング１位を奪還（ハンギョレ新聞） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-02T08:10:02+09:00",
+      "published_display": "2026-11-02 08:10 JST"
+    },
+    {
+      "title": "「ちいかわ」ぬいぐるみやフィギュアが買える自動販売機がＫＩＴＴＥ名古屋に登場！ - キャラクター情報サイト",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1LWXVkT01MUnRtcUtUbHNaWXoyTHhkX0FiWlJ5azVKcl9FSjNaczZrZkJ2RU1YLUNwaHZpdmNtMS1RUQ?oc=5",
+      "source": "キャラクター情報サイト",
+      "snippet": "「ちいかわ」ぬいぐるみやフィギュアが買える自動販売機がＫＩＴＴＥ名古屋に登場！ キャラクター情報サイト",
+      "summary": "「ちいかわ」ぬいぐるみやフィギュアが買える自動販売機がＫＩＴＴＥ名古屋に登場！ キャラクター情報サイト",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T08:03:15+09:00",
+      "published_display": "2026-11-02 08:03 JST"
+    },
+    {
+      "title": "【かぎ針編み】編み物初心者が「ちいかわ」あみぐるみに挑戦→数日後…… 「怪物爆誕」 衝撃の完成品に「体を震わせて笑いました」（ねとらぼ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40a0I1Mko1NjJMYTRpeW5mWEJlV1pmLTlzUUVzQWZQYUxJYzJqYmZLYUNBYllJQTF2d2ZCUThKUmJ1eFZHRi05VG9nOUxJTTRwTmtQaFB2eGpHUWtPUF9LelBWQWVDb3RGRDlxQWJGYWRmU3pvR04xMERYS3R4VnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【かぎ針編み】編み物初心者が「ちいかわ」あみぐるみに挑戦→数日後…… 「怪物爆誕」 衝撃の完成品に「体を震わせて笑いました」（ねとらぼ） Yahoo!ニュース",
+      "summary": "【かぎ針編み】編み物初心者が「ちいかわ」あみぐるみに挑戦→数日後…… 「怪物爆誕」 衝撃の完成品に「体を震わせて笑いました」（ねとらぼ） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-02T07:15:02+09:00",
+      "published_display": "2026-11-02 07:15 JST"
+    },
+    {
+      "title": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwT1l6dF9wZENIM2lQcHQtU0lwcDBjcS12QWtsYnFMU0JzMUxEeGFPcnV5UkxuMXdEOTBQZ1R6d002M2NobUVYenRBcjRrOHl3NzVMV1pzN0NWRl9jTXRsakhSSUdrRlM4QXlCQjRn?oc=5",
+      "source": "au Webポータル",
+      "snippet": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」 au Webポータル",
+      "summary": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」 au Webポータル",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-02T06:33:23+09:00",
+      "published_display": "2026-11-02 06:33 JST"
+    },
+    {
+      "title": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」（ふたまん＋） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XSmZ0dGFuODY5TFd0UHI0VnF6X0t0QVJpVTRoU040YkRFd0NlUlNZeHQyWWprR1lTUHVsOFFQYTZVNkN4em5UWXdaa0xNM2JwRWJSak9sZl96SFZxeG1qYnd2X0lPclhJQjhISnpUUE9DNE1NTTk4X09pYUZfaVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」（ふたまん＋） Yahoo!ニュース",
+      "summary": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」（ふたまん＋） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-02T06:30:35+09:00",
+      "published_display": "2026-11-02 06:30 JST"
     }
   ]
 }
