@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-02T12:03:15.689987+09:00",
-  "generated_at_jst": "2026-11-02 12:03 JST",
+  "generated_at": "2026-11-03T05:58:02.652214+09:00",
+  "generated_at_jst": "2026-11-03 05:58 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,148 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 6,
+      "count": 7,
       "icon": "🎀"
+    },
+    {
+      "key": "event",
+      "label": "イベント",
+      "count": 1,
+      "icon": "🌟"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 6,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「ちいかわクリスマスマーケット」限定グッズ、きらめく雪のスノードームやオーナメント風おかしケース - ファッションプレス",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95a3pRNWxleDlqTkNHTXV0TWdydEk0MzNzaUhJZHBsVGhhNzNJT0hPYlcxandBYXlVQUNiOEZwa2ROQUN5Z1c0Q1pjT19TQnUyeGVv?oc=5",
+      "title": "『ちいかわ』更新（11/2）。涙目のモモンガ、その理由は…!? - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUjNHT3dTT0V6by1NWTJnRFdWMmhyUTh4VFEwdl80ZF9ia1F0Y2xpMWQwenFPa0ltdzdSMVR1Zy1XXzBuT0o4MUZHenY0NS1fektiZGphT2tVQQ?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/2）。涙目のモモンガ、その理由は…!? 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/2）。涙目のモモンガ、その理由は…!? 電撃オンライン",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T01:16:00+09:00",
+      "published_display": "2026-11-03 01:16 JST"
+    },
+    {
+      "title": "ちいかわベーカリーの26年クリスマス、“サンタ帽”のちいかわパン＆いちご入りティラミス風ハチワレ - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3b1RweGQzNVhvdmo2Tm1GNGN5Nk5wRU01TkFEbHhJWUlpd3phUm9jcTN1bHBHN016N3dNVVFoS3ZMSHp5TU9qMndXRHAzSXUxZXQzNGZoZlZzR1U1MGcw?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "ちいかわベーカリーの26年クリスマス、“サンタ帽”のちいかわパン＆いちご入りティラミス風ハチワレ 千葉テレビ放送株式会社",
+      "summary": "ちいかわベーカリーの26年クリスマス、“サンタ帽”のちいかわパン＆いちご入りティラミス風ハチワレ 千葉テレビ放送株式会社",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T22:16:29+09:00",
+      "published_display": "2026-11-02 22:16 JST"
+    },
+    {
+      "title": "売切れ注意！しまむらで「ちいかわ」グッズがオンライン販売、寒い季節にピッタリなもこもこルームシューズ全4種 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hWGRvRmN4WFZiREZkR2Iwc29nTkxhMHhDbDBRZFpLNTNxQlFESU1Ybk9fZEpFM1lLMGtkcTd2LWgxdjNxYUtqQlJYbGhBclBUVUNuVnB5R1p2VlVDbVRRM0I5aWw0b3ZRTWc?oc=5",
+      "source": "インサイド",
+      "snippet": "売切れ注意！しまむらで「ちいかわ」グッズがオンライン販売、寒い季節にピッタリなもこもこルームシューズ全4種 インサイド",
+      "summary": "売切れ注意！しまむらで「ちいかわ」グッズがオンライン販売、寒い季節にピッタリなもこもこルームシューズ全4種 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T21:00:03+09:00",
+      "published_display": "2026-11-02 21:00 JST"
+    },
+    {
+      "title": "売切れ注意！しまむらで「ちいかわ」グッズがオンライン販売、寒い季節にピッタリなもこもこルームシューズ全4種 2枚目の写真・画像 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mYmJiU1BKc3M0d3YwRWpzVTZYUzQ3SnRTc1lYRVpoOWhrNDNxVjl0MzZJM3M5dnh2X2xoMkFPeGFNUHczX1lRZmxBbmFtWHc2ZGcySnJUaDlmLU81UDFuZU9yODVKV3QwdXBUOHFDSXYtQUY4eDVj?oc=5",
+      "source": "インサイド",
+      "snippet": "売切れ注意！しまむらで「ちいかわ」グッズがオンライン販売、寒い季節にピッタリなもこもこルームシューズ全4種 2枚目の写真・画像 インサイド",
+      "summary": "売切れ注意！しまむらで「ちいかわ」グッズがオンライン販売、寒い季節にピッタリなもこもこルームシューズ全4種 2枚目の写真・画像 インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T21:00:03+09:00",
+      "published_display": "2026-11-02 21:00 JST"
+    },
+    {
+      "title": "【ちいかわ】今年も「ちいかわベーカリー」にX’masをテーマにしたパンが登場！ ティラミス風の「ハチワレ豪華パン」も限定販売 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04R0ppU3VQalFuY0J6U3dTUzM2cHdwb3IxU1J2WURxN01XVEdybWVFdXlvVjR2dDFlazZ2VC0wOTVaVjc0Q2x0c2NmRWc5dw?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】今年も「ちいかわベーカリー」にX’masをテーマにしたパンが登場！ ティラミス風の「ハチワレ豪華パン」も限定販売 PASH! PLUS",
+      "summary": "【ちいかわ】今年も「ちいかわベーカリー」にX’masをテーマにしたパンが登場！ ティラミス風の「ハチワレ豪華パン」も限定販売 PASH! PLUS",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T20:57:44+09:00",
+      "published_display": "2026-11-02 20:57 JST"
+    },
+    {
+      "title": "ちいかわ限定デザインのシャンプー＆トリートメント 「turlin by minum+」コラボ第2弾が11月上旬発売 - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSjVXY1hma2lQYjVEeHZhSjR0N1p1eFNIaHBhMFJGX2M0YVdTaUNpcDM4SzZycWpFZFZPaUNJZmR2WmxldnFDTDNpd1RlXzc1RTktUjI0aEdLZ2dFQXR4Z9IBZkFVX3lxTE9OTXhUY1lvVVFWYUdRXzZRMmZrQVlWYWRBaUNOa09yemtZYnYyNUdoWFhzT0hMYm5ibkRYVnp6aTQwaV9TX3JaMzdET2QtN25NenJILVFOSWtKSWpobWV3alVLWXBmUQ?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "ちいかわ限定デザインのシャンプー＆トリートメント 「turlin by minum+」コラボ第2弾が11月上旬発売 リアルサウンド",
+      "summary": "ちいかわ限定デザインのシャンプー＆トリートメント 「turlin by minum+」コラボ第2弾が11月上旬発売 リアルサウンド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T20:19:09+09:00",
+      "published_display": "2026-11-02 20:19 JST"
+    },
+    {
+      "title": "ちいかわ、ハチワレ、うさぎたちがサンタに！ 「ちいかわベーカリー」期間限定のクリスマスパンが発売決定ー東京店では限定「ハチワレ豪華パン（ティラミス風）」も - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtT1JYbWdiX08wcTZiTGRSWmpWeTlBVkZNanNyY3pHUUtJZDNxemtYcE9HXzBuYXdiZDlNWXQ5dE1kYnlaZVRJeXJUUEh4OXQ5ODROUDAtclo2bno0YzJZb3RXYzEySU43QVE?oc=5",
+      "source": "インサイド",
+      "snippet": "ちいかわ、ハチワレ、うさぎたちがサンタに！ 「ちいかわベーカリー」期間限定のクリスマスパンが発売決定ー東京店では限定「ハチワレ豪華パン（ティラミス風）」も インサイド",
+      "summary": "ちいかわ、ハチワレ、うさぎたちがサンタに！ 「ちいかわベーカリー」期間限定のクリスマスパンが発売決定ー東京店では限定「ハチワレ豪華パン（ティラミス風）」も インサイド",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-02T20:15:02+09:00",
+      "published_display": "2026-11-02 20:15 JST"
+    },
+    {
+      "title": "【京都】混雑の錦市場に「ちいかわ」が進出！11月オープン、どうなる錦市場 - Kyotopi [キョウトピ]",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUkJHbzNzc1NPdkc3RGhYWGxjNXNoN2ZxU1NwRTNTOExhb1BuVTZGcU9TWGpVMVRwcDRVSTBOWXVMeTZxanNOVWRWRGFqWHo5N3A3RVpzSHBadUNJS2o00gFkQVVfeXFMT0dIN1VXb2lBMWVCblBHNTh4RGFBWGR1YnVkTHNWR1E3Mk9kXzBpR25meWY0OGUxd29aUWZ1Y19PYllKdTNRR3BsNWFCZkE1dUVtcjNrVFAydklBS1k0WEdsQmM3Uw?oc=5",
+      "source": "Kyotopi [キョウトピ]",
+      "snippet": "【京都】混雑の錦市場に「ちいかわ」が進出！11月オープン、どうなる錦市場 Kyotopi [キョウトピ]",
+      "summary": "【京都】混雑の錦市場に「ちいかわ」が進出！11月オープン、どうなる錦市場 Kyotopi [キョウトピ]",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-02T20:00:00+09:00",
+      "published_display": "2026-11-02 20:00 JST"
+    },
+    {
+      "title": "ちいかわベーカリーの26年クリスマス、“サンタ帽”のちいかわパン＆いちご入りティラミス風ハチワレ - ファッションプレス",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wQk9oaXZHSDE1OXgyUzZ0UmY0Q3V2Y2Y3OFN3b2o0SV9JdG9iVjZzZUljVlRQbVpJVFBCRGg3QWdXcGtieGF5amF5UzMyN24tdE9Z?oc=5",
       "source": "ファッションプレス",
-      "snippet": "「ちいかわクリスマスマーケット」限定グッズ、きらめく雪のスノードームやオーナメント風おかしケース ファッションプレス",
-      "summary": "「ちいかわクリスマスマーケット」限定グッズ、きらめく雪のスノードームやオーナメント風おかしケース ファッションプレス",
+      "snippet": "ちいかわベーカリーの26年クリスマス、“サンタ帽”のちいかわパン＆いちご入りティラミス風ハチワレ ファッションプレス",
+      "summary": "ちいかわベーカリーの26年クリスマス、“サンタ帽”のちいかわパン＆いちご入りティラミス風ハチワレ ファッションプレス",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-02T11:52:15+09:00",
-      "published_display": "2026-11-02 11:52 JST"
+      "published_at": "2026-11-02T19:00:00+09:00",
+      "published_display": "2026-11-02 19:00 JST"
     },
     {
-      "title": "「争奪戦になりそう！」ちいかわの新作ボンボンドロップシールは全4種で各660円！まじかる・超まじかる・悪いバージョンまでかわいさ満載（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbVBLdTFFX3drenlNRlhnczNLNHBsRXVDaVktd3VQTjlWTndlUEV4NzI2NjRTZm4wSkxCRTBXOEYwbHh3cnZrSFBwd056RFl5Znl1N3pzMjk0Uml4VU1CbnNpWUlUTlRxVlhVOHo5X0lPVWpJRk8yV1dFeVhiOUU?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「争奪戦になりそう！」ちいかわの新作ボンボンドロップシールは全4種で各660円！まじかる・超まじかる・悪いバージョンまでかわいさ満載（LIMO） Yahoo!ニュース",
-      "summary": "「争奪戦になりそう！」ちいかわの新作ボンボンドロップシールは全4種で各660円！まじかる・超まじかる・悪いバージョンまでかわいさ満載（LIMO） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-02T11:46:01+09:00",
-      "published_display": "2026-11-02 11:46 JST"
-    },
-    {
-      "title": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」が11月16日発売―当たったらラッキーなレア3種も - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdGtQMTVKeFlfWjlKb3JBYUU4akc2b01XQm5JVUZZU1pNbm13Ti14S3ItcWxnbHlhRGtJYkFjQVZfODV0UG13eHRlbXNwX0pnaFVXNFJaSGNFbzZSRHBpREF5eWJSbV9NSVItdHFVR2RlMWVwRlVBaUxtS2gzbms?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」が11月16日発売―当たったらラッキーなレア3種も Yahoo!ニュース",
-      "summary": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」が11月16日発売―当たったらラッキーなレア3種も Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-02T11:00:03+09:00",
-      "published_display": "2026-11-02 11:00 JST"
-    },
-    {
-      "title": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xbXR6ZldEMU50YVZfQ21GQXVLSWo2Sk1HNWtZYV9PUWR4V3F4NW02VEhPN2VIeG5jTF9aWkczY3RtMjlCMnVQNk50UXZDSjZmVDEtdUxTR1FtUk9hSzhkdU5KTE83cm5ONzRua0oyeFVtcWRRQWxIN241RWpEeDQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 Yahoo!ニュース",
-      "summary": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 Yahoo!ニュース",
+      "title": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」が11月第4週より展開 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVV84QWh1Z0xyODF3Zjh4bk4xaWZGdVlfWFJBX3R5Ym16MW5iWVlPWEQyTHlZUXlOU0N0aW5rZjZKbVJqSS1sTUltNk1ETENzRE11Mi1LUWZoYUpMSXpR?oc=5",
+      "source": "Infoseek",
+      "snippet": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」が11月第4週より展開 Infoseek",
+      "summary": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」が11月第4週より展開 Infoseek",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-02T10:00:03+09:00",
-      "published_display": "2026-11-02 10:00 JST"
+      "published_at": "2026-11-02T18:45:02+09:00",
+      "published_display": "2026-11-02 18:45 JST"
     },
     {
-      "title": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWG1Cb2xvY25KMlhnVFRzQzlhdjFUNnhYZW1NV2xkZEh6Q2h6R3B4anE2M2pJYUhaWlFGOUQ4SU5GQkVZV3REN3V0NUp6QVpxbkt4UEY2MmZzOXhUVzMzU1BnYWhabmE4bzU2TzZjVEplMC1hOGZoYzJ0ZlpDbnItMUZoVXU4djlqWFpySjVVdjE3QmtDbTJCVWNrNHh2LWNoUWtCQWJtMGl0YWZkWTYzQW9YNGVaaXVULTROM0toQkJ5dFBOTEx6cHdHS0pxRXBsNVR5VUxwa9IBhwFBVV95cUxNNWFZWVQ4c1dVUy1nOGdoTUN4SnI2T2tMaWxjQ29icjdDVHRaTm9zLXY3QVpOSUJXbmk1ZHN2Q0RpU2RTRVBMenAzZXJnLVJlZFRXN1lEUDhZdVhsSUFvc0EyWmpBTDFDN3R0cXA1eGlzOHhFWnZQc1I2WmR6eElyRU1oajAyWW8?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 ｄメニューニュース",
-      "summary": "「チョコサプ ちいかわ2」が、めちゃかわ！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種 ｄメニューニュース",
+      "title": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」が11月第4週より展開 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUTJKM29MYmg3YjlKM0pPUk40RC1kQVE1MXV4YnJhMWRFczAtY3RZc3RVQUNfdHZIcDdGb3NLZndrWWM1bllMdTU2ekwwU2daZUtLeXlKd3RoSWxTdjU5MEZXS0syQzVGV3c?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」が11月第4週より展開 インサイド",
+      "summary": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」が11月第4週より展開 インサイド",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-02T10:00:00+09:00",
-      "published_display": "2026-11-02 10:00 JST"
+      "published_at": "2026-11-02T18:45:02+09:00",
+      "published_display": "2026-11-02 18:45 JST"
     },
     {
-      "title": "ちいかわ自販機が名古屋駅直結KITTEに登場 フィギュアやサンリオコラボぬいぐるみも - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZT2pIMk5zci1hZDR4Vy1PSEU2WjJ3YTEzTjFxMDRCX19DZDFTa1NtWVpZUmRocDBCUGR2eVFMWnFRZ2FDQTBHT1I5SHJyN25JM2c?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ちいかわ自販機が名古屋駅直結KITTEに登場 フィギュアやサンリオコラボぬいぐるみも いこーよニュース",
-      "summary": "ちいかわ自販機が名古屋駅直結KITTEに登場 フィギュアやサンリオコラボぬいぐるみも いこーよニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-02T08:45:13+09:00",
-      "published_display": "2026-11-02 08:45 JST"
-    },
-    {
-      "title": "ちいかわクリスマスマーケット限定グッズ公開 スノードームやサンタさんなマスコット - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odWhxZlY3eWN5aFVxR0lPejBSOUtDMWt5YUV5TTRxZ1dPcEs1WUhFY2FNWXdNY2RMRml4Q2JIdnFSTW5vNF82bGNhTGEweUlXakE?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ちいかわクリスマスマーケット限定グッズ公開 スノードームやサンタさんなマスコット いこーよニュース",
-      "summary": "ちいかわクリスマスマーケット限定グッズ公開 スノードームやサンタさんなマスコット いこーよニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-02T08:40:42+09:00",
-      "published_display": "2026-11-02 08:40 JST"
-    },
-    {
-      "title": "ブラッド・ピットも止められなかった『ちいかわ』…韓国で興行ランキング１位を奪還（ハンギョレ新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84N2loTElLbW0tQUNpclN3LVRBaE4xYzNxWVlhNFVGTS1XTDNUbU5ya3NHT0dYSHJHZ25NT3hRbkFJTjRxSkJwYkMzV25HLUZacm5oM2RoMWZUbGQyaUNxZ0d5QzlCSG9RNTNfWnNiTHJibkNsV0ZGMGRkdzUzd2c?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ブラッド・ピットも止められなかった『ちいかわ』…韓国で興行ランキング１位を奪還（ハンギョレ新聞） Yahoo!ニュース",
-      "summary": "ブラッド・ピットも止められなかった『ちいかわ』…韓国で興行ランキング１位を奪還（ハンギョレ新聞） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-02T08:10:02+09:00",
-      "published_display": "2026-11-02 08:10 JST"
-    },
-    {
-      "title": "「ちいかわ」ぬいぐるみやフィギュアが買える自動販売機がＫＩＴＴＥ名古屋に登場！ - キャラクター情報サイト",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1LWXVkT01MUnRtcUtUbHNaWXoyTHhkX0FiWlJ5azVKcl9FSjNaczZrZkJ2RU1YLUNwaHZpdmNtMS1RUQ?oc=5",
-      "source": "キャラクター情報サイト",
-      "snippet": "「ちいかわ」ぬいぐるみやフィギュアが買える自動販売機がＫＩＴＴＥ名古屋に登場！ キャラクター情報サイト",
-      "summary": "「ちいかわ」ぬいぐるみやフィギュアが買える自動販売機がＫＩＴＴＥ名古屋に登場！ キャラクター情報サイト",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-02T08:03:15+09:00",
-      "published_display": "2026-11-02 08:03 JST"
-    },
-    {
-      "title": "【かぎ針編み】編み物初心者が「ちいかわ」あみぐるみに挑戦→数日後…… 「怪物爆誕」 衝撃の完成品に「体を震わせて笑いました」（ねとらぼ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40a0I1Mko1NjJMYTRpeW5mWEJlV1pmLTlzUUVzQWZQYUxJYzJqYmZLYUNBYllJQTF2d2ZCUThKUmJ1eFZHRi05VG9nOUxJTTRwTmtQaFB2eGpHUWtPUF9LelBWQWVDb3RGRDlxQWJGYWRmU3pvR04xMERYS3R4VnM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【かぎ針編み】編み物初心者が「ちいかわ」あみぐるみに挑戦→数日後…… 「怪物爆誕」 衝撃の完成品に「体を震わせて笑いました」（ねとらぼ） Yahoo!ニュース",
-      "summary": "【かぎ針編み】編み物初心者が「ちいかわ」あみぐるみに挑戦→数日後…… 「怪物爆誕」 衝撃の完成品に「体を震わせて笑いました」（ねとらぼ） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-02T07:15:02+09:00",
-      "published_display": "2026-11-02 07:15 JST"
-    },
-    {
-      "title": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwT1l6dF9wZENIM2lQcHQtU0lwcDBjcS12QWtsYnFMU0JzMUxEeGFPcnV5UkxuMXdEOTBQZ1R6d002M2NobUVYenRBcjRrOHl3NzVMV1pzN0NWRl9jTXRsakhSSUdrRlM4QXlCQjRn?oc=5",
-      "source": "au Webポータル",
-      "snippet": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」 au Webポータル",
-      "summary": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」 au Webポータル",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-02T06:33:23+09:00",
-      "published_display": "2026-11-02 06:33 JST"
-    },
-    {
-      "title": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」（ふたまん＋） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XSmZ0dGFuODY5TFd0UHI0VnF6X0t0QVJpVTRoU040YkRFd0NlUlNZeHQyWWprR1lTUHVsOFFQYTZVNkN4em5UWXdaa0xNM2JwRWJSak9sZl96SFZxeG1qYnd2X0lPclhJQjhISnpUUE9DNE1NTTk4X09pYUZfaVk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」（ふたまん＋） Yahoo!ニュース",
-      "summary": "「ちいかわ」のスナック菓子が誕生 “ナガノワールド”全開のパッケージに騒然「どんな気持ちで食べれば…」（ふたまん＋） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-02T06:30:35+09:00",
-      "published_display": "2026-11-02 06:30 JST"
+      "title": "【ちいかわ】草むしり検定、酒免許、スーパーアルバイター…どの資格が欲しい？『カード型スマホスタンド』全5種が予約開始 - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UlFzZUl3QWNHMzVKTTN2SUVNeDNwWmhQMUR3YlZKTHNEQ3ZiY0hKUnpFTlNJdXhjV3U5Mkc3UktiMFFkWUtqZ2hnV05MUWV0VUM4bzBFM09YZw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "【ちいかわ】草むしり検定、酒免許、スーパーアルバイター…どの資格が欲しい？『カード型スマホスタンド』全5種が予約開始 電撃オンライン",
+      "summary": "【ちいかわ】草むしり検定、酒免許、スーパーアルバイター…どの資格が欲しい？『カード型スマホスタンド』全5種が予約開始 電撃オンライン",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-11-02T18:45:00+09:00",
+      "published_display": "2026-11-02 18:45 JST"
     }
   ]
 }
