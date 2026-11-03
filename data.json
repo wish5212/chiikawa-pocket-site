@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-03T13:21:27.078203+09:00",
-  "generated_at_jst": "2026-11-03 13:21 JST",
+  "generated_at": "2026-11-04T03:44:39.864308+09:00",
+  "generated_at_jst": "2026-11-04 03:44 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -12,35 +12,46 @@
   ],
   "categories": [
     {
-      "key": "goods",
-      "label": "グッズ",
-      "count": 7,
-      "icon": "🎀"
-    },
-    {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 3,
+      "count": 2,
       "icon": "🎬"
+    },
+    {
+      "key": "event",
+      "label": "イベント",
+      "count": 1,
+      "icon": "🌟"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 2,
+      "count": 9,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "【ちいかわベーカリー】ちいかわたちがサンタになっちゃった！ 今年もX’masをテーマにしたパンが登場！ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWZ0bDhTeTMweDJScUpzTVFVWVExY2NjQU9DenYxVlJrLXVLcjFRLTQtempjdWNOVDBoeUhkSXEydU16MTVMdWM3OUxoWTg4a0VBdDlFYV9Edw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわベーカリー】ちいかわたちがサンタになっちゃった！ 今年もX’masをテーマにしたパンが登場！ 電撃オンライン",
-      "summary": "【ちいかわベーカリー】ちいかわたちがサンタになっちゃった！ 今年もX’masをテーマにしたパンが登場！ 電撃オンライン",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-03T12:45:00+09:00",
-      "published_display": "2026-11-03 12:45 JST"
+      "title": "「鬼滅」と決定的に違うのは？大人が「ちいかわ」の世界にすがる納得の理由（＠ＤＩＭＥ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTk9kVTdSRHV4TnVCcnRBMUUzTGpkc2tBZFAtQjAtMEFvOFRfQm4wVGxTT2lYOVNhWGplMUUxZmdGb2VBUGtQeklKazlzcWkxbXRMSEMxWDNVQUJtX0hzcV82Mm83aUZfczhOZVhTZGVHbDJuMG12bWtmVlY5clU?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「鬼滅」と決定的に違うのは？大人が「ちいかわ」の世界にすがる納得の理由（＠ＤＩＭＥ） Yahoo!ニュース",
+      "summary": "「鬼滅」と決定的に違うのは？大人が「ちいかわ」の世界にすがる納得の理由（＠ＤＩＭＥ） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T21:40:01+09:00",
+      "published_display": "2026-11-03 21:40 JST"
+    },
+    {
+      "title": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 - Web-Komachi",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DeDRpcmlnV2ZvSkQ1OTNHbVJhamd3NzBtdURxV1dBYTF3TlJiLVR2V3JIZWRVNWJ3SEVfblBYRTdIRlJJMzdjOHJzZGJHUQ?oc=5",
+      "source": "Web-Komachi",
+      "snippet": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 Web-Komachi",
+      "summary": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 Web-…",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-11-03T21:21:28+09:00",
+      "published_display": "2026-11-03 21:21 JST"
     },
     {
       "title": "【ちいかわ】第57話は古本屋の姿に注目！ アニメ『ちいかわ』ちいかわのかわいい落書きも必見の「草むしり検定/古本」が見逃し配信中 - PASH! PLUS",
@@ -50,118 +61,107 @@
       "summary": "【ちいかわ】第57話は古本屋の姿に注目！ アニメ『ちいかわ』ちいかわのかわいい落書きも必見の「草むしり検定/古本」が見逃し配信中 PASH! PLUS",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-11-03T12:37:50+09:00",
-      "published_display": "2026-11-03 12:37 JST"
+      "published_at": "2026-11-03T20:41:43+09:00",
+      "published_display": "2026-11-03 20:41 JST"
     },
     {
-      "title": "『ちいかわ』の仮装でバイオリン演奏！ ハロウィンの投稿に、腕前や選曲への反応 - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wRkFQNDQ3ZzdwbXlZcUVQeVd4bWMwdm42TGpEZnh1YktQX3ZDY0xVWU1TcUIzX191QVc0SlhHaDlYMHhuVFowMVZkdHdRMElRcEZ2bG5nNA?oc=5",
-      "source": "にじめん",
-      "snippet": "『ちいかわ』の仮装でバイオリン演奏！ ハロウィンの投稿に、腕前や選曲への反応 にじめん",
-      "summary": "『ちいかわ』の仮装でバイオリン演奏！ ハロウィンの投稿に、腕前や選曲への反応 にじめん",
+      "title": "【ちいかわ】囚人服姿のうさぎをゲット！コンビニでパケ買いした罪深い味のスナックを実食レポ！（jsc） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzJSb05Wd3ZLdjRMb2d6MEp6VFNMZUhEUkZnTDEzMndtWF8welpfVlFrai14UXhjc1JBR0Q1RU5JLURESnQyaDJDSnI5R05VLUkydW8xQmdDMWtZazd4ejFCeHdpTHprN0FQSHZkbXFNSUozZjBpeHJTYTBDdzJwRHM4UVdGN0lD?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわ】囚人服姿のうさぎをゲット！コンビニでパケ買いした罪深い味のスナックを実食レポ！（jsc） - エキスパート Yahoo!ニュース",
+      "summary": "【ちいかわ】囚人服姿のうさぎをゲット！コンビニでパケ買いした罪深い味のスナックを実食レポ！（jsc） - エキスパート Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-03T11:47:00+09:00",
-      "published_display": "2026-11-03 11:47 JST"
+      "published_at": "2026-11-03T20:05:23+09:00",
+      "published_display": "2026-11-03 20:05 JST"
     },
     {
-      "title": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yX0FOaGJNb3V5eFcwUmxBelhPY1ZUR3VwUExBN2pFVXAtT3ZzdFliYzRSTjVDWU41Y0NySENNQVRWbEJKZFowb1REZXBHZkhzMldPZVF3aXpUUFhyWVFF?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "snippet": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 千葉テレビ放送株式会社",
-      "summary": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 千葉テレビ放送株式会社",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-03T11:41:46+09:00",
-      "published_display": "2026-11-03 11:41 JST"
+      "title": "【ちいかわ】ちいかわぽけっと POP UP STORE 第4弾 お弁当とお店屋さんの衣装 - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbXE1eUlrX0JOcjVJRENmWTBQaHZfTkxyZXlwWlFXYnM5cFkxVm9ZS1pSM3pYN1p6WDYzajNmOFF6VnpZTDBReFpsX09OaDNlV3ZtREwtTHR4amFO?oc=5",
+      "source": "YouTube",
+      "snippet": "【ちいかわ】ちいかわぽけっと POP UP STORE 第4弾 お弁当とお店屋さんの衣装 YouTube",
+      "summary": "【ちいかわ】ちいかわぽけっと POP UP STORE 第4弾 お弁当とお店屋さんの衣装 YouTube",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T19:02:19+09:00",
+      "published_display": "2026-11-03 19:02 JST"
     },
     {
-      "title": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45b2dCZFN1anBsbEk4OTdZRTVqOXFzQXczd0tOeTJoR29naWlhN2kzXzdRZkdTUUNZWFVFMlhNUWVNUndJNzhUaXowVEZUNmxPM3lyQjQ5MmI2Z0tweEVBMTRDdE5qX2pJNmFTMF9R?oc=5",
-      "source": "au Webポータル",
-      "snippet": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 au Webポータル",
-      "summary": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 au Webポータル",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-03T11:41:44+09:00",
-      "published_display": "2026-11-03 11:41 JST"
+      "title": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険 - Fashionsnap.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05SWdKR09WS0VDMjBlelNlUW45b0xMb1JYR2VUVXNEb05sMUdISG9oQmVfNWpGMkkzd0drX2RzeTJlYVRWMU5wNi01UGlucnk0REdUa0p3MHJpazV6NXV6SXZHeGtMYllG?oc=5",
+      "source": "Fashionsnap.com",
+      "snippet": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険 Fashionsnap.com",
+      "summary": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険 Fashionsnap.com",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T17:36:40+09:00",
+      "published_display": "2026-11-03 17:36 JST"
     },
     {
-      "title": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdnBPbmV3NklTcGFtTHdVSHhNbWljaS1kVmhSeFEwZHpPLWcyak1pbERNY19hMnVvRmtzdUVQdmFVcTlmbXhyOTZwOXpmQWJ3MU1UdnliRzhsMnIta2Y1blBadkdCVGdLampnSTZ5eFVJaTM4V0JwUEhOaFAyVVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 Yahoo!ニュース",
-      "summary": "ちいかわのパンを買った次の日、箱を開けると…中身に衝撃「ダメだ」「酷くて…」「福笑い」 Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-03T11:35:01+09:00",
-      "published_display": "2026-11-03 11:35 JST"
-    },
-    {
-      "title": "“ちいかわメドレー”がFNS歌謡祭で 「映画ちいかわ」より「うさぎラップ」含む3曲 - ナタリー",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2UVhTZjRYQy1rLVZqeXdCTUJZWHhWN1ZJVlpHdDFRU0x4VFFRVGlla2I1dHJzTmlHcWRIdW5EWkJ6N0ZTOS1Zb1pGQmE?oc=5",
-      "source": "ナタリー",
-      "snippet": "“ちいかわメドレー”がFNS歌謡祭で 「映画ちいかわ」より「うさぎラップ」含む3曲 ナタリー",
-      "summary": "“ちいかわメドレー”がFNS歌謡祭で 「映画ちいかわ」より「うさぎラップ」含む3曲 ナタリー",
+      "title": "「ちいかわ」映画館のカップ→ダイソーのアイテムで簡単にリメイク「やってみる！」「これいいな」（1/2） | ホビー ねとらぼ - ねとらぼ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pMHljY0xvbnRSSnR6WWZOdXB6b19ibXkteTBSakRWZ1Q0VU8zYU9XQ29JWExKbU5KR0l6dU81Q1I3VnFRWFF2QUdPb1EtZG9wZkxhcUN4cU9iWDFIM2fSAWNBVV95cUxQSk9wZlQ0YklsaGs1ZGw5MExhbWYyUnhCTEoxSXhNeEFCd2lPQzhzSzVEeUhoSEpWSWxfU0FHLWFzLUdzT3AxbFFPZ3p1Q3dPQzJCandKOVMxMUpodUlsd2VzTWM?oc=5",
+      "source": "ねとらぼ",
+      "snippet": "「ちいかわ」映画館のカップ→ダイソーのアイテムで簡単にリメイク「やってみる！」「これいいな」（1/2） | ホビー ねとらぼ ねとらぼ",
+      "summary": "「ちいかわ」映画館のカップ→ダイソーのアイテムで簡単にリメイク「やってみる！」「これいいな」（1/2） | ホビー ねとらぼ ねとらぼ",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-11-03T11:24:00+09:00",
-      "published_display": "2026-11-03 11:24 JST"
+      "published_at": "2026-11-03T16:59:27+09:00",
+      "published_display": "2026-11-03 16:59 JST"
     },
     {
-      "title": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 1枚目 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XMnR1WjZ2LWgxcU5BUDdKbWdRODlUbEd5d3p4dFVzRjlKQ29INUktUEJfVFBxNDJhc2NIdjJFV1dHOW83TjJFc0NmV1MyUENubG1ycmFsVzdVUQ?oc=5",
+      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCQjNQWkdoSWpNQUxQMXpDTFFFOXZ1ckEtTnVsMU9OenJQZmN2aVd1ZzFxWUZhcVI3SVNkbFdEbnpfZ3FldEJiWGM5eDNhUF9pMk1hTnFxSmFzdw?oc=5",
       "source": "オリコンニュース",
-      "snippet": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 1枚目 オリコンニュース",
-      "summary": "画像・写真 | 【きょうから】名古屋駅直結の商業施設に「ちいかわ」の自動販売機が登場 ぬいぐるみ＆フィギュアが購入可能 1枚目 オリコンニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-03T10:35:17+09:00",
-      "published_display": "2026-11-03 10:35 JST"
-    },
-    {
-      "title": "全日空「ちいかわジェット」函館にお目見え（函館新聞デジタル） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xQXZiQ01pT2RrWGRSazZCVUlWQUdJTXMtUXphNlR0NTNNMzhGZHcteGw2RTVpTmdvdXRWNWg0dUVSRi1FQThYT2ViOW9vY0g1S0FlUlBsNGRVWUtZSVFlakY0ei1wNU5jUlBGZ3NBd1VRUUw1aVFSR3UtYXVaZmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "全日空「ちいかわジェット」函館にお目見え（函館新聞デジタル） Yahoo!ニュース",
-      "summary": "全日空「ちいかわジェット」函館にお目見え（函館新聞デジタル） Yahoo!ニュース",
+      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
+      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-03T10:35:15+09:00",
-      "published_display": "2026-11-03 10:35 JST"
+      "published_at": "2026-11-03T14:05:00+09:00",
+      "published_display": "2026-11-03 14:05 JST"
     },
     {
-      "title": "ちいかわベーカリーのクリスマス限定サンタパンが11月13日より表参道・OSAKAで発売！東京限定のティラミス風「ハチワレ豪華パン」やマグカップ（ホリデー）も - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56dW5mTktLM3ljMlBQcjJObTBSNkVJWlpZbVdmWG1GU19MSzA5RkZIZDNxOURDN3pTV3RxTUk3VWdjcWdtSV82ejByNzFWVFgwMkJDNktMWQ?oc=5",
-      "source": "にじめん",
-      "snippet": "ちいかわベーカリーのクリスマス限定サンタパンが11月13日より表参道・OSAKAで発売！東京限定のティラミス風「ハチワレ豪華パン」やマグカップ（ホリデー）も にじめん",
-      "summary": "ちいかわベーカリーのクリスマス限定サンタパンが11月13日より表参道・OSAKAで発売！東京限定のティラミス風「ハチワレ豪華パン」やマグカップ（ホリデー）も にじめん",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-03T10:24:00+09:00",
-      "published_display": "2026-11-03 10:24 JST"
-    },
-    {
-      "title": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売 - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pcm9obDAyZnAxU2x1Tm0xeEU4QXlmRU80VHRpd3hfNXdMNVNCdkRBNGRBRUt0cWtfVDM0TmJoczdXYk9PYVBpVA?oc=5",
-      "source": "映画.com",
-      "snippet": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売 映画.com",
-      "summary": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売 映画.com",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-03T10:00:00+09:00",
-      "published_display": "2026-11-03 10:00 JST"
-    },
-    {
-      "title": "【ちいかわ】KITTE名古屋にKiramekkoやGPSBOXの自動販売機が登場！（アニメージュプラス） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNkU3RUVLWUw5STZjM1hXWk1reVVWUXFsMllqZGpsVXhBS2dGSG9MUWc1OGVMTE5taFEwYm5XZEhNbXRpOGR5TmNiRmZkRWotVVg2S2xBb3EtbmdvWTgxNHR1MUNmbFhSOFg3aTFVU0R6VTJMWWxzYktkbHByaG8?oc=5",
+      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94OXc1a1NVMHhtRExDTFMxck9FOF96S1ZLbWZuZHpnRVc4bnlabktWNmhfd1U2alF3TjV0VGVMdnFjMFgtMVQ2WV9nSTlLeEM1ekpuMEJ4ZmE0MkgxZm1ZZjVpcl9kQkFRQVJBWUlrcHVsTUdwSVN3TV9oaDV4dXM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【ちいかわ】KITTE名古屋にKiramekkoやGPSBOXの自動販売機が登場！（アニメージュプラス） Yahoo!ニュース",
-      "summary": "【ちいかわ】KITTE名古屋にKiramekkoやGPSBOXの自動販売機が登場！（アニメージュプラス） Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-03T10:00:00+09:00",
-      "published_display": "2026-11-03 10:00 JST"
+      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」（オリコン） Yahoo!ニュース",
+      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」（オリコン） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T14:05:00+09:00",
+      "published_display": "2026-11-03 14:05 JST"
+    },
+    {
+      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」 - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1SllSR0hTSzgyVUM3OHg4QU1VOGZUNW1vaDhaN3JTUGFPdkpSS0Z2X2FIZDFjdWFhYUh2WDlubC1uclZua3I5WVRoblNqYTh1eTZYbWY4M2JDd0dsd1RJ?oc=5",
+      "source": "ライブドアニュース",
+      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」 ライブドアニュース",
+      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」 ライブドアニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T14:05:00+09:00",
+      "published_display": "2026-11-03 14:05 JST"
+    },
+    {
+      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zZGo4NTVmN0N0NVJDVXpPRmpHaVhfeENTYTcyNEtGbFZkUEtDaU40TXdsdW85UmZzaFRjWHlKSVRrM25uM0xkNk9Mc2V2cTZ5RFJydTRR?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
+      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T14:05:00+09:00",
+      "published_display": "2026-11-03 14:05 JST"
+    },
+    {
+      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83SHN2OU1ILVNOT29yc0RzbGNmck8tV2lmTWEwZHRGX0h2MklfNkpFdEo1UjhxRnJmSVJSZXdlMU1FTzljZDJGbkdVSGNOSk5JaVNYZjg5MHc1UQ?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
+      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-03T14:05:00+09:00",
+      "published_display": "2026-11-03 14:05 JST"
     }
   ]
 }
