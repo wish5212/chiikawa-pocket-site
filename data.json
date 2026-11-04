@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-04T12:40:18.218239+09:00",
-  "generated_at_jst": "2026-11-04 12:40 JST",
+  "generated_at": "2026-11-05T03:58:16.931381+09:00",
+  "generated_at_jst": "2026-11-05 03:58 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -18,150 +18,150 @@
       "icon": "🎀"
     },
     {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 3,
+      "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 3,
+      "count": 1,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "ちいかわ・ハチワレがちょこん！外すとチャームになるLovisiaリップエッセンス発売 - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QZ3FiTXlqTzJVUElxWmJ1M3dBdHZEWno4clFPeDdOY05sX2E3N04xdWNDZTdaQU9jNVpRUUtERWlGbmZjNVpNeEJUV3Q4SlE0VWc?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ちいかわ・ハチワレがちょこん！外すとチャームになるLovisiaリップエッセンス発売 いこーよニュース",
-      "summary": "ちいかわ・ハチワレがちょこん！外すとチャームになるLovisiaリップエッセンス発売 いこーよニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-04T12:38:21+09:00",
-      "published_display": "2026-11-04 12:38 JST"
-    },
-    {
-      "title": "焼きたてベビーカステラと新作グッズが並ぶ2号店！ちいかわベビーカステラ 京都錦店 - Dtimes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Gajk4QWJrQW5XRXJSZVBaQXp2b2pqclRfVk5URUd5SElxTERqNTNwVThhWjZkc240MndKaUdMNWVDQ3M0WGc?oc=5",
-      "source": "Dtimes",
-      "snippet": "焼きたてベビーカステラと新作グッズが並ぶ2号店！ちいかわベビーカステラ 京都錦店 Dtimes",
-      "summary": "焼きたてベビーカステラと新作グッズが並ぶ2号店！ちいかわベビーカステラ 京都錦店 Dtimes",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-04T12:29:41+09:00",
-      "published_display": "2026-11-04 12:29 JST"
-    },
-    {
-      "title": "おふろに貼れる全8枚の学習ポスター！KADOKAWA『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』 - Dtimes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OT2NZbTJlRGVjT2Q0OWlJR1dnSHRuYTlJR0I0enVaUzJ3RmVDOXFiY2pjNWU3WV9GdVJDeTAxMjVSMW1LblE?oc=5",
-      "source": "Dtimes",
-      "snippet": "おふろに貼れる全8枚の学習ポスター！KADOKAWA『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』 Dtimes",
-      "summary": "おふろに貼れる全8枚の学習ポスター！KADOKAWA『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』 Dtimes",
+      "title": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tS1dXeUI0YkZWNlA5N3hKbUJSbjF4QU0yQ1J6MkNOQ1F5cjNzN18tU3NwWUVheGNtQk1YS1dnd0pybUQxQ3R4Z2x3NWVuMjFTZDhxbjMxNHk4Zw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！ 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！ 電撃オンライン",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-04T12:19:37+09:00",
-      "published_display": "2026-11-04 12:19 JST"
+      "published_at": "2026-11-05T01:22:00+09:00",
+      "published_display": "2026-11-05 01:22 JST"
     },
     {
-      "title": "「後ろ姿がたまらない」…！ ちいかわ（全4種）パケに悶絶、香りは “パンケーキ” ほか 「連れて帰ってきた！」（LASISA） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aY0xxcDZMeUZiRXEwSjNTVktSeHN1TnJLUGFZU2R3NENfbnBMQXpUcV9WbE13VDAtMHQzLTZ2bTJkZjR2OUNFNFRrQm9kTGFxMHQ0TXYzekg3anBNWnE3V0RnNkdYa29RUWh6VkxETzR6aUlobjJnTUlKVDl1bHM?oc=5",
+      "title": "「ちいかわ、さがしてます。」がおうちでも遊べる！『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ - AERA DIGITAL",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxejB5Y0lxdEFNVlhrVUw2Rlh2RlBFSFI1VE1nN1pkNlZvYkhZbUd5dUE3cDVBVXJLWlJNbWJvdTRQa2ViWXhINE8yWmF0clZm?oc=5",
+      "source": "AERA DIGITAL",
+      "snippet": "「ちいかわ、さがしてます。」がおうちでも遊べる！『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ AERA DIGITAL",
+      "summary": "「ちいかわ、さがしてます。」がおうちでも遊べる！『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ AERA DIGITAL",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-05T00:17:58+09:00",
+      "published_display": "2026-11-05 00:17 JST"
+    },
+    {
+      "title": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvQ2NXQ0U2SlVfdDJtTlVzY1hmMzlsVGs2ODNuUzQ3R3huZ1k1NEtjQ1EtaVBKbFRMUWxqWVNrRDRFdHU2V215QUQ4akp5QQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱 PASH! PLUS",
+      "summary": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱 PASH! PLUS",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T22:38:34+09:00",
+      "published_display": "2026-11-04 22:38 JST"
+    },
+    {
+      "title": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス 販売店舗まとめ - トラベル Watch",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpajFkc2F0RWlWQ2lEaEpFdzkyUFRzOGFzaG9CY21wdmF0VHBuQWYwd3V4VllfRjlsVDlPUVJWOXZjamVjdlpEakM5eFJBRTFfQVV2YU1WYy1ydm16WERKNVpPN3NRNjll?oc=5",
+      "source": "トラベル Watch",
+      "snippet": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス 販売店舗まとめ トラベル Watch",
+      "summary": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス 販売店舗まとめ トラベル Watch",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T21:55:20+09:00",
+      "published_display": "2026-11-04 21:55 JST"
+    },
+    {
+      "title": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス（トラベル Watch） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94VXBwNEpXMUR0ekx5djBzZGlzTDFkQVBmZlhvVW5meVlra1ctYU91anBXbHY4VkJjdFZKZ1l0RUZacTEtRllUVWZPTV9KVC01TE9hcjJWTE12b1JKUjFZaFFXVC16QTAwVlJJMG9UQXZEMzZMNWNNWU1JQ0l1QlU?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「後ろ姿がたまらない」…！ ちいかわ（全4種）パケに悶絶、香りは “パンケーキ” ほか 「連れて帰ってきた！」（LASISA） Yahoo!ニュース",
-      "summary": "「後ろ姿がたまらない」…！ ちいかわ（全4種）パケに悶絶、香りは “パンケーキ” ほか 「連れて帰ってきた！」（LASISA） Yahoo!ニュース",
+      "snippet": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス（トラベル Watch） Yahoo!ニュース",
+      "summary": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス（トラベル Watch） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-04T12:15:00+09:00",
-      "published_display": "2026-11-04 12:15 JST"
+      "published_at": "2026-11-04T21:55:00+09:00",
+      "published_display": "2026-11-04 21:55 JST"
     },
     {
-      "title": "「ちいかわ」マスコット付きリップ美容液、ハチワレ＆うさぎが“ひょっこり顔を出す”バッグチャームにも - ファッションプレス",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MUll1SDJQZVdWaTRoNEp2SHRORnlNcVdXOUlOSEJMVjE5dDFCTmFoUFFZVkhvby1GbXRuTk1QWjRkR1JHbFJWX25tLWs3bHpKcllV?oc=5",
-      "source": "ファッションプレス",
-      "snippet": "「ちいかわ」マスコット付きリップ美容液、ハチワレ＆うさぎが“ひょっこり顔を出す”バッグチャームにも ファッションプレス",
-      "summary": "「ちいかわ」マスコット付きリップ美容液、ハチワレ＆うさぎが“ひょっこり顔を出す”バッグチャームにも ファッションプレス",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-04T12:05:00+09:00",
-      "published_display": "2026-11-04 12:05 JST"
-    },
-    {
-      "title": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZklXcGVWVVdsZ0VlU1BrZ3VFUlpsU1ByNEdsVVdtNzJ1NGc2UEtmUFpYQXV2MGd6bWE5QU1lQm0xcERpbjNQbnBjZzl2RE9hczc5b3FJend0eVlicUlFT3pPRHRhN3hsWmtTSjB1UEZDRzlVekNGUy01M21HWHM?oc=5",
+      "title": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス (トラベル Watch) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaW1zV2dMeDZPZncwUHJiSFZnaFBuSXdjRU5DQUc3NzIxR0xId2hHcVlvRFhoQVVLRHhOT3JhVnRpV1hXRk1UV3MwcXd5ZUhxSEwxU3BhQTNCVlhLbk53YXNWRkdVOHRvb3ZHSmpYdlVRa3BHV3lTbTU0MnBPZTBrYWlzY0haRV8xbGlhajd3?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」 Yahoo!ニュース",
-      "summary": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」 Yahoo!ニュース",
+      "snippet": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス (トラベル Watch) Yahoo!ニュース",
+      "summary": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス (トラベル Watch) Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-04T11:55:00+09:00",
-      "published_display": "2026-11-04 11:55 JST"
+      "published_at": "2026-11-04T21:55:00+09:00",
+      "published_display": "2026-11-04 21:55 JST"
     },
     {
-      "title": "『ちいかわ』お顔のラバーマスコットつきボールペンがプライズに！パステルカラー全8種が11月中旬より順次登場 - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wa0tzd0NxbGNlZDVqRUFPNUZrSkRYUHo4MVJuTUk3SDZBekVWS0hla2ZtMW5oYWNoYXhqNUZaZHpGMlFCM0pwc0JQZGxxR1Y4Q09zN0xwYw?oc=5",
+      "title": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jNGdDd21jbm9sM25jbUZPNU1KR21uZXR1SjNCVHA5eHBiN01hQnBQQWoxZVVXWUl3UEc2N3NyTUxyM19CZmUxckhrU0VkdVdKM2pXSi1IYzl0bUlMRlYzZkNuN2FPbmFyLXhqcUZZNA?oc=5",
+      "source": "Excite エキサイト",
+      "snippet": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売 Excite エキサイト",
+      "summary": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売 Excite エキサイト",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T21:40:46+09:00",
+      "published_display": "2026-11-04 21:40 JST"
+    },
+    {
+      "title": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoU2VuZGRTUThPT2o0TVRTODBvemkyUFdWTllZLXpVX2JsVnZmV2l4S2tEbW52aFNWbUp1NzI3c0U0d2lQZXNUa1NVZmU4aFJRczFGeHF6d0V3WWpIam1WV2NIakU1QTZtQUMyWjR1amRGY092bXNXV1RGQQ?oc=5",
+      "source": "ニコニコニュース",
+      "snippet": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売 ニコニコニュース",
+      "summary": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売 ニコニコニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T21:03:28+09:00",
+      "published_display": "2026-11-04 21:03 JST"
+    },
+    {
+      "title": "『ちいかわ』ONIGIRI UMA!!スウェット上下が11月6日発売！モモンガと古本屋のスウェットや7柄のぬくぬくソックスも - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhcXRJOVhWSV92UDMwNW4xZWYwZGFuTWVQMy1mYzFEUThCLS1xMWtYUEJ1RmVCUEN1YmZ3RkRCTDJheTJmaUtmenM2V2Fucm0wd3JvUnVNdw?oc=5",
       "source": "にじめん",
-      "snippet": "『ちいかわ』お顔のラバーマスコットつきボールペンがプライズに！パステルカラー全8種が11月中旬より順次登場 にじめん",
-      "summary": "『ちいかわ』お顔のラバーマスコットつきボールペンがプライズに！パステルカラー全8種が11月中旬より順次登場 にじめん",
+      "snippet": "『ちいかわ』ONIGIRI UMA!!スウェット上下が11月6日発売！モモンガと古本屋のスウェットや7柄のぬくぬくソックスも にじめん",
+      "summary": "『ちいかわ』ONIGIRI UMA!!スウェット上下が11月6日発売！モモンガと古本屋のスウェットや7柄のぬくぬくソックスも にじめん",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-04T11:51:00+09:00",
-      "published_display": "2026-11-04 11:51 JST"
+      "published_at": "2026-11-04T20:42:00+09:00",
+      "published_display": "2026-11-04 20:42 JST"
     },
     {
-      "title": "やられたー！【GU×ちいかわ】コラボ先行予約販売が争奪戦過ぎて滅！！ - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91UWEwYUdDLUpqc0M4QUtvNzVZeDE4NlBnTUZXSzVUMmMyM1VIaEVXWE5nZWNoOFRqaWRCYTM4UGtqWEFxdkVwVk53em1mREN4SHgxYlFlcXBzcXhOZUpmTXlBNGhGWnBfXzdQS1V3?oc=5",
-      "source": "au Webポータル",
-      "snippet": "やられたー！【GU×ちいかわ】コラボ先行予約販売が争奪戦過ぎて滅！！ au Webポータル",
-      "summary": "やられたー！【GU×ちいかわ】コラボ先行予約販売が争奪戦過ぎて滅！！ au Webポータル",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-11-04T11:46:29+09:00",
-      "published_display": "2026-11-04 11:46 JST"
-    },
-    {
-      "title": "「ちいかわ」「パペットスンスン」がFNS歌謡祭にやってくる!! 一夜限りのパフォーマンスを披露するアーティスト第1弾発表 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GdzBic04zOUJhUjNIZUFlOFQ1LUtxZjR1ODI4cjdIVkF5Qm9ZX1NUZVJVLWZXSHFRYUgweHM3X3VBR0JHWDBvUXJ3SzVRMFJ3bUloTHBVTU1CUHh5ZXcyMVhTeDJid3RGWEpObHd1aFRCb1FZYzVoYzh1bVFOcFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」「パペットスンスン」がFNS歌謡祭にやってくる!! 一夜限りのパフォーマンスを披露するアーティスト第1弾発表 Yahoo!ニュース",
-      "summary": "「ちいかわ」「パペットスンスン」がFNS歌謡祭にやってくる!! 一夜限りのパフォーマンスを披露するアーティスト第1弾発表 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-04T11:45:02+09:00",
-      "published_display": "2026-11-04 11:45 JST"
-    },
-    {
-      "title": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYzZXeDJxU0FrczhPRXI3eTd6SUJWTF8yTmVJUksyMUdSVHQyZFUxcTdyRE9MeGFCcXpVVWZYV2hkc0hPbWFIRE45QnB1VXhkVnRGLXZKWDN4dTlla2I5OGZzMmEyZ1B4QzBheDNhcWt6TmR3VUhEcnpuSnZHMG85NTEwWEtoaTMtUTVIT0d3?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開（インサイド） Yahoo!ニュース",
+      "title": "「ちいかわベーカリー」クリスマス限定パン登場 ちいかわ・ハチワレ・うさぎがサンタ帽姿に - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16QUNpcExmVUV2WnE3c2F5UVFSTm1ZcDRDTVJ1MGhhX2lzN1otdTlhTTI3ZDBXQ2EwY0dfaGdZRmhQN1BoWHM1LTRNbE5tMDJxNGV5czFnc1RnWWo1cVJSN9IBZkFVX3lxTE5lMFEzWmYzdndRQ3pOUVZMMkR5Vm1hWW1md2xaQ2p2YWEtSzcyM293YUdXWHZSTU90Tkt6RjlJcGZoYnVteUZ2SWRva2NQTkxGdU5acGVwMll3VlZ0VHdPdC1HanVDUQ?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "「ちいかわベーカリー」クリスマス限定パン登場 ちいかわ・ハチワレ・うさぎがサンタ帽姿に リアルサウンド",
+      "summary": "「ちいかわベーカリー」クリスマス限定パン登場 ちいかわ・ハチワレ・うさぎがサンタ帽姿に リアルサウンド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-04T11:15:03+09:00",
-      "published_display": "2026-11-04 11:15 JST"
+      "published_at": "2026-11-04T20:27:08+09:00",
+      "published_display": "2026-11-04 20:27 JST"
     },
     {
-      "title": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV0haXzEtWkJRSlotek5PZ3RGeEZlVXFPcS14X3o4c3FZWkh2N3hVMzg2dlg1V0EyX19WeGZOWGtwVGFxcWtHaUxiQi04NU45Qmg4bzdQd2hYTWRTNGpqWUlqN0taYlp4NjZ1QlVVUVAyVmJFei14Sl9hWTZPMzRRU3ZB0gGHAUFVX3lxTFBKNmptZXNVWFUyOWU0bWJGNVlQT01nd2k4UGpXRkt4alpuLW5OemZWazM3YldQeGhaZTIyRHJNS2paN042bnJaa2hCR01JdDNiQlRMWUZ0RHdlWEloN2VfODczZGoyRnF2MEVYV2x3NTc1eXN3OW1ac2NsT0o4RTI5T1RRbVZxRQ?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開 ｄメニューニュース",
-      "summary": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開 ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-04T11:15:00+09:00",
-      "published_display": "2026-11-04 11:15 JST"
-    },
-    {
-      "title": "【ちいかわ】可愛いケーキに見えるクッキー缶。ちいかわのクリスマスアイテムを開封レポします！（jsc） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2FUT2J0WkxhNUVtSkxocWdhblRISkt6aElINWRwZXZYeFgwOEtjMUxEVWxvWng2dnFuZHZGMVBGOHc5dTl0SlNKREp0SFZnRnpfeWtnZlphaVhTdExaZ0hRbmlmZ1M2elFLY0VwQ2NPVEctYWNRMkhuSWw5RGJOTlo5bWJoSDR4?oc=5",
+      "title": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声（ABEMA TIMES） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iN1BwaUo1ODdaY1FubjB6Y2x0ZXh5Uzh5VncwQnh2TXV2MGNCejUzTFF5QWFILXJWRU9xVzZmOUNkVW9PMTA5Mk11OUR5TXVWX1E4bWxqWW9IN2tTZFkzZVBXVW4wWkVGX1IwN2ZJZnJsSDF3MGxJZEVvcTRnSzg?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【ちいかわ】可愛いケーキに見えるクッキー缶。ちいかわのクリスマスアイテムを開封レポします！（jsc） - エキスパート Yahoo!ニュース",
-      "summary": "【ちいかわ】可愛いケーキに見えるクッキー缶。ちいかわのクリスマスアイテムを開封レポします！（jsc） - エキスパート Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-04T11:00:47+09:00",
-      "published_display": "2026-11-04 11:00 JST"
+      "snippet": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声（ABEMA TIMES） Yahoo!ニュース",
+      "summary": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声（ABEMA TIMES） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-04T20:21:17+09:00",
+      "published_display": "2026-11-04 20:21 JST"
+    },
+    {
+      "title": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13SDZ5UURzT1JyYnZhNmhVaF9nUHNUSEZjVVM2bGRMSzJ4UVlDVFB3RWtkREk0QXNVd0hnZmpvYjhobXBVSExrTTE4cXBFTFhuY1BjMQ?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声 ABEMA TIMES",
+      "summary": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声 ABEMA TIMES",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-04T20:21:00+09:00",
+      "published_display": "2026-11-04 20:21 JST"
     }
   ]
 }
