@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-04T03:44:39.864308+09:00",
-  "generated_at_jst": "2026-11-04 03:44 JST",
+  "generated_at": "2026-11-04T12:40:18.218239+09:00",
+  "generated_at_jst": "2026-11-04 12:40 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -12,156 +12,156 @@
   ],
   "categories": [
     {
-      "key": "anime",
-      "label": "アニメ・映画",
-      "count": 2,
-      "icon": "🎬"
+      "key": "goods",
+      "label": "グッズ",
+      "count": 8,
+      "icon": "🎀"
     },
     {
-      "key": "event",
-      "label": "イベント",
+      "key": "collab",
+      "label": "コラボ",
       "count": 1,
-      "icon": "🌟"
+      "icon": "🍰"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 9,
+      "count": 3,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「鬼滅」と決定的に違うのは？大人が「ちいかわ」の世界にすがる納得の理由（＠ＤＩＭＥ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTk9kVTdSRHV4TnVCcnRBMUUzTGpkc2tBZFAtQjAtMEFvOFRfQm4wVGxTT2lYOVNhWGplMUUxZmdGb2VBUGtQeklKazlzcWkxbXRMSEMxWDNVQUJtX0hzcV82Mm83aUZfczhOZVhTZGVHbDJuMG12bWtmVlY5clU?oc=5",
+      "title": "ちいかわ・ハチワレがちょこん！外すとチャームになるLovisiaリップエッセンス発売 - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QZ3FiTXlqTzJVUElxWmJ1M3dBdHZEWno4clFPeDdOY05sX2E3N04xdWNDZTdaQU9jNVpRUUtERWlGbmZjNVpNeEJUV3Q4SlE0VWc?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわ・ハチワレがちょこん！外すとチャームになるLovisiaリップエッセンス発売 いこーよニュース",
+      "summary": "ちいかわ・ハチワレがちょこん！外すとチャームになるLovisiaリップエッセンス発売 いこーよニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T12:38:21+09:00",
+      "published_display": "2026-11-04 12:38 JST"
+    },
+    {
+      "title": "焼きたてベビーカステラと新作グッズが並ぶ2号店！ちいかわベビーカステラ 京都錦店 - Dtimes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Gajk4QWJrQW5XRXJSZVBaQXp2b2pqclRfVk5URUd5SElxTERqNTNwVThhWjZkc240MndKaUdMNWVDQ3M0WGc?oc=5",
+      "source": "Dtimes",
+      "snippet": "焼きたてベビーカステラと新作グッズが並ぶ2号店！ちいかわベビーカステラ 京都錦店 Dtimes",
+      "summary": "焼きたてベビーカステラと新作グッズが並ぶ2号店！ちいかわベビーカステラ 京都錦店 Dtimes",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T12:29:41+09:00",
+      "published_display": "2026-11-04 12:29 JST"
+    },
+    {
+      "title": "おふろに貼れる全8枚の学習ポスター！KADOKAWA『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』 - Dtimes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OT2NZbTJlRGVjT2Q0OWlJR1dnSHRuYTlJR0I0enVaUzJ3RmVDOXFiY2pjNWU3WV9GdVJDeTAxMjVSMW1LblE?oc=5",
+      "source": "Dtimes",
+      "snippet": "おふろに貼れる全8枚の学習ポスター！KADOKAWA『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』 Dtimes",
+      "summary": "おふろに貼れる全8枚の学習ポスター！KADOKAWA『ちいかわ おふろでたのしく おけいこポスター もじ＆かず＆とけい』 Dtimes",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-04T12:19:37+09:00",
+      "published_display": "2026-11-04 12:19 JST"
+    },
+    {
+      "title": "「後ろ姿がたまらない」…！ ちいかわ（全4種）パケに悶絶、香りは “パンケーキ” ほか 「連れて帰ってきた！」（LASISA） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aY0xxcDZMeUZiRXEwSjNTVktSeHN1TnJLUGFZU2R3NENfbnBMQXpUcV9WbE13VDAtMHQzLTZ2bTJkZjR2OUNFNFRrQm9kTGFxMHQ0TXYzekg3anBNWnE3V0RnNkdYa29RUWh6VkxETzR6aUlobjJnTUlKVDl1bHM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「鬼滅」と決定的に違うのは？大人が「ちいかわ」の世界にすがる納得の理由（＠ＤＩＭＥ） Yahoo!ニュース",
-      "summary": "「鬼滅」と決定的に違うのは？大人が「ちいかわ」の世界にすがる納得の理由（＠ＤＩＭＥ） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-03T21:40:01+09:00",
-      "published_display": "2026-11-03 21:40 JST"
+      "snippet": "「後ろ姿がたまらない」…！ ちいかわ（全4種）パケに悶絶、香りは “パンケーキ” ほか 「連れて帰ってきた！」（LASISA） Yahoo!ニュース",
+      "summary": "「後ろ姿がたまらない」…！ ちいかわ（全4種）パケに悶絶、香りは “パンケーキ” ほか 「連れて帰ってきた！」（LASISA） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T12:15:00+09:00",
+      "published_display": "2026-11-04 12:15 JST"
     },
     {
-      "title": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 - Web-Komachi",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DeDRpcmlnV2ZvSkQ1OTNHbVJhamd3NzBtdURxV1dBYTF3TlJiLVR2V3JIZWRVNWJ3SEVfblBYRTdIRlJJMzdjOHJzZGJHUQ?oc=5",
-      "source": "Web-Komachi",
-      "snippet": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 Web-Komachi",
-      "summary": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 Web-…",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-11-03T21:21:28+09:00",
-      "published_display": "2026-11-03 21:21 JST"
+      "title": "「ちいかわ」マスコット付きリップ美容液、ハチワレ＆うさぎが“ひょっこり顔を出す”バッグチャームにも - ファッションプレス",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MUll1SDJQZVdWaTRoNEp2SHRORnlNcVdXOUlOSEJMVjE5dDFCTmFoUFFZVkhvby1GbXRuTk1QWjRkR1JHbFJWX25tLWs3bHpKcllV?oc=5",
+      "source": "ファッションプレス",
+      "snippet": "「ちいかわ」マスコット付きリップ美容液、ハチワレ＆うさぎが“ひょっこり顔を出す”バッグチャームにも ファッションプレス",
+      "summary": "「ちいかわ」マスコット付きリップ美容液、ハチワレ＆うさぎが“ひょっこり顔を出す”バッグチャームにも ファッションプレス",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T12:05:00+09:00",
+      "published_display": "2026-11-04 12:05 JST"
     },
     {
-      "title": "【ちいかわ】第57話は古本屋の姿に注目！ アニメ『ちいかわ』ちいかわのかわいい落書きも必見の「草むしり検定/古本」が見逃し配信中 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pN0g0dmV2ZHA3QWg5dzk4ZU5PZkFtTnhXQkxEV1lCeGlVQXk2OXhBUDJhTFZRQ0tMT0pEWlZ6UzhMNFFHeFhWVlFfSXM1dw?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "【ちいかわ】第57話は古本屋の姿に注目！ アニメ『ちいかわ』ちいかわのかわいい落書きも必見の「草むしり検定/古本」が見逃し配信中 PASH! PLUS",
-      "summary": "【ちいかわ】第57話は古本屋の姿に注目！ アニメ『ちいかわ』ちいかわのかわいい落書きも必見の「草むしり検定/古本」が見逃し配信中 PASH! PLUS",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-03T20:41:43+09:00",
-      "published_display": "2026-11-03 20:41 JST"
-    },
-    {
-      "title": "【ちいかわ】囚人服姿のうさぎをゲット！コンビニでパケ買いした罪深い味のスナックを実食レポ！（jsc） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzJSb05Wd3ZLdjRMb2d6MEp6VFNMZUhEUkZnTDEzMndtWF8welpfVlFrai14UXhjc1JBR0Q1RU5JLURESnQyaDJDSnI5R05VLUkydW8xQmdDMWtZazd4ejFCeHdpTHprN0FQSHZkbXFNSUozZjBpeHJTYTBDdzJwRHM4UVdGN0lD?oc=5",
+      "title": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZklXcGVWVVdsZ0VlU1BrZ3VFUlpsU1ByNEdsVVdtNzJ1NGc2UEtmUFpYQXV2MGd6bWE5QU1lQm0xcERpbjNQbnBjZzl2RE9hczc5b3FJend0eVlicUlFT3pPRHRhN3hsWmtTSjB1UEZDRzlVekNGUy01M21HWHM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "【ちいかわ】囚人服姿のうさぎをゲット！コンビニでパケ買いした罪深い味のスナックを実食レポ！（jsc） - エキスパート Yahoo!ニュース",
-      "summary": "【ちいかわ】囚人服姿のうさぎをゲット！コンビニでパケ買いした罪深い味のスナックを実食レポ！（jsc） - エキスパート Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-03T20:05:23+09:00",
-      "published_display": "2026-11-03 20:05 JST"
+      "snippet": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」 Yahoo!ニュース",
+      "summary": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」 Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T11:55:00+09:00",
+      "published_display": "2026-11-04 11:55 JST"
     },
     {
-      "title": "【ちいかわ】ちいかわぽけっと POP UP STORE 第4弾 お弁当とお店屋さんの衣装 - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbXE1eUlrX0JOcjVJRENmWTBQaHZfTkxyZXlwWlFXYnM5cFkxVm9ZS1pSM3pYN1p6WDYzajNmOFF6VnpZTDBReFpsX09OaDNlV3ZtREwtTHR4amFO?oc=5",
-      "source": "YouTube",
-      "snippet": "【ちいかわ】ちいかわぽけっと POP UP STORE 第4弾 お弁当とお店屋さんの衣装 YouTube",
-      "summary": "【ちいかわ】ちいかわぽけっと POP UP STORE 第4弾 お弁当とお店屋さんの衣装 YouTube",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-03T19:02:19+09:00",
-      "published_display": "2026-11-03 19:02 JST"
+      "title": "『ちいかわ』お顔のラバーマスコットつきボールペンがプライズに！パステルカラー全8種が11月中旬より順次登場 - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wa0tzd0NxbGNlZDVqRUFPNUZrSkRYUHo4MVJuTUk3SDZBekVWS0hla2ZtMW5oYWNoYXhqNUZaZHpGMlFCM0pwc0JQZGxxR1Y4Q09zN0xwYw?oc=5",
+      "source": "にじめん",
+      "snippet": "『ちいかわ』お顔のラバーマスコットつきボールペンがプライズに！パステルカラー全8種が11月中旬より順次登場 にじめん",
+      "summary": "『ちいかわ』お顔のラバーマスコットつきボールペンがプライズに！パステルカラー全8種が11月中旬より順次登場 にじめん",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T11:51:00+09:00",
+      "published_display": "2026-11-04 11:51 JST"
     },
     {
-      "title": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険 - Fashionsnap.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05SWdKR09WS0VDMjBlelNlUW45b0xMb1JYR2VUVXNEb05sMUdISG9oQmVfNWpGMkkzd0drX2RzeTJlYVRWMU5wNi01UGlucnk0REdUa0p3MHJpazV6NXV6SXZHeGtMYllG?oc=5",
-      "source": "Fashionsnap.com",
-      "snippet": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険 Fashionsnap.com",
-      "summary": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険 Fashionsnap.com",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-03T17:36:40+09:00",
-      "published_display": "2026-11-03 17:36 JST"
+      "title": "やられたー！【GU×ちいかわ】コラボ先行予約販売が争奪戦過ぎて滅！！ - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91UWEwYUdDLUpqc0M4QUtvNzVZeDE4NlBnTUZXSzVUMmMyM1VIaEVXWE5nZWNoOFRqaWRCYTM4UGtqWEFxdkVwVk53em1mREN4SHgxYlFlcXBzcXhOZUpmTXlBNGhGWnBfXzdQS1V3?oc=5",
+      "source": "au Webポータル",
+      "snippet": "やられたー！【GU×ちいかわ】コラボ先行予約販売が争奪戦過ぎて滅！！ au Webポータル",
+      "summary": "やられたー！【GU×ちいかわ】コラボ先行予約販売が争奪戦過ぎて滅！！ au Webポータル",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-11-04T11:46:29+09:00",
+      "published_display": "2026-11-04 11:46 JST"
     },
     {
-      "title": "「ちいかわ」映画館のカップ→ダイソーのアイテムで簡単にリメイク「やってみる！」「これいいな」（1/2） | ホビー ねとらぼ - ねとらぼ",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pMHljY0xvbnRSSnR6WWZOdXB6b19ibXkteTBSakRWZ1Q0VU8zYU9XQ29JWExKbU5KR0l6dU81Q1I3VnFRWFF2QUdPb1EtZG9wZkxhcUN4cU9iWDFIM2fSAWNBVV95cUxQSk9wZlQ0YklsaGs1ZGw5MExhbWYyUnhCTEoxSXhNeEFCd2lPQzhzSzVEeUhoSEpWSWxfU0FHLWFzLUdzT3AxbFFPZ3p1Q3dPQzJCandKOVMxMUpodUlsd2VzTWM?oc=5",
-      "source": "ねとらぼ",
-      "snippet": "「ちいかわ」映画館のカップ→ダイソーのアイテムで簡単にリメイク「やってみる！」「これいいな」（1/2） | ホビー ねとらぼ ねとらぼ",
-      "summary": "「ちいかわ」映画館のカップ→ダイソーのアイテムで簡単にリメイク「やってみる！」「これいいな」（1/2） | ホビー ねとらぼ ねとらぼ",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-03T16:59:27+09:00",
-      "published_display": "2026-11-03 16:59 JST"
-    },
-    {
-      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCQjNQWkdoSWpNQUxQMXpDTFFFOXZ1ckEtTnVsMU9OenJQZmN2aVd1ZzFxWUZhcVI3SVNkbFdEbnpfZ3FldEJiWGM5eDNhUF9pMk1hTnFxSmFzdw?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
-      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-03T14:05:00+09:00",
-      "published_display": "2026-11-03 14:05 JST"
-    },
-    {
-      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」（オリコン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94OXc1a1NVMHhtRExDTFMxck9FOF96S1ZLbWZuZHpnRVc4bnlabktWNmhfd1U2alF3TjV0VGVMdnFjMFgtMVQ2WV9nSTlLeEM1ekpuMEJ4ZmE0MkgxZm1ZZjVpcl9kQkFRQVJBWUlrcHVsTUdwSVN3TV9oaDV4dXM?oc=5",
+      "title": "「ちいかわ」「パペットスンスン」がFNS歌謡祭にやってくる!! 一夜限りのパフォーマンスを披露するアーティスト第1弾発表 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GdzBic04zOUJhUjNIZUFlOFQ1LUtxZjR1ODI4cjdIVkF5Qm9ZX1NUZVJVLWZXSHFRYUgweHM3X3VBR0JHWDBvUXJ3SzVRMFJ3bUloTHBVTU1CUHh5ZXcyMVhTeDJid3RGWEpObHd1aFRCb1FZYzVoYzh1bVFOcFk?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」（オリコン） Yahoo!ニュース",
-      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」（オリコン） Yahoo!ニュース",
+      "snippet": "「ちいかわ」「パペットスンスン」がFNS歌謡祭にやってくる!! 一夜限りのパフォーマンスを披露するアーティスト第1弾発表 Yahoo!ニュース",
+      "summary": "「ちいかわ」「パペットスンスン」がFNS歌謡祭にやってくる!! 一夜限りのパフォーマンスを披露するアーティスト第1弾発表 Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-03T14:05:00+09:00",
-      "published_display": "2026-11-03 14:05 JST"
+      "published_at": "2026-11-04T11:45:02+09:00",
+      "published_display": "2026-11-04 11:45 JST"
     },
     {
-      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1SllSR0hTSzgyVUM3OHg4QU1VOGZUNW1vaDhaN3JTUGFPdkpSS0Z2X2FIZDFjdWFhYUh2WDlubC1uclZua3I5WVRoblNqYTh1eTZYbWY4M2JDd0dsd1RJ?oc=5",
-      "source": "ライブドアニュース",
-      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」 ライブドアニュース",
-      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い！」 ライブドアニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-03T14:05:00+09:00",
-      "published_display": "2026-11-03 14:05 JST"
+      "title": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYzZXeDJxU0FrczhPRXI3eTd6SUJWTF8yTmVJUksyMUdSVHQyZFUxcTdyRE9MeGFCcXpVVWZYV2hkc0hPbWFIRE45QnB1VXhkVnRGLXZKWDN4dTlla2I5OGZzMmEyZ1B4QzBheDNhcWt6TmR3VUhEcnpuSnZHMG85NTEwWEtoaTMtUTVIT0d3?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開（インサイド） Yahoo!ニュース",
+      "summary": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開（インサイド） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T11:15:03+09:00",
+      "published_display": "2026-11-04 11:15 JST"
     },
     {
-      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zZGo4NTVmN0N0NVJDVXpPRmpHaVhfeENTYTcyNEtGbFZkUEtDaU40TXdsdW85UmZzaFRjWHlKSVRrM25uM0xkNk9Mc2V2cTZ5RFJydTRR?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
-      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-03T14:05:00+09:00",
-      "published_display": "2026-11-03 14:05 JST"
+      "title": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV0haXzEtWkJRSlotek5PZ3RGeEZlVXFPcS14X3o4c3FZWkh2N3hVMzg2dlg1V0EyX19WeGZOWGtwVGFxcWtHaUxiQi04NU45Qmg4bzdQd2hYTWRTNGpqWUlqN0taYlp4NjZ1QlVVUVAyVmJFei14Sl9hWTZPMzRRU3ZB0gGHAUFVX3lxTFBKNmptZXNVWFUyOWU0bWJGNVlQT01nd2k4UGpXRkt4alpuLW5OemZWazM3YldQeGhaZTIyRHJNS2paN042bnJaa2hCR01JdDNiQlRMWUZ0RHdlWEloN2VfODczZGoyRnF2MEVYV2x3NTc1eXN3OW1ac2NsT0o4RTI5T1RRbVZxRQ?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開 ｄメニューニュース",
+      "summary": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開 ｄメニューニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-04T11:15:00+09:00",
+      "published_display": "2026-11-04 11:15 JST"
     },
     {
-      "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83SHN2OU1ILVNOT29yc0RzbGNmck8tV2lmTWEwZHRGX0h2MklfNkpFdEo1UjhxRnJmSVJSZXdlMU1FTzljZDJGbkdVSGNOSk5JaVNYZjg5MHc1UQ?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
-      "summary": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」 オリコンニュース",
+      "title": "【ちいかわ】可愛いケーキに見えるクッキー缶。ちいかわのクリスマスアイテムを開封レポします！（jsc） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2FUT2J0WkxhNUVtSkxocWdhblRISkt6aElINWRwZXZYeFgwOEtjMUxEVWxvWng2dnFuZHZGMVBGOHc5dTl0SlNKREp0SFZnRnpfeWtnZlphaVhTdExaZ0hRbmlmZ1M2elFLY0VwQ2NPVEctYWNRMkhuSWw5RGJOTlo5bWJoSDR4?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわ】可愛いケーキに見えるクッキー缶。ちいかわのクリスマスアイテムを開封レポします！（jsc） - エキスパート Yahoo!ニュース",
+      "summary": "【ちいかわ】可愛いケーキに見えるクッキー缶。ちいかわのクリスマスアイテムを開封レポします！（jsc） - エキスパート Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-03T14:05:00+09:00",
-      "published_display": "2026-11-03 14:05 JST"
+      "published_at": "2026-11-04T11:00:47+09:00",
+      "published_display": "2026-11-04 11:00 JST"
     }
   ]
 }
