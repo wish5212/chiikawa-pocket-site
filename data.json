@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-05T12:58:31.509334+09:00",
-  "generated_at_jst": "2026-11-05 12:58 JST",
+  "generated_at": "2026-11-06T04:10:13.743224+09:00",
+  "generated_at_jst": "2026-11-06 04:10 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,148 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 11,
+      "count": 6,
       "icon": "🎀"
+    },
+    {
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 1,
+      "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 1,
+      "count": 5,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nczdZUmdrVHdDeGpCb09uQngtQ2oxcjVPdkVfc1AtSDYyd1JBQWxVUDN6eFR6blpmckdLblo4YktybmlsQ0hod2g3RXRHWDVBcUpxeEo1RWhYX2pqT1c4SFI2VGVvV1c5eXZyRjZ1eF9xTU5wdi1GTUx5TTBCbUU?oc=5",
+      "title": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xeXdDNkRBMWp2SThYbGdoQUMxdC1vMkExQnhQckpRQkZINTB0WjNQeGtNelk4Zkc1VGxLRGNFRkRUWXBaVFVzbjNuNlNuTTQxMDhTUFJPZWpIbXFaTDA3UXo0NFZhM25mQXV4Z29kVDAzMHNPc3hpeUttNEljazQ?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も（インサイド） Yahoo!ニュース",
+      "snippet": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数 Yahoo!ニュース",
+      "summary": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数 Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-05T12:45:03+09:00",
-      "published_display": "2026-11-05 12:45 JST"
+      "published_at": "2026-11-06T00:25:06+09:00",
+      "published_display": "2026-11-06 00:25 JST"
     },
     {
-      "title": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Cdzlaa210emFGcFgzdE0tR1hJeEIycG5GYUkyWUZZTFFmSzV5M2kza3JiTUkydU42MFJYenJaQXItY1BKREdlZG0wWmRuRTJFZWpEUkhuelJXN01BRTVv?oc=5",
-      "source": "Infoseek",
-      "snippet": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も Infoseek",
-      "summary": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も Infoseek",
+      "title": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OM09RMWtBWkJGNUpWNU9od29Oa3JXRXpaMlh3dVJXbnRNR1YzdXdwU0tDVUluNzRldnJyY3FtNDJoMWl2dWNqYVNtVkpIWThSQWxDb00wd2NxLWs0MHFsSjlVNXhZWW5UOHc?oc=5",
+      "source": "インサイド",
+      "snippet": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数 インサイド",
+      "summary": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数 インサイド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-05T12:45:03+09:00",
-      "published_display": "2026-11-05 12:45 JST"
+      "published_at": "2026-11-06T00:20:02+09:00",
+      "published_display": "2026-11-06 00:20 JST"
     },
     {
-      "title": "ちいかわの謎解きゲームがおうちで楽しめる！ 限定ポストカード＆ぷくぷくシール付き - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDa1V1d3F6MnNNNE5MbzFqN0h1V3V2QWVGX2pRYVIzLWF0TGhlZDNZdlgxN01aelpmT1AxVE9wRHF5ZG9xU3ZWY1poblMyT19kQTkwYUlveVhMS3JMUFZXWA?oc=5",
-      "source": "Infoseek",
-      "snippet": "ちいかわの謎解きゲームがおうちで楽しめる！ 限定ポストカード＆ぷくぷくシール付き Infoseek",
-      "summary": "ちいかわの謎解きゲームがおうちで楽しめる！ 限定ポストカード＆ぷくぷくシール付き Infoseek",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-05T11:51:02+09:00",
-      "published_display": "2026-11-05 11:51 JST"
-    },
-    {
-      "title": "Asahi Shimbun Digital Magazine[and] - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pOUxyR0xlS0dmVW0zeHA3eTJkeU1tUjVFWlBIRjVkUEJYcE0ySXJZYUV3dW5vOTh4a0F1WTRoQnVSQkxGbVd5ZG9TMVp6VURuYUgyUXNSYnB3LWFjY25GdERoNXN0NHdoSjNGRFZzRGhOV0hhTEpZMHN3?oc=5",
-      "source": "朝日新聞",
-      "snippet": "Asahi Shimbun Digital Magazine[and] 朝日新聞",
-      "summary": "Asahi Shimbun Digital Magazine[and] 朝日新聞",
+      "title": "「身の程知らず」「こんなのを雇ってるの?」と批判されたラジオ大阪・藤川アナ、ちいかわ撮影ルールを施設に直接取材「侮辱的な投稿を行ったことは看過できません」 - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56OTNFeUoyWUQyTDl5SmhtcUxlb3U1b2x2R2MxcW95Qk1QX0g3VVFtc0NqVDBKZmpqMnJUQ0F5Z2FocE9ZcExfdlg2NFhtazVsU3NQQk94UmxkMDUx?oc=5",
+      "source": "マイナビニュース",
+      "snippet": "「身の程知らず」「こんなのを雇ってるの?」と批判されたラジオ大阪・藤川アナ、ちいかわ撮影ルールを施設に直接取材「侮辱的な投稿を行ったことは看過できません」 マイナビニュース",
+      "summary": "「身の程知らず」「こんなのを雇ってるの?」と批判されたラジオ大阪・藤川アナ、ちいかわ撮影ルールを施設に直接取材「侮辱的な投稿を行ったことは看過できません」 マイナビニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-05T11:38:14+09:00",
-      "published_display": "2026-11-05 11:38 JST"
+      "published_at": "2026-11-05T23:23:56+09:00",
+      "published_display": "2026-11-05 23:23 JST"
     },
     {
-      "title": "「ちいかわレストラン」が静岡県に 特別メニューやグッズ登場 11月6日から5週間限定 - 静岡ライフ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IczM2VjFIUmNJZFRfdWxIZUlUYTBRODFobnNpU1VkUWFWb2FnSm0tU2RwcjE1UnVxZlI1ZmdYejIwcnBNQ29reFpGeDlUODFtOFE?oc=5",
-      "source": "静岡ライフ",
-      "snippet": "「ちいかわレストラン」が静岡県に 特別メニューやグッズ登場 11月6日から5週間限定 静岡ライフ",
-      "summary": "「ちいかわレストラン」が静岡県に 特別メニューやグッズ登場 11月6日から5週間限定 静岡ライフ",
+      "title": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tS1dXeUI0YkZWNlA5N3hKbUJSbjF4QU0yQ1J6MkNOQ1F5cjNzN18tU3NwWUVheGNtQk1YS1dnd0pybUQxQ3R4Z2x3NWVuMjFTZDhxbjMxNHk4Zw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！ 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！ 電撃オンライン",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-05T23:19:00+09:00",
+      "published_display": "2026-11-05 23:19 JST"
+    },
+    {
+      "title": "『ちいかわ』更新（11/5）。ハチワレが“すごいの”見つけて大喜び！ でも、その背後に…!? - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6UWdzbnZJZ1NsMnpOajVkaWJac0dibFcyU0pIYS1SVkRQbEdNOUhVODYwSy1yTFVlWk5SdGJTdnF4bGVaUXdxRHAwX2NGVWtnQVFsd3hTbEU1Zw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/5）。ハチワレが“すごいの”見つけて大喜び！ でも、その背後に…!? 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/5）。ハチワレが“すごいの”見つけて大喜び！ でも、その背後に…!? 電撃オンライン",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-05T23:05:00+09:00",
+      "published_display": "2026-11-05 23:05 JST"
+    },
+    {
+      "title": "超BIGぬいぐるみからマスコットまでハズレなし全12種！ちいかわマーケット ちいかわくじ「ちいかわ シーサーだらけくじ」 - Dtimes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10YWdvclNYOHV4UTg2d1hrOHBCSjJlWEdVZkhJOEwwSk5sZGhyNjR6XzBLVnFXUTAwN1VITmVPVU8wdllsa2c?oc=5",
+      "source": "Dtimes",
+      "snippet": "超BIGぬいぐるみからマスコットまでハズレなし全12種！ちいかわマーケット ちいかわくじ「ちいかわ シーサーだらけくじ」 Dtimes",
+      "summary": "超BIGぬいぐるみからマスコットまでハズレなし全12種！ちいかわマーケット ちいかわくじ「ちいかわ シーサーだらけくじ」 Dtimes",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-05T11:01:58+09:00",
-      "published_display": "2026-11-05 11:01 JST"
+      "published_at": "2026-11-05T22:34:09+09:00",
+      "published_display": "2026-11-05 22:34 JST"
     },
     {
-      "title": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvQ2NXQ0U2SlVfdDJtTlVzY1hmMzlsVGs2ODNuUzQ3R3huZ1k1NEtjQ1EtaVBKbFRMUWxqWVNrRDRFdHU2V215QUQ4akp5QQ?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱 PASH! PLUS",
-      "summary": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱 PASH! PLUS",
+      "title": "テディベア姿の「ちいかわ」たちがクリスマス仕様に！アクセサリーぬいぐるみ「Kiramekko」全3種がキュート - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRUXIzRlVhN2FyVkg3a1VYR21fQ3Z3ZjYwZEZMLWc5VkJDY3dIM04xS2VlZmF0V1dwRnFuRDlXSVRCVEFpTzJzdG1sN3lhRXNxZkdqTzFkZG44WkwzT3Nvck55M29FWVlKTUE?oc=5",
+      "source": "インサイド",
+      "snippet": "テディベア姿の「ちいかわ」たちがクリスマス仕様に！アクセサリーぬいぐるみ「Kiramekko」全3種がキュート インサイド",
+      "summary": "テディベア姿の「ちいかわ」たちがクリスマス仕様に！アクセサリーぬいぐるみ「Kiramekko」全3種がキュート インサイド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-05T10:02:46+09:00",
-      "published_display": "2026-11-05 10:02 JST"
+      "published_at": "2026-11-05T22:00:03+09:00",
+      "published_display": "2026-11-05 22:00 JST"
     },
     {
-      "title": "期間限定 アニメちいかわ ＜ほうれんそうのポタージュ＞（丸美屋食品工業）2026年10月22日発売 - 日本食糧新聞・電子版",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMFh0dWdva1dUMUVCcFZzTS1LUVpQd21obTBBOUdTY3pLOW1pUExYc1kzbThwOEtiVXBsMHdXRFdiNXpCcWFZVmxkTGVYa1pCLVJMZUZoNnEwcF9Zd2lZ?oc=5",
-      "source": "日本食糧新聞・電子版",
-      "snippet": "期間限定 アニメちいかわ ＜ほうれんそうのポタージュ＞（丸美屋食品工業）2026年10月22日発売 日本食糧新聞・電子版",
-      "summary": "期間限定 アニメちいかわ ＜ほうれんそうのポタージュ＞（丸美屋食品工業）2026年10月22日発売 日本食糧新聞・電子版",
+      "title": "ちいかわ謎解きがおうちで遊べる！限定ぷくぷくシール付きキットが11/9から全国発売 - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zdjd1eUt3LVk5dGpJUzhqMWhZRkZiV2xtQ1BRX2QzbV9xSWZvY3JaQjUxTDhROXppRTdtU095bVZFY0hkNDJlcVpoU3FhLU5ReUE?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわ謎解きがおうちで遊べる！限定ぷくぷくシール付きキットが11/9から全国発売 いこーよニュース",
+      "summary": "ちいかわ謎解きがおうちで遊べる！限定ぷくぷくシール付きキットが11/9から全国発売 いこーよニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-05T08:59:06+09:00",
-      "published_display": "2026-11-05 08:59 JST"
+      "published_at": "2026-11-05T20:55:04+09:00",
+      "published_display": "2026-11-05 20:55 JST"
     },
     {
-      "title": "期間限定 アニメちいかわ ＜きのこのポタージュ＞（丸美屋食品工業）2026年10月22日発売 - 日本食糧新聞・電子版",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcWcxRk1NYnd5OUw0ZGtvdDdoS09FbG51VzNOcmpIdjNmVGZHbDc0MFgzT051UmN6N3BxZkV1WHBvcGZ6WEh0c2pEVzZJRjhSZ3dlR05IWG5GUmZFdk1N?oc=5",
-      "source": "日本食糧新聞・電子版",
-      "snippet": "期間限定 アニメちいかわ ＜きのこのポタージュ＞（丸美屋食品工業）2026年10月22日発売 日本食糧新聞・電子版",
-      "summary": "期間限定 アニメちいかわ ＜きのこのポタージュ＞（丸美屋食品工業）2026年10月22日発売 日本食糧新聞・電子版",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-05T08:55:08+09:00",
-      "published_display": "2026-11-05 08:55 JST"
+      "title": "《2026年流行語ノミネート発表》モナキ、りくりゅう、ちいかわ、キオクシア…「週刊文春」スクープで振り返る今年の顔 - 文春オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IZ1QteDU3WnRKVk1zd3lFbGZXT3FIcWhueWZHcDRMS2dSUFNZczItSGtYcjhDVzZQZzFnQzZmVVNJZ1RoRG9kSjFybw?oc=5",
+      "source": "文春オンライン",
+      "snippet": "《2026年流行語ノミネート発表》モナキ、りくりゅう、ちいかわ、キオクシア…「週刊文春」スクープで振り返る今年の顔 文春オンライン",
+      "summary": "《2026年流行語ノミネート発表》モナキ、りくりゅう、ちいかわ、キオクシア…「週刊文春」スクープで振り返る今年の顔 文春オンライン",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-05T20:00:00+09:00",
+      "published_display": "2026-11-05 20:00 JST"
     },
     {
-      "title": "２０２６年今年はやったワードは？広島でキキコミ！「ちいかわ」「ぷっくりシール」「メロい」あなたは何？（テレビ新広島） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTVMyejNFcnZWVTJkQUFJbTlvVWNMVS1RdVIxWTFtVEV2Z25QdWdDNlNETi05enl3MWNnRVFOckRaZW1Ia3VPNlVrdm1OeVJQR2E5WS1NM2pnMWRXWVJnSTNUNFVMMXdDaUpqaWdra3N3d0p0TTFfNV9FZ1N6Ukk?oc=5",
+      "title": "【Hot Shot Books】『勇者様の幼馴染という職業の負けヒロインに転生したので、調合師にジョブチェンジします。 1巻』首位、『ちいかわ』既刊6作がトップ10入り - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56WXpPb1Rrdlowb05ycy1CZ1B0cE5hcmJRZVRLX2ZkSzF2YWVnUzhiclM3VzdNU2V3Z0p0bE9ScEg0SFdOZHhJYWVWWUhtMVo0dzB4TFd1VEc5aHBVV2pxUW82RE9sTEN6SVFXTWQ2SWJYeHZPYXM2T2NxOTgwMnM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "２０２６年今年はやったワードは？広島でキキコミ！「ちいかわ」「ぷっくりシール」「メロい」あなたは何？（テレビ新広島） Yahoo!ニュース",
-      "summary": "２０２６年今年はやったワードは？広島でキキコミ！「ちいかわ」「ぷっくりシール」「メロい」あなたは何？（テレビ新広島） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-05T08:11:14+09:00",
-      "published_display": "2026-11-05 08:11 JST"
+      "snippet": "【Hot Shot Books】『勇者様の幼馴染という職業の負けヒロインに転生したので、調合師にジョブチェンジします。 1巻』首位、『ちいかわ』既刊6作がトップ10入り Yahoo!ニュース",
+      "summary": "【Hot Shot Books】『勇者様の幼馴染という職業の負けヒロインに転生したので、調合師にジョブチェンジします。 1巻』首位、『ちいかわ』既刊6作がトップ10入り Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-05T19:35:02+09:00",
+      "published_display": "2026-11-05 19:35 JST"
     },
     {
-      "title": "【キラピチ】12月号の別冊付録は『ちいかわ』スケジュール帳＆シャカシャカシール！ - アニメージュプラス",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsck1ySHFMeW4xUlB1YXp3aFhVQU5vS2x5TXh2S2RFN2V1UkEwRWJFbHpOWFZxNTVCOFRIUW9lVUdqOFFQY1o3UU1waG5oZkV3cGNnR0xqS1hMZG8?oc=5",
-      "source": "アニメージュプラス",
-      "snippet": "【キラピチ】12月号の別冊付録は『ちいかわ』スケジュール帳＆シャカシャカシール！ アニメージュプラス",
-      "summary": "【キラピチ】12月号の別冊付録は『ちいかわ』スケジュール帳＆シャカシャカシール！ アニメージュプラス",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-05T08:10:36+09:00",
-      "published_display": "2026-11-05 08:10 JST"
+      "title": "流行語大賞ノミネート 「モナキ」や映画がヒットした「ちいかわ」など - テレ朝NEWS",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81bllWTlFjdlZMMGZVUldqblhXYnpXd2FYYlRtd2JQLV83MWdHeFVoeG5XVFYydE1hRVJsVUhJU0R2NXFmR3pjeFhIeVp5M2FJTFJ3aFB2U1QwQ2p0TF9yb3hlV2ttNmNWWktBSnZGbXQ?oc=5",
+      "source": "テレ朝NEWS",
+      "snippet": "流行語大賞ノミネート 「モナキ」や映画がヒットした「ちいかわ」など テレ朝NEWS",
+      "summary": "流行語大賞ノミネート 「モナキ」や映画がヒットした「ちいかわ」など テレ朝NEWS",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-05T19:28:25+09:00",
+      "published_display": "2026-11-05 19:28 JST"
     },
     {
-      "title": "「キリがない…」【ちいかわ新商品】の『テディベア姿』にファン歓喜。「ちいかわ貧乏になっちゃう…」と嘆く声も - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04aEVfYXJBUGpiZzJjazZHTktqYnM1TFJUSEFJZDBhWnNOS1BfRU1meFJTOWtUNndNX2NCaFFaNnlqTkJ1U3lKWTM2UFYzTzJ6SHVoQXpCOVNjWV8zMm1TbHRDLWg0LTJvbFFpM3FjVFJaYW0wb19HcmJmeTNEQ0E?oc=5",
+      "title": "うさぎの髪がファサ…「ちいかわ」ふわふわな“毛量シリーズ”グッズが11月6日発売！アパレルやファーマフラー、バッグなど全13種（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUOVB6aXZzbmJhQTZGNHU3WWpGM0U2a2FYQnQxbjhsU1RiS1l2X0pGc3Z6aWNSaGEzSEt6NDl4LTNVWDBIRG1yTXJNMlIwcU55NkVqSXdaT0IzYzFMQzBMc2lOSHk4VlNGTXliTzVPYWdyMzhQWFNJVC00SzVBZVE?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「キリがない…」【ちいかわ新商品】の『テディベア姿』にファン歓喜。「ちいかわ貧乏になっちゃう…」と嘆く声も Yahoo!ニュース",
-      "summary": "「キリがない…」【ちいかわ新商品】の『テディベア姿』にファン歓喜。「ちいかわ貧乏になっちゃう…」と嘆く声も Yahoo!ニュース",
+      "snippet": "うさぎの髪がファサ…「ちいかわ」ふわふわな“毛量シリーズ”グッズが11月6日発売！アパレルやファーマフラー、バッグなど全13種（インサイド） Yahoo!ニュース",
+      "summary": "うさぎの髪がファサ…「ちいかわ」ふわふわな“毛量シリーズ”グッズが11月6日発売！アパレルやファーマフラー、バッグなど全13種（インサイド） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-05T08:10:12+09:00",
-      "published_display": "2026-11-05 08:10 JST"
-    },
-    {
-      "title": "「ちいかわベーカリー」クリスマス限定パン登場 ちいかわ・ハチワレ・うさぎがサンタ帽姿に（リアルサウンド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZmloamdoRnNIbUxuNGhlWGNDTTZsT1FMVDZfdkVfODhCaXV4WVQ0NkFONFNLS0M5dU8xNzBLVUU5bm1udEFrZDJFQjN1MkFOVHBtYmQ3LXBBQkl6a1h2YzVnZk1aS0dXY29DNGVSWHlpOUFmc1NYRDhyaHlsb00?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわベーカリー」クリスマス限定パン登場 ちいかわ・ハチワレ・うさぎがサンタ帽姿に（リアルサウンド） Yahoo!ニュース",
-      "summary": "「ちいかわベーカリー」クリスマス限定パン登場 ちいかわ・ハチワレ・うさぎがサンタ帽姿に（リアルサウンド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-05T08:02:22+09:00",
-      "published_display": "2026-11-05 08:02 JST"
+      "published_at": "2026-11-05T19:15:03+09:00",
+      "published_display": "2026-11-05 19:15 JST"
     }
   ]
 }
