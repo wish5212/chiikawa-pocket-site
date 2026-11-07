@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-07T03:37:21.283400+09:00",
-  "generated_at_jst": "2026-11-07 03:37 JST",
+  "generated_at": "2026-11-07T12:31:22.045779+09:00",
+  "generated_at_jst": "2026-11-07 12:31 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,29 +14,133 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 1,
+      "count": 3,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 4,
+      "count": 5,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 6,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
+    {
+      "title": "『ちいかわ』、なぜ流行語大賞にノミネート？ レジェンド漫画家も使いたくなるハチワレのあのセリフ - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94TU1Qd181STJIUkxvNU1DU0xBUXowOEZ5ZW9VUkhPejZkS1JJZ19DcHlMal91aGpCZGQ1M01NU0tiakU4UUFGNzY1cGN1ZS1lLTZEVjMyc19vbkRuOGVLNNIBZkFVX3lxTE5ybmU1WnlPQ2FtNVg0UVBvZWJ3Q2k4MzNrbGNNcnliNDNpaDc5cjhfX0cwVWVGNzhpb3o3RmFBS05ieFNyOWJfU1hlNU9CQ2pid3VsU0FyT0o4LVZISVk5QTdQX1ctdw?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "『ちいかわ』、なぜ流行語大賞にノミネート？ レジェンド漫画家も使いたくなるハチワレのあのセリフ リアルサウンド",
+      "summary": "『ちいかわ』、なぜ流行語大賞にノミネート？ レジェンド漫画家も使いたくなるハチワレのあのセリフ リアルサウンド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-07T12:14:45+09:00",
+      "published_display": "2026-11-07 12:14 JST"
+    },
+    {
+      "title": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vSHpxLVNLQTJTV01EemdEeWJUdmxDNFgyR25Oc2U0QTA2ekNnOFF4Si1IMml1TENfRnh3ek9KUkN5MjZsc1ZKd2NxTXpONk9LTTY5bERZTEtqQlloYk8wNtIBZkFVX3lxTE11VVlzcVBRaTV6b0NWYjdqemozTFRVY0R4UG82dlJUQ3JRMVpVaWFDbUplcUZqZ0J5ajdrcUJRNWx0N2NheDk1LVc2dHZnbjd0dkVPYThoSjNhblJKUER2ZzdtWUkwZw?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は リアルサウンド",
+      "summary": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は リアルサウンド",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-07T12:14:23+09:00",
+      "published_display": "2026-11-07 12:14 JST"
+    },
+    {
+      "title": "【映画『ちいかわ』興収１８６億円突破】グッズ・飲食・企業コラボへ広がる「かわいい」の収益力 - https://kabu-ir.com/",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxeVphR1FGRGdCci1HRWZDNGQtNVdmZzZEdFNnRjl6QzZSRlpWS1Ntdzg1M2FadENaaFN5YW90WUtwbjE3Mms1R1VWbHpOQkR4UlJiNw?oc=5",
+      "source": "https://kabu-ir.com/",
+      "snippet": "【映画『ちいかわ』興収１８６億円突破】グッズ・飲食・企業コラボへ広がる「かわいい」の収益力 https://kabu-ir.com/",
+      "summary": "【映画『ちいかわ』興収１８６億円突破】グッズ・飲食・企業コラボへ広がる「かわいい」の収益力 https://kabu-ir.com/",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-07T12:00:00+09:00",
+      "published_display": "2026-11-07 12:00 JST"
+    },
+    {
+      "title": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね～」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QMHBlaHVOYWJVWjUybi1ibzQxRVVzejZLZTJLQTMzNHRabzl5al9RdEJrd0FHUUxTeERpQ3hlNTYyUXFRdFBlM2hJUUhlbTA?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね～」 オリコンニュース",
+      "summary": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね～」 オリコンニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-07T11:33:15+09:00",
+      "published_display": "2026-11-07 11:33 JST"
+    },
+    {
+      "title": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね〜」（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6dktyVTZOMmVSWm5kcmFQNWFnRElZX1didC1wdUkwWE1QUGE3WThoU1ZLdzYxR3JJbTV6cENudWtMaHd2TG0zdWNJV29ORDhCNjh4QUItNTF0V3p3MFE3Uk1zS3h2d2s4RDd2Ymd3d3ByV0xUbHBRczF6ZHFoU2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね〜」（オリコン） Yahoo!ニュース",
+      "summary": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね〜」（オリコン） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-07T11:30:00+09:00",
+      "published_display": "2026-11-07 11:30 JST"
+    },
+    {
+      "title": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね〜」 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbk5Ra3piMUFrUWM0UlVxZFdKVURqdHJwTUFQTmdPRHJLNGlKUi1QTFRIR2tJS0tSaTJrZkNvYk53cW8yZ2VKSFlqQk9QSW9fQjFsU0dmN21xMVZLdWJjMVhBdnJXUDJzdnNqQTdVVHdQTzBTWDVXdl9vQ1NKaVU0NUxhZXgwSFNici1XNTBGODBrWm_SAYYBQVVfeXFMTUNhby1jd3VYWlFrQ1FIZEJZbjNHRjFIRFNQZkZReUxWb0Fkc0pGVUFEcHVaR0FETlN1dEhjQnF4aUVzZXprWE5QQ1lrTlNCY3c5ZWc1NDJpcmc0d1R1SkhhS3RkTWF1YTRMcVFZa2dvMTE0NGpVLVByc2hkWWhGZDRwblpDSXc?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね〜」 ｄメニューニュース",
+      "summary": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね〜」 ｄメニューニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-07T11:30:00+09:00",
+      "published_display": "2026-11-07 11:30 JST"
+    },
+    {
+      "title": "映画「最終面接」、ボックスオフィスで1位奪還…「ちいかわ」や「コナン」ら日本アニメ作品も上位を記録 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUdHNzZzTVlXZUtrWl9iZHRYMEVLcW1nWVdYdFRxLU5CcDJWREMzZGNoVU5nQU5yNHBYNTM4NUlZSEhlek9rNVJwRFZsUUwzMC0wV0o1R0R6QTZSbzN4N2ZCWWUtUEVmTlJyU1lSOFRMczZmUHI0WEUxX2VTLXJZbGw1ZjNqM2NWajJ0S2VIRdIBlAFBVV95cUxPeXoyem5ha2lLZmNUNkEzbllONkNsbGxIVHB5MGpKNFdZRGxyNFVNUzM3MjVDbFZLUWVRdGh3V1cxeW8xWk0yT29FTzZIUWFyT2dfWmRqc2ZtVE1sLWJ2Nm04U3psbmVnTThOX2FUMTA1X3pBX28tY2RIVVo4dnFBSlhKdXBrNFdOa09PQTF5U0IxNFhZ?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "映画「最終面接」、ボックスオフィスで1位奪還…「ちいかわ」や「コナン」ら日本アニメ作品も上位を記録 ｄメニューニュース",
+      "summary": "映画「最終面接」、ボックスオフィスで1位奪還…「ちいかわ」や「コナン」ら日本アニメ作品も上位を記録 ｄメニューニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-07T10:37:00+09:00",
+      "published_display": "2026-11-07 10:37 JST"
+    },
+    {
+      "title": "うさぎの髪がファサ…「ちいかわ」即完売の“毛量シリーズ”グッズが追加生産！3人のボアブルゾン、ファーマフラーなど10種 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QV9GdmtwbjU2LWItWjRSQWVoSzlJUnlTU0dZanNIT1JSSFhMc2xHSWVZUHM4R1YyUUdRbWZPa3c2MkNYRjZIaDdLazhSZXJDNDZCZkYxZE5yNm9ycnNISXBGQW81aUNZMUtGYWVTbWMzZ01jTVBGQ1YxLUx5Q00?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "うさぎの髪がファサ…「ちいかわ」即完売の“毛量シリーズ”グッズが追加生産！3人のボアブルゾン、ファーマフラーなど10種 Yahoo!ニュース",
+      "summary": "うさぎの髪がファサ…「ちいかわ」即完売の“毛量シリーズ”グッズが追加生産！3人のボアブルゾン、ファーマフラーなど10種 Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-07T10:30:03+09:00",
+      "published_display": "2026-11-07 10:30 JST"
+    },
+    {
+      "title": "『トイザらス』が異例のクリスマスセールをスタート！『ドン・キホーテ』からの買収で期待される“生まれ変わり”と再建（3ページ目） - 週刊女性PRIME",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNmc0bWZ6MG5GaWVza1h5T0tJT0ltRlZncWJWWlEtRl9RT1U1UUJPUXdPdWxzT1RfTG0xQmcxRnAyN2NlN2RSelZkYzBkbFFGUmlMZWRuRmE?oc=5",
+      "source": "週刊女性PRIME",
+      "snippet": "『トイザらス』が異例のクリスマスセールをスタート！『ドン・キホーテ』からの買収で期待される“生まれ変わり”と再建（3ページ目） 週刊女性PRIME",
+      "summary": "『トイザらス』が異例のクリスマスセールをスタート！『ドン・キホーテ』からの買収で期待される“生まれ変わり”と再建（3ページ目） 週刊女性PRIME",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-07T07:00:00+09:00",
+      "published_display": "2026-11-07 07:00 JST"
+    },
+    {
+      "title": "映画ちいかわ 人気プライズ6アイテム 12月頃より順次再登場! - コラボカフェ",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0ZvRGcwbmlWZEQ5T251YngzaE5qcmNyXzl1MTQ2a2ZjR1RnamFUSDlZUXJBcHFudS1jcW9TNmpsbXFLNGw5TzlVMGxqaDV0NUFrcmRyX0E2ZmVvZEF5Rl9uRDJvRVFPTHhUNFBLbFF2aHpLdGtERDJVblh0UHBJTF9ZWDUwYjJvYkE?oc=5",
+      "source": "コラボカフェ",
+      "snippet": "映画ちいかわ 人気プライズ6アイテム 12月頃より順次再登場! コラボカフェ",
+      "summary": "映画ちいかわ 人気プライズ6アイテム 12月頃より順次再登場! コラボカフェ",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-07T03:52:31+09:00",
+      "published_display": "2026-11-07 03:52 JST"
+    },
     {
       "title": "【ちいかわ】お互いを想う友情が尊い…！ アニメ『ちいかわ』第58話「勉強中/お昼ごはん」はちいかわとハチワレの頑張る理由に感動 - PASH! PLUS",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiUmpzTHpLXzdENTBHSEc1eWxXREtzSU52OXhtM2dwb0pEM3JVM2F5YzQyd0xkQU1hSVlpSjFGVXkzbU8wdEtkTklZYkh1dw?oc=5",
@@ -49,125 +153,15 @@
       "published_display": "2026-11-07 00:04 JST"
     },
     {
-      "title": "『ちいかわ』更新（11/6）。黄色いハチワレの正体…どころじゃない!? 次々と現れてパピコ足りない！ - 電撃オンライン",
+      "title": "『ちいかわ』更新（11/6）。喜怒哀楽説？ 黄色いハチワレの正体…どころじゃない!? 次々と現れてパピコ足りない！ - 電撃オンライン",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5VlJfY0RmZnBjS0duOWR3RHhnakozNXlldElDb3BSbko5bGk5VThpMmU1V0tDSWZjbHVNQ1kxMHpRak92aWJ2eDVGcmxaVlVpWGJjaEtxa1FyZw?oc=5",
       "source": "電撃オンライン",
-      "snippet": "『ちいかわ』更新（11/6）。黄色いハチワレの正体…どころじゃない!? 次々と現れてパピコ足りない！ 電撃オンライン",
-      "summary": "『ちいかわ』更新（11/6）。黄色いハチワレの正体…どころじゃない!? 次々と現れてパピコ足りない！ 電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/6）。喜怒哀楽説？ 黄色いハチワレの正体…どころじゃない!? 次々と現れてパピコ足りない！ 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/6）。喜怒哀楽説？ 黄色いハチワレの正体…どころじゃない!? 次々と現れてパピコ足りない！ 電撃オンライン",
       "category_key": "other",
       "category_label": "そのほか",
       "published_at": "2026-11-07T00:02:00+09:00",
       "published_display": "2026-11-07 00:02 JST"
-    },
-    {
-      "title": "【今週の注目記事】1位はFNS歌謡祭でちいかわメドレー TOP10のうち6つがちいかわ - ナタリー",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIZWEtYS1ScXlzMVgtWU1wUEFlRkd0VU1tZFF0QjlhV0JoMEJsQXpBX0szUkdPR0JfcjhrMjBJMGdhZU5oaFF1dDA4THQ?oc=5",
-      "source": "ナタリー",
-      "snippet": "【今週の注目記事】1位はFNS歌謡祭でちいかわメドレー TOP10のうち6つがちいかわ ナタリー",
-      "summary": "【今週の注目記事】1位はFNS歌謡祭でちいかわメドレー TOP10のうち6つがちいかわ ナタリー",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-07T00:00:00+09:00",
-      "published_display": "2026-11-07 00:00 JST"
-    },
-    {
-      "title": "「見つかってよかった！」2本になった「ほめられリボン」を花瓶に飾るハチワレに視聴者ほっこり「ちいかわ」186話 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU2w2OUtneFlQZXc1dUJoZU9KbzhRUXBIbzFhUFJhUjdQOUtaQzNfbVh4SU9KdER1REkwRmpoQ29DZXFsQXJlMEQ4bXMzY08wYW5Fb3ZUQnQtdGp5RlJpVURlNVU1M0NJUVAxenpsaEd2RVlFOVY1UUJUUkRyUmM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「見つかってよかった！」2本になった「ほめられリボン」を花瓶に飾るハチワレに視聴者ほっこり「ちいかわ」186話 Yahoo!ニュース",
-      "summary": "「見つかってよかった！」2本になった「ほめられリボン」を花瓶に飾るハチワレに視聴者ほっこり「ちいかわ」186話 Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-06T21:30:37+09:00",
-      "published_display": "2026-11-06 21:30 JST"
-    },
-    {
-      "title": "【ヒャダインの温故知新アナリティクス】「ちいかわ」の映画、2026年の流行語に入るでしょうねえ - @DIME アットダイム",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBBS0k4eEhqbk1EMHdVeFdfeVQxRGJSWGVLZnNmZ1ZyMUhYdVBTTEtmbXZPbVlITnI0TnFlT3lCejVJbGwx?oc=5",
-      "source": "@DIME アットダイム",
-      "snippet": "【ヒャダインの温故知新アナリティクス】「ちいかわ」の映画、2026年の流行語に入るでしょうねえ @DIME アットダイム",
-      "summary": "【ヒャダインの温故知新アナリティクス】「ちいかわ」の映画、2026年の流行語に入るでしょうねえ @DIME アットダイム",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-06T21:01:29+09:00",
-      "published_display": "2026-11-06 21:01 JST"
-    },
-    {
-      "title": "フジHD、「ちいかわ効果」で回復基調 構造改革へコンテンツ強化 持続的ヒット生めるか - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWM1MXZjb21JYWM3UGlqTzZrM1V6bTZNTUk2MmRKQTJhSTBnSEk5T1JncFJEbmlXRkw0b3Z5aHFDM1MydGFDZG1xQ3dmTlNSLVRVUWN5Q1h2M3NsYnl3bUxuSzQySUw1aXhnQURyd2wxNUxsVzFSUTduOGN3bDlFNzB2TGZkVjZFV19ybg?oc=5",
-      "source": "産経ニュース",
-      "snippet": "フジHD、「ちいかわ効果」で回復基調 構造改革へコンテンツ強化 持続的ヒット生めるか 産経ニュース",
-      "summary": "フジHD、「ちいかわ効果」で回復基調 構造改革へコンテンツ強化 持続的ヒット生めるか 産経ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-06T20:56:56+09:00",
-      "published_display": "2026-11-06 20:56 JST"
-    },
-    {
-      "title": "【ちいかわ×ANA】ちいかわジェット就航！空港で買えるコラボステッカーをゲットしてきました - LEE",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNl9aeWhuV0NDV1dQVU1EcFJxY05TUXVfUFZOWk1DWGdndmhKZVVWNmJDVmVtSWtrQnZ3cEtyUXJFRmp6bHJ2VlpQQWJabUdvWkE?oc=5",
-      "source": "LEE",
-      "snippet": "【ちいかわ×ANA】ちいかわジェット就航！空港で買えるコラボステッカーをゲットしてきました LEE",
-      "summary": "【ちいかわ×ANA】ちいかわジェット就航！空港で買えるコラボステッカーをゲットしてきました LEE",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-11-06T19:25:08+09:00",
-      "published_display": "2026-11-06 19:25 JST"
-    },
-    {
-      "title": "『映画ちいかわ 人魚の島のひみつ』巾着ポーチが11月上旬より再登場！500mlペットボトルも入るBIGサイズのカプセルトイ全6種 - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYaGRLWWhZRGhJSVZkcGhzYjA1V1hPZ3UyWEFxcmU3VWNkdkYtRWdpdTIzOWo2Z0J0aFo4blkxZzU3NTRSOUhJRnBuVzRoX3dOaUp6RTlIbw?oc=5",
-      "source": "にじめん",
-      "snippet": "『映画ちいかわ 人魚の島のひみつ』巾着ポーチが11月上旬より再登場！500mlペットボトルも入るBIGサイズのカプセルトイ全6種 にじめん",
-      "summary": "『映画ちいかわ 人魚の島のひみつ』巾着ポーチが11月上旬より再登場！500mlペットボトルも入るBIGサイズのカプセルトイ全6種 にじめん",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-06T19:17:00+09:00",
-      "published_display": "2026-11-06 19:17 JST"
-    },
-    {
-      "title": "黄色いハチワレの正体は？ 『ちいかわ』新キャラ？ 招福ハチワレ!? - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pdXZGOFNhdkd2QkJ1VENrSk5QWWZEWm1nWXlsenB5QUZGc1E1WWR5TlJDb1M4ZTNPM3FmMFRaYm5aQkNuc2FQLTJSSFd1Q2VYMFY0ZG4yQnlWUQ?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "黄色いハチワレの正体は？ 『ちいかわ』新キャラ？ 招福ハチワレ!? 電撃オンライン",
-      "summary": "黄色いハチワレの正体は？ 『ちいかわ』新キャラ？ 招福ハチワレ!? 電撃オンライン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-06T19:10:00+09:00",
-      "published_display": "2026-11-06 19:10 JST"
-    },
-    {
-      "title": "高市総理の“台湾有事”答弁から1年 冷え込む日中関係…進出企業2割減・日本人公演ゼロの一方で「ちいかわ」大人気 関係改善の動きは？ - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIR0NZSll6Q2N1bDFVUHg1bkt5dGZ0ZFJLZVIyS1h5R2ZYcUdIdTJoYjVxc2VHRkRmd29YblY5SkZyYXk5SEJfa05kSXdfWjBCZFdscko0MA?oc=5",
-      "source": "TBS NEWS DIG",
-      "snippet": "高市総理の“台湾有事”答弁から1年 冷え込む日中関係…進出企業2割減・日本人公演ゼロの一方で「ちいかわ」大人気 関係改善の動きは？ TBS NEWS DIG",
-      "summary": "高市総理の“台湾有事”答弁から1年 冷え込む日中関係…進出企業2割減・日本人公演ゼロの一方で「ちいかわ」大人気 関係改善の動きは？ TBS NEWS DIG",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-06T19:05:41+09:00",
-      "published_display": "2026-11-06 19:05 JST"
-    },
-    {
-      "title": "【11/8まで！】沖縄初上陸の「ちいかわ×東京ばな奈」で限定バッグ＆スイーツをゲットしよう♪ - ぴあエンタメ情報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BOF85MGZyWldWOERKZTh3ZEtTenNaWTlHZWhZZWVjMHZkN25LTU1SYjhQTmJOVVFicGkzWXhxdHFyZ1VQak5TZlJNRExUVVFuZWdMcWlBVUxfY1Z5cmpR?oc=5",
-      "source": "ぴあエンタメ情報",
-      "snippet": "【11/8まで！】沖縄初上陸の「ちいかわ×東京ばな奈」で限定バッグ＆スイーツをゲットしよう♪ ぴあエンタメ情報",
-      "summary": "【11/8まで！】沖縄初上陸の「ちいかわ×東京ばな奈」で限定バッグ＆スイーツをゲットしよう♪ ぴあエンタメ情報",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-06T19:00:00+09:00",
-      "published_display": "2026-11-06 19:00 JST"
-    },
-    {
-      "title": "【入場特典リスト 11月最新版】本日公開「GROTESQQQUE グロテスク」に注目 映画「ちいかわ」新特典は？ - アニメハック",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiQnRmOThSYzNRZlRCd1dOMXB3ZldBUFN3V0ExTmdYRDdjbmV6N0E0WHVqOFVxVjJnTEkzY0EtX3I3NUlJY2Y5Wno3SEQ0ZGtXVzRSajhEZU5vOVhMN1Z0ckRpUkkzUQ?oc=5",
-      "source": "アニメハック",
-      "snippet": "【入場特典リスト 11月最新版】本日公開「GROTESQQQUE グロテスク」に注目 映画「ちいかわ」新特典は？ アニメハック",
-      "summary": "【入場特典リスト 11月最新版】本日公開「GROTESQQQUE グロテスク」に注目 映画「ちいかわ」新特典は？ アニメハック",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-06T19:00:00+09:00",
-      "published_display": "2026-11-06 19:00 JST"
     }
   ]
 }
