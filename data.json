@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-12T13:40:31.979497+09:00",
-  "generated_at_jst": "2026-11-12 13:40 JST",
+  "generated_at": "2026-11-13T04:15:47.926838+09:00",
+  "generated_at_jst": "2026-11-13 04:15 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,13 +14,13 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 6,
+      "count": 4,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 2,
+      "count": 4,
       "icon": "🎬"
     },
     {
@@ -32,136 +32,136 @@
   ],
   "items": [
     {
-      "title": "「ちいかわクリニック」第1弾、ナース服や白衣姿のちいかわたちのマスコットやおくすり袋風ポーチを11月27日に発売！ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGR1BHeF9pdG1Pbm1fakdMOUhYam5uTzNHWVpoMElKQWFvTWFCeEo1dUpjMEk2WU0zYklIRGFHVGdJanFNYkNjOG83aUN0RGp4VDExWnFlWUxIbGxlaXBNdG1xRDVNTjhIZHZYdTZBWG55MnU1WFdkcU95eHZSS2c?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわクリニック」第1弾、ナース服や白衣姿のちいかわたちのマスコットやおくすり袋風ポーチを11月27日に発売！ Yahoo!ニュース",
-      "summary": "「ちいかわクリニック」第1弾、ナース服や白衣姿のちいかわたちのマスコットやおくすり袋風ポーチを11月27日に発売！ Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-12T13:18:00+09:00",
-      "published_display": "2026-11-12 13:18 JST"
+      "title": "『ちいかわ』更新（11/12）②。やっぱり消えてる!? ハチワレが嬉しい気持ちになったら、今度は… - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91NGJXZ2I0MEd3NDg3RGlnRHk4NTJIZjkzeV9zWjlTMWFpU3dXRVVYRXVpbXJYREtydTFIMG1idmItYkZLMEhxZmdKSkRueGI4R2FpZHVFNm9Wdw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/12）②。やっぱり消えてる!? ハチワレが嬉しい気持ちになったら、今度は… 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/12）②。やっぱり消えてる!? ハチワレが嬉しい気持ちになったら、今度は… 電撃オンライン",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-12T23:50:00+09:00",
+      "published_display": "2026-11-12 23:50 JST"
     },
     {
-      "title": "ちいかわたちがナース服やドクター姿に！ 「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGeThUTFVudGRfR0NjRHJVbmJxem9ENVBQdUpPeUE0SkhZR1BDMlBYSXBYOW9qand0cDFmZE01N3pzZVh0VXQ1SkRBRUo2VEIwNHAyRWVMNjJrd1dZbmxveUEtMzRFbndhNTR3NVRjSHFuWDBobjdTOXNvM3R5ejg?oc=5",
+      "title": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！ (アニメージュプラス) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXk2Z212UjZDcjdqWHJjdkhKZXRtM29IblJNazJJZEx2SUlvSkJhVUotNDZXcHVDMW5GOGdJVlNfUWg3b1VIdTJFZmFvbUlwWk1Jbzk5dmpiUl9tVkxhbW1FWHFHMFVMWmdPVWw3cTFLaDBhX0V3Sm0wQUlaX1h3Ym93V1FxTC1DOEZxdFFR?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "ちいかわたちがナース服やドクター姿に！ 「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場 Yahoo!ニュース",
-      "summary": "ちいかわたちがナース服やドクター姿に！ 「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場 Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-12T13:17:00+09:00",
-      "published_display": "2026-11-12 13:17 JST"
-    },
-    {
-      "title": "「ちいかわクリニック」登場、ナース服＆ドクター姿のちいかわたちたちのマスコットなど（コミックナタリー） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MbXE5eVQ3UExOX3JadEN6emZUSzE3ZE1wbS1FRDNqUmg5TmJScjE0eExiVHJ4Q0Rtck1RRVNFR1dGaEY5MjBnc2lWa1ZSdzkteDJRY095N0plVTJyZFVsN1lZRUtjTWdpYlFBQU5JeGVpalhVMlNzaVRyVFg4d0U?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわクリニック」登場、ナース服＆ドクター姿のちいかわたちたちのマスコットなど（コミックナタリー） Yahoo!ニュース",
-      "summary": "「ちいかわクリニック」登場、ナース服＆ドクター姿のちいかわたちたちのマスコットなど（コミックナタリー） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-12T13:10:10+09:00",
-      "published_display": "2026-11-12 13:10 JST"
-    },
-    {
-      "title": "『ちいかわ』新シリーズ「ちいかわクリニック」登場へ！ ナース＆ドクター姿のグッズ発売（クランクイン！） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UZ1cxYUZRMXEwZjVWRGFtZ3NSZndMUzh0TFRjc0hPdTRfMWJ1bUZrS2wzSHJwNnBFazF2WHluUmNSMlZNOWNBTVc0Qk5YQkxtb28zOHNkdnd0Q2t6MURRNVBIYlRMX0QyLWt1ckUxWmtYSTZWS1pKdWZqczNQd1k?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』新シリーズ「ちいかわクリニック」登場へ！ ナース＆ドクター姿のグッズ発売（クランクイン！） Yahoo!ニュース",
-      "summary": "『ちいかわ』新シリーズ「ちいかわクリニック」登場へ！ ナース＆ドクター姿のグッズ発売（クランクイン！） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-12T12:57:00+09:00",
-      "published_display": "2026-11-12 12:57 JST"
-    },
-    {
-      "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1RMZC04UkV1Tk1FQTZBNmJ3Mk10OFNYZ1dNMEVIa2tWc2J3NUkyMXptM08xdjl1UEU0QTgxcXI1LWpyRk12RWFZaWFNUTV2Sld1V2xDbU5wWlRhNzJSSE9XSWpJU1lrVUo5VDBCYV9FODEwZlBJVXNxSlhha2hvc1JOazJLX2pPOFQzdGtmQjdFZzTSAYYBQVVfeXFMTnJNSmhFcEg0YkNNTF9jLVA1RkRsVDFoa2ZPU3hEZkZ5Vl9nWmFRY3MzZ3JNSWpBelBVS252WDdqNXBMQUlLRVFOT3FMOUhwaWRiN1haNFhxM0RUTzhPZGdnQ3MwWXJkMlBSWDR6N3QySUl1S1JQN1MybFFOQW9BRTV0NkNMc3c?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身 ｄメニューニュース",
-      "summary": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身 ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-12T12:35:00+09:00",
-      "published_display": "2026-11-12 12:35 JST"
-    },
-    {
-      "title": "ちいかわ＞次号「モーニング」に登場 ナガノ描き下ろし表紙＆エピソード（MANTANWEB） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEQ1pQeHBQT20yRG1hVnA1SkhWcm5idFRFbWNFSFBxQUxrZHNYSGJpTUpvYWdTdFpxTVh0NWhSUUctUU5WckRRZXByazZITjBrUGc5MzdQbFl2N0o1ZjlteUYzTWZ4WVREU2p5N1VfUmZDZEk0UlIxVGlrYk5mR2c?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわ＞次号「モーニング」に登場 ナガノ描き下ろし表紙＆エピソード（MANTANWEB） Yahoo!ニュース",
-      "summary": "ちいかわ＞次号「モーニング」に登場 ナガノ描き下ろし表紙＆エピソード（MANTANWEB） Yahoo!ニュース",
+      "snippet": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！ (アニメージュプラス) Yahoo!ニュース",
+      "summary": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！ (アニメージュプラス) Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-11-12T12:29:00+09:00",
-      "published_display": "2026-11-12 12:29 JST"
+      "published_at": "2026-11-12T23:00:57+09:00",
+      "published_display": "2026-11-12 23:00 JST"
     },
     {
-      "title": "ナース服・ドクター姿のちいかわたちが勢ぞろい！毎年人気の「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場！第一弾：11月27日（金）／第二弾：12月11日（金）販売スタート！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52cXItSy1Cdk95ajFCNWluZWZNRlczZEljRUx0QjVUNldGZ0lRcEFHZlRWSUo1MUNrOEdndmlQVDJfYkFYWEI4ZGNhOEliamFwLTMyd3BtQ1JXd2lhUHBLd0RVY0xudk9DckE?oc=5",
-      "source": "PR TIMES",
-      "snippet": "ナース服・ドクター姿のちいかわたちが勢ぞろい！毎年人気の「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場！第一弾：11月27日（金）／第二弾：12月11日（金）販売スタート！ PR TIMES ちいかわたちがナース服やドクター姿に！ 「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場 GAME Watch 『ちいかわ』新シリーズ「ちいかわクリニック」登場へ！ ナース＆ドクター姿のグッズ発売 クランクイン！",
-      "summary": "ナース服・ドクター姿のちいかわたちが勢ぞろい！毎年人気の「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場！第一弾：11月27日（金）／第二弾：12月11日（金）販売スター…",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-12T12:04:28+09:00",
-      "published_display": "2026-11-12 12:04 JST"
-    },
-    {
-      "title": "ちいかわクリニック 告知ムービー - Howl.Link",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9LVTdWTTJ0VjJvZ3Q1eUE4WnJiOUtWdGJHanFISEc3Uzc0b29mYTJMRk4xRnFXWmtYRUk0?oc=5",
-      "source": "Howl.Link",
-      "snippet": "ちいかわクリニック 告知ムービー Howl.Link",
-      "summary": "ちいかわクリニック 告知ムービー Howl.Link",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-12T12:01:32+09:00",
-      "published_display": "2026-11-12 12:01 JST"
-    },
-    {
-      "title": "草むしり検定合格でハチワレと嬉し泣き…！お祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に心温まる - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWVNvQVpjZk1fN0NBbmxNdkpkNk9tNGxBZmlWc0FqODlUTlN4blpxOE9GcVJhY2NHdHd0cHVlZmRkaFZ5UWNwck12UHl0SGl5bkR1bzR2MWpqS08yUTdjeUIxTmp2NldHTFZ2QUpPVFBsNjNLTVB2YjZSc1k3V2lUZG5mV2xjaDdUTHlNYzFGMlQxQjlnUHBnaFVjdjgtU1VsYlFrZDIwYWQ1c0VZbENXOS1ITmIxWWNralFXWUxLXzNOcUVmRXN3cFZvakNBZzJ4Rkd4WDFaSdIBhwFBVV95cUxPME52SXV4OGprLWR0TmdJZGdNWDd1MkRPU1VWYXhWaHNRaFd2eFdES3BaSy1Canh0X1J4TXdwUkZvc0NLYi15bk5oaE1IcFlGMTUtOE13NV90VEotWm05QmpLeU5FdW41cmNmQ0NkSE9vVnhCdzhWMkZ2ZC1WbGNkaThFSnFrRUU?oc=5",
+      "title": "「ちいかわクリニック」11月27日開催 流行語候補で大争奪戦へ - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXRaVEgyaldwaXdEMjU5RTZrZW9HRnZGdmxmWGt0VTRpSTRwcXU5TWpOQVR3ellCZ0ZGMWVxTnRCUTdtUE9lajM1REdWWXhkb3R2YmZjVVl6dFJhQkFzZzYwazFXcmdYWWNoMUZhZlhVczVTWE1uaFpuV2tYOWR5UGdEWHhTRDl3c194RDJMaHBWSlFr0gGaAUFVX3lxTFB1bmRXX1hOb1NCdHVBaTBwWEVfV3Z2Ny1aSkpWcjBkUE54S0ZuRFhJLV9LRndPUVpCYzFFazVJcnJJRzZ5bmhneHg4VXFBa1JzeTdkSFNpclJDdEhNek8wZ183RFhGNE1SenY1NGRoSjlKaXVGLWtmNTVQb3JZWnBzZU14LU9jazVlTVNFTDkzN3QzNkNJWWhtV2c?oc=5",
       "source": "ｄメニューニュース",
-      "snippet": "草むしり検定合格でハチワレと嬉し泣き…！お祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に心温まる ｄメニューニュース",
-      "summary": "草むしり検定合格でハチワレと嬉し泣き…！お祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に心温まる ｄメニューニュース",
+      "snippet": "「ちいかわクリニック」11月27日開催 流行語候補で大争奪戦へ ｄメニューニュース",
+      "summary": "「ちいかわクリニック」11月27日開催 流行語候補で大争奪戦へ ｄメニューニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-12T12:00:00+09:00",
-      "published_display": "2026-11-12 12:00 JST"
+      "published_at": "2026-11-12T22:02:00+09:00",
+      "published_display": "2026-11-12 22:02 JST"
     },
     {
-      "title": "【フィギュア最新情報】『トリッカル』ｽﾋﾟｷのソフビや『ちいかわ』くりまんじゅうとシーサーの「ねんどろいど」などが登場！ - Hobby JAPAN Web",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5naTZuSlRFTTdFSEhBekVocXhTTExvVW9kMjZka1otYzM3bTUzdTZ3eEZMSzNOZlhyODlmTmhOUm5icmlldDlQdA?oc=5",
-      "source": "Hobby JAPAN Web",
-      "snippet": "【フィギュア最新情報】『トリッカル』ｽﾋﾟｷのソフビや『ちいかわ』くりまんじゅうとシーサーの「ねんどろいど」などが登場！ Hobby JAPAN Web",
-      "summary": "【フィギュア最新情報】『トリッカル』ｽﾋﾟｷのソフビや『ちいかわ』くりまんじゅうとシーサーの「ねんどろいど」などが登場！ Hobby JAPAN Web",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-12T11:54:36+09:00",
-      "published_display": "2026-11-12 11:54 JST"
-    },
-    {
-      "title": "積み上げてきた人気と映画ならではの話題性で2026年の国内映画興行収入1位！「ちいかわ」ヒットの必然 - @DIME アットダイム",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VSG1jVlFUSmo2Umo2ZGVyMUFqUXd5VmM3NFdJNUU0TFVvVnVNM0VfLTBUME1XT0tPaUktOE9VTVMzSUNl?oc=5",
-      "source": "@DIME アットダイム",
-      "snippet": "積み上げてきた人気と映画ならではの話題性で2026年の国内映画興行収入1位！「ちいかわ」ヒットの必然 @DIME アットダイム",
-      "summary": "積み上げてきた人気と映画ならではの話題性で2026年の国内映画興行収入1位！「ちいかわ」ヒットの必然 @DIME アットダイム",
+      "title": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！ - アニメージュプラス",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEWkRIWVgtbmE5cklpeU1XN29fV2w2YlZBR3g3WVY3YzI1YmljR3BsZjJtNEppYjhnQ0s3VWp4aEREQWFWcXRmYlo1MFljTTRHVjJSUDFNZw?oc=5",
+      "source": "アニメージュプラス",
+      "snippet": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！ アニメージュプラス",
+      "summary": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！ アニメージュプラス",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-11-12T11:04:48+09:00",
-      "published_display": "2026-11-12 11:04 JST"
+      "published_at": "2026-11-12T21:31:44+09:00",
+      "published_display": "2026-11-12 21:31 JST"
     },
     {
-      "title": "『ちいかわ』のキャラマグネッツ第5弾が食玩に登場！2パーツに分かれる新仕様のレアマグネット「フレーム」も収録！ - 電撃ホビーウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10T29aczUyOGpOYm5URnI2SWZDenoxYUFBSWliMWhGTVloZUQxM25iVXV1WmJfbTczdWNZY3hOU3RZM0drME5MNng1UXhfUm5w?oc=5",
-      "source": "電撃ホビーウェブ",
-      "snippet": "『ちいかわ』のキャラマグネッツ第5弾が食玩に登場！2パーツに分かれる新仕様のレアマグネット「フレーム」も収録！ 電撃ホビーウェブ",
-      "summary": "『ちいかわ』のキャラマグネッツ第5弾が食玩に登場！2パーツに分かれる新仕様のレアマグネット「フレーム」も収録！ 電撃ホビーウェブ",
+      "title": "ポシェットの鎧さんも羨む？シーサーとラーメンの鎧さんの心温まる師弟愛！アニメ『ちいかわ』187話（ABEMA TIMES） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mSXBIc0NUN3VlNnNmSDZKWkdxLXkyMEV3czVoYU0zY0FtaUtrd1I4ZGpmZThCVXFBd3ZrU2ZNNUtOam95QkFNRmVMc0RzdFJySmgyVWNtM1o5NEVWNnVMRkVjWW11RDNVMmdjemZBODRrN0Fhd0JhTHR3MFl4TmM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "ポシェットの鎧さんも羨む？シーサーとラーメンの鎧さんの心温まる師弟愛！アニメ『ちいかわ』187話（ABEMA TIMES） Yahoo!ニュース",
+      "summary": "ポシェットの鎧さんも羨む？シーサーとラーメンの鎧さんの心温まる師弟愛！アニメ『ちいかわ』187話（ABEMA TIMES） Yahoo!ニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-12T21:09:15+09:00",
+      "published_display": "2026-11-12 21:09 JST"
+    },
+    {
+      "title": "ポシェットの鎧さんも羨む？シーサーとラーメンの鎧さんの心温まる師弟愛！アニメ『ちいかわ』187話 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPc3luMC1sTTVyX0tiZ1JGY1I1cG5QT0ZqSnlwZk05NUVTZlhlRnlUR1hGVkE4Y0ZReDg1ZW8yWkd0dDBCclNpcndpbUtEeEw5YkRORA?oc=5",
+      "source": "ABEMA TIMES",
+      "snippet": "ポシェットの鎧さんも羨む？シーサーとラーメンの鎧さんの心温まる師弟愛！アニメ『ちいかわ』187話 ABEMA TIMES",
+      "summary": "ポシェットの鎧さんも羨む？シーサーとラーメンの鎧さんの心温まる師弟愛！アニメ『ちいかわ』187話 ABEMA TIMES",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-12T21:07:00+09:00",
+      "published_display": "2026-11-12 21:07 JST"
+    },
+    {
+      "title": "#踊ってみた #うさぎラップ #ちいかわ #ミランケストレル #にじさんじ - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LNHU0QjVYaVp3ZXdWZTU0UXh2dWZpWnBqU2ZhVlk0RUxXbEU0QXR2WGZORXJDUmxsV3NNLWNvWVpwdlk2alctOHpKQUQ2SUk0eHlldXV6Vmp2QmNQ?oc=5",
+      "source": "YouTube",
+      "snippet": "#踊ってみた #うさぎラップ #ちいかわ #ミランケストレル #にじさんじ YouTube",
+      "summary": "#踊ってみた #うさぎラップ #ちいかわ #ミランケストレル #にじさんじ YouTube",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-12T08:00:00+09:00",
-      "published_display": "2026-11-12 08:00 JST"
+      "published_at": "2026-11-12T21:01:10+09:00",
+      "published_display": "2026-11-12 21:01 JST"
+    },
+    {
+      "title": "ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声 - WEBザテレビジョン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVZkNpUlhpODdRNWJSanZUM0JJZzNVNnhyV09FVlhodVhCazVnVTlRdGtNT1AwR2dKQjdxR0ZialhFeVU5WHV0UXJyQjFyZw?oc=5",
+      "source": "WEBザテレビジョン",
+      "snippet": "ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声 WEBザテレビジョン",
+      "summary": "ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声 WEBザテレビジョン",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-12T20:48:27+09:00",
+      "published_display": "2026-11-12 20:48 JST"
+    },
+    {
+      "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHWFo0R1lhQ3ljUE9vVEJzcGxjLUJlUVZsME12N0JERzl2blA4NmtneEFGaTFTR3dWQVc0N0lZYTlqTUdSWTN2d3Fnd2JBUQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場 PASH! PLUS",
+      "summary": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場 PASH! PLUS",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-12T20:15:40+09:00",
+      "published_display": "2026-11-12 20:15 JST"
+    },
+    {
+      "title": "グレイ・パーカー・サービス『ちいかわ』「ちいかわクリニック」マスコットが登場！ナース姿のちいかわたち＆白衣のうさぎ、ラッコをラインナップ - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OUkdIRkdWQnAzRnhDdkhmMHp6cl9aZlZLNE1NOTViVGlQSHk5bHlKOUhucmRmYXV1QnlwU21fcWZtSER0aTVseklHZTBwS3Zr?oc=5",
+      "source": "玩具人 TOY PEOPLE",
+      "snippet": "グレイ・パーカー・サービス『ちいかわ』「ちいかわクリニック」マスコットが登場！ナース姿のちいかわたち＆白衣のうさぎ、ラッコをラインナップ 玩具人 TOY PEOPLE",
+      "summary": "グレイ・パーカー・サービス『ちいかわ』「ちいかわクリニック」マスコットが登場！ナース姿のちいかわたち＆白衣のうさぎ、ラッコをラインナップ 玩具人 TOY PEOPLE",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-12T19:56:56+09:00",
+      "published_display": "2026-11-12 19:56 JST"
+    },
+    {
+      "title": "『ちいかわ』ハチワレが“感情喪失”の危機？ 4色ハチワレの正体と「緑」が薄くなったワケ（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dlA0MWVPbUtxRDZpd3dIS3RnaGZCQ3dlLU1zSTRrNWF3azZfX3B0NFgwX0lhNUoyM1NqQWV5VEkwVFJ4WXBhYkNQTnp6VWhMYzJoSFpFQXMyQkZOdlFjeU5PUXZtYUxlT2tvTXpvdVhkd1JzQkZHN3pLTmlfb1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『ちいかわ』ハチワレが“感情喪失”の危機？ 4色ハチワレの正体と「緑」が薄くなったワケ（リアルサウンド） Yahoo!ニュース",
+      "summary": "『ちいかわ』ハチワレが“感情喪失”の危機？ 4色ハチワレの正体と「緑」が薄くなったワケ（リアルサウンド） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-12T19:35:39+09:00",
+      "published_display": "2026-11-12 19:35 JST"
+    },
+    {
+      "title": "【ちいかわクリニック】“臓器マスコット” に注目集中 くりまんじゅう＝肝臓担当が「完ぺき」と話題 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hd0xOeExmQVByeDFMQTRUVWxodWJleWExSmpwUHlkZENaSkRPX1RmWnhEb2dCT0xEXzZxVUhVa1VmSmVqdW9tWjRnOENRVGJuRGtFczRMMWRUb005SnN3RUM3MmZ4R0kxejR3SHJiU0NrRFYx0gF6QVVfeXFMUEJtLXgzdGdqeURldmN5MTNVVkJORE1DZXhnNmZfWmt3cmRaYmswN0ZZR09RRXc4Y0E0Y2JMRlhiMEM5S1F3TlNXdHd2Q2V5dW5uemk0ZmxWaFB5ZnNaWFotWHJ3VHZzOUpsUThJM05iQmxpeTVWdEZtMWc?oc=5",
+      "source": "ｄメニューニュース",
+      "snippet": "【ちいかわクリニック】“臓器マスコット” に注目集中 くりまんじゅう＝肝臓担当が「完ぺき」と話題 ｄメニューニュース",
+      "summary": "【ちいかわクリニック】“臓器マスコット” に注目集中 くりまんじゅう＝肝臓担当が「完ぺき」と話題 ｄメニューニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-12T19:25:00+09:00",
+      "published_display": "2026-11-12 19:25 JST"
     }
   ]
 }
