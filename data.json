@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-13T12:53:01.149531+09:00",
-  "generated_at_jst": "2026-11-13 12:53 JST",
+  "generated_at": "2026-11-14T03:52:31.341436+09:00",
+  "generated_at_jst": "2026-11-14 03:52 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,148 +14,160 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 5,
+      "count": 6,
       "icon": "🎀"
+    },
+    {
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 2,
+      "icon": "🎬"
+    },
+    {
+      "key": "event",
+      "label": "イベント",
+      "count": 1,
+      "icon": "🌟"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 7,
+      "count": 3,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "ちいかわたちがチューナーになった（音楽ナタリー） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxYVVvTzZkU3ZQbG16UjMzdFZjdGVXZWdzWFFyMjd2WElLN3J6TkFGdXdoNnFUSHVPX0IzZkZJX0w2c0xWYzROVGctSFdzRWU2T291dTljSXZsbkhqYzNJTlZfWEM1eURDeXBZYzhJblN3cGYwbWxrbUs4OHoxVEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ちいかわたちがチューナーになった（音楽ナタリー） Yahoo!ニュース",
-      "summary": "ちいかわたちがチューナーになった（音楽ナタリー） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-13T12:34:10+09:00",
-      "published_display": "2026-11-13 12:34 JST"
-    },
-    {
-      "title": "ちいかわたちがチューナーになった - ナタリー",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwZFR0LUNPM0p2X3g5ZUg3R3J2MUxnUGJNdEl4TlpDdV9nTnQ5d3NZVThLb3FmMWx5UVFuOWR3Zzd0U0c4S3Bhd0JnZnc?oc=5",
-      "source": "ナタリー",
-      "snippet": "ちいかわたちがチューナーになった ナタリー",
-      "summary": "ちいかわたちがチューナーになった ナタリー",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-13T12:34:00+09:00",
-      "published_display": "2026-11-13 12:34 JST"
-    },
-    {
-      "title": "ちいかわたちがギターのチューニングをお手伝い！？ちいかわ クリップチューナー♪2026年11月20日(金)販売開始！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QbXpzeU1UeW1ucDY0cnV0V1RFNVhJbC1qczF3TkU4M3dabVNkM1hYSFZSV3BaQ3B2SmFoeXBaMTBTcHhRRmduQ2hBMG1qOGpCWGhrY0dybW5jTkpVNjBZLTlkbkpOR0MxQVE?oc=5",
-      "source": "PR TIMES",
-      "snippet": "ちいかわたちがギターのチューニングをお手伝い！？ちいかわ クリップチューナー♪2026年11月20日(金)販売開始！ PR TIMES",
-      "summary": "ちいかわたちがギターのチューニングをお手伝い！？ちいかわ クリップチューナー♪2026年11月20日(金)販売開始！ PR TIMES",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-13T11:50:01+09:00",
-      "published_display": "2026-11-13 11:50 JST"
-    },
-    {
-      "title": "「まるで自分を見ているみたい」 韓国の20－30代が「ちいかわ」に熱狂する理由とは（朝鮮日報日本語版） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiOUkweC1Oemp2blFGblBuai1abk1TMmRDMVdkTnpyUDRCZ1hudWNLVmxtQnJoTGQ2RUhQVU02RVdkdVNrN2xCUWFkeENEc1hUVzdBSGk3YUpPazVZM1ROOEg4blVqbzBFdlAyVXpqRUUtSUR3Y2otT3QyVG5tVEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「まるで自分を見ているみたい」 韓国の20－30代が「ちいかわ」に熱狂する理由とは（朝鮮日報日本語版） Yahoo!ニュース",
-      "summary": "「まるで自分を見ているみたい」 韓国の20－30代が「ちいかわ」に熱狂する理由とは（朝鮮日報日本語版） Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-13T11:20:00+09:00",
-      "published_display": "2026-11-13 11:20 JST"
-    },
-    {
-      "title": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも（オリコン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtM0Fpb3JtV3Y1d1EyMi1tazBLbFBuYzlET3ZzT0M4ZHBBM1J3UERQYjdOUlFlMkdQTy1DU1h3S3FhTWtpRFhEQlRmMlp3cHpDYm90ODFmNEExQ1FxRHVnUGJ5RW5zN2l5YjhrUHMzS1dZQmVtSFprMmduc3hTdnc?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも（オリコン） Yahoo!ニュース",
-      "summary": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも（オリコン） Yahoo!ニュース",
+      "title": "新作グッズ「ちいかわクリニック」に中国ネット悶絶＝「かわいすぎ」「日本まで診てもらいに行く」 - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CWklsM0M5LThJRXBzZkFsY25PdGdKV215aG9ZczN2d1ZTV1ZsekVTdEhnbkY5OWRGMlh6UmNjTnNDYzRTQ3RvNVhiYmRVWHlCUmdPMDZ1VkVzcGxUdmtj?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "新作グッズ「ちいかわクリニック」に中国ネット悶絶＝「かわいすぎ」「日本まで診てもらいに行く」 千葉テレビ放送株式会社",
+      "summary": "新作グッズ「ちいかわクリニック」に中国ネット悶絶＝「かわいすぎ」「日本まで診てもらいに行く」 千葉テレビ放送株式会社",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-13T11:00:00+09:00",
-      "published_display": "2026-11-13 11:00 JST"
+      "published_at": "2026-11-13T23:06:12+09:00",
+      "published_display": "2026-11-13 23:06 JST"
     },
     {
-      "title": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORE9Jbzhwc2ZPMERXUWxwY2laRzQ2ejhxZDhtemxYNTViemI4bXowbGdfQ2xPZUFXSFM4dG14NjJ5WDFxckhrQnlsTHVFLXVtYW5jMU1fSHdXQ0s2T1FTeVdERlhpNmd3Ty1WaXZ2ekZZOGdUTmFYNUY5cjVidUNKcNIBhgFBVV95cUxOVmlZc1Bla1VsbVNEdDVSUllOSmE1cjVNVHhXTm13aUhLeUdERnU0OXdOQjZPR19NZktYbUwxSThEWUhFaVg0clNHWXJvbWt5ckVUNl9RNGkwa2g1S2Q3SkhJMnZfWHMxTTUyUUJoQjJyQm5BV01Qa3JLejQ1bFRrdk5OSlNmUQ?oc=5",
+      "title": "【ちいかわクリニック】発売見合わせに「なんでッ（泣）」！ 注目の “臓器マスコット”、ファン悲しみ（LASISA） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVjVPN3dYYXVPQ3pkLTNucy0tcW52ZGotLU4wRjBJUGdlTDdvbUV6U1FBRnllVHFCbzJJSEdMQ281X3pfN0dpMU94TnQxUVR5R1R0T0FkdF9tc0lHbF9NbWVXQ0NIcENfQkZTWEcxcV9mMXVCU3BXcENQY1FHaTg?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわクリニック】発売見合わせに「なんでッ（泣）」！ 注目の “臓器マスコット”、ファン悲しみ（LASISA） Yahoo!ニュース",
+      "summary": "【ちいかわクリニック】発売見合わせに「なんでッ（泣）」！ 注目の “臓器マスコット”、ファン悲しみ（LASISA） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-13T22:30:00+09:00",
+      "published_display": "2026-11-13 22:30 JST"
+    },
+    {
+      "title": "【ちいかわ】自然な優しさが心にしみる…！ アニメ『ちいかわ』第79話「試し撮り」はハチワレに見せたちいかわの行動に注目 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTHMxQms2Y01ydUxBY3BuNkEyQVQxaGQzc0FlWmI5dzVLYmRnZVRSaTVQdWhZR1hxSjZfZTVjU1l4REF6c2xnWmp2ci01dw?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】自然な優しさが心にしみる…！ アニメ『ちいかわ』第79話「試し撮り」はハチワレに見せたちいかわの行動に注目 PASH! PLUS",
+      "summary": "【ちいかわ】自然な優しさが心にしみる…！ アニメ『ちいかわ』第79話「試し撮り」はハチワレに見せたちいかわの行動に注目 PASH! PLUS",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-13T20:17:08+09:00",
+      "published_display": "2026-11-13 20:17 JST"
+    },
+    {
+      "title": "『ちいかわ』恒例テーマ新作は“クリニック”！ 第1弾マスコットやポーチが11月登場 - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VelBTME4tTTdqTHVYemg1SnpkTnF2QXcySzFHd0N0dTBka2lsN0dybGtsNGlLMU9XWkpKZjBTdmxxclJ4SmstY2E5V1YtSndlWXZ4MjhYNkRmRF9fZjdr?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "『ちいかわ』恒例テーマ新作は“クリニック”！ 第1弾マスコットやポーチが11月登場 千葉テレビ放送株式会社",
+      "summary": "『ちいかわ』恒例テーマ新作は“クリニック”！ 第1弾マスコットやポーチが11月登場 千葉テレビ放送株式会社",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-13T19:56:39+09:00",
+      "published_display": "2026-11-13 19:56 JST"
+    },
+    {
+      "title": "ちいかわたちがナースやお医者さんの姿に♡期間限定ショップ「ちいかわクリニック」の入場予約、11月13日から抽選申込スタート。 - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdXNmMHBDNFpHOE01TC1fQXQ1SlFrclhaOExCZ3ZxRV9XYXc5TVpseWQ5dlVHMERHeE5HZmd0bGozM0RzRkpwWnNPZnJ5QUhkTjZnOG9fTDEzVVpFbG1J?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "ちいかわたちがナースやお医者さんの姿に♡期間限定ショップ「ちいかわクリニック」の入場予約、11月13日から抽選申込スタート。 千葉テレビ放送株式会社",
+      "summary": "ちいかわたちがナースやお医者さんの姿に♡期間限定ショップ「ちいかわクリニック」の入場予約、11月13日から抽選申込スタート。 千葉テレビ放送株式会社",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-13T19:45:18+09:00",
+      "published_display": "2026-11-13 19:45 JST"
+    },
+    {
+      "title": "ちいかわたちがナースやお医者さんの姿に♡期間限定ショップ「ちいかわクリニック」の入場予約、11月13日から抽選申込スタート。 - 東京バーゲンマニア",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iU3BYX2RpMGxlQUVEdkgtaWNXTXMzSmRZQzgxazJtbXdWaEkyaDZ3SnNJSC1TbC02eUFkeFNoay1saVdaUFZ6SXBpTlhjT0tZTy00?oc=5",
+      "source": "東京バーゲンマニア",
+      "snippet": "ちいかわたちがナースやお医者さんの姿に♡期間限定ショップ「ちいかわクリニック」の入場予約、11月13日から抽選申込スタート。 東京バーゲンマニア",
+      "summary": "ちいかわたちがナースやお医者さんの姿に♡期間限定ショップ「ちいかわクリニック」の入場予約、11月13日から抽選申込スタート。 東京バーゲンマニア",
+      "category_key": "event",
+      "category_label": "イベント",
+      "published_at": "2026-11-13T19:33:18+09:00",
+      "published_display": "2026-11-13 19:33 JST"
+    },
+    {
+      "title": "【実際の投稿】佐野なぎさ、白ニット姿でちいかわ・うさぎとのツーショット披露 - 中日新聞Web",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrUXpmOHZ6TUhjVTM4SThCTmZhTUQ5cnViUGxDZmhtenVlZGotcWxQWUd0S0FZdUx1cmR1ZlNaSDZKUk9IcHczX1FWRHFGbDMyT2RnaA?oc=5",
+      "source": "中日新聞Web",
+      "snippet": "【実際の投稿】佐野なぎさ、白ニット姿でちいかわ・うさぎとのツーショット披露 中日新聞Web",
+      "summary": "【実際の投稿】佐野なぎさ、白ニット姿でちいかわ・うさぎとのツーショット披露 中日新聞Web",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-13T19:12:45+09:00",
+      "published_display": "2026-11-13 19:12 JST"
+    },
+    {
+      "title": "ちいかわくじ「ちいかわクリニック」3商品が発売延期 配送先の氏名・住所が流出 - coki",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yTVV5V1JmVUx4a3pNX3M2ZUN2QlU1eFpHQlpiR1pCQ2JnUGgxY3pLRXpDb0IwV1hnc25oQ21OME1XUjZDTEZLMHB0NDhBQQ?oc=5",
+      "source": "coki",
+      "snippet": "ちいかわくじ「ちいかわクリニック」3商品が発売延期 配送先の氏名・住所が流出 coki",
+      "summary": "ちいかわくじ「ちいかわクリニック」3商品が発売延期 配送先の氏名・住所が流出 coki",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-13T19:08:22+09:00",
+      "published_display": "2026-11-13 19:08 JST"
+    },
+    {
+      "title": "「どっちもかわいい」立命館大学卒グラドル、白ニット姿でちいかわキャラとのツーショット披露「ちいかわ好きだったのちょっと意外」 - 中日新聞Web",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ncFJZSnFRZFFTUkJ2RUhvR0szNjRnb1QyQW9xOG5DdWhxZWF5dkdwSlFyREREN2FYeFRGSldUSkRDWVREQ2s2Ty1ZQWdhajFLaHJXag?oc=5",
+      "source": "中日新聞Web",
+      "snippet": "「どっちもかわいい」立命館大学卒グラドル、白ニット姿でちいかわキャラとのツーショット披露「ちいかわ好きだったのちょっと意外」 中日新聞Web",
+      "summary": "「どっちもかわいい」立命館大学卒グラドル、白ニット姿でちいかわキャラとのツーショット披露「ちいかわ好きだったのちょっと意外」 中日新聞Web",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-13T19:08:16+09:00",
+      "published_display": "2026-11-13 19:08 JST"
+    },
+    {
+      "title": "「どっちもかわいい」立命館大学卒グラドル、白ニット姿でちいかわキャラとのツーショット披露「ちいかわ好きだったのちょっと意外」 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVDBQcFBsMVRtcVhZcEVjdXZoQjRDdGN2QVhuZG4xeUc2MUt1UTlncDZ1SVA2cDRWMmN2VkJBcC1Hano2UmpYUXdqVkZWcDZ2NDdnRElsandOZ1RXT1o1aE8wb2doM1prVTFOYzBGTTl0LS1qVnlVYUlrOGgwNjNtX9IBhgFBVV95cUxQX1doTzhTci1ZcXRPbFBBdFZWTV92dHJwSW1jcXMyTnhib0o3bVVzNzgzSno0b1p4REwzMFRPeVZfNHZNN25TV0dLelRrWHk1UllTR2s2QkVyaTBOYXVOMDh3VUg2QUFVUUpibEEySWFQdms3MEtfaDNjVlRBclYzdDFUX1p3QQ?oc=5",
       "source": "ｄメニューニュース",
-      "snippet": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも ｄメニューニュース",
-      "summary": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-13T11:00:00+09:00",
-      "published_display": "2026-11-13 11:00 JST"
-    },
-    {
-      "title": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaURZV3A0blZZejB2QUV6bnNiZzRwWTNQV3MzS3NpTkdnd0FVQkZ6a2NFV29lMUZYLWJucGdhTDlkUng1SXZ0ODg3X2hvMDVaUEdtVVZfdmtyakNfbkFVZVdoZEdaZnY3VjM4a3FmQ3ByNmkxMjdSZlBMSXNkdlhzajZ4NmxWU3E5RW9VS0xUM0ZYM1hw0gGHAUFVX3lxTFBnak5CVXZ1TW12NmRyWVoySU5rbDFyMnRfYnRYc0VHaDc3THI2dTJ0U0F5Wk1ZNW5CZ21zajEtdE5qU19yRHNMOTJGb1FiU3hORXhzeF81cHpmWXZiOUlZR0s5aWlzVjg2VUhpdHdhSjdNWWdvcGxrWS1BT2thM3ZPYWZDM25xTQ?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま ｄメニューニュース",
-      "summary": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-13T10:13:55+09:00",
-      "published_display": "2026-11-13 10:13 JST"
-    },
-    {
-      "title": "■小学生の“今いちばんかわいい”がつまった雑誌『キラピチ』 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BdWZxRHhjODMtS1oyX1BjR2d1eWVJWkZ4MDVfZ0xJdHQzV0otWG4tZU5mOXF4SVA0QThqUER6RlJZRFJTRjVXWWFIZEhtS2pBenVFTnFvQ2pELTNPUnROaC1xQXFLM2lZS19KME5LeWdKaWxKUGJNV2xobw?oc=5",
-      "source": "産経ニュース",
-      "snippet": "■小学生の“今いちばんかわいい”がつまった雑誌『キラピチ』 産経ニュース",
-      "summary": "■小学生の“今いちばんかわいい”がつまった雑誌『キラピチ』 産経ニュース",
+      "snippet": "「どっちもかわいい」立命館大学卒グラドル、白ニット姿でちいかわキャラとのツーショット披露「ちいかわ好きだったのちょっと意外」 ｄメニューニュース",
+      "summary": "「どっちもかわいい」立命館大学卒グラドル、白ニット姿でちいかわキャラとのツーショット披露「ちいかわ好きだったのちょっと意外」 ｄメニューニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-13T10:00:00+09:00",
-      "published_display": "2026-11-13 10:00 JST"
+      "published_at": "2026-11-13T19:08:00+09:00",
+      "published_display": "2026-11-13 19:08 JST"
     },
     {
-      "title": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』発売 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnV1BsSW9Ham5iYVFJSTV3UUthOVN0NFgzT3lLcHdsSVJRWnJoYzFhbE1HMVBwdWhXWXVWUk5JcmlOYm1LMjdnLVYwWk9Vczl5YjY5VVNKWkFZaU5yZ1k0RUtVVHFJTTNYRC01Q2xKWjV3QQ?oc=5",
+      "title": "「ちいかわクリニック」一部商品が販売見合わせ―オンラインくじ限定の「ないぞういろいろマスコット」や、カプセルトイも - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQVl2YVFfOU1WREQ2WjMwTm0yRzNqblE2b3g0b1YyRmVsWE1aZ2JHYTBSY0lJa01WUmc5RkJZYmJsZlU0QnU0YTdMMXpnbFpUeXMyLWpoS3lGamIzdTByVE1HdXBKMGp2WGc?oc=5",
       "source": "インサイド",
-      "snippet": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』発売 インサイド",
-      "summary": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』発売 インサイド",
+      "snippet": "「ちいかわクリニック」一部商品が販売見合わせ―オンラインくじ限定の「ないぞういろいろマスコット」や、カプセルトイも インサイド",
+      "summary": "「ちいかわクリニック」一部商品が販売見合わせ―オンラインくじ限定の「ないぞういろいろマスコット」や、カプセルトイも インサイド",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-13T10:00:00+09:00",
-      "published_display": "2026-11-13 10:00 JST"
+      "published_at": "2026-11-13T18:50:02+09:00",
+      "published_display": "2026-11-13 18:50 JST"
     },
     {
-      "title": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qUDk2QVFuY1d5aXU1TlQwVEwyV3lkbEczUUxJRzQ3Y0ZZb2gtYjhiekVrdVBfWGR0ZjczRmc3SjhHaGM2TmZBSy1nd1VWX0t2WS1mNDY3SXY1VEhZVFUwOWIxQThSM0xGSnc?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま インサイド",
-      "summary": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま インサイド",
+      "title": "ちいかわ新作グッズは「ちいかわクリニック」ナース服やレントゲンのグッズを発売 - 千葉テレビ放送株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91d2lSTmVyalpDODh5Mjh6Q1FaVkhMZGd1QWVnYk9iX0IySjN4bGhMU0lEcHpQZzlwb20wOXVyRWFGcm15am4tenpyTEVjLXVtUVl2VmZ2UG5NNi1BYW1z?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "snippet": "ちいかわ新作グッズは「ちいかわクリニック」ナース服やレントゲンのグッズを発売 千葉テレビ放送株式会社",
+      "summary": "ちいかわ新作グッズは「ちいかわクリニック」ナース服やレントゲンのグッズを発売 千葉テレビ放送株式会社",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-13T09:20:03+09:00",
-      "published_display": "2026-11-13 09:20 JST"
-    },
-    {
-      "title": "「ちいかわジェット」運航／ANA羽田－宮古線 - 宮古毎日新聞社ホームページ",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MaUR4djhCanVhOHVqU0VUSHpjcjdVVVk2TG9pMFZCWF9mSXNUd0JEekNYT0RKbERxZjJJalZxV2ppYTJta1ZpaHBoUDdvdUZHdXBWQjZLd0NfVWxX?oc=5",
-      "source": "宮古毎日新聞社ホームページ",
-      "snippet": "「ちいかわジェット」運航／ANA羽田－宮古線 宮古毎日新聞社ホームページ",
-      "summary": "「ちいかわジェット」運航／ANA羽田－宮古線 宮古毎日新聞社ホームページ",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-13T09:00:00+09:00",
-      "published_display": "2026-11-13 09:00 JST"
-    },
-    {
-      "title": "第78話～第81話 「ハチワレのカメラ」編 - TVer",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85aXQ4cVBjUWNHc2xCRmwzSm1QX0Q4WjY1aHhPWlpwUklqeWhwMkZaT1duRzl2c19kTnlPb3I0cW5mSThSbFJ5NEx0TQ?oc=5",
-      "source": "TVer",
-      "snippet": "第78話～第81話 「ハチワレのカメラ」編 TVer",
-      "summary": "第78話～第81話 「ハチワレのカメラ」編 TVer",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-13T08:18:23+09:00",
-      "published_display": "2026-11-13 08:18 JST"
+      "published_at": "2026-11-13T18:06:26+09:00",
+      "published_display": "2026-11-13 18:06 JST"
     }
   ]
 }
