@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-17T06:21:51.461733+09:00",
-  "generated_at_jst": "2026-11-17 06:21 JST",
+  "generated_at": "2026-11-17T14:30:08.936031+09:00",
+  "generated_at_jst": "2026-11-17 14:30 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,148 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 6,
+      "count": 9,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 2,
+      "count": 3,
       "icon": "🎬"
-    },
-    {
-      "key": "other",
-      "label": "そのほか",
-      "count": 4,
-      "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "『ちいかわ』フラッシュ撮影でイラストが変わる…!? パラレルワールド編にちなんだ新刊9巻発売記念“フラッシュ広告”が登場 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04OFVaVWNjN2xFSHlmZ0dSQUF2RmFtSUhDaFJ2WXVTdFplWU9lQ0VBcnUwTk5WLVJ2alp2blVNcG9TWWJOSUZGdGJtODZEZw?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "『ちいかわ』フラッシュ撮影でイラストが変わる…!? パラレルワールド編にちなんだ新刊9巻発売記念“フラッシュ広告”が登場 PASH! PLUS",
-      "summary": "『ちいかわ』フラッシュ撮影でイラストが変わる…!? パラレルワールド編にちなんだ新刊9巻発売記念“フラッシュ広告”が登場 PASH! PLUS",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-17T01:11:56+09:00",
-      "published_display": "2026-11-17 01:11 JST"
-    },
-    {
-      "title": "『ちいかわ』9巻の特装版付録ポストカード絵柄公開 「モーニング」描き下ろしエピソード特別掲載へ - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlcXRPS0x2TWprSmphWEk4bTFCMWM4WjIwdXRaOWZ1QTFWU0tCMmtRcjBzc1VCcUFrN1lWc3QtV2NpMWlsY09JOHgtMlpSVFY2c0RzWHQ3LTF5VGg0Y1BqaTBZSGg?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "『ちいかわ』9巻の特装版付録ポストカード絵柄公開 「モーニング」描き下ろしエピソード特別掲載へ オリコンニュース",
-      "summary": "『ちいかわ』9巻の特装版付録ポストカード絵柄公開 「モーニング」描き下ろしエピソード特別掲載へ オリコンニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-17T01:03:26+09:00",
-      "published_display": "2026-11-17 01:03 JST"
-    },
-    {
-      "title": "『ちいかわ』「つらくてもやるべきことはやろう」大人も魅了 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODJNaTBsRWFtNFlmVGlvdHpWMzd1bzJWaFA5MUdXbDZtUm5QSkwxVll3Z2lXal9IRE1xWnhKcWNkejdqUmp3OWpLS1UzdzczS3VYaGlSejVNclA1X0N3UFhyM3FLTWo0T1NmN085TVZYaVVVWUZLRGs4OC1ZNUhPQ1Rocld6X0U?oc=5",
-      "source": "조선일보",
-      "snippet": "『ちいかわ』「つらくてもやるべきことはやろう」大人も魅了 조선일보",
-      "summary": "『ちいかわ』「つらくてもやるべきことはやろう」大人も魅了 조선일보",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-17T00:39:00+09:00",
-      "published_display": "2026-11-17 00:39 JST"
-    },
-    {
-      "title": "『ちいかわ』9巻の特装版付録ポストカード絵柄公開 「モーニング」描き下ろしエピソード特別掲載へ - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWcxQ1VHTG10OWh0Sk15NXM5OUNVSUtRd2IzUzJJSVdKUGIwczlveVYwc1JteG1zcXJvNnlKdVBZWHJkSFR0SHFJZWxHd2tZZGhQLXpoeFN5WnZnczZKYw?oc=5",
+      "title": "「ちいかわ」約1年ぶりの新刊9巻が発売！ ハチワレが迷い込むパラレルワールド編＆特装版の豪華付録も - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBESEw4dWpJQmh5YnNkUXVMcTBPMnM2ZGxTNElqX0N1MkduVUNxUjFTLTNCMzRicFIwa0ZPWmtLUnFQTlF2YWpRNkZqNzBZTkYxaVM4NkYySUxZMDRTYnFsUQ?oc=5",
       "source": "Infoseek",
-      "snippet": "『ちいかわ』9巻の特装版付録ポストカード絵柄公開 「モーニング」描き下ろしエピソード特別掲載へ Infoseek",
-      "summary": "『ちいかわ』9巻の特装版付録ポストカード絵柄公開 「モーニング」描き下ろしエピソード特別掲載へ Infoseek",
+      "snippet": "「ちいかわ」約1年ぶりの新刊9巻が発売！ ハチワレが迷い込むパラレルワールド編＆特装版の豪華付録も Infoseek",
+      "summary": "「ちいかわ」約1年ぶりの新刊9巻が発売！ ハチワレが迷い込むパラレルワールド編＆特装版の豪華付録も Infoseek",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-17T14:01:42+09:00",
+      "published_display": "2026-11-17 14:01 JST"
+    },
+    {
+      "title": "温厚なハチワレが怒る日は来るのか？ 『ちいかわ』最新エピソードが切なすぎると話題 - リアルサウンド",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16M2Rlc1pBSU9JbTV3ekdURHE3aTJOdmpNcjZqcFBNOHJCUkRzbXNiTmwyWDRsakphb2tNWVppWWx2RXhNTTVxYktCWjNUQUxHUVY3ZXpDU0ZDYU5FeHZPctIBZkFVX3lxTE1DWUNuNy1GMUNvRnUtMXhWa1VfWWFyaTJYRnM1N0NFdVQ0aTV4U2U0VzJWWThaSmNxcHBHT1ZHTU1YTUdiS2x1b19wQU5RMnZyVDFVcGZLX3BBOC1pcmdzYWxjNjEydw?oc=5",
+      "source": "リアルサウンド",
+      "snippet": "温厚なハチワレが怒る日は来るのか？ 『ちいかわ』最新エピソードが切なすぎると話題 リアルサウンド",
+      "summary": "温厚なハチワレが怒る日は来るのか？ 『ちいかわ』最新エピソードが切なすぎると話題 リアルサウンド",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-11-17T00:10:59+09:00",
-      "published_display": "2026-11-17 00:10 JST"
+      "published_at": "2026-11-17T13:51:48+09:00",
+      "published_display": "2026-11-17 13:51 JST"
     },
     {
-      "title": "映画のつづきは9巻で！『ちいかわ なんか小さくてかわいいやつ』最新巻11/20（金）ごろ発売開始、特装版は「なんか書けて飾れるポストカードブック」付き - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwNUFaS0JiaXBqNHVTQWxKVW9TajlBY0Rwd0hZQVJoM29TYzNZZG5wY2tzVGlDR2JJWjZaUkFpSzMtbFJQWU94WXh0amNvRFRJUWdFLUhCWU1iem1zYldDTVZvYjVXYUEtZXc?oc=5",
+      "title": "【ちいかわ】映画のつづきは9巻で！ 特装版は「なんか書けて飾れるポストカードブック」付きの『ちいかわ なんか小さくてかわいいやつ』最新巻が11/20ごろ発売 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14X3BYamxLZGpEVzRyUDR6Q0pXUzhwNk9WQlhZaW5QejVObFZFdEJKdGtVWFlVWk5xZ3o4S1FsZHdlVmtha1RKS3I2ODJxUQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】映画のつづきは9巻で！ 特装版は「なんか書けて飾れるポストカードブック」付きの『ちいかわ なんか小さくてかわいいやつ』最新巻が11/20ごろ発売 PASH! PLUS",
+      "summary": "【ちいかわ】映画のつづきは9巻で！ 特装版は「なんか書けて飾れるポストカードブック」付きの『ちいかわ なんか小さくてかわいいやつ』最新巻が11/20ごろ発売 PASH! PLUS",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-17T12:58:48+09:00",
+      "published_display": "2026-11-17 12:58 JST"
+    },
+    {
+      "title": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14Ukt4UkdaTTA4cnJGQVowVEhwbnVkREtwaW9QQ0VWZEFvWGthcWdwem9feWlJeG81YnItcnZfdlRHeVhxU1N4ellTQnVrQQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン PASH! PLUS",
+      "summary": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン PASH! PLUS",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-17T12:58:09+09:00",
+      "published_display": "2026-11-17 12:58 JST"
+    },
+    {
+      "title": "『ちいかわ』9巻は11．20頃発売！ 特装版付録のポストカード絵柄が公開 - 千葉テレビ放送",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KRnBaTGZ1cnNTRjNQQnpwZlNUVXVOZW9ad3pab085RzFwMTFWaElIWjg1cm9zMjB0WVZQdjYzWjU1UjRjeE5iTjNyNHktd3JNTU9fdzRrbVd3WVZ5d0Q4?oc=5",
+      "source": "千葉テレビ放送",
+      "snippet": "『ちいかわ』9巻は11．20頃発売！ 特装版付録のポストカード絵柄が公開 千葉テレビ放送",
+      "summary": "『ちいかわ』9巻は11．20頃発売！ 特装版付録のポストカード絵柄が公開 千葉テレビ放送",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-17T12:48:23+09:00",
+      "published_display": "2026-11-17 12:48 JST"
+    },
+    {
+      "title": "「ちいかわ」最新9巻が11月20日発売！「パラレルワールド編」を収録。特装版には描き下ろしイラストを含むポストカードが付属 - 千葉テレビ放送",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1peVdlNkZHUTEwczRBSTF0UkxBNG5CU0pTdzFKVU9ZUnVyZVZqcDJySTFmODkzR0JQRGVmOVpTaUJPV3Ita21EZURqOW4yRkszWW1pM0RvR29meFFQMXVJ?oc=5",
+      "source": "千葉テレビ放送",
+      "snippet": "「ちいかわ」最新9巻が11月20日発売！「パラレルワールド編」を収録。特装版には描き下ろしイラストを含むポストカードが付属 千葉テレビ放送",
+      "summary": "「ちいかわ」最新9巻が11月20日発売！「パラレルワールド編」を収録。特装版には描き下ろしイラストを含むポストカードが付属 千葉テレビ放送",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-17T12:41:26+09:00",
+      "published_display": "2026-11-17 12:41 JST"
+    },
+    {
+      "title": "「食べられないよ……」 【ちいかわベビーカステラ】京都・錦市場に待望の2号店が11/18に開店。新作マスコットセットや限定ステッカー、焼きたてカステラが登場 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DVVRNenhaMmh2Mk5uZHZfS3NtclI2Q2ZXMVZ2YUxuenpORlBnMC1hYzFZVUtaam1qQXZjZUY1cWRtQnN6bWpVUHJTZFNoSEdqa3N3S2FYRkxvNlNwekdxZ3BMdkpfdWtyQUh1Z3NlYlZfZ00telRfNllR?oc=5",
+      "source": "朝日新聞",
+      "snippet": "「食べられないよ……」 【ちいかわベビーカステラ】京都・錦市場に待望の2号店が11/18に開店。新作マスコットセットや限定ステッカー、焼きたてカステラが登場 朝日新聞",
+      "summary": "「食べられないよ……」 【ちいかわベビーカステラ】京都・錦市場に待望の2号店が11/18に開店。新作マスコットセットや限定ステッカー、焼きたてカステラが登場 朝日新聞",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-17T12:27:35+09:00",
+      "published_display": "2026-11-17 12:27 JST"
+    },
+    {
+      "title": "【ちいかわ】チラリと見えるうさぎの歯に注目!? アニメ『ちいかわ』第85話「スイッチ」は三者三様の反応に注目 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pRHVqU1NxZ1UwazFBbERhakNZRHVsTEtyMHFVTzJUa29KTFZRQ2JjX3AxMTNGUERLamctT1hYaEI4OENJRzdiZGp1d2w4UQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】チラリと見えるうさぎの歯に注目!? アニメ『ちいかわ』第85話「スイッチ」は三者三様の反応に注目 PASH! PLUS",
+      "summary": "【ちいかわ】チラリと見えるうさぎの歯に注目!? アニメ『ちいかわ』第85話「スイッチ」は三者三様の反応に注目 PASH! PLUS",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-17T12:18:21+09:00",
+      "published_display": "2026-11-17 12:18 JST"
+    },
+    {
+      "title": "「ちいかわクリスマスマーケット」開催記念！ABEMA「ちいかわ公式無料チャンネル」が11月21日（土）より期間限定オープン決定12月20日（日）まで毎週土日にアニメ第382話までを繰り返し無料一挙放送 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YaGZDVlJnT1R4M3Z1MHZ3VnBXUDgyUG42ZFRVYmhvcllLdE5lbl9BZUNkSjlvclFYUjV0QnlhWUlGbDN4Qm13WWNqbmsxd3JYeExodEwwZ3ZXMVRqZFc1dlBPVWRVVUxleWc?oc=5",
       "source": "PR TIMES",
-      "snippet": "映画のつづきは9巻で！『ちいかわ なんか小さくてかわいいやつ』最新巻11/20（金）ごろ発売開始、特装版は「なんか書けて飾れるポストカードブック」付き PR TIMES",
-      "summary": "映画のつづきは9巻で！『ちいかわ なんか小さくてかわいいやつ』最新巻11/20（金）ごろ発売開始、特装版は「なんか書けて飾れるポストカードブック」付き PR TIMES",
+      "snippet": "「ちいかわクリスマスマーケット」開催記念！ABEMA「ちいかわ公式無料チャンネル」が11月21日（土）より期間限定オープン決定12月20日（日）まで毎週土日にアニメ第382話までを繰り返し無料一挙放送 PR TIMES",
+      "summary": "「ちいかわクリスマスマーケット」開催記念！ABEMA「ちいかわ公式無料チャンネル」が11月21日（土）より期間限定オープン決定12月20日（日）まで毎週土日にアニメ第382話までを繰り返し無料…",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-17T00:00:02+09:00",
-      "published_display": "2026-11-17 00:00 JST"
+      "published_at": "2026-11-17T12:10:50+09:00",
+      "published_display": "2026-11-17 12:10 JST"
     },
     {
-      "title": "街で「撮っていいですか!?」と声かけられた“ちいかわバイク”→まさかの見た目に「こんなバイク走ってたら注目しちゃう」 (ねとらぼ) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazBVNzF1WGNqdG14bmFtS3RISDdxREt6cTlEZ1hMZ05fY01nRnA4clNxVjJ5Rm5tZDNrUlk1N1E0UlQ4OUU0cEtBVVBiX29Dc2o1VmlrU2hkbEtPdVMwX2FERmY2MlVKa0pNamExN09VaWpBQ1dlemN5LUM4T2daNFBLbXcyMjRISnNKNlRn?oc=5",
+      "title": "『ちいかわ』新情報にネットざわつく 付録ポストカード大量に公開「やばい！ほしい」（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RV1NrNWNwZWlnN05fbm0tNzFucU5uc0hxVl9rWEJod2xLU3UteDA1M1lKSW01eWJyM1JDSlpxdkxaOVNFTU1PdUNxcjFPVVVmYloxNlR1X045eEJoNzFsamJhenVWbkpYSk4tVXExU3pPVGE3dDlxZERWSjQxZHM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "街で「撮っていいですか!?」と声かけられた“ちいかわバイク”→まさかの見た目に「こんなバイク走ってたら注目しちゃう」 (ねとらぼ) Yahoo!ニュース",
-      "summary": "街で「撮っていいですか!?」と声かけられた“ちいかわバイク”→まさかの見た目に「こんなバイク走ってたら注目しちゃう」 (ねとらぼ) Yahoo!ニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-16T23:26:13+09:00",
-      "published_display": "2026-11-16 23:26 JST"
-    },
-    {
-      "title": "『ちいかわ』更新（11/16）。“かなしそうな自分”が消えちゃう!? 法則に気付いたハチワレは… - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yVk1QT3VPMWZ4QzM5WWptLXA0Y0dyOExsaTd6QUcyd1NmdDZDQkExU1NSWHlsYkxIOTVqbFFzbjhTZ1pqcExiUXFOR2xVekwxNHh2UUpPUTRhdw?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "『ちいかわ』更新（11/16）。“かなしそうな自分”が消えちゃう!? 法則に気付いたハチワレは… 電撃オンライン",
-      "summary": "『ちいかわ』更新（11/16）。“かなしそうな自分”が消えちゃう!? 法則に気付いたハチワレは… 電撃オンライン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-16T21:36:00+09:00",
-      "published_display": "2026-11-16 21:36 JST"
-    },
-    {
-      "title": "『ちいかわ』×GU、品切れ商品の追加予約をオンラインで受付！雪の日テーマのニット・ルームウェア全商品が対象、11月29日まで - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YaWpES0IzNjFUNWFoOGxTN1lJRkJYVm5BeHkyZXp3eUo3eUlmMFcwVlAwdU5YOUp6V3RIR3BmTnZrb1VMbnMya0htNFJYbE1mbDZLMUNCcw?oc=5",
-      "source": "にじめん",
-      "snippet": "『ちいかわ』×GU、品切れ商品の追加予約をオンラインで受付！雪の日テーマのニット・ルームウェア全商品が対象、11月29日まで にじめん",
-      "summary": "『ちいかわ』×GU、品切れ商品の追加予約をオンラインで受付！雪の日テーマのニット・ルームウェア全商品が対象、11月29日まで にじめん",
+      "snippet": "『ちいかわ』新情報にネットざわつく 付録ポストカード大量に公開「やばい！ほしい」（オリコン） Yahoo!ニュース 「ちいかわ」”パラレルワールド編”収録のコミックス9巻が11月20日発売！特装版には描き下ろしポストカードブック24枚＆おまけシールセット（インサイド） Yahoo!ニュース 『ちいかわ』9巻の特装版付録ポストカード絵柄公開 「モーニング」描き下ろしエピソード特別掲載へ オリコンニュース",
+      "summary": "『ちいかわ』新情報にネットざわつく 付録ポストカード大量に公開「やばい！ほしい」（オリコン） Yahoo!ニュース 「ちいかわ」”パラレルワールド編”収録のコミックス9巻が11月20日発売！特…",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-16T20:59:00+09:00",
-      "published_display": "2026-11-16 20:59 JST"
+      "published_at": "2026-11-17T12:05:00+09:00",
+      "published_display": "2026-11-17 12:05 JST"
     },
     {
-      "title": "【ちいかわ】モーニング51号の表紙は“でっかわ!!!”。なんかでっかくてかわいいやつ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GeTdzOXhGdF9MbEZlMlo3UUJLOVowVmdYS3A2c1BnSEJtSjlmQ2pFNlJEY0V1VHNwekV3Z2J5b0cyX2ZFQ2NNT0d4eEZpX1dWdlNsRTlkajJiQQ?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわ】モーニング51号の表紙は“でっかわ!!!”。なんかでっかくてかわいいやつ 電撃オンライン",
-      "summary": "【ちいかわ】モーニング51号の表紙は“でっかわ!!!”。なんかでっかくてかわいいやつ 電撃オンライン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-16T20:12:00+09:00",
-      "published_display": "2026-11-16 20:12 JST"
+      "title": "『ちいかわ』新情報にネットざわつく 付録ポストカード大量に公開「やばい！ほしい」 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IMWRhYkNKel9vczAwbmdQSXlMSzVNLWVrTHd0ZXVjYlVQS1hha0hSci1YV3Ffa01nWVh6QU5TOHJWdDFyaEd1WVJVSEQxZjVBaUFWbkN3?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "『ちいかわ』新情報にネットざわつく 付録ポストカード大量に公開「やばい！ほしい」 オリコンニュース",
+      "summary": "『ちいかわ』新情報にネットざわつく 付録ポストカード大量に公開「やばい！ほしい」 オリコンニュース",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-17T12:05:00+09:00",
+      "published_display": "2026-11-17 12:05 JST"
     },
     {
-      "title": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PSndmdHZYdTl2SVI0LVYxNDM0MkZlRElLT3lLTklrZEZsTWJDOFJNV0JsODc0THJab3lMdDVwNHN2ZnFsMlVfUHpmWC1ZNUcySjVrbmRKTFNmYjZjS29PSUZXOXFyQzZnOEsySVFpa3IzUVRveXc0ODlR?oc=5",
-      "source": "インサイド",
-      "snippet": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ 2枚目の写真・画像 インサイド",
-      "summary": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ 2枚目の写真・画像 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-16T19:45:03+09:00",
-      "published_display": "2026-11-16 19:45 JST"
-    },
-    {
-      "title": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zRk1kWWxZdGlRZHZuUHF6VjVjZFM3S3U2U0VHdFpYd2c1NlprQWZHbzQ0amF0Rng0Z3pRNXRrRGJYLWpvU0c2SGJabGxUcmJuVEEzbWt0Nlc1b095X0JYVnRGZGpyMnFWMlFITlJjd290MVB5Sy1ISFh0N0QtZG8?oc=5",
+      "title": "『ちいかわ』9巻は11．20頃発売！ 特装版付録のポストカード絵柄が公開（クランクイン！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lN2g2WmVUdHhHaDNPYjZFNWlzbHI3SkdGMjJJYmJLWVZDZkNrTWZqZ2w3VXphalFHaDNuZVFCN3hDN090bm9OUEVkVHVabm9abkVKMGpPVmJqM0lNUzVlbWItWXBpVjdfb0F0SkVDOGRWT2swOVZSTTVBRk5WdGM?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ Yahoo!ニュース",
-      "summary": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ Yahoo!ニュース",
+      "snippet": "『ちいかわ』9巻は11．20頃発売！ 特装版付録のポストカード絵柄が公開（クランクイン！） Yahoo!ニュース",
+      "summary": "『ちいかわ』9巻は11．20頃発売！ 特装版付録のポストカード絵柄が公開（クランクイン！） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-16T19:45:03+09:00",
-      "published_display": "2026-11-16 19:45 JST"
-    },
-    {
-      "title": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDh3cGFVcTVucl9ZcHA3Rnc5TXFvLXhHWmN4a2Y1X3MtVXh2dlFiNEpsNURLZzRHdlhpbGgxY2o1WTdqRVRGdFlsSUQ4WmNVYW42ZUJnRDYtMG9mZnNFem5rZjhBYjB5aGs4Sk8zeFRid2lhUXNrZzBHamROMVoydGlKQW1oRkVxa05TYW5n?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ Yahoo!ニュース",
-      "summary": "GU×「ちいかわ」コラボグッズの追加予約が決定！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-16T19:45:03+09:00",
-      "published_display": "2026-11-16 19:45 JST"
+      "published_at": "2026-11-17T11:31:00+09:00",
+      "published_display": "2026-11-17 11:31 JST"
     }
   ]
 }
