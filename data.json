@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-18T05:09:47.829508+09:00",
-  "generated_at_jst": "2026-11-18 05:09 JST",
+  "generated_at": "2026-11-18T13:56:18.918770+09:00",
+  "generated_at_jst": "2026-11-18 13:56 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,14 +14,8 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 7,
+      "count": 10,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
     },
     {
       "key": "anime",
@@ -30,62 +24,111 @@
       "icon": "🎬"
     },
     {
-      "key": "event",
-      "label": "イベント",
-      "count": 1,
-      "icon": "🌟"
-    },
-    {
       "key": "other",
       "label": "そのほか",
-      "count": 2,
+      "count": 1,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "ちいかわの関連画像 - 推し楽",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DYmRoYWxrakgzNHBHenJPb1JrZ0c3elZpTjhkcVQ2S0pUdEdvR3ltcnNQaVZjZ3JLZnltSXJlazZmM0pfOWlHcmwyS1Z6STc2UHFfa2lySnJwRlRQVnBJdVpGNGtybHRk?oc=5",
-      "source": "推し楽",
-      "snippet": "ちいかわの関連画像 推し楽",
-      "summary": "ちいかわの関連画像 推し楽",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-18T02:24:14+09:00",
-      "published_display": "2026-11-18 02:24 JST"
+      "title": "「ちいかわ」新グッズは「ちいかわクリニック」ナース服や白衣で勢ぞろい（写真28枚） - キャラなた - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ed3BNWXFyZ0VyczZiUFhSU2tFelpFUVJOQVV5T0RTZ202VUlLXzY0WFRkMi00cmw3dm55dlFaMERGMFMtU0xpZEh5TDY?oc=5",
+      "source": "ナタリー",
+      "snippet": "「ちいかわ」新グッズは「ちいかわクリニック」ナース服や白衣で勢ぞろい（写真28枚） - キャラなた ナタリー",
+      "summary": "「ちいかわ」新グッズは「ちいかわクリニック」ナース服や白衣で勢ぞろい（写真28枚） - キャラなた ナタリー",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-18T13:32:00+09:00",
+      "published_display": "2026-11-18 13:32 JST"
     },
     {
-      "title": "【動画】キャラクターの聖地、大阪に 全国初の「ちいかわ」ショップも - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mekZMUGVjdWtiUVpBOWVrOHUxNGhNZnZwMnQxQXhkLVBvNTdrQTFZZU00R3g1b09SQnR4VEJfeXRtMHk4c1VpYVhIbG1UVUE?oc=5",
-      "source": "時事通信ニュース",
-      "snippet": "【動画】キャラクターの聖地、大阪に 全国初の「ちいかわ」ショップも 時事通信ニュース",
-      "summary": "【動画】キャラクターの聖地、大阪に 全国初の「ちいかわ」ショップも 時事通信ニュース",
-      "category_key": "event",
-      "category_label": "イベント",
-      "published_at": "2026-11-17T23:26:45+09:00",
-      "published_display": "2026-11-17 23:26 JST"
-    },
-    {
-      "title": "『ちいかわ』更新（11/17）。図解で消える法則が明確に。ハチワレが怒ったらアウト…ってコト!? - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMDJoZGxqSmJJMXUwTWJ5ajFSdjdPRUcwbmp6MGtvYkwwTnZxUVhBWW1VWlpDdnEzUC05aDJqcUN5bXB6UXVWMGVlOWFocm9rQXhrYms4UQ?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "『ちいかわ』更新（11/17）。図解で消える法則が明確に。ハチワレが怒ったらアウト…ってコト!? 電撃オンライン",
-      "summary": "『ちいかわ』更新（11/17）。図解で消える法則が明確に。ハチワレが怒ったらアウト…ってコト!? 電撃オンライン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-17T23:23:00+09:00",
-      "published_display": "2026-11-17 23:23 JST"
-    },
-    {
-      "title": "温厚なハチワレが怒る日は来るのか？ 『ちいかわ』最新エピソードが切なすぎると話題 (リアルサウンド) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTTNnZ2dPdUJySlJ6d1VGRW1vZUZzd0ExUmVwTUhVZjI2eU1yaGNpYVJQbXZ2bC0tSjNWMVZBeVJYbEZ1eUViSkwxYTg3MnMzQl9JYnNNTlA5WHVyakN3cE5HVHVHTWg4YzZjOUVJV3ZycEdGalVqSl9YLUx1YzI5VTNmbkl1RV91MFVnOGZ3?oc=5",
+      "title": "『ちいかわ』パラレルワールド編にちなんだフラッシュ広告 全国4都市で11月22日まで掲出（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdmpfSU9pbV9zOUZldDJoSHlPbjdDalFfalJIbTlNSUFwODVjUjdjTW85MXhJbXVfMDB5RGxiTEZRN1F4czI0eUMwSC1qMk5OaTJid24yX0xTTzV5YmwyU2pQbUlNTzBCMzhMSWRfYzFuYXlFUkVJNnFBRTlwYkE?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "温厚なハチワレが怒る日は来るのか？ 『ちいかわ』最新エピソードが切なすぎると話題 (リアルサウンド) Yahoo!ニュース",
-      "summary": "温厚なハチワレが怒る日は来るのか？ 『ちいかわ』最新エピソードが切なすぎると話題 (リアルサウンド) Yahoo!ニュース",
+      "snippet": "『ちいかわ』パラレルワールド編にちなんだフラッシュ広告 全国4都市で11月22日まで掲出（リアルサウンド） Yahoo!ニュース",
+      "summary": "『ちいかわ』パラレルワールド編にちなんだフラッシュ広告 全国4都市で11月22日まで掲出（リアルサウンド） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-18T13:00:37+09:00",
+      "published_display": "2026-11-18 13:00 JST"
+    },
+    {
+      "title": "「ちいかわ」最新9巻が11月20日発売！ アニメイトで「たぬきだもん」イラストのしおりがもらえるフェア開催♪（アニメ！アニメ！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nQnl4TGo2a1BpdjAyNmMxVUJZM2hscjBOT2RReGtGeTQ4R0lNYk5oZDZUSENTbVN1NlBIcmUzb2habk9ySi12dzBEdEJ2QWZhbktJMWZLR3hqWEs2NzhONG1GQU1QRnpjb3A5ZmVVVEdxQ0MxYjFKd2xVS3lWRDA?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」最新9巻が11月20日発売！ アニメイトで「たぬきだもん」イラストのしおりがもらえるフェア開催♪（アニメ！アニメ！） Yahoo!ニュース",
+      "summary": "「ちいかわ」最新9巻が11月20日発売！ アニメイトで「たぬきだもん」イラストのしおりがもらえるフェア開催♪（アニメ！アニメ！） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-18T13:00:04+09:00",
+      "published_display": "2026-11-18 13:00 JST"
+    },
+    {
+      "title": "『ちいかわ』全382話が1ヶ月“無料”で楽しめる！毎週末に3周放送＋1週間見逃し無料でイッキ見に（オタク総研） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3bkdYeUNmVGMxU0xCVTFFaDFGajh4dzFabHFRT05MZUxXQlJ5SWlET2NDVVdKc0k5RzlUVEVZZ2FldUhCa0JWck5WWThhLTlfQVFpTGIwWWlhRmdsQ2lDc2p2SjdXVHg1M3BHRnlTdnhJNC1yV1ZYdEp6ekpYM1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『ちいかわ』全382話が1ヶ月“無料”で楽しめる！毎週末に3周放送＋1週間見逃し無料でイッキ見に（オタク総研） Yahoo!ニュース",
+      "summary": "『ちいかわ』全382話が1ヶ月“無料”で楽しめる！毎週末に3周放送＋1週間見逃し無料でイッキ見に（オタク総研） Yahoo!ニュース",
       "category_key": "anime",
       "category_label": "アニメ・映画",
-      "published_at": "2026-11-17T22:39:40+09:00",
-      "published_display": "2026-11-17 22:39 JST"
+      "published_at": "2026-11-18T12:40:00+09:00",
+      "published_display": "2026-11-18 12:40 JST"
+    },
+    {
+      "title": "『ちいかわ』第9巻が11月20日発売 「パラレルワールド編」収録で特装版にはポストカードブック（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHl5aTBodmdmc1RZWmJDZFRVem5xNmg3OGtxeXYyTmp5Vjl0X3dmX0JHZDhndW5uMGw1N2tWNHdGWmplWHJNa3hHSi1ObXhROVV2MHQ5MjBWTHpRTjBPOGE1U3RCeVB0Z0Izb29PR3JpRjlUQkRleXlIS0ZEbE0?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『ちいかわ』第9巻が11月20日発売 「パラレルワールド編」収録で特装版にはポストカードブック（リアルサウンド） Yahoo!ニュース",
+      "summary": "『ちいかわ』第9巻が11月20日発売 「パラレルワールド編」収録で特装版にはポストカードブック（リアルサウンド） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-18T12:30:47+09:00",
+      "published_display": "2026-11-18 12:30 JST"
+    },
+    {
+      "title": "『ちいかわ なんか小さくてかわいいやつ』最新9巻が11月20日発売！ アニメイトではそれを記念して、特典「しおり」がもらえるフェアを開催 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ua1hNM054ODVpblp5LUd0eTl2RTlIZFd2U0lEek9Obktoc2FwdmVXLTV3cVVnaEFUdkFQd0xycURLOXNLV3ZGM0FJTC1RcG1HYkhQZ2cwOF9ZdV9HQnFtcmZFRHBLbkEwaU8xRG1QVG54aVdWQ1E?oc=5",
+      "source": "Excite エキサイト",
+      "snippet": "『ちいかわ なんか小さくてかわいいやつ』最新9巻が11月20日発売！ アニメイトではそれを記念して、特典「しおり」がもらえるフェアを開催 Excite エキサイト",
+      "summary": "『ちいかわ なんか小さくてかわいいやつ』最新9巻が11月20日発売！ アニメイトではそれを記念して、特典「しおり」がもらえるフェアを開催 Excite エキサイト",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-18T12:15:00+09:00",
+      "published_display": "2026-11-18 12:15 JST"
+    },
+    {
+      "title": "【ちいかわ】“たぬきだもん”のイラストを使ったカワイイしおりがもらえる！ 「『ちいかわ なんか小さくてかわいいやつ』9巻発売記念フェア ～みんなでいっしょに討伐(おかいもの)！～」が開催 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TQ2hQWWNYa2daRjJjdE9yX3NUMzN0VXU4emMtOGpDcFNwNVF4QkJFaHEwck4xOW1YaEM4UjJPSUZEZzRuQVRqTmpKSWZQUQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】“たぬきだもん”のイラストを使ったカワイイしおりがもらえる！ 「『ちいかわ なんか小さくてかわいいやつ』9巻発売記念フェア ～みんなでいっしょに討伐(おかいもの)！～」が開催 PASH! PLUS",
+      "summary": "【ちいかわ】“たぬきだもん”のイラストを使ったカワイイしおりがもらえる！ 「『ちいかわ なんか小さくてかわいいやつ』9巻発売記念フェア ～みんなでいっしょに討伐(おかいもの)！～」が開催 PA…",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-18T12:05:21+09:00",
+      "published_display": "2026-11-18 12:05 JST"
+    },
+    {
+      "title": "「ちいかわ」新刊・9巻発売を記念して“フラッシュ広告”登場 フラッシュ撮影するとイラストが変わる : ニュース - アニメハック",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQVhwRVhnRWI5Mkt4QmtqWkE3cEtVVGM3bFFYTkhnSUthV0VzZGhmWUYtX182enhHZzU0T0hRZzNuNS1EdUpVYkVpNA?oc=5",
+      "source": "アニメハック",
+      "snippet": "「ちいかわ」新刊・9巻発売を記念して“フラッシュ広告”登場 フラッシュ撮影するとイラストが変わる : ニュース アニメハック",
+      "summary": "「ちいかわ」新刊・9巻発売を記念して“フラッシュ広告”登場 フラッシュ撮影するとイラストが変わる : ニュース アニメハック",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-18T12:00:00+09:00",
+      "published_display": "2026-11-18 12:00 JST"
+    },
+    {
+      "title": "【minum（ミニュム）】ちいかわコラボレーション第2弾が発売！ フリルやリボンをあしらったキュートなヘアバンド付き - MAQUIA",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51M2lFWmstNXZPV1JyYzNROUFLVV9hN3FvRUFoblBnQ3J3SW40ZkZqVDBzWnJZSjk5TUJPOTZmTXc0c2phYzUtTWdXb2lCNmVvU2dsOUZ2T1ZkeEN3cFNLTUNDNmhkQQ?oc=5",
+      "source": "MAQUIA",
+      "snippet": "【minum（ミニュム）】ちいかわコラボレーション第2弾が発売！ フリルやリボンをあしらったキュートなヘアバンド付き MAQUIA",
+      "summary": "【minum（ミニュム）】ちいかわコラボレーション第2弾が発売！ フリルやリボンをあしらったキュートなヘアバンド付き MAQUIA",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-18T12:00:00+09:00",
+      "published_display": "2026-11-18 12:00 JST"
     },
     {
       "title": "【ちいかわ】映画のつづきは9巻で！ 特装版は「なんか書けて飾れるポストカードブック」付きの『ちいかわ なんか小さくてかわいいやつ』最新巻が11/20ごろ発売 - PASH! PLUS",
@@ -95,85 +138,30 @@
       "summary": "【ちいかわ】映画のつづきは9巻で！ 特装版は「なんか書けて飾れるポストカードブック」付きの『ちいかわ なんか小さくてかわいいやつ』最新巻が11/20ごろ発売 PASH! PLUS",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-17T22:33:11+09:00",
-      "published_display": "2026-11-17 22:33 JST"
+      "published_at": "2026-11-18T11:40:19+09:00",
+      "published_display": "2026-11-18 11:40 JST"
     },
     {
-      "title": "【ちいかわグッズレビュー】最新付録セットが泣けるかわいさ！ハチワレ推しが使ってみた話 - 千葉テレビ放送",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RblJ1d3pLNFBuLUU5cVJjTGZXeVBfMHdoRm14OVpwdHdOVHduM1ZpcUg1MnpQTFJXdkctTEdFYzQwWS1NekVidE50TDBXTDYyMlduVmdqakRKM2ExcEZV?oc=5",
-      "source": "千葉テレビ放送",
-      "snippet": "【ちいかわグッズレビュー】最新付録セットが泣けるかわいさ！ハチワレ推しが使ってみた話 千葉テレビ放送",
-      "summary": "【ちいかわグッズレビュー】最新付録セットが泣けるかわいさ！ハチワレ推しが使ってみた話 千葉テレビ放送",
+      "title": "ちいかわ×東京ばな奈、むちゃうまスイーツ＆限定グッズが勢ぞろい！ 東京駅でポップアップ開催 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ydTR3LVlORGFfOE1KZ3JGZklzQ3NHOGtZd0hqejZwUThpU2R0UkNnbXI2UldUMVBFX3Z4bG1GcFJzRWdqVVpRUEd2NF84MnpnTjEwSkhHd1pYZ0x0SWo0Wg?oc=5",
+      "source": "Infoseek",
+      "snippet": "ちいかわ×東京ばな奈、むちゃうまスイーツ＆限定グッズが勢ぞろい！ 東京駅でポップアップ開催 Infoseek",
+      "summary": "ちいかわ×東京ばな奈、むちゃうまスイーツ＆限定グッズが勢ぞろい！ 東京駅でポップアップ開催 Infoseek",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-17T21:45:42+09:00",
-      "published_display": "2026-11-17 21:45 JST"
+      "published_at": "2026-11-18T11:39:12+09:00",
+      "published_display": "2026-11-18 11:39 JST"
     },
     {
-      "title": "【ちいかわグッズレビュー】最新付録セットが泣けるかわいさ！ハチワレ推しが使ってみた話 - ウレぴあ総研",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Db3hsZjNNcDlpODFId2xpVTF4bVdxNXh1aGEwNVltMGF1SEtIcnJVbUJYZjR5VWNDUDhQNDVTaVJVV05YWk82SmNEMDRnV0t0YXc?oc=5",
-      "source": "ウレぴあ総研",
-      "snippet": "【ちいかわグッズレビュー】最新付録セットが泣けるかわいさ！ハチワレ推しが使ってみた話 ウレぴあ総研",
-      "summary": "【ちいかわグッズレビュー】最新付録セットが泣けるかわいさ！ハチワレ推しが使ってみた話 ウレぴあ総研",
+      "title": "「ちいかわ」9巻発売記念フェア、アニメイトで特典に“たぬきだもん”しおり配布 - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiam1iNjE3eFI3U0xFM1FLR2VqNkxyd01LbjUzQzVPckhlM2ZjanNvM1J1RDU0YkZNNEYxejhNTEFKZlJKV3F6OVpnVDU?oc=5",
+      "source": "ナタリー",
+      "snippet": "「ちいかわ」9巻発売記念フェア、アニメイトで特典に“たぬきだもん”しおり配布 ナタリー",
+      "summary": "「ちいかわ」9巻発売記念フェア、アニメイトで特典に“たぬきだもん”しおり配布 ナタリー",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-17T21:40:00+09:00",
-      "published_display": "2026-11-17 21:40 JST"
-    },
-    {
-      "title": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14Ukt4UkdaTTA4cnJGQVowVEhwbnVkREtwaW9QQ0VWZEFvWGthcWdwem9feWlJeG81YnItcnZfdlRHeVhxU1N4ellTQnVrQQ?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン PASH! PLUS",
-      "summary": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン PASH! PLUS",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-17T21:22:30+09:00",
-      "published_display": "2026-11-17 21:22 JST"
-    },
-    {
-      "title": "【GU】ちいかわコラボがいよいよ始動！3990円のモモンガ「ジャカードセーター」やキッズコーデなど冬を彩る華やかラインナップ 11月20日より販売開始！もこもこフード姿のちいかわパフィータッチニットも登場する親子お揃いルック | 概要 | LIMO | くらしとお金の経済メディア - LIMO | くらしとお金の経済メディア",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVTjBwLWE5MVZXNVhWakZFZ002NnpZU0c3QW5ZQmh1TVBfbmZiLTBPaUpkSld3RTVtMHp3dDVCdkgyTUQ1aWJBSlEwajU?oc=5",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "snippet": "【GU】ちいかわコラボがいよいよ始動！3990円のモモンガ「ジャカードセーター」やキッズコーデなど冬を彩る華やかラインナップ 11月20日より販売開始！もこもこフード姿のちいかわパフィータッチニットも登場する親子お揃いルック | 概要 | LIMO | くらしとお金の経済メディア LIMO | くらしとお金の経済メディア",
-      "summary": "【GU】ちいかわコラボがいよいよ始動！3990円のモモンガ「ジャカードセーター」やキッズコーデなど冬を彩る華やかラインナップ 11月20日より販売開始！もこもこフード姿のちいかわパフィータッチ…",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-11-17T20:45:00+09:00",
-      "published_display": "2026-11-17 20:45 JST"
-    },
-    {
-      "title": "「ちいかわ」アニメ全382話を無料一挙放送！公式無料チャンネルが期間限定オープン♪「ちいかわクリスマスマーケット」開催記念【ABEMA】 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalp4SHUxV1NGU3l5MWQyMmRqRlhyWk9WVHVqbWxSQ3p2UmJTZlY1dWtGTjBnRTc4NzhkNUxHalphYkQ1MHpBNmhJamo2ZW1jQWRwYURoODdOdkNDaFVoU3NOWFNPcmNjM1VmY0xvaDJHSjBqNkdhcF9QemNHTVoxYVpBMDE4bnh5V3ZvYVVn?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」アニメ全382話を無料一挙放送！公式無料チャンネルが期間限定オープン♪「ちいかわクリスマスマーケット」開催記念【ABEMA】 Yahoo!ニュース",
-      "summary": "「ちいかわ」アニメ全382話を無料一挙放送！公式無料チャンネルが期間限定オープン♪「ちいかわクリスマスマーケット」開催記念【ABEMA】 Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-17T20:38:06+09:00",
-      "published_display": "2026-11-17 20:38 JST"
-    },
-    {
-      "title": "しまむらで「ちいかわ」グッズが発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGbnlTejZOd3ZfaGVzWHNuT2NIWEpHYzQ5c1NUUXBxUjM1NjVQZmZ1QVNRUDRwSUR3bFl5T1lqSmRmRjNKNFdtYnlwNEM5eWZuSTZkYW5Dc2tOVms4ZDJQRlRhcWtud1AycHRYOXk0QjhJdl82aDFr?oc=5",
-      "source": "インサイド",
-      "snippet": "しまむらで「ちいかわ」グッズが発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種 2枚目の写真・画像 インサイド",
-      "summary": "しまむらで「ちいかわ」グッズが発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種 2枚目の写真・画像 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-17T20:30:03+09:00",
-      "published_display": "2026-11-17 20:30 JST"
-    },
-    {
-      "title": "しまむらで「ちいかわ」グッズが発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INW91c2NGdEJRN1oyZjFwdl83blBQUjZlWWJWODE4RWxZcVBXWUZGa0tOQ1hxZndYUEplc1RnWmNwVjBkTFBLLW9lNHFhb3FGQmhqVTF5VXZaRWxwVjRabGowbDA1S0d0THJUQ1EybXdLUGVJWkxOSi1NaE1VYlk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "しまむらで「ちいかわ」グッズが発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種（インサイド） Yahoo!ニュース",
-      "summary": "しまむらで「ちいかわ」グッズが発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-17T20:30:03+09:00",
-      "published_display": "2026-11-17 20:30 JST"
+      "published_at": "2026-11-18T11:37:00+09:00",
+      "published_display": "2026-11-18 11:37 JST"
     }
   ]
 }
