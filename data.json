@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-21T13:35:11.647194+09:00",
-  "generated_at_jst": "2026-11-21 13:35 JST",
+  "generated_at": "2026-11-22T03:23:17.426335+09:00",
+  "generated_at_jst": "2026-11-22 03:23 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,23 +14,144 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 6,
+      "count": 4,
       "icon": "🎀"
     },
     {
       "key": "anime",
       "label": "アニメ・映画",
-      "count": 4,
+      "count": 2,
       "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 2,
+      "count": 6,
       "icon": "🌱"
     }
   ],
   "items": [
+    {
+      "title": "映画『VIVANT』、公開前から初動28億円突破が確実に 『映画ちいかわ』超え＆全国の劇場で予約殺到 - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaHEweVZVWjlLZ3FxdVFoWkZYUDVZMmtpajd6QlBzNVpjMXNPRVNMSHdHbnprc2RvN0JQVkdPb1Nsc0pGUnd3ZVk3WUdveXc3?oc=5",
+      "source": "玩具人 TOY PEOPLE",
+      "snippet": "映画『VIVANT』、公開前から初動28億円突破が確実に 『映画ちいかわ』超え＆全国の劇場で予約殺到 玩具人 TOY PEOPLE",
+      "summary": "映画『VIVANT』、公開前から初動28億円突破が確実に 『映画ちいかわ』超え＆全国の劇場で予約殺到 玩具人 TOY PEOPLE",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-22T01:51:07+09:00",
+      "published_display": "2026-11-22 01:51 JST"
+    },
+    {
+      "title": "『ちいかわ』更新（11/22）。仲良く過ごしていたら急展開!? いったい何事…！ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13U3ZDN2JoczV3TmRBRjV1bnRUTjBaMkhVZ09kSm9GVzRtdmFTMHJWU2R2TzdHV3NPRjZ1aFAwVnZqMkJoQ3ZaVTNOSVRsZEFscGlqcnBBR280Zw?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/22）。仲良く過ごしていたら急展開!? いったい何事…！ 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/22）。仲良く過ごしていたら急展開!? いったい何事…！ 電撃オンライン",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-22T01:34:00+09:00",
+      "published_display": "2026-11-22 01:34 JST"
+    },
+    {
+      "title": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WdTVlMklya2RnTk1vNjgxWVY5VmxlbGhUV29tQW1YdFZhTV8xOVg0SHVHTlRxeXZuMjU0bkpEWjlHVUFJY211TDJpNTB6Zw?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 PASH! PLUS",
+      "summary": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 PASH! PLUS",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-21T23:33:12+09:00",
+      "published_display": "2026-11-21 23:33 JST"
+    },
+    {
+      "title": "画像・写真 | 【あすから】ジーユー×「ちいかわ」、新作発売へ 第1弾は“おでかけ着”、ニットやポーチほか 2枚目 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0VWRJMnk1REt1ODh1M0NJbGhhcC13R1h6dTRrVDlnRVhzczBqZVRoX2VxZWF6bVRiZHdNbWt0UU9ZMmR2VDNHcTRWeGhoSnhJTUxUUU5DYllkQQ?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "画像・写真 | 【あすから】ジーユー×「ちいかわ」、新作発売へ 第1弾は“おでかけ着”、ニットやポーチほか 2枚目 オリコンニュース",
+      "summary": "画像・写真 | 【あすから】ジーユー×「ちいかわ」、新作発売へ 第1弾は“おでかけ着”、ニットやポーチほか 2枚目 オリコンニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-21T23:28:19+09:00",
+      "published_display": "2026-11-21 23:28 JST"
+    },
+    {
+      "title": "エピソードやにゃんこたちを楽しむ全8柄！Talking about「Talking about UNDERWEAR ボクサーパンツ（ちいかわ / mofusand）」 - Dtimes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02Wlp1NUM0WmsyLW9kNTA2SE9UMkZGaGZfakRQZktldnRxMVducXExUVRoWXBUTW93cFZacXlEVGtmT2g0aWc?oc=5",
+      "source": "Dtimes",
+      "snippet": "エピソードやにゃんこたちを楽しむ全8柄！Talking about「Talking about UNDERWEAR ボクサーパンツ（ちいかわ / mofusand）」 Dtimes",
+      "summary": "エピソードやにゃんこたちを楽しむ全8柄！Talking about「Talking about UNDERWEAR ボクサーパンツ（ちいかわ / mofusand）」 Dtimes",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-21T17:29:16+09:00",
+      "published_display": "2026-11-21 17:29 JST"
+    },
+    {
+      "title": "『潜入！リアルスコープ』ANA「ちいかわジェット」のラッピング作業の裏側に潜入 世界で爆売れの日本のお菓子・食品ランキングも - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2cHg0X2RXWXJCMWo0SEpMZGRzaE8wa1o5SlFfaWFKSTgwS0liWUtsS3BIc2NRMXlud0NNSXFzcmpOVGdHMzV0eHp6aVZZaUltUWFXWV9TVUNjd3FFOFhJU2lZc3dWYzlnQ1k3eWNB?oc=5",
+      "source": "au Webポータル",
+      "snippet": "『潜入！リアルスコープ』ANA「ちいかわジェット」のラッピング作業の裏側に潜入 世界で爆売れの日本のお菓子・食品ランキングも au Webポータル",
+      "summary": "『潜入！リアルスコープ』ANA「ちいかわジェット」のラッピング作業の裏側に潜入 世界で爆売れの日本のお菓子・食品ランキングも au Webポータル",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-21T16:48:30+09:00",
+      "published_display": "2026-11-21 16:48 JST"
+    },
+    {
+      "title": "『潜入！リアルスコープ』ANA「ちいかわジェット」のラッピング作業の裏側に潜入 世界で爆売れの日本のお菓子・食品ランキングも - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhOFZyQjJZQURPMGp0TVVaNXZQZFZ5a2E3akY4a0ctakVzVGhRNUwwX1R0Mmdzd19ibTlFSWVDejdiYVVOM1RpRXdjaGNaem1BajlBd0VYQXNUSkhfVGxUNWpmLUdaTzctUDRKekNFVFpWWGUwZEpFTXg3aFB4em8?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "『潜入！リアルスコープ』ANA「ちいかわジェット」のラッピング作業の裏側に潜入 世界で爆売れの日本のお菓子・食品ランキングも Yahoo!ニュース",
+      "summary": "『潜入！リアルスコープ』ANA「ちいかわジェット」のラッピング作業の裏側に潜入 世界で爆売れの日本のお菓子・食品ランキングも Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-21T16:46:02+09:00",
+      "published_display": "2026-11-21 16:46 JST"
+    },
+    {
+      "title": "ローソンで発見！ちいかわ新作の「おもちゃケーキ缶」がクリスマスシーズンにぴったり！（実物レビュー） - ぴあエンタメ情報",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjOUVFNWU0WUowRzFkNlJGNFA2a0Q0dXRsOTg2Zk5vX0FYd3RPTXJVdGlOQnZKRk5HTF9JV196WGdYRS1md1VLVlhtMWJpSTlHU1A5NmhvakpMY1RVSlZ2UTA3R244VU9yRFpPa2ZqRjJOdw?oc=5",
+      "source": "ぴあエンタメ情報",
+      "snippet": "ローソンで発見！ちいかわ新作の「おもちゃケーキ缶」がクリスマスシーズンにぴったり！（実物レビュー） ぴあエンタメ情報",
+      "summary": "ローソンで発見！ちいかわ新作の「おもちゃケーキ缶」がクリスマスシーズンにぴったり！（実物レビュー） ぴあエンタメ情報",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-21T16:11:12+09:00",
+      "published_display": "2026-11-21 16:11 JST"
+    },
+    {
+      "title": "週末はアニメ「ちいかわ」を楽しもう ABEMAに公式無料チャンネルが期間限定で開設 - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRWGtjS2tjWU00aTZQdUZuSHltanV6eW52SFdBemtRQlotTVV6ZllDZDhUSjRjdGhWZ1pTOUdSZno4RF9UNEc1bGd4Tm8?oc=5",
+      "source": "ナタリー",
+      "snippet": "週末はアニメ「ちいかわ」を楽しもう ABEMAに公式無料チャンネルが期間限定で開設 ナタリー",
+      "summary": "週末はアニメ「ちいかわ」を楽しもう ABEMAに公式無料チャンネルが期間限定で開設 ナタリー",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-21T14:00:00+09:00",
+      "published_display": "2026-11-21 14:00 JST"
+    },
+    {
+      "title": "1日15分で5教科を総復習！講談社「ちいかわ総復習ドリル 小学３年生」 - Dtimes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wTkN1QU9BaV9XdzFrN3k0cUNvakJHNWpNdWwwQ0xINC10eDh1TFFmSE8tMUNSd2Q2QmM5WGNQYUZqbTVFM2c?oc=5",
+      "source": "Dtimes",
+      "snippet": "1日15分で5教科を総復習！講談社「ちいかわ総復習ドリル 小学３年生」 Dtimes",
+      "summary": "1日15分で5教科を総復習！講談社「ちいかわ総復習ドリル 小学３年生」 Dtimes",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-21T13:48:00+09:00",
+      "published_display": "2026-11-21 13:48 JST"
+    },
+    {
+      "title": "「ちいかわ焼き」冬季限定のお味登場 モモンガ、くりまんじゅう、ラッコのマスコットも（コミックナタリー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3TTdqR3U4dW1KdzVXVVNEekUxSTd6RUJ1cV9RZkZlODFCVFcxbTBrUE1wel9oQzhGalk5QWhWNWpHclBLWV9QX0VwckpCWUIzVllEQzRnb0ctUzNxcHM5R05RYi14T3hrVjRjZmZtMldqQVNjRHFXMGpKd2hBRnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ焼き」冬季限定のお味登場 モモンガ、くりまんじゅう、ラッコのマスコットも（コミックナタリー） Yahoo!ニュース",
+      "summary": "「ちいかわ焼き」冬季限定のお味登場 モモンガ、くりまんじゅう、ラッコのマスコットも（コミックナタリー） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-21T13:28:10+09:00",
+      "published_display": "2026-11-21 13:28 JST"
+    },
     {
       "title": "「ちいかわ焼き」冬季限定のお味登場 モモンガ、くりまんじゅう、ラッコのマスコットも - ナタリー",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8taldSOWhTSGJYRk1zT0laWFpVWGF1bGVyTHJ3LThsaEg3eTN5dzY4VHNPcWZzaFRWcnF1STBGRnFsdHpfSXF4aGg5dk8?oc=5",
@@ -41,127 +162,6 @@
       "category_label": "グッズ",
       "published_at": "2026-11-21T13:28:00+09:00",
       "published_display": "2026-11-21 13:28 JST"
-    },
-    {
-      "title": "「ちいかわ」新刊・9巻発売を記念して“フラッシュ広告”登場 フラッシュ撮影するとイラストが変わる - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uRzdfN04tdnhWVTVzWnF1UXdKOHZreU5rMFdFWVluLWhqNEZuUWM0Y213T3Y3THRKTmpPc3V1NHVEQVZTbk9Nemp5NG00U19hcklndFFLUHQ0QV9xWGJfMmdQeWd2ckRy?oc=5",
-      "source": "ニコニコニュース",
-      "snippet": "「ちいかわ」新刊・9巻発売を記念して“フラッシュ広告”登場 フラッシュ撮影するとイラストが変わる ニコニコニュース",
-      "summary": "「ちいかわ」新刊・9巻発売を記念して“フラッシュ広告”登場 フラッシュ撮影するとイラストが変わる ニコニコニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-21T13:09:03+09:00",
-      "published_display": "2026-11-21 13:09 JST"
-    },
-    {
-      "title": "【入場特典リスト 11月最新版】「装甲騎兵ボトムズ 灰色の魔女」「魔法使いの夜」に注目 「映画ちいかわ」は豪華特典実施中 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxVGlfNzQxV0NacEN6T0NzWENGcHlKcEpzWnRNTllTbzJfVE5fN2k4NE5JVmhielJPVUVubFlJWHdXdzRhaGQ2VXdxVFVHU2YtNmI5WHlTbS1HTEsxY2hKUnc2R2M0V0lkMUFDMWl0OG91LXlLU0QzWHBzOUFIUEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "【入場特典リスト 11月最新版】「装甲騎兵ボトムズ 灰色の魔女」「魔法使いの夜」に注目 「映画ちいかわ」は豪華特典実施中 Yahoo!ニュース",
-      "summary": "【入場特典リスト 11月最新版】「装甲騎兵ボトムズ 灰色の魔女」「魔法使いの夜」に注目 「映画ちいかわ」は豪華特典実施中 Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-21T12:00:00+09:00",
-      "published_display": "2026-11-21 12:00 JST"
-    },
-    {
-      "title": "【公式】「映画ちいかわ 人魚の島のひみつ」、観客数300万人を突破…韓国でも“ちいかわ”ブーム続く - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1eGVscng0b1ZzWnFGRV9NZm5DTnU3XzY3cC1MOUZ3c0pQYS1wM1BGNUZPbl9wUEFrdHE2aFZJT1NJc0tiNHBpVXpxc1RzQkxmUlUxTTBHRVY4OVlXa3M2Qm1n?oc=5",
-      "source": "Infoseek",
-      "snippet": "【公式】「映画ちいかわ 人魚の島のひみつ」、観客数300万人を突破…韓国でも“ちいかわ”ブーム続く Infoseek",
-      "summary": "【公式】「映画ちいかわ 人魚の島のひみつ」、観客数300万人を突破…韓国でも“ちいかわ”ブーム続く Infoseek",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-21T11:46:24+09:00",
-      "published_display": "2026-11-21 11:46 JST"
-    },
-    {
-      "title": "「小さくてかわいいやつ」が快挙…「ちいかわ」観客動員300万人突破、今年のアニメ興行1位 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZVUQ4dGpmN2FXTUdCMWRsdnN5NEcybmtCTHAyZnpZMGN6THN4MHFfY3B0SmYzLXJRNjV4UzhUYXktZkp3aDVpeDBFdnRmYThpcFE?oc=5",
-      "source": "매일경제",
-      "snippet": "「小さくてかわいいやつ」が快挙…「ちいかわ」観客動員300万人突破、今年のアニメ興行1位 매일경제",
-      "summary": "「小さくてかわいいやつ」が快挙…「ちいかわ」観客動員300万人突破、今年のアニメ興行1位 매일경제",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-21T10:59:28+09:00",
-      "published_display": "2026-11-21 10:59 JST"
-    },
-    {
-      "title": "モモンガのメープルバターあんなど冬季限定3種が登場♪「ちいかわ焼き」幕張新都心店1周年で11月27日から新マスコット＆冷凍ちいかわ焼きも発売！ - Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FSzBMeVI5ejVzQ3owVmdDYnNwNXJmWnk3cFZ6dUx1WmttNU9IaTd3OHF4UDhjUFlBN2RrMTdQdjZFZXU4NkkwRmEtUDUwbDRuSXRkWFZxM0Y5ZTFEWVNFM29uRkh0b1R6N283MmNXaw?oc=5",
-      "source": "Excite エキサイト",
-      "snippet": "モモンガのメープルバターあんなど冬季限定3種が登場♪「ちいかわ焼き」幕張新都心店1周年で11月27日から新マスコット＆冷凍ちいかわ焼きも発売！ Excite エキサイト",
-      "summary": "モモンガのメープルバターあんなど冬季限定3種が登場♪「ちいかわ焼き」幕張新都心店1周年で11月27日から新マスコット＆冷凍ちいかわ焼きも発売！ Excite エキサイト",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-21T10:54:12+09:00",
-      "published_display": "2026-11-21 10:54 JST"
-    },
-    {
-      "title": "「ちいかわ」1年ぶりの新刊となる9巻が本日発売！表紙は古本屋 特装版も - ナタリー",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmOHNqUGphdUJkbmFHUVFaUWNYaGxUTWs1ZzRNOVpjaEprUFJHaEk1T0xJQWR1RENVaEF0RVQ3VnI2MExlN2hLRkN0SkQ?oc=5",
-      "source": "ナタリー",
-      "snippet": "「ちいかわ」1年ぶりの新刊となる9巻が本日発売！表紙は古本屋 特装版も ナタリー",
-      "summary": "「ちいかわ」1年ぶりの新刊となる9巻が本日発売！表紙は古本屋 特装版も ナタリー",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-21T10:39:18+09:00",
-      "published_display": "2026-11-21 10:39 JST"
-    },
-    {
-      "title": "ちいかわ × ドンキ/アピタ 11月21日より大人トレーナー発売! - コラボカフェ",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjdnTElFLU5mbUszdzNmNVN3MEhndmYwekZ1RldrRXZVRG1YWTctdWNHczg1U3NhWFhwZlFlQnBPV3A4VkJrTGhFMmpCMUdqUmotMDFwQ3c4UGZtVHh3TzlYMkFMTk9VYnhCdDBmT1JhZmJ1S3dMZVB1S19zNXlrclpNMFBSTEp5MDJCUzNB?oc=5",
-      "source": "コラボカフェ",
-      "snippet": "ちいかわ × ドンキ/アピタ 11月21日より大人トレーナー発売! コラボカフェ",
-      "summary": "ちいかわ × ドンキ/アピタ 11月21日より大人トレーナー発売! コラボカフェ",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-21T09:57:26+09:00",
-      "published_display": "2026-11-21 09:57 JST"
-    },
-    {
-      "title": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WdTVlMklya2RnTk1vNjgxWVY5VmxlbGhUV29tQW1YdFZhTV8xOVg0SHVHTlRxeXZuMjU0bkpEWjlHVUFJY211TDJpNTB6Zw?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 PASH! PLUS",
-      "summary": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 PASH! PLUS",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-21T09:03:26+09:00",
-      "published_display": "2026-11-21 09:03 JST"
-    },
-    {
-      "title": "ABEMA「ちいかわ公式無料チャンネル」が期間限定オープン 毎週土日にアニメ第382話までを繰り返し無料一挙放送 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qVHA1OUN1REV6dGxQUzZRamNuelJ6SFVESElJSFc2eUJVM3hJMDJQTDdENktGNThUSUVVVE1xOXZmSnVLalNmd0p5Z3ZLd3I5X3l1TjFCZ3N2eHU1MmJWcC16Ukp6dW9YcDVSSkdtUUY2aWlfYUkzeGIySW9FYlk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "ABEMA「ちいかわ公式無料チャンネル」が期間限定オープン 毎週土日にアニメ第382話までを繰り返し無料一挙放送 Yahoo!ニュース",
-      "summary": "ABEMA「ちいかわ公式無料チャンネル」が期間限定オープン 毎週土日にアニメ第382話までを繰り返し無料一挙放送 Yahoo!ニュース",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-21T08:12:05+09:00",
-      "published_display": "2026-11-21 08:12 JST"
-    },
-    {
-      "title": "台北初の「ちいかわ大判焼き」常設店舗が本日オープン！ オリジナルグッズやドリンクも展開 - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNDBRSEl3eFQ2LVNkTEFnTmJLdU1xOWF5MEt6QldWdTZYbnpVT2E2MHg4bWgtQWpDdFVqdGMxc1p1RVVuN1d6ZzBhZ0t1SWxjSDdmMWpHaVltQXZFOTJZ?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "snippet": "台北初の「ちいかわ大判焼き」常設店舗が本日オープン！ オリジナルグッズやドリンクも展開 千葉テレビ放送株式会社",
-      "summary": "台北初の「ちいかわ大判焼き」常設店舗が本日オープン！ オリジナルグッズやドリンクも展開 千葉テレビ放送株式会社",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-21T08:03:11+09:00",
-      "published_display": "2026-11-21 08:03 JST"
-    },
-    {
-      "title": "「日本舞踊LOVE」が強めな師範 ちいかわも椎名林檎も舞の肥やし - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JSzV5NFZDOUJqdHNuY18zMmFkamlQZzFEeFFuVkE5ZDhZUU9QSXVYUDZtWERjM2trZFhqd1VUTnVxUXZsbkplZlp3UXpCSXBqa2tkYXdqbW5zS1I5alMyeGloZW55VEk?oc=5",
-      "source": "朝日新聞",
-      "snippet": "「日本舞踊LOVE」が強めな師範 ちいかわも椎名林檎も舞の肥やし 朝日新聞",
-      "summary": "「日本舞踊LOVE」が強めな師範 ちいかわも椎名林檎も舞の肥やし 朝日新聞",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-21T08:00:00+09:00",
-      "published_display": "2026-11-21 08:00 JST"
     }
   ]
 }
