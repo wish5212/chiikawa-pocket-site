@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-22T12:49:34.571077+09:00",
-  "generated_at_jst": "2026-11-22 12:49 JST",
+  "generated_at": "2026-11-23T03:46:22.507010+09:00",
+  "generated_at_jst": "2026-11-23 03:46 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,154 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 4,
+      "count": 3,
       "icon": "🎀"
     },
     {
-      "key": "anime",
-      "label": "アニメ・映画",
-      "count": 2,
-      "icon": "🎬"
+      "key": "collab",
+      "label": "コラボ",
+      "count": 1,
+      "icon": "🍰"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 6,
+      "count": 8,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限定グッズ＆フードが盛り沢山 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05R0V1Wk9ZQ3VGUndpcFo4WUpycWpBSzNzRTRwOUYxZTAwYnktRU0zQ3gzdjZHZ1RCZGJuQ2xvZlNCbWQwRUxSS3BUMVhRQzkyaUktdC1CQzRwcG1adDNUUkxTQWNMZ2M2LWtxcGg3cTloVDMxbXF4dkNmQWVveHc?oc=5",
+      "title": "香港ピザハットが「ちいかわ」とコラボ 止まらない香港のちいかわ旋風 - 香港経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UcmNEazNIQ0xObTFRRmd5ZGNYV3dfd1FZYlFmVVlUdU5KdWhadDVSWG1ad25uWEc2dnZTb1ZaYVgyT3lhdVF6NDZoeFVsRE9vRVo2aw?oc=5",
+      "source": "香港経済新聞",
+      "snippet": "香港ピザハットが「ちいかわ」とコラボ 止まらない香港のちいかわ旋風 香港経済新聞",
+      "summary": "香港ピザハットが「ちいかわ」とコラボ 止まらない香港のちいかわ旋風 香港経済新聞",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-11-23T00:57:26+09:00",
+      "published_display": "2026-11-23 00:57 JST"
+    },
+    {
+      "title": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場（GAME Watch） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdm5GUEhpNVU1MTJhS3RXRHUxNVMzM2dTT0tscWVIMWVyRjJ2ay0yRTRLNEU4SkxpNjVuSDRNczhnNWJGM3FjdFV0TVFMVkM1MkNGY1JXYmVBRHVJM3Z3NDZmQkJoWUxYYkZnQzBEVEpJVGtDM1hINlpGdWV2MVU?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限定グッズ＆フードが盛り沢山 Yahoo!ニュース",
-      "summary": "最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限定グッズ＆フードが盛り沢山 Yahoo!ニュース",
+      "snippet": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場（GAME Watch） Yahoo!ニュース",
+      "summary": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場（GAME Watch） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-22T12:00:44+09:00",
-      "published_display": "2026-11-22 12:00 JST"
+      "published_at": "2026-11-23T00:05:53+09:00",
+      "published_display": "2026-11-23 00:05 JST"
     },
     {
-      "title": "最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限定グッズ＆フードが盛り沢山 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NaDBWUjROeExaWkpaR3JBbVloajZVZnlFUXVJck02U0o5bGhvTUJQbkxheVkzMzNmYThiYk5FVnAtTllaY3FvdW1mUmhlT1VPTlIyNUVuNA?oc=5",
-      "source": "朝日新聞",
-      "snippet": "最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限定グッズ＆フードが盛り沢山 朝日新聞",
-      "summary": "最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限定グッズ＆フードが盛り沢山 朝日新聞",
+      "title": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場 - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SRnNYSi1INVA3SzI4NG1UeEU2VEZta09SUnRaWXFLSTlMZnQzRXFYYU1XZjliSFRjTVZ0VHRyUm9DQVRtVWo4V0dwamVFeXB0QjRRV1ZCTk9EZFJVcThN?oc=5",
+      "source": "ライブドアニュース",
+      "snippet": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場 ライブドアニュース",
+      "summary": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場 ライブドアニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-22T12:00:00+09:00",
-      "published_display": "2026-11-22 12:00 JST"
+      "published_at": "2026-11-23T00:00:00+09:00",
+      "published_display": "2026-11-23 00:00 JST"
     },
     {
-      "title": "「ちいかわ」が便利なトートバッグに！「ちいかわクリニック」デザインの全5種、A4サイズがぴったり入る大きさ（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SS3NNNFhjbUtlSy1IYkpUN2Z3V3RHelVjbnR4Vm5NQ25Tb1plVFVNS2EzcFJQZUx1TFlGTmFISEV1R1BYYl9DUU5jZVV6bWxKeUl5RmtIcFRzWEdTYnpFeUtxalpmcXlEaEZNVmlqaTFiZmRfM0x5dmpkOElOQWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」が便利なトートバッグに！「ちいかわクリニック」デザインの全5種、A4サイズがぴったり入る大きさ（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」が便利なトートバッグに！「ちいかわクリニック」デザインの全5種、A4サイズがぴったり入る大きさ（インサイド） Yahoo!ニュース",
+      "title": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場 - GAME Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9acTVtMHRHR0xVR1JCTWtjUE9JejJPQVkyQTVQUFlZZkVlT2dtSTM1eUZtZm8tYjdpUzJfcDR5NGxnb0t0dUE0R2xTeVFqUHpEUjV6N2lYN01KSnp1Zy1GQ3daZWdCQQ?oc=5",
+      "source": "GAME Watch",
+      "snippet": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場 GAME Watch",
+      "summary": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場 GAME Watch",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-22T11:45:02+09:00",
-      "published_display": "2026-11-22 11:45 JST"
+      "published_at": "2026-11-23T00:00:00+09:00",
+      "published_display": "2026-11-23 00:00 JST"
     },
     {
-      "title": "映画『ちいかわ』“第7弾”の特典発表に難色の声、『鬼滅の刃』スタイルを貫くも疑問視される「特典ありき」の映画興行《2026年11月Choice》 - 週刊女性PRIME",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YclZ5T0Jra3VWdy1SMjNDWUxCMi1HSVBWaWszeGtRRVFuOHp4dXY4NVM2V29QVTFNUmJvVF81NzZnbkZCYXhfXzFyNEZYVlE?oc=5",
-      "source": "週刊女性PRIME",
-      "snippet": "映画『ちいかわ』“第7弾”の特典発表に難色の声、『鬼滅の刃』スタイルを貫くも疑問視される「特典ありき」の映画興行《2026年11月Choice》 週刊女性PRIME",
-      "summary": "映画『ちいかわ』“第7弾”の特典発表に難色の声、『鬼滅の刃』スタイルを貫くも疑問視される「特典ありき」の映画興行《2026年11月Choice》 週刊女性PRIME",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-22T10:45:00+09:00",
-      "published_display": "2026-11-22 10:45 JST"
-    },
-    {
-      "title": "「かわいさだけじゃない！ちいかわたちの冒険に夢中になります」映画ちいかわ 人魚の島のひみつ 渡辺亮人@事業家集団さんの映画レビュー（感想・評価） - 映画.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rbE8weU5TTk1CVWVaZzQyYlliUzd2ejQ5Ykh5N2NGanE2Q3FBYlo3NFRwQVdFNjJOYVNZNEVQaDVkQTB1clBvdC0zNkZkVUxTRVFyVFdGVTYxQQ?oc=5",
-      "source": "映画.com",
-      "snippet": "「かわいさだけじゃない！ちいかわたちの冒険に夢中になります」映画ちいかわ 人魚の島のひみつ 渡辺亮人@事業家集団さんの映画レビュー（感想・評価） 映画.com",
-      "summary": "「かわいさだけじゃない！ちいかわたちの冒険に夢中になります」映画ちいかわ 人魚の島のひみつ 渡辺亮人@事業家集団さんの映画レビュー（感想・評価） 映画.com",
-      "category_key": "anime",
-      "category_label": "アニメ・映画",
-      "published_at": "2026-11-22T09:29:57+09:00",
-      "published_display": "2026-11-22 09:29 JST"
-    },
-    {
-      "title": "ちいかわ最新話でハチワレのカメラがビーム発射の大ピンチ - X",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Hb0pHcVZEdWM0QzRjS2YwbDZ2dFRJdWwzSXVlUGlHM3dsV0NxUjhmbkYyV25YWGtfcms2dzh5RHJsOU1neUZjeDB3elBja3VqV1FmeEZ0VQ?oc=5",
+      "title": "なし🍐 (@Nasi_129) on X - X",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eVlEcmxiS1RIekpuRXZmekEwQVhqZF9FRHQzanN6eENPZml1dDNkTTJlMXNvQjJpMjJqMmZHa1RhWjAxcnpDUU5nZGJRM29fd0xVRkpMaXpZV1d0R0NpT2RrMG0?oc=5",
       "source": "X",
-      "snippet": "ちいかわ最新話でハチワレのカメラがビーム発射の大ピンチ X",
-      "summary": "ちいかわ最新話でハチワレのカメラがビーム発射の大ピンチ X",
+      "snippet": "なし🍐 (@Nasi_129) on X X",
+      "summary": "なし🍐 (@Nasi_129) on X X",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-22T06:48:39+09:00",
-      "published_display": "2026-11-22 06:48 JST"
+      "published_at": "2026-11-22T23:43:35+09:00",
+      "published_display": "2026-11-22 23:43 JST"
     },
     {
-      "title": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 - クーリエ・ジャポン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uaTRGWjI3UUo5WTBvWGtzVGhqRElDOFUwMkVSWk1OTHVqaG9NRV9MTi1pYWpUNENScVczUklGQU10aU9mTzdjcFVsc1VXUnUtV2Rj?oc=5",
-      "source": "クーリエ・ジャポン",
-      "snippet": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 クーリエ・ジャポン",
-      "summary": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 クーリエ・ジャポン",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-22T06:46:16+09:00",
-      "published_display": "2026-11-22 06:46 JST"
-    },
-    {
-      "title": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン 2枚目の写真・画像 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40WWY0Qks1WVVtV2RrbUtfUVpidmdLRUxta0VUaXJjQkF0M1l3QTFNOUUxbk5vNnNXcmVaSjZkRlptWGNvRHdfMk9HYzZtQVdBV0JMRlp1THNlekU2bE9LeXdxQU9QZ2F4bnFmcUtiNnE5YTU1NE95NGR3?oc=5",
-      "source": "インサイド",
-      "snippet": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン 2枚目の写真・画像 インサイド",
-      "summary": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン 2枚目の写真・画像 インサイド",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-22T06:00:03+09:00",
-      "published_display": "2026-11-22 06:00 JST"
-    },
-    {
-      "title": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92c3NoVDFxRW9PYXhXMlhyUmExSGhRTjhoRVNMRnNTZk81WUFrdnRfbmF6S2o0NmU0c1c2b1N4a1ZCX3VkMHlQd1pZOW9rLXFqQ3dQeHd1dGxTZVlnQnYyWUtWTkcxRS14OFE?oc=5",
-      "source": "インサイド",
-      "snippet": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン インサイド",
-      "summary": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン インサイド",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-22T06:00:03+09:00",
-      "published_display": "2026-11-22 06:00 JST"
-    },
-    {
-      "title": "『ちいかわ』更新（11/22）。仲良く過ごしていたら「ドゴォッ」な急展開！ いったい何事… - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13U3ZDN2JoczV3TmRBRjV1bnRUTjBaMkhVZ09kSm9GVzRtdmFTMHJWU2R2TzdHV3NPRjZ1aFAwVnZqMkJoQ3ZaVTNOSVRsZEFscGlqcnBBR280Zw?oc=5",
+      "title": "『ちいかわ』更新（11/22）②。本当のカメラはどこに？ そこにギチギチ虫が現れて…!? - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQXQ1WEtWcTNWckxIRlNZTWtPU2toWHg0dFNsdU1PcDVXREg4VjVwV1JObWpvMmllWHFLMEhhT1J0NHBOckJJNi1sbUdUUTBjcDZvSXJiOXYxUQ?oc=5",
       "source": "電撃オンライン",
-      "snippet": "『ちいかわ』更新（11/22）。仲良く過ごしていたら「ドゴォッ」な急展開！ いったい何事… 電撃オンライン",
-      "summary": "『ちいかわ』更新（11/22）。仲良く過ごしていたら「ドゴォッ」な急展開！ いったい何事… 電撃オンライン",
+      "snippet": "『ちいかわ』更新（11/22）②。本当のカメラはどこに？ そこにギチギチ虫が現れて…!? 電撃オンライン",
+      "summary": "『ちいかわ』更新（11/22）②。本当のカメラはどこに？ そこにギチギチ虫が現れて…!? 電撃オンライン",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-22T01:34:00+09:00",
-      "published_display": "2026-11-22 01:34 JST"
+      "published_at": "2026-11-22T23:31:00+09:00",
+      "published_display": "2026-11-22 23:31 JST"
     },
     {
-      "title": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 - PASH! PLUS",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WdTVlMklya2RnTk1vNjgxWVY5VmxlbGhUV29tQW1YdFZhTV8xOVg0SHVHTlRxeXZuMjU0bkpEWjlHVUFJY211TDJpNTB6Zw?oc=5",
-      "source": "PASH! PLUS",
-      "snippet": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 PASH! PLUS",
-      "summary": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場 PASH! PLUS",
+      "title": "「ちいかわ」大判焼き店が台北にオープン 台湾人の好み反映 - フォーカス台湾",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZeW5UZTVvbEowaWdMRUY0UVUyc2tjX29lRjFXYVVCbWs1a1NzRVN2V1IwZEc2U2JlTThaQXFDaUJWdV9zclg4Y1VKdlptMDRadkM4ZDRUWE0xNmJQVmc?oc=5",
+      "source": "フォーカス台湾",
+      "snippet": "「ちいかわ」大判焼き店が台北にオープン 台湾人の好み反映 フォーカス台湾",
+      "summary": "「ちいかわ」大判焼き店が台北にオープン 台湾人の好み反映 フォーカス台湾",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-21T23:33:12+09:00",
-      "published_display": "2026-11-21 23:33 JST"
+      "published_at": "2026-11-22T18:23:00+09:00",
+      "published_display": "2026-11-22 18:23 JST"
     },
     {
-      "title": "画像・写真 | 【あすから】ジーユー×「ちいかわ」、新作発売へ 第1弾は“おでかけ着”、ニットやポーチほか 2枚目 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0VWRJMnk1REt1ODh1M0NJbGhhcC13R1h6dTRrVDlnRVhzczBqZVRoX2VxZWF6bVRiZHdNbWt0UU9ZMmR2VDNHcTRWeGhoSnhJTUxUUU5DYllkQQ?oc=5",
+      "title": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EX3lQUU5iXy1UQ2FLREVMcGU1cFFpcjdZUVA2NW1HTzlLMjg4X1U1SHM0MFlxZHBrMkE2aDFLUmxqMUpWRTF6emJSM1JIQ1lNNFgwY1lR?oc=5",
       "source": "オリコンニュース",
-      "snippet": "画像・写真 | 【あすから】ジーユー×「ちいかわ」、新作発売へ 第1弾は“おでかけ着”、ニットやポーチほか 2枚目 オリコンニュース",
-      "summary": "画像・写真 | 【あすから】ジーユー×「ちいかわ」、新作発売へ 第1弾は“おでかけ着”、ニットやポーチほか 2枚目 オリコンニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-21T23:28:19+09:00",
-      "published_display": "2026-11-21 23:28 JST"
+      "snippet": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場 オリコンニュース",
+      "summary": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場 オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-22T17:55:00+09:00",
+      "published_display": "2026-11-22 17:55 JST"
+    },
+    {
+      "title": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場 - 佐賀新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xU3ktdDQwTEhKTmxVdlFqLTgwSzhsaEd3TGpGb09WS0FReUt2ODZVYkowem1nbkk1WWZ3ZEtjM0JuRVpZYlFjdFFGenJERXBlT3VPalRR?oc=5",
+      "source": "佐賀新聞",
+      "snippet": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場 佐賀新聞",
+      "summary": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場 佐賀新聞",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-22T17:55:00+09:00",
+      "published_display": "2026-11-22 17:55 JST"
+    },
+    {
+      "title": "「ちいかわ焼き」冬季限定の味が登場 くりまんじゅうの“甘酒”など季節ならでは3種の味わい - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MTjVkb241cThkSkgxUmZCOUFNTHhYLTBYYTNoN3dWMDlMRjYzaFMyWXF6TFdMOXR1dDR4SWhUVk9UbkdsZGVQYUlRV25wVVNERHNveV9n?oc=5",
+      "source": "オリコンニュース",
+      "snippet": "「ちいかわ焼き」冬季限定の味が登場 くりまんじゅうの“甘酒”など季節ならでは3種の味わい オリコンニュース",
+      "summary": "「ちいかわ焼き」冬季限定の味が登場 くりまんじゅうの“甘酒”など季節ならでは3種の味わい オリコンニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-22T17:50:00+09:00",
+      "published_display": "2026-11-22 17:50 JST"
+    },
+    {
+      "title": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 「子供っぽさ」で権力にに抗う（クーリエ・ジャポン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzVTBfT0JsX1Jrc0xtX0Z0bWN1TmgzZXVrb0lHSk5pZnhJR1JMZWpnUWpWRFRmZW1xMnA3MG5GY1FxYmFPT3BLU2FQekZLT0QxcEZsOGpfSlF2MERrTXVnbjhEeXI4R3lLRmd0QUtuTUY3VEQ3cU9qTzdVOFZ0cU0?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 「子供っぽさ」で権力にに抗う（クーリエ・ジャポン） Yahoo!ニュース",
+      "summary": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 「子供っぽさ」で権力にに抗う（クーリエ・ジャポン） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-22T17:21:00+09:00",
+      "published_display": "2026-11-22 17:21 JST"
+    },
+    {
+      "title": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 「子供っぽさ」で権力にに抗う (クーリエ・ジャポン) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWhLdVF4U01iMnBhMGZiNkdWLWk2dGFOSVNkLU5CRFdxSDQ0OFlTQUQ5dTBSMjZFX2RyYVdFeDAwRlBFLXd3TnNWNEFjUlM5ZDQyb0tmV0wyLWNHdFZVcF9nOU9lWU9BbEpja0hBU1BLNFU0b2NuRngtOS1tcXRfSU95UExleDA0ZkRaMXBn?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 「子供っぽさ」で権力にに抗う (クーリエ・ジャポン) Yahoo!ニュース",
+      "summary": "英研究者「中国の若者は『ちいかわ』を通して“静かな抵抗”を続けている」 「子供っぽさ」で権力にに抗う (クーリエ・ジャポン) Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-22T17:21:00+09:00",
+      "published_display": "2026-11-22 17:21 JST"
     }
   ]
 }
