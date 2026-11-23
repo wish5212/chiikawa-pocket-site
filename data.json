@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-23T13:28:06.563767+09:00",
-  "generated_at_jst": "2026-11-23 13:28 JST",
+  "generated_at": "2026-11-24T07:59:22.238037+09:00",
+  "generated_at_jst": "2026-11-24 07:59 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,148 +14,148 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 11,
+      "count": 10,
       "icon": "🎀"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 1,
+      "count": 2,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "「ちいかわクリスマスマーケット」11月24日から開催！限定フードやグッズ、巨大ツリーも - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUWkRUY3RvczRxaTV3TlV1eFFmVjBPSmxWRUxFOUp4ajNqWWVhWmlTMV9lZ0wzN1ZiaFdXd3dRQ1Vad0l1MUJidVhwcGtpbWhQM0N0LXQ0WjgzNFMw?oc=5",
-      "source": "朝日新聞",
-      "snippet": "「ちいかわクリスマスマーケット」11月24日から開催！限定フードやグッズ、巨大ツリーも 朝日新聞",
-      "summary": "「ちいかわクリスマスマーケット」11月24日から開催！限定フードやグッズ、巨大ツリーも 朝日新聞",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T13:00:03+09:00",
-      "published_display": "2026-11-23 13:00 JST"
-    },
-    {
-      "title": "「ちいかわクリスマスマーケット」11月24日から開催！限定フードやグッズ、巨大ツリーも（cinemacafe.net） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWE4zRV9mRm9QcDk5UHE3dnRoNmhuZlhvZWZUMS1HWEFwTE5wTEtHNDFqVE4yUU1JNktRckhESjFaUkI0Q1VfcmdXelNUZ3dLOUM1RUhZUWRfREpacWdFdk1TMW5FWk1xUzItbjdyZ2pVSVo0eHJsbm1JWFg3a00?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわクリスマスマーケット」11月24日から開催！限定フードやグッズ、巨大ツリーも（cinemacafe.net） Yahoo!ニュース",
-      "summary": "「ちいかわクリスマスマーケット」11月24日から開催！限定フードやグッズ、巨大ツリーも（cinemacafe.net） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T13:00:03+09:00",
-      "published_display": "2026-11-23 13:00 JST"
-    },
-    {
-      "title": "「ちいかわ」もこもこ衣装の「プレゼントフォーユーなマスコット」が可愛い！ハチワレ、うさぎも揃った全3種を11月下旬よりプライズ展開（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQnBFNW1zNGJhNjhQWXFQb2lReTQxMjQzYmZVYnUzamNudEVMeGZSMW05bE5hbHU5NUNPRFRybFY1U2N3a09XUTVHVk1DY0R0YkxjVGNBRHAwOFVCdTl6NjlDMHJRRUJTTXpJV2ZuQlRSNlZfOFFRU0FseC1RU3c?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」もこもこ衣装の「プレゼントフォーユーなマスコット」が可愛い！ハチワレ、うさぎも揃った全3種を11月下旬よりプライズ展開（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」もこもこ衣装の「プレゼントフォーユーなマスコット」が可愛い！ハチワレ、うさぎも揃った全3種を11月下旬よりプライズ展開（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T12:40:02+09:00",
-      "published_display": "2026-11-23 12:40 JST"
-    },
-    {
-      "title": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開 - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRNmlUMUVVVmo5NzRQY0VybldZb19CbmxjYUR4LWh6cU5UakpKS3ZCRl8xb3FjYzdhcHFXVVNBX3JNR2E4MGpwS1RxeTJ0Vk12SkRMU05XaU5uSXVDc2VN?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "snippet": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開 千葉テレビ放送株式会社",
-      "summary": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開 千葉テレビ放送株式会社",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T11:03:20+09:00",
-      "published_display": "2026-11-23 11:03 JST"
-    },
-    {
-      "title": "「チョコサプ ちいかわ2」発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など全14種 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84UWUwSkFRR0NybGxEc0YzUVo4NGZrZk5aSGxYUWUxc0lNWlJSV3VkMGN4VV9iUVE5eHlCRURYWXkyN1dnTTFnczZJakJDZEFPcHRZQ2MzRlB1QlRTanVvMVdSLXQtUWQ4QXc?oc=5",
-      "source": "インサイド",
-      "snippet": "「チョコサプ ちいかわ2」発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など全14種 インサイド",
-      "summary": "「チョコサプ ちいかわ2」発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など全14種 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T10:10:03+09:00",
-      "published_display": "2026-11-23 10:10 JST"
-    },
-    {
-      "title": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開（クランクイン！） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZVVYNE5IdlJnb0dhOGNQcV9DX1phRU5JaVIxREcyM2VKc0ZXZW1BRlZfNDBPLXBCQXBuRGFyc3FFY2t2QjRyMVlTZExDYlZRN3hrejZYUURINTlDVWgyN3l6akxFOG9EN0dqaVpKWC1uWU9NeFhBNWNaU1hrdzQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開（クランクイン！） Yahoo!ニュース",
-      "summary": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開（クランクイン！） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T10:00:00+09:00",
-      "published_display": "2026-11-23 10:00 JST"
-    },
-    {
-      "title": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開 - クランクイン！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sQW5RSXpxMjBrWjJWOGlVTTVVU1pDUjVxcVdDbzJfTHFTZmFTNVdIS2lnX3JWc0F4bmZRbHZSTUNBbmhBUm1kcTFnVWZWZTlvLTIyd2NsUQ?oc=5",
-      "source": "クランクイン！",
-      "snippet": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開 クランクイン！",
-      "summary": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開 クランクイン！",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T10:00:00+09:00",
-      "published_display": "2026-11-23 10:00 JST"
-    },
-    {
-      "title": "「ちいかわ」マルチカラーパウダー「Pon de Couleur」が発売！デザインはいろんな場面を抜き出した全6種（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mWG1VMVRpU3AwLXQ0eHhMY21uQ0IxbnBYekJqRjZqSHp5Nlp1dHNtOXhxblQ0cWt0UlBVT1ZON3F3dWV0a1Q5cldmcWZaNGxKM25nb01ZLU1LVjVOeWk1dWgxQmI5di05b2x6VFBYV005SjBoNmt2RnRRcmVRSUk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」マルチカラーパウダー「Pon de Couleur」が発売！デザインはいろんな場面を抜き出した全6種（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」マルチカラーパウダー「Pon de Couleur」が発売！デザインはいろんな場面を抜き出した全6種（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T09:40:02+09:00",
-      "published_display": "2026-11-23 09:40 JST"
-    },
-    {
-      "title": "画像2 / 15＞病院がテーマの「ちいかわクリニック」が開催！ナース姿のマスコットなど記念商品が全国19カ所に登場 - ウォーカープラス",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KQ0tkamltY3hwTV80TGQ0bW5icmRXZmN1Yk5qVC1lU1ZvbXNBbFJaZFU1SVRVYnFNMDJwVXpveUVnNzR1WjNQeHltRHB0YW16QmNyNVRUc1NlY0NfQmI1V1ZtLU5xQnp3WnJFMXJ3?oc=5",
-      "source": "ウォーカープラス",
-      "snippet": "画像2 / 15＞病院がテーマの「ちいかわクリニック」が開催！ナース姿のマスコットなど記念商品が全国19カ所に登場 ウォーカープラス",
-      "summary": "画像2 / 15＞病院がテーマの「ちいかわクリニック」が開催！ナース姿のマスコットなど記念商品が全国19カ所に登場 ウォーカープラス",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T09:05:57+09:00",
-      "published_display": "2026-11-23 09:05 JST"
-    },
-    {
-      "title": "【東京ばな奈×ちいかわ】めちゃカワなスイーツ＆グッズは必見♡グランスタ東京に期間限定ポップアップストア、オープン《11月24日から》 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdUtvNmItVlNIcE0xTEdfQ21tdmV3NW1WYi1UcGxxXzhiUXJjZm1Yc2xrc0lEd2FoX054Z1dURFFVcjRyVkQ3N3pLM29vWTJleHhDRkE3YmxWYkVDa2U2S1RScFZ0QXZ4SmhNYlJR?oc=5",
-      "source": "au Webポータル",
-      "snippet": "【東京ばな奈×ちいかわ】めちゃカワなスイーツ＆グッズは必見♡グランスタ東京に期間限定ポップアップストア、オープン《11月24日から》 au Webポータル",
-      "summary": "【東京ばな奈×ちいかわ】めちゃカワなスイーツ＆グッズは必見♡グランスタ東京に期間限定ポップアップストア、オープン《11月24日から》 au Webポータル",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T08:41:35+09:00",
-      "published_display": "2026-11-23 08:41 JST"
-    },
-    {
-      "title": "【東京ばな奈×ちいかわ】めちゃカワなスイーツ＆グッズは必見♡グランスタ東京に期間限定ポップアップストア、オープン《11月24日から》 - 東京バーゲンマニア",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFc3hKazFLNFl4aWhQS19Kc1p4V2ZLRkx5ZmVPdm82SFRjLUF5RklwUHR6OHVqd3c1eVV3aXQ2VnI5bmVwbk9yZExTNEdNa0ROZThB?oc=5",
-      "source": "東京バーゲンマニア",
-      "snippet": "【東京ばな奈×ちいかわ】めちゃカワなスイーツ＆グッズは必見♡グランスタ東京に期間限定ポップアップストア、オープン《11月24日から》 東京バーゲンマニア",
-      "summary": "【東京ばな奈×ちいかわ】めちゃカワなスイーツ＆グッズは必見♡グランスタ東京に期間限定ポップアップストア、オープン《11月24日から》 東京バーゲンマニア",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-23T08:33:00+09:00",
-      "published_display": "2026-11-23 08:33 JST"
-    },
-    {
-      "title": "「ちいかわ」の「ぬーどるストッパーフィギュア」がエモい！草むしり検定合格で、お祝いラーメン食べる様子を表現 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjNmJQa00yaHdjeVpJOTlrdFc0V0JoMUFGcGFOTkdvTllQWDZXaldUZDFoTXpxSXdUZExLTXhaTGxOeWg5MUdJNm9EU1BveWwxaFg4UzNRNFV3eFZpLVB3ZHB5QXhPYnpaN0E?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」の「ぬーどるストッパーフィギュア」がエモい！草むしり検定合格で、お祝いラーメン食べる様子を表現 インサイド",
-      "summary": "「ちいかわ」の「ぬーどるストッパーフィギュア」がエモい！草むしり検定合格で、お祝いラーメン食べる様子を表現 インサイド",
+      "title": "11月24日(火)の「ちいかわ占い」 - めざましmedia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTGlVcGFWWlZid2RpS1lFM1FYRUVYaFVHSExpbFY3ZEdZbDEzY0pwdVJqYU14NHpSZG1MM2ZaNWxXVXJacHI5dkdPeFhwTVllUHM0?oc=5",
+      "source": "めざましmedia",
+      "snippet": "11月24日(火)の「ちいかわ占い」 めざましmedia",
+      "summary": "11月24日(火)の「ちいかわ占い」 めざましmedia",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-23T07:15:03+09:00",
-      "published_display": "2026-11-23 07:15 JST"
+      "published_at": "2026-11-24T07:00:00+09:00",
+      "published_display": "2026-11-24 07:00 JST"
+    },
+    {
+      "title": "全高約3mのちいかわ・ハチワレ・うさぎも! 幕張「ちいかわクリスマスマーケット」見どころ&注目グッズをまとめて紹介 - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TZmdMLUduUzhuVkd0cnZnR292SlFmLUxpWkZSQ3h6X0JBZDV1M2ZTVUZxNjlTUnhfNkdraWU3LTR3cnE2OWpnN0J5di05SjB6ZUFGbjZsdnllRjlJ?oc=5",
+      "source": "マイナビニュース",
+      "snippet": "全高約3mのちいかわ・ハチワレ・うさぎも! 幕張「ちいかわクリスマスマーケット」見どころ&注目グッズをまとめて紹介 マイナビニュース",
+      "summary": "全高約3mのちいかわ・ハチワレ・うさぎも! 幕張「ちいかわクリスマスマーケット」見どころ&注目グッズをまとめて紹介 マイナビニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T06:36:29+09:00",
+      "published_display": "2026-11-24 06:36 JST"
+    },
+    {
+      "title": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？ - 千葉テレビ放送",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTR1NYaERRc19mU2t3NkpfNGRnS2JOcTF5UVNfSE9nbW9Id3B4ZFpaLUYzMkdzTHI5NjZ6QWxKVVVpSnFXSFpsVUR3REdJV1plMVRVMnc2SXBEc1p0OGtz?oc=5",
+      "source": "千葉テレビ放送",
+      "snippet": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？ 千葉テレビ放送",
+      "summary": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？ 千葉テレビ放送",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T05:03:20+09:00",
+      "published_display": "2026-11-24 05:03 JST"
+    },
+    {
+      "title": "「ちいかわクリスマスマーケット」会場からグッズ情報をまとめて紹介（GAME Watch） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95THFMRHhoeEFGYUdUdlZTa2Rvck1hUzRLbnZLM3V4ajFQSU5mQnROS2FfSGYwNm1Uc1hrckdDaW9Ed3ZlbU9sWE1FMWMyMm1oSGxRQjR2eGVWbldKQlBwaVZhQnhDQlJzLVlhTnBlcU5xSWxnNHFLT1VoX011TFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわクリスマスマーケット」会場からグッズ情報をまとめて紹介（GAME Watch） Yahoo!ニュース 最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限定グッズ＆フードが盛り沢山 朝日新聞 「ちいかわクリスマスマーケット」開催を祝い、ちいかわ、ハチワレ、うさぎが点灯式（イベントレポート / 写真46枚） ナタリー",
+      "summary": "「ちいかわクリスマスマーケット」会場からグッズ情報をまとめて紹介（GAME Watch） Yahoo!ニュース 最高に可愛い！ 【ちいかわ】「クリスマスマーケット」11/24より千葉で開催。限…",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:23:57+09:00",
+      "published_display": "2026-11-24 04:23 JST"
+    },
+    {
+      "title": "「ちいかわクリスマスマーケット」はフォトスポットたくさん！本日開催の会場内をレポート（GAME Watch） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiTWxBSGp4RzBIRy14RzBXenRwNlFFb2V6c0JscjNaSWRRUXlrdTFjWFZSX3ZKRlJtU2luM05nQ2h3SHc0SHpHcVdkNjVBdXVNR2w4VmdUVlBmWm1TVk52M1BmMThYelV2cFZ2cnU2ei1DWDBkX0dQS3FRMjYzNk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわクリスマスマーケット」はフォトスポットたくさん！本日開催の会場内をレポート（GAME Watch） Yahoo!ニュース",
+      "summary": "「ちいかわクリスマスマーケット」はフォトスポットたくさん！本日開催の会場内をレポート（GAME Watch） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:21:11+09:00",
+      "published_display": "2026-11-24 04:21 JST"
+    },
+    {
+      "title": "【ちいかわ】クリスマスツリーやスノードームなど見どころ満載！ 限定メニューや参加型コンテンツで特別なクリスマスを楽しめる「ちいかわクリスマスマーケット」フォトレポート - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41cS1SWEpMT0xWWV9ncGhaQ1V6UWt1XzRnSGZZbDhsbE9QYXRlTHNpLXpyNXVYUVN6WVh6cDNWMGFwRjdVczUtWm1fX0g5UHc?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】クリスマスツリーやスノードームなど見どころ満載！ 限定メニューや参加型コンテンツで特別なクリスマスを楽しめる「ちいかわクリスマスマーケット」フォトレポート PASH! PLUS",
+      "summary": "【ちいかわ】クリスマスツリーやスノードームなど見どころ満載！ 限定メニューや参加型コンテンツで特別なクリスマスを楽しめる「ちいかわクリスマスマーケット」フォトレポート PASH! PLUS",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:12:37+09:00",
+      "published_display": "2026-11-24 04:12 JST"
+    },
+    {
+      "title": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？（クランクイン！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10OUkxZjFPLUhkUkNjU0JQSUJPWW11ZGdMS0hCclY0QjA1ejRyQkNkSzVhaDBPV1FoQ3hVQktBdkltTTdGS0UzZFhnLUlhYUQwV3FSdFVfWHVGSDN0dWROU2xqb1c1TFY2Q3NPY2xCY2NRd0pid0FndHRGT0hNUDg?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？（クランクイン！） Yahoo!ニュース",
+      "summary": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？（クランクイン！） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:10:15+09:00",
+      "published_display": "2026-11-24 04:10 JST"
+    },
+    {
+      "title": "ちいかわ公式漫画でハチワレのカメラがビーム発射 ファン大爆笑 - X",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Hb0pHcVZEdWM0QzRjS2YwbDZ2dFRJdWwzSXVlUGlHM3dsV0NxUjhmbkYyV25YWGtfcms2dzh5RHJsOU1neUZjeDB3elBja3VqV1FmeEZ0VQ?oc=5",
+      "source": "X",
+      "snippet": "ちいかわ公式漫画でハチワレのカメラがビーム発射 ファン大爆笑 X",
+      "summary": "ちいかわ公式漫画でハチワレのカメラがビーム発射 ファン大爆笑 X",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-24T04:08:43+09:00",
+      "published_display": "2026-11-24 04:08 JST"
+    },
+    {
+      "title": "「ちいかわクリスマスマーケット」いよいよスタート! 点灯式にちいかわたちが登場 - ファンならニヤリな演出も - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YMDFJVGVYbkVXZmlvaEQ4eDAtRGpnWVI2TGRVX1B2MkFHdHdpQTYyTDlpRnYxcjNUbi1qUHdJblFEUWZGYU1idllYZFhxLTF3WFVmeU02aThrN2tf?oc=5",
+      "source": "マイナビニュース",
+      "snippet": "「ちいかわクリスマスマーケット」いよいよスタート! 点灯式にちいかわたちが登場 - ファンならニヤリな演出も マイナビニュース",
+      "summary": "「ちいかわクリスマスマーケット」いよいよスタート! 点灯式にちいかわたちが登場 - ファンならニヤリな演出も マイナビニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:00:00+09:00",
+      "published_display": "2026-11-24 04:00 JST"
+    },
+    {
+      "title": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？ - クランクイン！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42RHpDRkJNNmFNakhMMFJyaWdrcGJxOEpqRWplOUJ4VUpubHdMOEdjcUtOeVctWFR4cTNIaVZsOExrSGpvTmdyTVBhYm9tVkZUUlc2MW5YVQ?oc=5",
+      "source": "クランクイン！",
+      "snippet": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？ クランクイン！",
+      "summary": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？ クランクイン！",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:00:00+09:00",
+      "published_display": "2026-11-24 04:00 JST"
+    },
+    {
+      "title": "【2026冬】千葉・豊砂公園に「ちいかわクリスマスマーケット」がオープン♡ちいかわ・ハチワレ・うさぎが登場した点灯式＆魅力をレポ！ - トレンドお届けメディア Trepo",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE13aC1heHMtNHlwdkY1ZS0ySTY5UDFHZ1ZxNzdNeHAtQS1mZzlGaHhFc2RrYzZwWWJVbUxFTmM2VC04ZkE?oc=5",
+      "source": "トレンドお届けメディア Trepo",
+      "snippet": "【2026冬】千葉・豊砂公園に「ちいかわクリスマスマーケット」がオープン♡ちいかわ・ハチワレ・うさぎが登場した点灯式＆魅力をレポ！ トレンドお届けメディア Trepo",
+      "summary": "【2026冬】千葉・豊砂公園に「ちいかわクリスマスマーケット」がオープン♡ちいかわ・ハチワレ・うさぎが登場した点灯式＆魅力をレポ！ トレンドお届けメディア Trepo",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:00:00+09:00",
+      "published_display": "2026-11-24 04:00 JST"
+    },
+    {
+      "title": "「ちいかわクリスマスマーケット」本日スタート！ちいかわたちがツリーの点灯式に登場（イベントレポート / 写真83枚） - キャラなた - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZeUI3ZXBna0xINkJqMzhvR3JTRnRqVGlLQzdzNDRsbHRudDBIM0hLSm40dVpwNGdUeDIwM2lVMFd2LUNCUzZhYkN6a0k?oc=5",
+      "source": "ナタリー",
+      "snippet": "「ちいかわクリスマスマーケット」本日スタート！ちいかわたちがツリーの点灯式に登場（イベントレポート / 写真83枚） - キャラなた ナタリー",
+      "summary": "「ちいかわクリスマスマーケット」本日スタート！ちいかわたちがツリーの点灯式に登場（イベントレポート / 写真83枚） - キャラなた ナタリー",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-24T04:00:00+09:00",
+      "published_display": "2026-11-24 04:00 JST"
     }
   ]
 }
