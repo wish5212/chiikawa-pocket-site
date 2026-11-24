@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-24T16:22:56.194114+09:00",
-  "generated_at_jst": "2026-11-24 16:22 JST",
+  "generated_at": "2026-11-25T06:38:55.020183+09:00",
+  "generated_at_jst": "2026-11-25 06:38 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,160 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 8,
+      "count": 5,
       "icon": "🎀"
     },
     {
       "key": "collab",
       "label": "コラボ",
-      "count": 1,
+      "count": 4,
       "icon": "🍰"
+    },
+    {
+      "key": "anime",
+      "label": "アニメ・映画",
+      "count": 1,
+      "icon": "🎬"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 3,
+      "count": 2,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "くら寿司「ちいかわ」皿がついに配布、広報が明かした“配布方法の変更”と「警察が捜査中」従業員の不正行為（週刊女性PRIME） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNHhPSW5iZFZoVTQ4ZVc1RGM5LW1mY1RHeURjZkMwcTFxOU9rRHk2eHFmX3Y2aXBGUUsyd3RtSm1FLVYxaTUxN2M2N3dPUGJENE4wdXN3bG5KMFl0bTV3TS15QW1STGVLZzAtQjExWEFqY0NqSzJwRnZBTFFncXM?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "くら寿司「ちいかわ」皿がついに配布、広報が明かした“配布方法の変更”と「警察が捜査中」従業員の不正行為（週刊女性PRIME） Yahoo!ニュース",
-      "summary": "くら寿司「ちいかわ」皿がついに配布、広報が明かした“配布方法の変更”と「警察が捜査中」従業員の不正行為（週刊女性PRIME） Yahoo!ニュース",
+      "title": "『ちいかわ』モブたちの選択は誤っていた…!? なんともイヤ～な“後味の悪さ”が残る「忘れがたいエピソード」 - ふねぽ",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0NzZwR00zWVlvOUE3YnV4ZnJPcVAxb3M5eXBhM3ZkOFRqbTh3bVN1RktPVTVURmRnX3RuaWkwaEttaXNDRFJBUkFheHFwczZGd3FfekRpV0pwZw?oc=5",
+      "source": "ふねぽ",
+      "snippet": "『ちいかわ』モブたちの選択は誤っていた…!? なんともイヤ～な“後味の悪さ”が残る「忘れがたいエピソード」 ふねぽ",
+      "summary": "『ちいかわ』モブたちの選択は誤っていた…!? なんともイヤ～な“後味の悪さ”が残る「忘れがたいエピソード」 ふねぽ",
+      "category_key": "anime",
+      "category_label": "アニメ・映画",
+      "published_at": "2026-11-25T06:30:00+09:00",
+      "published_display": "2026-11-25 06:30 JST"
+    },
+    {
+      "title": "【京都・下京区】JR京都駅に「ちいかわ」が登場、期間限定のポップアップストアが11月26日にオープン - miyoca.jp",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OUW5WQUk1NVNESEUxTHRwZk05ZmFSUVM1bmpvbEF5eFc0ZUZaeV9EcTh2bjE0MmNYU1kxVjNxXy1JQQ?oc=5",
+      "source": "miyoca.jp",
+      "snippet": "【京都・下京区】JR京都駅に「ちいかわ」が登場、期間限定のポップアップストアが11月26日にオープン miyoca.jp",
+      "summary": "【京都・下京区】JR京都駅に「ちいかわ」が登場、期間限定のポップアップストアが11月26日にオープン miyoca.jp",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-25T06:00:00+09:00",
+      "published_display": "2026-11-25 06:00 JST"
+    },
+    {
+      "title": "「ちいかわベーカリー NAGOYA POP UP SHOP」が名古屋PARCOで初開催決定！ 小豆のコンポートとマーガリンチップが入ったほんのり甘い「ちいかわ食パン(名古屋)」も登場 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWZUM4cG1nZUZ6andvdmV4QXBRRzEteklmYl9vMVRRMVlZZnA5Wk5zUjE2dnFOVXBDdnJkQ3pBSUlEYWJyUy1FN1dzT3hqUQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "「ちいかわベーカリー NAGOYA POP UP SHOP」が名古屋PARCOで初開催決定！ 小豆のコンポートとマーガリンチップが入ったほんのり甘い「ちいかわ食パン(名古屋)」も登場 PASH! PLUS",
+      "summary": "「ちいかわベーカリー NAGOYA POP UP SHOP」が名古屋PARCOで初開催決定！ 小豆のコンポートとマーガリンチップが入ったほんのり甘い「ちいかわ食パン(名古屋)」も登場 PASH…",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-25T01:02:06+09:00",
+      "published_display": "2026-11-25 01:02 JST"
+    },
+    {
+      "title": "【ちいかわ×くら寿司】コラボ寿司皿の抽選が本日（11/25）11時スタート！ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzdmNaQVJ1OFpZUVY0QTFsZXBWdTZXbVktTHM5cTZxV3YybVZDZWVsOXQ3QU5OSUE2MUJiM2VQWlJGV2h3eHBRSU13bVJjeFUza1FsZHdVNTZCUQ?oc=5",
+      "source": "電撃オンライン",
+      "snippet": "【ちいかわ×くら寿司】コラボ寿司皿の抽選が本日（11/25）11時スタート！ 電撃オンライン",
+      "summary": "【ちいかわ×くら寿司】コラボ寿司皿の抽選が本日（11/25）11時スタート！ 電撃オンライン",
       "category_key": "collab",
       "category_label": "コラボ",
-      "published_at": "2026-11-24T16:12:17+09:00",
-      "published_display": "2026-11-24 16:12 JST"
+      "published_at": "2026-11-25T00:00:00+09:00",
+      "published_display": "2026-11-25 00:00 JST"
     },
     {
-      "title": "「ちいかわ」×セブン-イレブン、作中の食べ物や世界観から着想したコラボ商品登場（コミックナタリー） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzZ2ptQlU1dUxuSVlWTU94YmJuYjRrMXpxamQ3Y3V1RFZmOGhTMXVxMlE3cDJXY01Gb0tlVDR6NjZsUVJLY3NLV1RyYjcwcnhBazlWYlNwel9jX0UyVFI1M0V0cTRNQUlHR1VQLVZ0ZEYtLXhvcmJfRFZxd0Y4aWs?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」×セブン-イレブン、作中の食べ物や世界観から着想したコラボ商品登場（コミックナタリー） Yahoo!ニュース",
-      "summary": "「ちいかわ」×セブン-イレブン、作中の食べ物や世界観から着想したコラボ商品登場（コミックナタリー） Yahoo!ニュース",
+      "title": "【ちいかわ】冬を楽しむちいかわたちがカワイイ！ 『エニマイくじ ちいかわ』はジオラマフィギュアやぬいぐるみにゾウの加湿器もラインナップ - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaTzhmcnItamZ1eUV4MUhWS01yRGlsNVU5emxJLWdCeFpwZ1JqWkVmdWtXdWZrcXlPdl9pQzJSZ2lCNXdZNTNFMGhmbm5GUQ?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "【ちいかわ】冬を楽しむちいかわたちがカワイイ！ 『エニマイくじ ちいかわ』はジオラマフィギュアやぬいぐるみにゾウの加湿器もラインナップ PASH! PLUS",
+      "summary": "【ちいかわ】冬を楽しむちいかわたちがカワイイ！ 『エニマイくじ ちいかわ』はジオラマフィギュアやぬいぐるみにゾウの加湿器もラインナップ PASH! PLUS",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-24T16:10:10+09:00",
-      "published_display": "2026-11-24 16:10 JST"
+      "published_at": "2026-11-24T23:37:20+09:00",
+      "published_display": "2026-11-24 23:37 JST"
     },
     {
-      "title": "【セブンイレブン×ちいかわ】焼印の表情が愛おしい「中華まん」に、\"あくむ\"のスムージーなど...コラボ商品のラインアップを紹介 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGdG54bDFOdDdLUWljUHJWaGRWcmFKdlI0ZWgwOERudFE2SDRaWFozeTlVakFodHQ1Z3p6RUxMOHQ3XzJ2cG5MT3dOOWY3R19tTnFOVlZRLWJJaEpucUJCXzJOUkw0dmpreWczejN3?oc=5",
-      "source": "au Webポータル",
-      "snippet": "【セブンイレブン×ちいかわ】焼印の表情が愛おしい「中華まん」に、\"あくむ\"のスムージーなど...コラボ商品のラインアップを紹介 au Webポータル",
-      "summary": "【セブンイレブン×ちいかわ】焼印の表情が愛おしい「中華まん」に、\"あくむ\"のスムージーなど...コラボ商品のラインアップを紹介 au Webポータル",
+      "title": "アニメ『ちいかわ』の公式ピアノ・ソロ楽譜集が12月11日に発売。ボーナススコアに「ひとりごつ」のギター弾き語り譜面 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ud3d5TTFLb2NHME5ZMWt3NjNRZVBCQ0c0N0YtdngwUnRWWDdQcnFOV2tSV3NVVE1BOXFjRVNtSDdrdXVYR2E2S1ZGclRSb19uQ3pIU0dkY3VmQQ?oc=5",
+      "source": "電ファミニコゲーマー",
+      "snippet": "アニメ『ちいかわ』の公式ピアノ・ソロ楽譜集が12月11日に発売。ボーナススコアに「ひとりごつ」のギター弾き語り譜面 電ファミニコゲーマー",
+      "summary": "アニメ『ちいかわ』の公式ピアノ・ソロ楽譜集が12月11日に発売。ボーナススコアに「ひとりごつ」のギター弾き語り譜面 電ファミニコゲーマー",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-24T16:03:53+09:00",
-      "published_display": "2026-11-24 16:03 JST"
+      "published_at": "2026-11-24T22:45:00+09:00",
+      "published_display": "2026-11-24 22:45 JST"
     },
     {
-      "title": "ちいかわベーカリーが名古屋PARCOに！名古屋限定の小豆入り食パン950円、12月11日から - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01aGo3M242eDYtRWRUdkZqVGJOMVVvMEczM09UVlFma1ZoWDJ3ZmN2OWd0Y0VSNVJLRVVWeW5fSG02N0NwYlVHU0ZBTkpqY3c1T2c?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ちいかわベーカリーが名古屋PARCOに！名古屋限定の小豆入り食パン950円、12月11日から いこーよニュース",
-      "summary": "ちいかわベーカリーが名古屋PARCOに！名古屋限定の小豆入り食パン950円、12月11日から いこーよニュース",
+      "title": "『ちいかわ』三ツ星のオムライスやハチワレたちが巻き巻きされたトルティーヤなど作中イメージのコラボ商品が登場！ グッズも多数のセブン-イレブンとのコラボフェアが開催 - PASH! PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UR25FaDgwa2ZsS0Q4X1FfREZNMVdEWEJ5S0wxbTB1clBUMHZUcUtmZ0JZQmFJcm15T1RGMlRTSkxkTkNfcEtvRTM0Yi1sdw?oc=5",
+      "source": "PASH! PLUS",
+      "snippet": "『ちいかわ』三ツ星のオムライスやハチワレたちが巻き巻きされたトルティーヤなど作中イメージのコラボ商品が登場！ グッズも多数のセブン-イレブンとのコラボフェアが開催 PASH! PLUS",
+      "summary": "『ちいかわ』三ツ星のオムライスやハチワレたちが巻き巻きされたトルティーヤなど作中イメージのコラボ商品が登場！ グッズも多数のセブン-イレブンとのコラボフェアが開催 PASH! PLUS",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-24T16:02:43+09:00",
-      "published_display": "2026-11-24 16:02 JST"
+      "published_at": "2026-11-24T22:42:20+09:00",
+      "published_display": "2026-11-24 22:42 JST"
     },
     {
-      "title": "「ちいかわクリスマスマーケット」がスタート ツリー＆スノードーム＆メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQkRYNzhXY29zMnAySnNzaTZub20tU3lSTUo2a0xSR25zd3JJNGFlYzFHMzBMS1Q0RE9oVUp1azdJQU5ndThSS05SQ09KUzQ2bXZOQllseE9YRXhwd25sZk5TZVEzdGtnUjRNR3llaU5EUEcza3c?oc=5",
-      "source": "産経ニュース",
-      "snippet": "「ちいかわクリスマスマーケット」がスタート ツリー＆スノードーム＆メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】 産経ニュース",
-      "summary": "「ちいかわクリスマスマーケット」がスタート ツリー＆スノードーム＆メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】 産経ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-24T16:01:10+09:00",
-      "published_display": "2026-11-24 16:01 JST"
-    },
-    {
-      "title": "『ちいかわ』興収190億円突破 28日から特典「チャームミニフィギュア4種」再配布（オリコン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRVWFvY05aUkcxbk83MUl0RXNsczhXT0pqR21GUHZ0V3h0Y1g0N2gycHA4X1Z0MG9VQ2J1NF9lRlpWNE04aHJiZ1JPWC13d0FjVXVQTkdHSDc1My1xcmpXWXE4Y1ZPWE1mYlpPSk9zMkg4UFA0X1hGeF91Qk9rUkk?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "『ちいかわ』興収190億円突破 28日から特典「チャームミニフィギュア4種」再配布（オリコン） Yahoo!ニュース",
-      "summary": "『ちいかわ』興収190億円突破 28日から特典「チャームミニフィギュア4種」再配布（オリコン） Yahoo!ニュース",
+      "title": "台湾でも「ちいかわ」人気が止まらない…台北に初上陸した大判焼き専門店、台湾限定のデザインも - ニューズウィーク日本版",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GV3Q1VU1yUXprSW16bUVwOU1xcVpOYkhyRGYxd3VzOF9kNEc0UjdKQkNrbjRPajFmX0liTFVKM280QTdXeC1LYk1keWJheVVEcl9QazZNRHl3SGk0b21Z?oc=5",
+      "source": "ニューズウィーク日本版",
+      "snippet": "台湾でも「ちいかわ」人気が止まらない…台北に初上陸した大判焼き専門店、台湾限定のデザインも ニューズウィーク日本版",
+      "summary": "台湾でも「ちいかわ」人気が止まらない…台北に初上陸した大判焼き専門店、台湾限定のデザインも ニューズウィーク日本版",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-24T15:57:21+09:00",
-      "published_display": "2026-11-24 15:57 JST"
+      "published_at": "2026-11-24T22:32:40+09:00",
+      "published_display": "2026-11-24 22:32 JST"
     },
     {
-      "title": "『ちいかわ』興収190億円突破 28日から特典「チャームミニフィギュア4種」再配布 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YRnRKeFRsOWlGSmN3d3Znbl9HZUVHWFlOTnc5RW5tdU9SbGt4cktVekdCQV9vQmx6ZmxXVS1pNUpxQU5VRFlNaGhELUxpTTQ?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "『ちいかわ』興収190億円突破 28日から特典「チャームミニフィギュア4種」再配布 オリコンニュース",
-      "summary": "『ちいかわ』興収190億円突破 28日から特典「チャームミニフィギュア4種」再配布 オリコンニュース",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-24T15:57:00+09:00",
-      "published_display": "2026-11-24 15:57 JST"
-    },
-    {
-      "title": "ちいかわPOP UP STOREがJR京都駅に！11月26日から新商品も販売、12月10日まで - いこーよニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaW51U1U5SXFMX3ljS1UxYjFfMFhjcmc2QWdVNWFTcHlVaUF2N0pmSnJtNXRRcjdXWmJUS1QxZVRPQmxxN3R0OUVkblFkSHN1QWc?oc=5",
-      "source": "いこーよニュース",
-      "snippet": "ちいかわPOP UP STOREがJR京都駅に！11月26日から新商品も販売、12月10日まで いこーよニュース",
-      "summary": "ちいかわPOP UP STOREがJR京都駅に！11月26日から新商品も販売、12月10日まで いこーよニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-24T15:52:43+09:00",
-      "published_display": "2026-11-24 15:52 JST"
-    },
-    {
-      "title": "ちいかわクリスマスマーケット【公式】X(@chiikawa_xmas）から - スポニチ Sponichi Annex",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkU5d1FkZFNMRzQ1M2dKTUM3LVFtbC1OaF9nRDF6U1pwcWZHRFlialdMZThHa3h1elJuV1BjQWJxQ0Y3dmlPRkFNbUpXZExkZzAtRXZnZlhMWm5oS3VEaHA0dU1SZEpWTm9PTW5HcV9uTVJYODF3VmstVVlsclRfOG42NDAwWHRvMk5nQW9DZUVKaXJMbUE?oc=5",
-      "source": "スポニチ Sponichi Annex",
-      "snippet": "ちいかわクリスマスマーケット【公式】X(@chiikawa_xmas）から スポニチ Sponichi Annex",
-      "summary": "ちいかわクリスマスマーケット【公式】X(@chiikawa_xmas）から スポニチ Sponichi Annex",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-24T15:52:02+09:00",
-      "published_display": "2026-11-24 15:52 JST"
-    },
-    {
-      "title": "ちいかわたちが冬を楽しむエニマイくじ登場！ 加湿器やブランケット、ラスト賞の振り子時計も - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZVpLR1paLUtheG82R2x4cl9CdU9qeGdGZjc5WWVPR1pyTldYM3J4VDVpLXZ1a0NXQXFybWtqUmpzTVppNzA2aGwyNXp2MnBPSkdzN0JqXzdwQXdodVlHcg?oc=5",
-      "source": "Infoseek",
-      "snippet": "ちいかわたちが冬を楽しむエニマイくじ登場！ 加湿器やブランケット、ラスト賞の振り子時計も Infoseek",
-      "summary": "ちいかわたちが冬を楽しむエニマイくじ登場！ 加湿器やブランケット、ラスト賞の振り子時計も Infoseek",
-      "category_key": "other",
-      "category_label": "そのほか",
-      "published_at": "2026-11-24T15:47:44+09:00",
-      "published_display": "2026-11-24 15:47 JST"
-    },
-    {
-      "title": "「ちいかわ」クリスマスイベ、グッズ完売 入場チケは有料…購入者から不満噴出 すでに高額転売相次ぐ（スポニチアネックス） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Fd1M3eEtlV3haLXozTDNxa0FNX0YzaUNiWjBoWGZqc2QwM3dReHdrVnlLTWN0U2k4cXdXbjllejlydGtNNFk5S2UzcGJmSjVsSzlwX2hDY09fbV9JbWNKc0t6WkE4TVJ6T3VLMk5tTW5rTkpMRzByT3p4RlhxT2M?oc=5",
+      "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RM2JNTlc4TWVVeVhOdTNpQThHTklNeVpOYTdnV3RNUHllbWdPc21ERGZWUU5CXzlfcy14ajZfeDdKZGVZVW1WRWZLQ3FGZktOX3pGbW1RcUdWMXZjYThKTWk0S2hMNGJFbllEZzBFTnVabEVpSGY4bTB3bFFNZ0k?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」クリスマスイベ、グッズ完売 入場チケは有料…購入者から不満噴出 すでに高額転売相次ぐ（スポニチアネックス） Yahoo!ニュース",
-      "summary": "「ちいかわ」クリスマスイベ、グッズ完売 入場チケは有料…購入者から不満噴出 すでに高額転売相次ぐ（スポニチアネックス） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-24T15:36:12+09:00",
-      "published_display": "2026-11-24 15:36 JST"
+      "snippet": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント（インサイド） Yahoo!ニュース",
+      "summary": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント（インサイド） Yahoo!ニュース",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-11-24T22:30:03+09:00",
+      "published_display": "2026-11-24 22:30 JST"
     },
     {
-      "title": "「ちいかわクリスマスマーケット」がスタート ツリー&スノードーム&メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XTFNpYUd4OVNkTkJuYk5QWC1ReHowTmc4QVZ1SzFvbXVDVEdNZzktS3J1elRKdTY1V2xaX3Vjd1lidzI2dnFwZzUxZVh5TU0?oc=5",
-      "source": "オリコンニュース",
-      "snippet": "「ちいかわクリスマスマーケット」がスタート ツリー&スノードーム&メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】 オリコンニュース",
-      "summary": "「ちいかわクリスマスマーケット」がスタート ツリー&スノードーム&メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】 オリコンニュース",
+      "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNDZPUEpPUlJzQ0VfVE4yWGhseHI1MjdrT0JWTmM5YVVkMHAzWTU1Q1NUODNIcUdLYVVwR1ZKSzFmNk1ZQjhKM0RBNjhnb0tYTXFQNFI2TmZEa2tiUy14MkZxYVBoMDhKSXc?oc=5",
+      "source": "インサイド",
+      "snippet": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント インサイド",
+      "summary": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント インサイド",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-11-24T22:30:03+09:00",
+      "published_display": "2026-11-24 22:30 JST"
+    },
+    {
+      "title": "ファミマやイオンで発見！【ちいかわ新作食玩】「チョコサプ2」を4個開封レビュー（※シークレットネタバレあり） - ウレぴあ総研",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43bFB1X0dqSGhiT2d1TWpfSWtDRmwxczBXeHFKS1dPQkNsMnNFcE96eVBzd05yM3MxNS04WlpyZ3VtUXZ1eW9qbV9nUklFaTJsR1E?oc=5",
+      "source": "ウレぴあ総研",
+      "snippet": "ファミマやイオンで発見！【ちいかわ新作食玩】「チョコサプ2」を4個開封レビュー（※シークレットネタバレあり） ウレぴあ総研",
+      "summary": "ファミマやイオンで発見！【ちいかわ新作食玩】「チョコサプ2」を4個開封レビュー（※シークレットネタバレあり） ウレぴあ総研",
+      "category_key": "collab",
+      "category_label": "コラボ",
+      "published_at": "2026-11-24T21:11:00+09:00",
+      "published_display": "2026-11-24 21:11 JST"
+    },
+    {
+      "title": "【ちいかわベーカリー】名古屋でPOP UP開催！ 名古屋限定は小豆とマーガリン入り（アニメージュプラス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55eTZrMHE2a2VmYW14WFdQRk0tWmg2Ry0wbmY5LTZ1TklGQm1OZUh5S3dXVU10RWdFSVNRY3RUQnVRYldKNGluRngtLTdBSVFtcUcwdVR4MjhqcVJ4aHp1ZnZLR0hIQklDLTRwejM2cU9iNWtxWmw5UDE4a0wxY1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "【ちいかわベーカリー】名古屋でPOP UP開催！ 名古屋限定は小豆とマーガリン入り（アニメージュプラス） Yahoo!ニュース",
+      "summary": "【ちいかわベーカリー】名古屋でPOP UP開催！ 名古屋限定は小豆とマーガリン入り（アニメージュプラス） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-24T15:30:03+09:00",
-      "published_display": "2026-11-24 15:30 JST"
+      "published_at": "2026-11-24T21:00:00+09:00",
+      "published_display": "2026-11-24 21:00 JST"
     }
   ]
 }
