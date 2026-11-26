@@ -1,8 +1,8 @@
 {
   "site_title": "ちいかわぽけっと",
   "query": "ちいかわ",
-  "generated_at": "2026-11-25T14:53:41.059968+09:00",
-  "generated_at_jst": "2026-11-25 14:53 JST",
+  "generated_at": "2026-11-26T14:44:48.294054+09:00",
+  "generated_at_jst": "2026-11-26 14:44 JST",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -14,154 +14,148 @@
     {
       "key": "goods",
       "label": "グッズ",
-      "count": 9,
+      "count": 8,
       "icon": "🎀"
-    },
-    {
-      "key": "collab",
-      "label": "コラボ",
-      "count": 1,
-      "icon": "🍰"
     },
     {
       "key": "other",
       "label": "そのほか",
-      "count": 2,
+      "count": 4,
       "icon": "🌱"
     }
   ],
   "items": [
     {
-      "title": "【ちいかわ】クラッカーを鳴らすちいかわたちがかわいいミニクリスマスツリーがプライズに登場！ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdnRzZzdLLWZUV19rQVNKV3FpNGVHcFl0N1ZtdmdnbnRQV0ozWS1jSjc1aTNtd1M5YkJZMHZJd2tFLUYzYUI1N1d4MUt5YWh6dnU0NEhUUGQ4dw?oc=5",
+      "title": "ちいかわ×東京ばな奈が上野駅に初登場！バナナプリンケーキやトートバッグが12/1発売 - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lQ1cxVndiSHg4WEc0VkNVdGRzVF96YVFLazhNSXRzU0ZDV0Zfb3JHckk1dWJDcXQ5dlhqeUhuTFFLQ1RtRDlEVkRIUmZZcjhOSHc?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわ×東京ばな奈が上野駅に初登場！バナナプリンケーキやトートバッグが12/1発売 いこーよニュース",
+      "summary": "ちいかわ×東京ばな奈が上野駅に初登場！バナナプリンケーキやトートバッグが12/1発売 いこーよニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-26T14:35:10+09:00",
+      "published_display": "2026-11-26 14:35 JST"
+    },
+    {
+      "title": "ちいかわ×セブン‐イレブン「まんまる焼き」が12月1日発売！焼き印9種＆シール付き - いこーよニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MXpmX3R3YU5VWWhvYXgzYlFkc01ZdEtBX1VUd1cyRTVBSk5VZ2t2d2RRSlVvcDBTUzduTlRnTXRHM2RlZ0FYRkZwREd0ejlEWVE?oc=5",
+      "source": "いこーよニュース",
+      "snippet": "ちいかわ×セブン‐イレブン「まんまる焼き」が12月1日発売！焼き印9種＆シール付き いこーよニュース",
+      "summary": "ちいかわ×セブン‐イレブン「まんまる焼き」が12月1日発売！焼き印9種＆シール付き いこーよニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-26T14:29:34+09:00",
+      "published_display": "2026-11-26 14:29 JST"
+    },
+    {
+      "title": "【ちいかわ】チャッカマンminiが12月1日に量販店で発売。ちいかわマーケットでは11月27日 - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aUl9WRU4yYjBzUU5GSFMyY0FWYTU0TE5OaGRYT1ZfSnZkSEJqOVhoSm9SWlQ4YlZkZTNaVWJGTi1CSE5mTGZuMmw0NmpCWWNXb2xzQjlTV2xNQQ?oc=5",
       "source": "電撃オンライン",
-      "snippet": "【ちいかわ】クラッカーを鳴らすちいかわたちがかわいいミニクリスマスツリーがプライズに登場！ 電撃オンライン",
-      "summary": "【ちいかわ】クラッカーを鳴らすちいかわたちがかわいいミニクリスマスツリーがプライズに登場！ 電撃オンライン",
+      "snippet": "【ちいかわ】チャッカマンminiが12月1日に量販店で発売。ちいかわマーケットでは11月27日 電撃オンライン",
+      "summary": "【ちいかわ】チャッカマンminiが12月1日に量販店で発売。ちいかわマーケットでは11月27日 電撃オンライン",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-25T14:43:00+09:00",
-      "published_display": "2026-11-25 14:43 JST"
+      "published_at": "2026-11-26T14:20:00+09:00",
+      "published_display": "2026-11-26 14:20 JST"
     },
     {
-      "title": "ちいかわ＆mofusandのボクサーパンツが登場！ユニセックスで楽しめる全8デザインに注目♡ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xYkd3UkE1a2ZQWWlqUHpYM2otNm41N2ZZNHh1THltQzVEMVQ4OE9uQzREbUxycG90VnBycF96VksteTNHR0t1WFI1SU9FQ2syTEl1RFZtOVVOenNyblNFUE5fYUYyOUxpc2lnaUpjRTdTeDJLMkNv0gF8QVVfeXFMTm5fLUlNOXhYR3VXLXNKQVRDd2cyR2J0eG0zWGs1V1BmWUNjOF9WNEtpcWVVRnpBeFg1NmMzNjk0SENwb3UtUERCQnViSnZUWUZIUnZhMDlaSGRDS3VrREtGWGNSaTFoZURCYnA4SkZqejN5UFctXzhzd0lXRQ?oc=5",
-      "source": "ｄメニューニュース",
-      "snippet": "ちいかわ＆mofusandのボクサーパンツが登場！ユニセックスで楽しめる全8デザインに注目♡ ｄメニューニュース",
-      "summary": "ちいかわ＆mofusandのボクサーパンツが登場！ユニセックスで楽しめる全8デザインに注目♡ ｄメニューニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-25T14:00:00+09:00",
-      "published_display": "2026-11-25 14:00 JST"
-    },
-    {
-      "title": "「ちいかわクリスマスマーケット」グッズの予約販売が決定！ちいかわぽけっとグッズストアで12月4日から受付 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uT015aWVYZXF4YnN6NUtMQlpvX0xocDRtczVvRW9WODVZcGxBMFcyY0ctNnBwRDdXbmJuQm44Y2VwUktRY2xuT1pvcVA2QmNOUFV3VWdkWFpBODNUWGRudjV3Q2lSbV9DbGRjZWJRZ3B1WVY0S2VoUVRUbw?oc=5",
-      "source": "ニコニコニュース",
-      "snippet": "「ちいかわクリスマスマーケット」グッズの予約販売が決定！ちいかわぽけっとグッズストアで12月4日から受付 ニコニコニュース",
-      "summary": "「ちいかわクリスマスマーケット」グッズの予約販売が決定！ちいかわぽけっとグッズストアで12月4日から受付 ニコニコニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-25T13:48:13+09:00",
-      "published_display": "2026-11-25 13:48 JST"
-    },
-    {
-      "title": "【ちいかわ×セブン】大規模コラボ開催。背徳ラーメンや限定グッズが登場 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOOTFlSmRUNk9vWWxWUWt5V3RYNnNIaEc5VkFxRUJBTVlRR1hVYURqSERiZUJjMGlxTU9Yd1d1cHpvYXVUMy01VW1mdnRGcUVEVHMwWG5jN0oxQQ?oc=5",
-      "source": "電撃オンライン",
-      "snippet": "【ちいかわ×セブン】大規模コラボ開催。背徳ラーメンや限定グッズが登場 電撃オンライン",
-      "summary": "【ちいかわ×セブン】大規模コラボ開催。背徳ラーメンや限定グッズが登場 電撃オンライン",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-25T13:34:00+09:00",
-      "published_display": "2026-11-25 13:34 JST"
-    },
-    {
-      "title": "「ちいかわ焼き」冬季限定3種が11月27日登場 モモンガ・くりまんじゅう・ラッコの新マスコットも - リアルサウンド",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V0hzdGRmZE5YSWxJUmx2Z2o1OU5lUUJ1YWlwTW1RV1J4WEp2Yjk4X0RkZFJYbkhuZkZTYTVtVUxwbTNOSk1kYzQ4ZXhLMTRqSmhsNGhJeVVKRTVYS0l2b9IBZkFVX3lxTE45QUZ3OTdYRmlBMDMwcUgwSXBSZS1hTC0wZXliV09YaVBvTzZkS3pyTHlZUmJHZUNNeVZrZnBaTDlzM295ekx2SmNqNVpRYlB3eVZsZzZUSHltdGRNRmtvV2VDdkdpdw?oc=5",
-      "source": "リアルサウンド",
-      "snippet": "「ちいかわ焼き」冬季限定3種が11月27日登場 モモンガ・くりまんじゅう・ラッコの新マスコットも リアルサウンド",
-      "summary": "「ちいかわ焼き」冬季限定3種が11月27日登場 モモンガ・くりまんじゅう・ラッコの新マスコットも リアルサウンド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-25T12:53:25+09:00",
-      "published_display": "2026-11-25 12:53 JST"
-    },
-    {
-      "title": "初日午前で完売グッズ続出…「ちいかわクリスマスマーケット」 オンラインストアで予約販売へ（アニメ！アニメ！） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTHFhb3dNcl83SkxUd0tSODJabDNBRFRzQmRVcWlzSXRDV0VyX0tPTG5NNGFYanhjVFpLMm0zOENVcGlOTTMwXy1zblVMd24wQnUwWHNob0VicUQ4aVBPZ0stQlFMSGZPSEY1T1hZYTBEM0szQUdOeDBjZUtUeEU?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "初日午前で完売グッズ続出…「ちいかわクリスマスマーケット」 オンラインストアで予約販売へ（アニメ！アニメ！） Yahoo!ニュース",
-      "summary": "初日午前で完売グッズ続出…「ちいかわクリスマスマーケット」 オンラインストアで予約販売へ（アニメ！アニメ！） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-25T12:50:02+09:00",
-      "published_display": "2026-11-25 12:50 JST"
-    },
-    {
-      "title": "「ちいかわ」ぷくちゅるな立体化シール第2弾が11月下旬カプセルトイで発売！うさぎやモモンガ、いろいろ収録されたMIXなど全5種 - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RaWxXTFdaZEpld0FTUUJBTE0wX0NVSmpOd01sMDR4T25mX1lRT1huUDFYb2RkNWJ6dkxEU1BsREJCYi1TVmZfeW54QWpvekJxbXJhVU9EWVdnT0VtUXpUaV9GVnlIdUU4aHc?oc=5",
-      "source": "インサイド",
-      "snippet": "「ちいかわ」ぷくちゅるな立体化シール第2弾が11月下旬カプセルトイで発売！うさぎやモモンガ、いろいろ収録されたMIXなど全5種 インサイド",
-      "summary": "「ちいかわ」ぷくちゅるな立体化シール第2弾が11月下旬カプセルトイで発売！うさぎやモモンガ、いろいろ収録されたMIXなど全5種 インサイド",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-25T12:40:02+09:00",
-      "published_display": "2026-11-25 12:40 JST"
-    },
-    {
-      "title": "「ちいかわ」ぷくちゅるな立体化シール第2弾が11月下旬カプセルトイで発売！うさぎやモモンガ、いろいろ収録されたMIXなど全5種（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMWtYdE15TUVhVUt1aFNlLTR5Q3ltVmFJckEwM0RPYVFPamNiTXZMYlF6azJXLU1zVjduVXptN0kwb2gwWEQ3UlBtNExQcUFsR3Y0aFhZWnJLOGswd3I5a21OVkN4cEc5YnZ6SHdnZHNRR0JqVFhmU2xOUnVnZEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」ぷくちゅるな立体化シール第2弾が11月下旬カプセルトイで発売！うさぎやモモンガ、いろいろ収録されたMIXなど全5種（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」ぷくちゅるな立体化シール第2弾が11月下旬カプセルトイで発売！うさぎやモモンガ、いろいろ収録されたMIXなど全5種（インサイド） Yahoo!ニュース",
-      "category_key": "goods",
-      "category_label": "グッズ",
-      "published_at": "2026-11-25T12:40:02+09:00",
-      "published_display": "2026-11-25 12:40 JST"
-    },
-    {
-      "title": "「ちいかわ」 期間限定クリスマスデザイン2026がTalking ODMに追加！ブランケットなどのほか、うさぎのライティングアクリルスタンドも（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMQjlXN04zbzZOY3JIMVFsQXBwM2NsTHR6M243ME1wN1dQdWtYdkRsMUtRQVdnYlpNR2JjeFpRaUx3Y2J3VHVKTzNlUkFia0t3ZElrdXQzR3NDUVlfLXZ2OGVTa3RzbWQ4UkY0aFZGdm5CQU1SMXJXQkJFYmtyWEU?oc=5",
-      "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」 期間限定クリスマスデザイン2026がTalking ODMに追加！ブランケットなどのほか、うさぎのライティングアクリルスタンドも（インサイド） Yahoo!ニュース",
-      "summary": "「ちいかわ」 期間限定クリスマスデザイン2026がTalking ODMに追加！ブランケットなどのほか、うさぎのライティングアクリルスタンドも（インサイド） Yahoo!ニュース",
+      "title": "並べて飾れば漫画のワンシーンに！ちいかわとハチワレがフリューの「ぬーどるストッパーフィギュア」にそろって登場!!2026年11月より順次展開 - 電撃ホビーウェブ",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VSlpDNDZWaDRELVZFNG94VXg4ZVQ3Tnc2YkEtMUNjQnU2RGlnV0trWlQ0ZjRybnR3YkRMN3ZpVmp6Nm8zOXBuYkZQVFJLXzZ1?oc=5",
+      "source": "電撃ホビーウェブ",
+      "snippet": "並べて飾れば漫画のワンシーンに！ちいかわとハチワレがフリューの「ぬーどるストッパーフィギュア」にそろって登場!!2026年11月より順次展開 電撃ホビーウェブ",
+      "summary": "並べて飾れば漫画のワンシーンに！ちいかわとハチワレがフリューの「ぬーどるストッパーフィギュア」にそろって登場!!2026年11月より順次展開 電撃ホビーウェブ",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-25T12:35:03+09:00",
-      "published_display": "2026-11-25 12:35 JST"
+      "published_at": "2026-11-26T13:57:00+09:00",
+      "published_display": "2026-11-26 13:57 JST"
     },
     {
-      "title": "「ちいかわ」 期間限定クリスマスデザイン2026がTalking ODMに追加！ブランケットなどのほか、うさぎのライティングアクリルスタンドも - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wb1Q4R1I5cEpYN0d0TnZsUXRfWGpYX05Bdk1VcjRKeGhSU0d6Q2ZBMDlUZTVuQVJOd2FZdlNOc0I1dUNFSUtzRFI3NlNPb21wOTBfVnMwZVBUckVVR2Zj?oc=5",
-      "source": "Infoseek",
-      "snippet": "「ちいかわ」 期間限定クリスマスデザイン2026がTalking ODMに追加！ブランケットなどのほか、うさぎのライティングアクリルスタンドも Infoseek",
-      "summary": "「ちいかわ」 期間限定クリスマスデザイン2026がTalking ODMに追加！ブランケットなどのほか、うさぎのライティングアクリルスタンドも Infoseek",
+      "title": "京都駅にちいかわのお店が登場。京都観光の日帰り客は1人1万4710円を使っている（LIMO） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3NDU4RllXd19YN0F5T3hWU1hWWHBnNmY0NEFGWW5rLTlIM0RpUmpOSzVIZDBUTHNtakxRaWhtU25vbXljaTBhTEtmZzdvLWk1RUk2RVZBNzM1OVd1MGxJWlYyTFRnd3VrQXByUFFfVDZYTl9MVjZFRE9laVJ2cms?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "京都駅にちいかわのお店が登場。京都観光の日帰り客は1人1万4710円を使っている（LIMO） Yahoo!ニュース",
+      "summary": "京都駅にちいかわのお店が登場。京都観光の日帰り客は1人1万4710円を使っている（LIMO） Yahoo!ニュース",
       "category_key": "other",
       "category_label": "そのほか",
-      "published_at": "2026-11-25T12:35:03+09:00",
-      "published_display": "2026-11-25 12:35 JST"
+      "published_at": "2026-11-26T13:50:33+09:00",
+      "published_display": "2026-11-26 13:50 JST"
     },
     {
-      "title": "【ちいかわ】幻の寿司皿が復活！くら寿司の『ちいかわ オリジナル寿司皿』がLINE抽選で100万名に当たる - ふくおかナビ",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYT19WckV0RXdPdUhnNGVqLTloTTg2bFJZUE1lWVNSYTM0UV9fd2ZrRnRDTG1haUNQRnFfV0JtMkx0OGQwMGp2eUl3?oc=5",
-      "source": "ふくおかナビ",
-      "snippet": "【ちいかわ】幻の寿司皿が復活！くら寿司の『ちいかわ オリジナル寿司皿』がLINE抽選で100万名に当たる ふくおかナビ",
-      "summary": "【ちいかわ】幻の寿司皿が復活！くら寿司の『ちいかわ オリジナル寿司皿』がLINE抽選で100万名に当たる ふくおかナビ",
-      "category_key": "collab",
-      "category_label": "コラボ",
-      "published_at": "2026-11-25T12:26:08+09:00",
-      "published_display": "2026-11-25 12:26 JST"
-    },
-    {
-      "title": "「ちいかわ」Xmasイベントが初日に謝罪 グッズ当日分が開始4時間で完売…予約販売へ（産経新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LX1BkcVJJcEkwaTZtSGxfX1Q5aTJsUTFBTU4zZGM0WlAzUmtqMThabmE0dWxiQXV6Nlg1dUxlTEJrdXJDb3Nsejl0TmdDSV9mNHhLcEtEZnozeWdxcDhYRG9JWEs5UGpLRmY2bFRueU4yRHF4TjFYSzhtQ1p1aXM?oc=5",
+      "title": "「ちいかわクリニック」第2弾グッズ一覧公開！ボンボンドロップシールや、くりまんじゅうの“ほどよく飲酒する”タンブラーなどが12月11日発売（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0eHZJRzhfOWZxT1YyLUFvbVV3SXI3N2g5Ykc2dUZ1YzdDSnRTWGlKZGRtNFFCTk90cFZpbzQ2RGVrNXBHdGFUbFJoTmNQR0JWaS1fMXQ5VTBxVE9JYVI1Rmhya3JOdGdKOXFSMmhtR0NVc2t4T3Y1bm1GYWs4eTQ?oc=5",
       "source": "Yahoo!ニュース",
-      "snippet": "「ちいかわ」Xmasイベントが初日に謝罪 グッズ当日分が開始4時間で完売…予約販売へ（産経新聞） Yahoo!ニュース",
-      "summary": "「ちいかわ」Xmasイベントが初日に謝罪 グッズ当日分が開始4時間で完売…予約販売へ（産経新聞） Yahoo!ニュース",
+      "snippet": "「ちいかわクリニック」第2弾グッズ一覧公開！ボンボンドロップシールや、くりまんじゅうの“ほどよく飲酒する”タンブラーなどが12月11日発売（インサイド） Yahoo!ニュース",
+      "summary": "「ちいかわクリニック」第2弾グッズ一覧公開！ボンボンドロップシールや、くりまんじゅうの“ほどよく飲酒する”タンブラーなどが12月11日発売（インサイド） Yahoo!ニュース",
       "category_key": "goods",
       "category_label": "グッズ",
-      "published_at": "2026-11-25T12:21:48+09:00",
-      "published_display": "2026-11-25 12:21 JST"
+      "published_at": "2026-11-26T13:45:03+09:00",
+      "published_display": "2026-11-26 13:45 JST"
+    },
+    {
+      "title": "「ちいかわ」デザインのチャッカマンminiが登場！ろうそくやお香、クリスマスケーキなど幅広い用途に（インサイド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCX0pwSHZEaGFjTEI5Z1NiZEIyd0hNU2h4aERkVGZCd3lYM1NETmx2ZXo1QmtBUlNWWlRJcWVQVnlYQ2tGWm5vRXY0ekFIN0tVdE41STYzWmhONDR1NEtQU3U5UzR1dmtldmhKTmhIbzJZdUcxX0ZaLUVJRUJvenM?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ」デザインのチャッカマンminiが登場！ろうそくやお香、クリスマスケーキなど幅広い用途に（インサイド） Yahoo!ニュース",
+      "summary": "「ちいかわ」デザインのチャッカマンminiが登場！ろうそくやお香、クリスマスケーキなど幅広い用途に（インサイド） Yahoo!ニュース",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-26T13:20:03+09:00",
+      "published_display": "2026-11-26 13:20 JST"
+    },
+    {
+      "title": "「ちいかわクリニック」グッズ、11月27日発売！ナース姿のマスコットやおくすりポーチも（cinemacafe.net） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sMTdzYVZBUEpRdW44Um0zd0pXS0ZoOE00cWVSNlB6VVFkc1lsVWNzbXpPUjJHbmVCRExsYTFUZVB2VFZQUlZ5Z19DS1FXX0Nac1hhVC1SUlVwY0VZeV9xbW9faXNwbkZ1bHJORndPT0xkZndwNnZjbnM4SDNiU2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわクリニック」グッズ、11月27日発売！ナース姿のマスコットやおくすりポーチも（cinemacafe.net） Yahoo!ニュース",
+      "summary": "「ちいかわクリニック」グッズ、11月27日発売！ナース姿のマスコットやおくすりポーチも（cinemacafe.net） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-26T12:30:03+09:00",
+      "published_display": "2026-11-26 12:30 JST"
+    },
+    {
+      "title": "「ちいかわ まんまる焼き」第5弾はチョコ味、日常のひとコマを切り取ったシール封入（コミックナタリー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTFFvdG9iMWgyMUdIRmN2QWxCQjVZSUNEcXFEMjFaYlhZaWVQb1d5ek9DazVoTnhJVTZFdl80RmdHMnJXRzVUMGxoZlNDdGRGVUlBd0Vxa1lMS2N6ems2c2tKMS1XcXZ3Sl8wUzJINC1CZk1xV0JCZW9fa3c5T0ZCT0R0TGZmS0xZcEhHNW5B?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ まんまる焼き」第5弾はチョコ味、日常のひとコマを切り取ったシール封入（コミックナタリー） Yahoo!ニュース",
+      "summary": "「ちいかわ まんまる焼き」第5弾はチョコ味、日常のひとコマを切り取ったシール封入（コミックナタリー） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-26T12:25:10+09:00",
+      "published_display": "2026-11-26 12:25 JST"
+    },
+    {
+      "title": "「ちいかわ まんまる焼き」第5弾が12月1日発売！ セブンにて（GAME Watch） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMU40WWtzd1U0RmhTQlpndHV4UGo5YjJ5Z3lUMjZlbHpINU1TZTVqWVlUNDI5dTJ2bFREdlJVeGRMXzFvazRjNURKZWdtYmhUUUhqNldGRUZaWjB3TU1ZbGRVUFRWdWJMeXlEam96QVFrOUE1NmpYWkVRZF9SSzA?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "「ちいかわ まんまる焼き」第5弾が12月1日発売！ セブンにて（GAME Watch） Yahoo!ニュース",
+      "summary": "「ちいかわ まんまる焼き」第5弾が12月1日発売！ セブンにて（GAME Watch） Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-26T12:24:00+09:00",
+      "published_display": "2026-11-26 12:24 JST"
+    },
+    {
+      "title": "「ちいかわ」ちいかわとハチワレが草むしり検定5級合格後にラーメンを食べるフィギュア - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndldDY1ZWM1VMRk1PU0lJZnNWSjJrU0owdFBNZmk4QlF4VzJaNHltYWZzYmFvb2VDRFVXVTdicEpEZGl4a0U2OGJVSEk?oc=5",
+      "source": "ナタリー",
+      "snippet": "「ちいかわ」ちいかわとハチワレが草むしり検定5級合格後にラーメンを食べるフィギュア ナタリー",
+      "summary": "「ちいかわ」ちいかわとハチワレが草むしり検定5級合格後にラーメンを食べるフィギュア ナタリー",
+      "category_key": "other",
+      "category_label": "そのほか",
+      "published_at": "2026-11-26T12:20:00+09:00",
+      "published_display": "2026-11-26 12:20 JST"
+    },
+    {
+      "title": "東京駅に「ちいかわ」×「東京ばな奈」のポップアップが期間限定オープン！エコバッグに人気の“バナナミルク味”クッキーサンドも - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGJqcFRSZnFlaVNVNjF4amVxMlZCdlI1R2p3NEprMmh3UzVmLVFQWElHa3FWRVJybUV3TXFBOUNiUFBIbld6UUt3b2h4bFRXOGJlRzExUmhDbHdya0N0MHYyTVA0cjFfTkUyQTNXRExteVJfSnBEaWFnOGZqZlAyS2FCVnZZSDd6WFRHZ2RB?oc=5",
+      "source": "Yahoo!ニュース",
+      "snippet": "東京駅に「ちいかわ」×「東京ばな奈」のポップアップが期間限定オープン！エコバッグに人気の“バナナミルク味”クッキーサンドも Yahoo!ニュース",
+      "summary": "東京駅に「ちいかわ」×「東京ばな奈」のポップアップが期間限定オープン！エコバッグに人気の“バナナミルク味”クッキーサンドも Yahoo!ニュース",
+      "category_key": "goods",
+      "category_label": "グッズ",
+      "published_at": "2026-11-26T12:00:00+09:00",
+      "published_display": "2026-11-26 12:00 JST"
     }
   ]
 }
